@@ -1,0 +1,52 @@
+name: Generate SUMMARY.md
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/[A-Z]/**/*.md'
+      - 'src/[A-Z]/*.md'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate SUMMARY.md
+        run: |
+          {
+            echo "# OnlyFans 博主介绍"
+            echo ""
+            echo "[前言](./index.md)"
+            echo ""
+            echo "---"
+            echo ""
+            echo "# 按用户名首字母排序"
+            echo ""
+
+            for letter in {A..Z}; do
+              dir="src/$letter"
+              [ -d "$dir" ] || continue
+
+              echo "- [$letter](./$letter/README.md)"
+
+              find "$dir" -maxdepth 1 -name '*.md' ! -name 'README.md' -print0 \
+                | sort -z \
+                | while IFS= read -r -d '' f; do
+                    base=$(basename "$f" .md)
+                    echo "  - [$base](./$letter/$base.md)"
+                  done
+            done
+          } > src/SUMMARY.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/SUMMARY.md
+          git diff --cached --quiet || git commit -m "chore: regenerate SUMMARY.md [skip ci]"
+          git push
