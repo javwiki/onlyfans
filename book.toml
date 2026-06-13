@@ -1,0 +1,8 @@
+[book]
+title = "OnlyFans 博主介绍"
+authors = []
+language = "zh"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "navy"
