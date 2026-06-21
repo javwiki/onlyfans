@@ -1,12 +1,12 @@
 # P — 博主列表
 
-> 用户名以 **P** 开头的博主。
+> 标识以 **P** 开头的博主。
 
 ---
 
 ## 🧑‍🎤 博主
 
-_（暂无博主，该字母下条目归属于 [@Amydolly](../A/Amydolly.md) 页面）_
+- [@princessdolly_i](./princessdolly_i.md) — 🇹🇼 台湾 AV 演员（别名：Amydolly、Wawa、翁雨澄等）
 
 ---
 

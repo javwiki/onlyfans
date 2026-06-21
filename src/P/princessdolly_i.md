@@ -18,10 +18,10 @@
 ## 🔗 相关链接
 
 - [OnlyFans](https://onlyfans.com/princessdolly.tw)
-- [X / Twitter](https://x.com/princessdollytw)
+- [X / Twitter](https://x.com/princessdolly_i)
 - [Instagram](https://instagram.com/princessdolly_0428)
 - [Facebook](https://facebook.com/) — 翁雨澄 页面
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 P 列表](./README.md) · [🏠 首页](../index.md)

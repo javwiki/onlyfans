@@ -3,7 +3,7 @@
 | 项目 | 内容 |
 |------|------|
 | **用户名** | `林美惠子` |
-| **别名** | Mieko林美惠子 |
+| **别名** | Mieko林美惠子、miebb、miedd |
 | **地区** | 🇨🇳 中国（广东） |
 | **内容类型** | 模特 / 成人内容 |
 | **风格** | 秀人网模特、丰满体型 |
@@ -14,10 +14,11 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Linmeihuizi1997) — 1,662 粉丝
-- [OnlyFans](https://onlyfans.com/林美惠子)
-- [微博](https://weibo.com/) — Mieko林美惠子
+- [OnlyFans](https://onlyfans.com/miebb)
+- [微博](https://weibo.com/u/6472013848) — Mieko林美惠子（27.3 万粉丝）
+
+> ⚠️ 注意：X 上的 @Linmeihuizi1997 为假账号，与本创作者无关。
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 M 列表](./README.md) · [🏠 首页](../index.md)

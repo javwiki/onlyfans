@@ -17,10 +17,11 @@
 - [X / Twitter 主号](https://x.com/_KOMACHI_1)
 - [X / Twitter 日常](https://x.com/_KOMACHI_2)
 - [X / Twitter cosplay](https://x.com/KOMACHI_COS)
-- [OnlyFans](https://onlyfans.com/)
-- [Patreon](https://patreon.com/) — Fantasy Factory 小丁
+- [OnlyFans](https://onlyfans.com/komachi)
+- [Patreon](https://patreon.com/c/Lilim_Azra) — 天使Azra
+- [Instagram](https://instagram.com/_komachi_0921)
 - [Linktree](https://linktr.ee/_komachi_)
 
 ---
 
-[◀ 返回 X 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 K 列表](./README.md) · [🏠 首页](../index.md)

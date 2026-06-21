@@ -1,15 +1,15 @@
 # S — 博主列表
 
-> 用户名以 **S** 开头的博主。
+> 标识以 **S** 开头的博主。
 
 ---
 
 ## 🧑‍🎤 博主
 
-- [@少妇yoyo](./少妇yoyo.md) — 🇨🇳 中国 / Stripchat 直播模特
-- [@suyeon_soe](./suyeon_soe.md) — 🇰🇷 韩国 AV 演员 / 5.26 万 X 粉丝
+- [@seo_ahn](./seo_ahn.md) — 🇰🇷 韩国顶级 BJ
+- [@skyexsummers](./skyexsummers.md)
 - [@ssaimi](./ssaimi.md) — 🇰🇷 韩国 BJ 创作者
-- [@孙禾颐](./孙禾颐.md) — 🇭🇰 香港演员转型 / 25.09 万 X 粉丝
+- [@suyeon_soe](./suyeon_soe.md) — 🇰🇷 韩国 AV 演员 / 5.26 万 X 粉丝
 
 ---
 

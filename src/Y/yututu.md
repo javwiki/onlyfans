@@ -14,7 +14,7 @@
 
 ## 🔗 相关链接
 
-- [OnlyFans](https://onlyfans.com/)
+- [OnlyFans](https://onlyfans.com/) — 账号信息待确认
 
 ---
 

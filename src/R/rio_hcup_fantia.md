@@ -15,7 +15,7 @@
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/rio_hcup_fantia) — 9.2 万粉丝
-- [Fantia](https://fantia.jp/)
+- [Fantia](https://fantia.jp/fanclubs/33044)
 - [FC2](https://fc2.com/)
 - [lit.link](https://lit.link/riohcup)
 

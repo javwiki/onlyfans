@@ -16,8 +16,8 @@
 
 - [X / Twitter](https://x.com/bu_ivv) — 39.6 万粉丝
 - [Fantia](https://fantia.jp/fanclubs/60323)
-- [MyFans](https://myfans.jp/)
-- [CandFans](https://candfans.com/)
+- [MyFans](https://myfans.jp/pipipi_xo)
+- [CandFans](https://candfans.jp/bu_ivv)
 - [lit.link](https://lit.link/ri-tan)
 
 ---

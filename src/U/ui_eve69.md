@@ -15,7 +15,7 @@
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/Ui_Eve69) — 2.4 万粉丝，2.12 万条推文
-- [Fantia](https://fantia.jp/) — 粉丝俱乐部「ぬめぬめ会。」
+- [Fantia](https://fantia.jp/fanclubs/488088) — 粉丝俱乐部「ぬめぬめ会。」
 
 ---
 
