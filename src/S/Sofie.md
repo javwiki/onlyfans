@@ -23,4 +23,4 @@
 
 ---
 
-[◀ 返回 shemale 列表](../shemale/) · [🏠 首页](../../index.md)
+[◀ 返回 S 列表](./README.md) · [🏠 首页](../index.md)
