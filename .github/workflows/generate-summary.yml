@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       MDBOOK_VERSION: 0.4.36
-      MDBOOK_SUMMARIZER_VERSION: 0.1.0
+      MDBOOK_SUMMARIZER_VERSION: 0.4.0
     steps:
       - uses: actions/checkout@v4
       - name: Install mdBook and mdbook-summarizer
@@ -30,7 +30,7 @@ jobs:
           cargo install --version ${MDBOOK_SUMMARIZER_VERSION} mdbook-summarizer
       - name: Generate SUMMARY.md with mdbook-summarizer
         run: |
-          mdbook-summarizer --src src
+          mdbook-summarizer --src src --auto-readme
           echo "SUMMARY.md generated"
           head -20 src/SUMMARY.md
       - name: Setup Pages
