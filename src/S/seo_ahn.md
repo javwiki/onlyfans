@@ -1,20 +1,19 @@
-# @徐婉
+# seo_ahn
 
 | 项目 | 内容 |
 |------|------|
-| **用户名** | `徐婉` |
+| **用户名** | `seo_ahn` |
+| **显示名** | Ahn Seo Yeon |
 | **地区** | 🇰🇷 韩国 |
-| **内容类型** | 韩国 BJ 直播 / 成人内容 |
-| **风格** | 韩国顶级 BJ、高颜值 |
+| **内容类型** | 成人内容 |
 
 ## 📝 简介
 
-韩国顶级 BJ（Broadcast Jockey）直播主。被评价为外貌堪比顶级 K-pop 偶像——大眼、高鼻、樱桃小嘴。制作定制付费内容。
+徐婉 (Ahn Seo Yeon)，韩国成人内容创作者。X 拥有 48 粉丝，2015年4月加入 X，发布 16 条帖子。无已知社交账号。
 
 ## 🔗 相关链接
 
-- [OnlyFans](https://onlyfans.com/bj徐婉)
-- [Instagram](https://instagram.com/wanxu52)
+- [X / Twitter](https://x.com/seo_ahn) — 48 粉丝
 
 ---
 

@@ -1,18 +1,18 @@
-# @ssaimi
+# ssaimi
 
 | 项目 | 内容 |
 |------|------|
 | **用户名** | `ssaimi` |
 | **地区** | 🇰🇷 韩国 |
-| **内容类型** | 韩国 BJ / 成人内容 |
-| **风格** | 韩国 BJ 直播风格 |
+| **内容类型** | 成人内容 |
 
 ## 📝 简介
 
-韩国 BJ 创作者，以成人内容为主。内容出现在 KBJFree 和韩国 OnlyFans 排行榜网站上。
+韩国成人内容创作者，X 仅 5 粉丝，2009年3月加入 X，无帖子。活跃于 OnlyFans。
 
 ## 🔗 相关链接
 
+- [X / Twitter](https://x.com/ssaimi) — 5 粉丝
 - [OnlyFans](https://onlyfans.com/ssaimi)
 
 ---

@@ -1,26 +1,25 @@
-# @小丁
+# @_KOMACHI_1
 
 | 项目 | 内容 |
 |------|------|
-| **用户名** | `小丁` |
-| **别名** | KOMACHI |
+| **用户名** | `_KOMACHI_1` |
+| **显示名** | こまち.小丁🪽 |
 | **地区** | 🇹🇼 台湾 |
-| **内容类型** | cosplay 写真 / 视频 |
-| **风格** | 高质量 cosplay（NIKKE、初音未来、狼与香辛料、原神等） |
+| **内容类型** | コスプレ、グラビア |
+| **特征** | C108出展 |
 
 ## 📝 简介
 
-台湾高质量 cosplay 创作者，以精细的 cosplay 造型闻名（Rapi Red Hood、初音未来、Holo、甘雨等角色）。同时也发布非 cosplay 的写真内容。活跃于 OnlyFans、Patreon、FansOne 等平台。
+こまち.小丁 (KOMACHI)，台湾コスプレ/グラビア创作者。X 拥有 643.7K 粉丝，2020年4月加入 X，发布 1,429 条帖子。定期参加 Comiket 等活动，经营通販ショップ。
 
 ## 🔗 相关链接
 
-- [X / Twitter 主号](https://x.com/_KOMACHI_1)
-- [X / Twitter 日常](https://x.com/_KOMACHI_2)
-- [X / Twitter cosplay](https://x.com/KOMACHI_COS)
+- [X / Twitter](https://x.com/_KOMACHI_1) — 643.7K 粉丝
+- [X / Twitter](https://x.com/KOMACHI_COS) — COS Acc
+- [X / Twitter](https://x.com/_KOMACHI_2) — 日常 subAcc
+- [Base 通販](https://komachiff.base.shop)
+- [Linktree](https://linktr.ee/Komachi_cos)
 - [OnlyFans](https://onlyfans.com/komachi)
-- [Patreon](https://patreon.com/c/Lilim_Azra) — 天使Azra
-- [Instagram](https://instagram.com/_komachi_0921)
-- [Linktree](https://linktr.ee/_komachi_)
 
 ---
 

@@ -1,22 +1,23 @@
-# @realassbunny
+# @realassbunny43
 
 | 项目 | 内容 |
 |------|------|
-| **用户名** | `realassbunny` |
+| **用户名** | `realassbunny43` |
+| **显示名** | Realassbunny🐰🐇 |
 | **地区** | 🇰🇷 韩国 |
-| **内容类型** | 成人写真 / 视频 |
-| **风格** | 韩国大臀模特、big booty glamour |
+| **三围** | 75H 26.7 42.8 |
+| **内容类型** | 成人内容、グラビア |
 
 ## 📝 简介
 
-韩国成人内容模特，以「big booty glamour」风格为主。主要内容为视频，附赠写真集。每月与粉丝互动反馈。OnlyFans 订阅价 $14.99/月，发布约 1,281 条内容。
+Realassbunny，韩国大臀创作者。X 拥有 83.2K 粉丝，2021年8月加入 X，发布 20.3K 条帖子。以大臀为卖点，活跃于 YouTube、OnlyFans 等平台。
 
 ## 🔗 相关链接
 
-- [OnlyFans](https://onlyfans.com/realassbunny) — $14.99/月
-- [X / Twitter](https://x.com/realassbunny43)
-- [Instagram](https://instagram.com/realassunny2)
-- [Reddit](https://reddit.com/u/RealAssBunny)
+- [X / Twitter](https://x.com/realassbunny43) — 83.2K 粉丝
+- [Linktree](https://linktr.ee/realassbunny)
+- [OnlyFans](https://onlyfans.com/realassbunny)
+- YouTube
 
 ---
 

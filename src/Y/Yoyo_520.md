@@ -1,21 +1,21 @@
-# @少妇yoyo
+# Yoyo_520
 
 | 项目 | 内容 |
 |------|------|
-| **用户名** | `少妇yoyo` |
-| **别名** | `202509yoyo`、`TOP_yoyo`、`2026YYOO`、`Yoyo_520` |
-| **平台** | Stripchat |
+| **用户名** | `Yoyo_520` |
+| **显示名** | 少妇yoyo |
 | **地区** | 🇨🇳 中国 |
-| **内容类型** | 直播 / 成人内容 |
-| **风格** | 25 岁、F 罩杯、纤腰蜜桃臀 |
+| **内容类型** | 成人内容 |
+| **平台** | Stripchat |
 
 ## 📝 简介
 
-中国直播模特，25 岁。自我介绍：「F杯+折角腰+蜜桃臀马甲线」。主要活跃于 Stripchat 平台（用户名 Yoyo_520），有约 25 段直播录像存档（约 10 小时）。X 账号 @TOP_yoyo 未发推（可能非同一人）。OnlyFans 存在未确认。
+少妇yoyo (Yoyo_520)，中国成人内容创作者/Stripchat 主播。活跃于 Stripchat 等直播平台。
 
 ## 🔗 相关链接
 
-- [Stripchat](https://stripchat.com/Yoyo_520)
+- [Stripchat](https://stripchat.global/Yoyo_520/profile)
+- [Instagram](https://www.instagram.com/yoyo.520/)
 
 ---
 

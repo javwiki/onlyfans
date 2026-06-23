@@ -1,25 +1,23 @@
-# @美波あいり
+# @minami_airi_en
 
 | 项目 | 内容 |
 |------|------|
-| **用户名** | `美波あいり` |
-| **别名** | Minami Airi |
-| **地区** | 🇯🇵 日本（东京） |
-| **内容类型** | 成人内容 / cosplay / 按摩主题 |
-| **风格** | I 罩杯爆乳 cosplay 治疗师、S 属性（女王系） |
+| **用户名** | `minami_airi_en` |
+| **显示名** | Minami Airi 美波あいり |
+| **地区** | 🇯🇵 日本 (东京) |
+| **内容类型** | 成人内容、メンエス |
+| **风格** | ランジェリー、チーズビーフ |
 
 ## 📝 简介
 
-日本东京成人内容创作者，I 罩杯爆乳。以 cosplay 按摩治疗师形象为特色，专攻「授乳マッサージ手コキ」等女王系内容。与其他日本创作者有 cosplay 联动。在 Fantia 拥有 7,593 名粉丝。
+美波あいり，日本东京成人内容创作者/メンエス嬢。X 拥有 58.4K 粉丝，2024年2月加入 X，发布 366 条帖子。活跃于 OnlyFans，定期参加コスホリ、コスROM 等活动。有告知用账号 @minami_airi2。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/minami_airi_en)
+- [X / Twitter](https://x.com/minami_airi_en) — 58.4K 粉丝
+- [X / Twitter](https://x.com/minami_airi2) — 告知用
+- [X / Twitter](https://x.com/minami_airi2) — コスプレ用
 - [OnlyFans](https://onlyfans.com/minamiairi)
-- [Fantia](https://fantia.jp/fanclubs/520132) — 7,593 粉丝
-- [MyFans](https://myfans.jp/airi.sa)
-- [Linktree](https://linktr.ee/minami.airi)
-- [lit.link](https://lit.link/minamiairi)
 
 ---
 

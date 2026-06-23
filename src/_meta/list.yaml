@@ -1,7 +1,15 @@
 # OnlyFans 创作者索引
 # 标识优先级：X 用户名 > OnlyFans 用户名 > 名字拉丁转写
+# 文档完善程度: 0-100%
 
 # ── X 用户名 ──
+
+420bbyk:
+  name: Penelope Kay
+  region: 美国
+  x: 420bbyk
+  file: src/4/420bbyk.md
+  status: 80
 
 bu_ivv:
   name: bu_ivv
@@ -9,38 +17,51 @@ bu_ivv:
   region: 日本
   x: bu_ivv
   file: src/B/bu_ivv.md
+  status: 70
+
+Baimint3663:
+  name: ใบมิ้นท์ มณิฐา
+  aliases: [Baimint Manitha]
+  region: 泰国
+  x: Baimint3663
+  onlyfans: baimint_peppermint
+  instagram: baimint_manitha
+  file: src/B/Baimint3663.md
+  status: 80
 
 rio_hcup_fantia:
-  name: rio_hcup_fantia
+  name: りお
+  aliases: [Rio]
   region: 日本
   x: rio_hcup_fantia
   file: src/R/rio_hcup_fantia.md
+  status: 80
 
 Ui_Eve69:
-  name: ui_eve69
-  aliases: [悠木イヴ]
+  name: 悠木イヴ
   region: 日本
   x: Ui_Eve69
+  fantia: ぬめぬめ会。
   file: src/U/ui_eve69.md
-
-ruruka820:
-  name: ruruka820
-  region: 日本
-  x: ruruka820
-  file: src/R/ruruka820.md
+  status: 70
 
 krebs_tina71418:
   name: 乙葉らら
   aliases: [つゆりうらら, jujumoura5]
   region: 日本
   x: krebs_tina71418
+  x_alt: EvertonEvtn
+  youtube: UCoU1hz0UuceWn1KmJVd8Tgw
   file: src/K/krebs_tina71418.md
+  status: 60
 
 yuna_sirobuta:
-  name: yuna_sirobuta
+  name: 白豚
   region: 日本
   x: yuna_sirobuta
+  myfans: yunaaa1127
   file: src/Y/yuna_sirobuta.md
+  status: 80
 
 minami_airi_en:
   name: 美波あいり
@@ -49,13 +70,25 @@ minami_airi_en:
   x: minami_airi_en
   onlyfans: minamiairi
   file: src/M/minami_airi_en.md
+  status: 80
 
 jethedeath:
-  name: jethedeath
+  name: 魷魚𝔍𝔢𝔰𝔰𝔢
   region: 台湾
   x: jethedeath
   onlyfans: jethedeath
   file: src/J/jethedeath.md
+  status: 90
+
+ruruka820:
+  name: るるたん
+  region: 日本
+  x: ruruka820
+  fantia: 497951
+  myfans: ruruka820
+  xfans: ruruka820
+  file: src/R/ruruka820.md
+  status: 90
 
 RirisuAmano:
   name: 天野リリス
@@ -64,189 +97,45 @@ RirisuAmano:
   x: RirisuAmano
   onlyfans: ririsu_amano
   file: src/R/RirisuAmano.md
+  status: 80
 
 yuumeilyn:
-  name: yuumeilyn
-  aliases: [玲兒]
+  name: 玲兒
   region: 台湾
   x: yuumeilyn
   onlyfans: yuumeilyn
   file: src/Y/yuumeilyn.md
+  status: 80
 
 _KOMACHI_1:
-  name: 小丁
+  name: こまち.小丁
   aliases: [KOMACHI, _KOMACHI_2, KOMACHI_COS]
+  tags: [cosplay]
   region: 台湾
   x: _KOMACHI_1
   onlyfans: komachi
   file: src/K/KOMACHI.md
+  status: 90
 
 hh_nk_88:
-  name: 望月乃々
-  aliases: [RUKA所長, fabulous_2929, るかぴ]
+  name: RUKA所長
+  aliases: [fabulous_2929, るかぴ]
   region: 日本
   x: hh_nk_88
+  candfans: 今夜のおかず製作所
   file: src/H/hh_nk_88.md
+  status: 80
 
 princessdolly_i:
-  name: Amydolly
-  aliases: [Princessdolly, Wawa, princessdolly.tw, 翁雨澄, Aileen, klaxo_hime]
+  name: 娃娃Princessdolly
+  aliases: [Amydolly, Wawa, princessdolly.tw, 翁雨澄, Aileen, klaxo_hime]
   tags: [beautyleg]
   region: 台湾
   x: princessdolly_i
   onlyfans: princessdolly.tw
+  tiktok: princessdolly_i
   file: src/P/princessdolly_i.md
-
-suyeon_soe:
-  name: suyeon_soe
-  aliases: [SUYEON, 수연, スヨン, 秀妍, 蘇然]
-  region: 韩国
-  x: suyeon_soe
-  onlyfans: suyeon
-  x_alt:
-    - KoreanQOS
-    - luna_gbslut
-    - promiscuitygb
-  file: src/S/suyeon_soe.md
-
-JennySuen10:
-  name: 孙禾颐
-  aliases: [JennySuen, jennypinky, 孫禾頤]
-  region: 香港
-  x: JennySuen10
-  file: src/J/JennySuen10.md
-
-realassbunny43:
-  name: realassbunny
-  region: 韩国
-  x: realassbunny43
-  onlyfans: realassbunny
-  file: src/R/realassbunny43.md
-
-nina_loveu:
-  name: nina_loveu
-  x: nina_loveu
-  file: src/N/nina_loveu.md
-
-LittleAznChat:
-  name: LittleAznChat
-  x: LittleAznChat
-  file: src/L/LittleAznChat.md
-
-mina0977:
-  name: mina0977
-  aliases: [jinjinzara302, Bebe]
-  tags: [shemale, CD]
-  region: 韩国
-  x: mina0977x
-  onlyfans: jinjinzara302
-  tiktok: mina0977
-  file: src/M/mina0977.md
-
-jinjinzara302:
-  name: jinjinzara302
-  aliases: [mina0977, Bebe]
-  tags: [shemale, CD]
-  region: 韩国
-  x: mina0977x
-  onlyfans: jinjinzara302
-  tiktok: mina0977
-  file: src/M/mina0977.md
-
-szn_uu_sub:
-  name: 川北すずね
-  aliases: [北川すずね, 宮澤寧音]
-  region: 日本
-  x: szn_uu_sub
-  instagram: japanesedollsuzune
-  fantia: 530372
-  file: src/S/szn_uu_sub.md
-
-senyasenyanko:
-  name: せな♂
-  aliases: [柚月せな]
-  tags: [shemale, 女装男子, 男の娘]
-  region: 日本
-  x: senyasenyanko
-  fantia: 39009
-  myfans: senyanko
-  file: src/S/senyasenyanko.md
-
-# ── Shemale / Ladyboy ──
-
-Sofie:
-  name: Sofie
-  tags: [shemale, ladyboy]
-  region: 泰国
-  x: Sofie14175952
-  file: src/S/Sofie.md
-
-Guitar:
-  name: Guitar
-  tags: [shemale, ladyboy]
-  region: 泰国
-  file: src/G/Guitar.md
-
-Tontan:
-  name: Tontan
-  tags: [shemale, ladyboy]
-  region: 泰国
-  file: src/T/Tontan.md
-
-Wine:
-  name: Wine
-  tags: [shemale, ladyboy]
-  region: 泰国
-  file: src/W/Wine.md
-
-# ── OnlyFans / 其他平台用户名 ──
-
-lineage282:
-  name: lineage282
-  aliases: [wnfl21c, icup2828]
-  region: 韩国
-  onlyfans: lineage282
-  file: src/L/lineage282.md
-
-retsu_dao:
-  name: Retsu_dao
-  region: 日本
-  onlyfans: retsu_dao
-  file: src/R/retsu_dao.md
-
-miebb:
-  name: 林美惠子
-  aliases: [Mieko林美惠子, miebb, miedd]
-  region: 中国
-  onlyfans: miebb
-  file: src/M/miebb.md
-
-cookiemon18:
-  name: cookiemon18
-  region: 泰国
-  onlyfans: cookiemon18
-  file: src/C/cookiemon18.md
-
-kitty2002102:
-  name: kitty2002102
-  onlyfans: kitty2002102
-  file: src/K/kitty2002102.md
-
-megnut:
-  name: megnut
-  onlyfans: megnut
-  file: src/M/megnut.md
-
-skyexsummers:
-  name: skyexsummers
-  onlyfans: skyexsummers
-  file: src/S/skyexsummers.md
-
-ssaimi:
-  name: ssaimi
-  region: 韩国
-  onlyfans: ssaimi
-  file: src/S/ssaimi.md
+  status: 70
 
 Yoyo_520:
   name: 少妇yoyo
@@ -254,17 +143,44 @@ Yoyo_520:
   region: 中国
   stripchat: Yoyo_520
   file: src/Y/Yoyo_520.md
+  status: 60
 
 # ── 名字拉丁转写（无已知社交账号）──
 
-seo_ahn:
-  name: 徐婉
-  aliases: [SeoAhn]
-  region: 韩国
-  file: src/S/seo_ahn.md
+yuringomen:
+  name: ゆりん
+  aliases: [BabyYurin]
+  region: 日本
+  x: yuringomen
+  fantia: 550513
+  myfans: yurin_gomen
+  file: src/Y/yuringomen.md
+  status: 80
 
-yututu:
-  name: 玉兔兔
-  aliases: [钱宝宝]
+Yves_bunny:
+  name: イヴ
+  tags: [shemale, ニューハーフ, 男の娘]
+  region: 日本
+  x: Yves_bunny
+  fantia: 322047
+  myfans: Yves_bunny
+  file: src/Y/Yves_bunny.md
+  status: 80
+
+yoshi9467:
+  name: โยชิ ธันชนก
+  aliases: [Yoshi Thunchanok]
+  tags: [shemale, ladyboy]
+  region: 泰国
+  x: yoshi9467
+  onlyfans: yoshithunchanok
+  file: src/Y/yoshi9467.md
+  status: 70
+
+Yooheejade:
+  name: 小Annie
   region: 中国
-  file: src/Y/yututu.md
+  x: Yooheejade
+  telegram: yooheejade
+  file: src/Y/Yooheejade.md
+  status: 70

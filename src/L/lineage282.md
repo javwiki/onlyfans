@@ -1,22 +1,19 @@
-# @lineage282
+# lineage282
 
 | 项目 | 内容 |
 |------|------|
 | **用户名** | `lineage282` |
-| **别名** | `wnfl21c`、`icup2828`、`ebli_n`、`onlyu_282`、에브리데이에블린 |
 | **地区** | 🇰🇷 韩国 |
-| **内容类型** | 韩国 BJ 直播 / 成人内容 |
-| **风格** | 韩国 BJ 模特，丰满体型 |
+| **内容类型** | 成人内容 |
 
 ## 📝 简介
 
-韩国 BJ（Broadcasting Jockey）直播模特，活跃于 PandaTV 等韩国直播平台。内容以独奏、大胸、大臀、BBW 风格为主。内容被广泛转载于 KBJ 聚合网站。
+韩国成人内容创作者，X 账号已被暂停。
 
 ## 🔗 相关链接
 
+- [X / Twitter](https://x.com/lineage282) — 已暂停
 - [OnlyFans](https://onlyfans.com/lineage282)
-- [Fapello](https://fapello.com/lineage282/)
-- [Instagram](https://instagram.com/ebli_n)
 
 ---
 

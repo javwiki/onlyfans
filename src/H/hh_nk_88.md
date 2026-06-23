@@ -3,20 +3,19 @@
 | 项目 | 内容 |
 |------|------|
 | **用户名** | `hh_nk_88` |
-| **别名** | RUKA所長 / 望月乃々 / るかぴ / fabulous_2929 |
+| **显示名** | ✨RUKA所長🐄(今夜のおかず製作所) |
 | **地区** | 🇯🇵 日本 |
-| **内容类型** | AV 演员 / 成人内容 |
-| **风格** | N 罩杯爆乳 |
+| **内容类型** | 成人内容 |
 
 ## 📝 简介
 
-日本 AV 演员，艺名「望月乃々」（Nono Mochizuki），2003 年出生，N 罩杯爆乳。在 DMM/Jable 有 5 部 AV 作品。同时以「hh_nk_88」身份在社交媒体发布成人内容，运营 CandFans、Xfans、MyFans 等付费平台。X 简介为「✨RUKA所長🐄(今夜のおかず製作所)」。
+RUKA所長，日本成人内容创作者。经营"今夜のおかず製作所"频道。X 拥有 34.5K 粉丝，2024年11月加入 X，发布 2,352 条帖子。在 CandFans 经营粉丝俱乐部，支持多语言和美元支付。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/hh_nk_88) — 3.37 万粉丝
-- [CandFans](https://candfans.com/rukap2929) — 海外用户推荐
-- [lit.link](https://lit.link/rukap2929)
+- [X / Twitter](https://x.com/hh_nk_88) — 34.5K 粉丝
+- [Linktree](https://lit.link/rukap2929)
+- [CandFans](https://candfans.jp) — 粉丝俱乐部
 
 ---
 

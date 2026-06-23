@@ -1,20 +1,19 @@
-# @cookiemon18
+# cookiemon18
 
 | 项目 | 内容 |
 |------|------|
 | **用户名** | `cookiemon18` |
-| **地区** | 🇹🇭 泰国 |
+| **显示名** | ashley rodriguez |
+| **地区** | 🇺🇸 美国 (Lawrence, MA) |
 | **内容类型** | 成人内容 |
-| **风格** | 泰国清纯系网红、可爱少女风 |
 
 ## 📝 简介
 
-泰国网红，被称为「泰國極品清純系網紅」。以可爱清纯的外表著称，从 TikTok 转型至成人内容创作。
-
-> ⚠️ 注意：X 上的 @cookiemon18 为另一人（Ashley Rodriguez，美国），与本创作者无关。
+ashley rodriguez (cookiemon18)，美国成人内容创作者。X 拥有 787 粉丝，2014年6月加入 X，发布 41 条帖子。活跃于 OnlyFans。
 
 ## 🔗 相关链接
 
+- [X / Twitter](https://x.com/cookiemon18) — 787 粉丝
 - [OnlyFans](https://onlyfans.com/cookiemon18)
 
 ---
