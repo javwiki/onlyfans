@@ -1,14 +1,26 @@
-https://ladyboyguide.com/join/2019052303.pristine/
-https://x.com/Sofie14175952 https://x.com/hotflub_01/status/1673692526992310274 https://x.com/hotflub_01/status/1835125822971380006 https://www.tiktok.com/@shoper1992
-https://youtu.be/QHJGGzpC5Ys?si=Yq_fFQV5MLjeOT6d
-https://viper.to/threads/8767834-Pristine-2019-05-23-(2019052303-pristine)-original-x35
-https://www.youtube.com/watch?v=UhYUr_rrdfU
-https://transflix.net/video/ladyboyguide-pristine-35172
-https://transflix.net/video/ts-sofie-gets-double-teamed-39526
-https://shemalestardb.com/stars/S/Sofie/
-https://www.asiantgirl.com/tour/models/Sophie02.html
-https://ladyboyguide.com/join/2019052303.pristine/
-https://shemalez.com/videos/781037/helloladyboy-beautiful-sofie/
-https://www.franks-tgirlworld.com/tour/models/sofie.html
-https://tsmodelstube.com/models/1725/sofie-ladyboy-.html
-https://ladyboygold.com/model/sofie
+# Sofie
+
+| 项目 | 内容 |
+|------|------|
+| **用户名** | Sofie |
+| **显示名** | Sofie 🍓tran |
+| **地区** | 🇹🇭 泰国 (Bangkok) |
+| **性别** | Shemale / Ladyboy |
+| **生日** | 6月27日 |
+| **Line** | shop2535 |
+
+## 📝 简介
+
+泰国曼谷 shemale 模特，活跃于多个成人平台。X 拥有 9,256 粉丝。
+
+## 🔗 相关链接
+
+- [X / Twitter](https://x.com/Sofie14175952) — 9,256 粉丝
+- [Frank's TGirl World](https://www.franks-tgirlworld.com/tour/models/sofie.html) — 8 个视频
+- [LadyboyGold](https://ladyboygold.com/model/sofie)
+- [ShemaleStarDB](https://shemalestardb.com/stars/S/Sofie/)
+- [TikTok](https://www.tiktok.com/@shoper1992)
+
+---
+
+[◀ 返回 shemale 列表](../shemale/) · [🏠 首页](../../index.md)
