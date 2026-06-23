@@ -20,6 +20,18 @@ Research a creator's information starting from their X (Twitter) ID.
 
 如果 X 返回空白/被屏蔽，立即切换到 Sotwe。
 
+#### 搜索引擎优先级
+
+使用 Playwright 绕过反爬虫检测：
+
+1. **Yahoo Japan** (唯一可用) - `https://search.yahoo.co.jp/search?p=<query>`
+2. ~~Google~~ — IP 被封，验证码
+3. ~~DuckDuckGo~~ — 验证码
+4. ~~Bing~~ — 超时
+5. ~~Yandex~~ — 验证码
+
+脚本位置：`scripts/search.py`
+
 #### 需要提取的信息
 
 - **Display name** — 显示名
