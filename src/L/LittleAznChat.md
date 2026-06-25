@@ -10,13 +10,13 @@
 
 ## 📝 简介
 
-LittleAznChat，加拿大亚裔成人内容创作者。Twitch Partner。X 拥有 87.8K 粉丝，2021年1月加入 X，发布 6,761 条帖子。自称"Princess👑"。
+LittleAznChat，加拿大亚裔成人内容创作者。Twitch Partner，自称"Princess👑"。X 拥有 88.3K 粉丝，2021年1月加入 X，发布 6,764 条帖子。简介注明"Daydreaming 💕☁️🌙"。活跃于 Superlink 平台。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/LittleAznChat) — 87.8K 粉丝
+- [X / Twitter](https://x.com/LittleAznChat) — 88.3K 粉丝
 - [Superlink](https://superlink.io/littleaznchat)
-- Twitch
+- [Twitch](https://www.twitch.tv/littleaznchat) — Partner
 
 ---
 

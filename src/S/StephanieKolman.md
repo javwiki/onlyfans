@@ -11,11 +11,11 @@
 
 ## 📝 简介
 
-Steph Kolman，美国迈阿密 TS 模型。X 拥有 213K 粉丝，发布 390.4K 条帖子。2022年3月加入 X，活跃于 OnlyFans、Instagram、TikTok 等多个平台。
+Steph Kolman，美国迈阿密 TS 模型。X 拥有 212.9K 粉丝，发布 390.4K 条帖子。2022年3月加入 X，简介"TS Model 🏳️‍⚧️"，活跃于 OnlyFans、Instagram、TikTok 等多个平台。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/StephanieKolman) — 213K 粉丝
+- [X / Twitter](https://x.com/StephanieKolman) — 212.9K 粉丝
 - [X / Twitter](https://x.com/Stephkolmants) — 备用账号
 - [OnlyFans](https://onlyfans.com/kolmansteph)
 - [Instagram](https://www.instagram.com/stephkolman/)

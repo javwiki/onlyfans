@@ -11,11 +11,11 @@
 
 ## 📝 简介
 
-泰国曼谷 shemale 模特，活跃于多个成人平台。X 拥有 9,256 粉丝。
+泰国曼谷 shemale 模特，活跃于多个成人平台。X 拥有 9,259 粉丝，发布 79 条帖子。简介注明"รับงาน รังสิต ลำลูกกา สายคลอง 1-5"（服务区域），"สาวสองงูใหญ่ มีนมยังไม่แปลง"（有胸未变性）。Line: shop2535。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Sofie14175952) — 9,256 粉丝
+- [X / Twitter](https://x.com/Sofie14175952) — 9,259 粉丝
 - [Frank's TGirl World](https://www.franks-tgirlworld.com/tour/models/sofie.html) — 8 个视频
 - [LadyboyGold](https://ladyboygold.com/model/sofie)
 - [ShemaleStarDB](https://shemalestardb.com/stars/S/Sofie/)

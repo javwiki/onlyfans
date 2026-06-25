@@ -3,17 +3,17 @@
 | 项目 | 内容 |
 |------|------|
 | **用户名** | `ssaimi` |
-| **地区** | 🇰🇷 韩国 |
+| **地区** | 🇨🇳 中国 |
 | **内容类型** | 成人内容 |
 
 ## 📝 简介
 
-韩国成人内容创作者，X 仅 5 粉丝，2009年3月加入 X，无帖子。活跃于 OnlyFans。
+中国成人内容创作者/Stripchat 主播。活跃于 Stripchat 直播平台，每晚 10:30 开播，拥有录制视频内容。简介注明"感谢陪伴 感恩包容 感谢遇见"。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/ssaimi) — 5 粉丝
-- [OnlyFans](https://onlyfans.com/ssaimi)
+- [Stripchat](https://stripchat.com/ssaimi) — 直播主页
+- [Stripchat Videos](https://stripchat.com/ssaimi/videos) — 录制视频
 
 ---
 

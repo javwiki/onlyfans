@@ -10,7 +10,7 @@
 
 ## 📝 简介
 
-少妇yoyo (Yoyo_520)，中国成人内容创作者/Stripchat 主播。活跃于 Stripchat 等直播平台。
+少妇yoyo (Yoyo_520)，中国成人内容创作者/Stripchat 主播。活跃于 Stripchat 等直播平台，Instagram 也有活跃账号。
 
 ## 🔗 相关链接
 

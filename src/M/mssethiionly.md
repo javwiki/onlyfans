@@ -11,11 +11,12 @@
 
 ## 📝 简介
 
-Shilpa Sethi (ms.sethii)，印度创作者。X 拥有 429.5K 粉丝，2024年9月加入 X，发布 1,235 条帖子。自称"your favorite Indian babydoll"，活跃于 Instagram、TikTok、YouTube 等平台。
+Shilpa Sethi (ms.sethii)，印度创作者。X 拥有 429.8K 粉丝，2024年9月加入 X，发布 1,236 条帖子。自称"Your favorite Indian babydoll"，活跃于 Link.me 平台，提供 Shouts 和 Media 服务。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/mssethiionly) — 429.5K 粉丝
+- [X / Twitter](https://x.com/mssethiionly) — 429.8K 粉丝
+- [Link.me](https://link.me/mssethiionly) — 所有链接
 - [Instagram](https://www.instagram.com/ms.sethii/)
 - [TikTok](https://www.tiktok.com/@mssethiionly)
 - [YouTube](https://www.youtube.com/channel/UCro9Kz763d43tU9drfBjtwA)

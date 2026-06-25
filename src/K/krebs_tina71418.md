@@ -9,7 +9,7 @@
 
 ## 📝 简介
 
-乙葉らら (krebs_tina71418)，日本成人内容创作者。别名つゆりうらら、jujumoura5。X 账号已被暂停，使用备用账号 @EvertonEvtn。
+乙葉らら (krebs_tina71418)，日本成人内容创作者。别名つゆりうらら、jujumoura5。X 账号已被暂停，使用备用账号 @EvertonEvtn。活跃于 YouTube 频道。
 
 ## 🔗 相关链接
 

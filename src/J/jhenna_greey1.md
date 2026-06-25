@@ -10,7 +10,7 @@
 
 ## 📝 简介
 
-Susana（jhenna_greey1），美国成人内容创作者。X 账号 @jhenna_greey1，OnlyFans 账号 @jhenna_greey。活跃于 Instagram 和个人网站。
+Susana（jhenna_greey1），美国成人内容创作者。X 账号 @jhenna_greey1，OnlyFans 账号 @jhenna_greey。活跃于 Instagram（@susana2vel）和个人网站 jhennagreey.com。
 
 ## 🔗 相关链接
 

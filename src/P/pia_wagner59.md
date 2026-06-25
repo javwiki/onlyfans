@@ -11,11 +11,11 @@
 
 ## 📝 简介
 
-Pia Wagner，美国成人内容创作者。以"Blonde Secretary"人设闻名。X 拥有 70.2K 粉丝，2023年8月加入 X，发布 468 条帖子。活跃于 OnlyFans 和 Instagram。
+Pia Wagner，美国成人内容创作者。以"your fav blonde Secretary"人设闻名。X 拥有 70.1K 粉丝，2023年8月加入 X，发布 469 条帖子。活跃于 OnlyFans、Instagram 和 GetMySocial。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/pia_wagner59) — 70.2K 粉丝
+- [X / Twitter](https://x.com/pia_wagner59) — 70.1K 粉丝
 - [OnlyFans](https://onlyfans.com/piawagner)
 - [Instagram](https://instagram.com/_piawagner)
 - [GetMySocial](https://getmysocial.com/piawagner)

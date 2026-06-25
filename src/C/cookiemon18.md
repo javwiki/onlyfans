@@ -3,17 +3,18 @@
 | 项目 | 内容 |
 |------|------|
 | **用户名** | `cookiemon18` |
-| **显示名** | ashley rodriguez |
-| **地区** | 🇺🇸 美国 (Lawrence, MA) |
+| **显示名** | cookiemon18 |
+| **地区** | 🇹🇭 泰国 |
 | **内容类型** | 成人内容 |
 
 ## 📝 简介
 
-ashley rodriguez (cookiemon18)，美国成人内容创作者。X 拥有 787 粉丝，2014年6月加入 X，发布 41 条帖子。活跃于 OnlyFans。
+泰国成人内容创作者。活跃于 Pornhub 和 OnlyFans。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/cookiemon18) — 787 粉丝
+- [Pornhub](https://rt.pornhub.org/shorties/642e92c741e7e) — 短视频
+- [SpankBang](https://spankbang.com/4th2u/playlist/cookiemon18/) — 播放列表
 - [OnlyFans](https://onlyfans.com/cookiemon18)
 
 ---

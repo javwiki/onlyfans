@@ -10,12 +10,12 @@
 
 ## 📝 简介
 
-Nina (崩壞的英文老師)，台湾成人内容创作者。X 拥有 412.9K 粉丝，2021年2月加入 X，发布 177 条帖子。活跃于 FansOne。
+Nina (崩壞的英文老師)，台湾成人内容创作者。X 拥有 412.8K 粉丝，2021年2月加入 X，发布 177 条帖子。简介注明"不用任何約會軟體或TG群，簡體字肯定是假帳"。活跃于 FansOne，深夜发布独家内容。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/nina_loveu) — 412.9K 粉丝
-- [FansOne](https://fansone.co/nina_loveu)
+- [X / Twitter](https://x.com/nina_loveu) — 412.8K 粉丝
+- [FansOne](https://fansone.co/nina_loveu) — 独家内容平台
 
 ---
 
