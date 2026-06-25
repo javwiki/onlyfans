@@ -10,11 +10,11 @@
 
 ## 📝 简介
 
-魷魚𝔍𝔢𝔰𝔰𝔢 (jethedeath)，台湾台南成人内容创作者。X 拥有 269.7K 粉丝，2019年9月加入 X，发布 2,137 条帖子。以分舌、微肉为特征，热爱性爱。大帐 @jethedeath1004。
+魷魚𝔍𝔢𝔰𝔰𝔢 (jethedeath)，台湾台南成人内容创作者。X 拥有 269.9K 粉丝，2019年9月加入 X，发布 2,137 条帖子。简介注明"未成年禁止觀看🔞｜based in Taiwan｜分舌 微肉🐍👅 熱愛性愛的女子｜無毛派"。大帐 @jethedeath1004。所有使用平台都在 Linktree。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/jethedeath) — 269.7K 粉丝
+- [X / Twitter](https://x.com/jethedeath) — 269.9K 粉丝
 - [X / Twitter](https://x.com/jethedeath1004) — 2.0 大帐
 - [Linktree](https://link.me/jethedeath)
 - [OnlyFans](https://onlyfans.com/jethedeath)

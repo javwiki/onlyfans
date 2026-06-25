@@ -12,11 +12,11 @@
 
 ## 📝 简介
 
-羊咩咩Ena (kikobabiiiii)，中国药娘 MTF 创作者。1998年双子座，英国留学七年艺术生（已回国）。X 拥有 68.4K 粉丝，2025年12月加入 X，发布 266 条帖子。门槛 188 口令红包。
+羊咩咩Ena (kikobabiiiii)，中国药娘 MTF 创作者。1998年双子座，INFP-T，英国留学七年艺术生（已回国）。X 拥有 68.5K 粉丝，2025年12月加入 X，发布 266 条帖子。门槛 188 口令红包。活跃于 FansOne。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/kikobabiiiii) — 68.4K 粉丝
+- [X / Twitter](https://x.com/kikobabiiiii) — 68.5K 粉丝
 - [FansOne](https://fansone.co/rikkalni)
 - [Instagram](https://www.instagram.com/kikobabiiiii/)
 - [Fapello](https://fapello.com/rikkalni-kikobabiiiii/)

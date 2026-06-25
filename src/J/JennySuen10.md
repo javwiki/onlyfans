@@ -10,12 +10,12 @@
 
 ## 📝 简介
 
-孫禾頤 (JennySuen)，香港成人内容创作者。X 拥有 257.8K 粉丝，2020年4月加入 X，发布 1,332 条帖子。简介注明"僅此帳號🫶🏻 Only this account"，强调唯一官方账号。不收人民币，没有支付宝和微信。简体字账号都是假账号，没有 TikTok、抖音、telegram、快手。
+孫禾頤 (JennySuen)，香港成人内容创作者。X 拥有 258.2K 粉丝，2020年4月加入 X，发布 1,332 条帖子。简介注明"唯一的X帳號！簡體字帳號都是假帳號！也沒有TikTok、抖音、telegram、快手，不收人民幣，沒有支付寶和微信"。唯一官方账号，活跃于 Fansly。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/JennySuen10) — 257.8K 粉丝
-- [Fansly](https://fansly.com/jennypinky)
+- [X / Twitter](https://x.com/JennySuen10) — 258.2K 粉丝
+- [Fansly](https://fansly.com/jennypinky) — 官方页面
 
 ---
 

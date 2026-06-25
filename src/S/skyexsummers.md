@@ -10,12 +10,12 @@
 
 ## 📝 简介
 
-SkyexSummers，美国南方成人内容创作者/Cosplayer。X 拥有 402.3K 粉丝，2021年8月加入 X，发布 830 条帖子。以巨乳和 Cosplay 内容为卖点，Cosplay 角色包括 Luna Snow、Kafka、Nami、Astolfo、Dante 等。简介注明"DM to collab"。
+SkyexSummers，美国南方成人内容创作者/Cosplayer。X 拥有 402.3K 粉丝，2021年8月加入 X，发布 830 条帖子。以巨乳和 Cosplay 内容为卖点，Cosplay 角色包括 Luna Snow、Kafka、Nami、Astolfo、Dante 等。简介注明"Cosplayer ⋆ DM to collab"。活跃于 Link.me 平台。
 
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/SkyexSummers) — 402.3K 粉丝
-- [Linktree](https://link.me/skyexsummers)
+- [Link.me](https://link.me/skyexsummers) — 所有链接
 - [OnlyFans](https://onlyfans.com/skyexsummers)
 
 ---

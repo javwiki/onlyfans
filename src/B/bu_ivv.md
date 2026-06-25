@@ -10,11 +10,11 @@
 
 ## 📝 简介
 
-日本成人内容创作者，J 罩杯丰满身材，以肉感体型为卖点。同时活跃于 Fantia、MyFans、CandFans 等日本付费平台，也在 Instagram 发布日常、TikTok 发布舞蹈视频。
+日本成人内容创作者，J 罩杯丰满身材，以肉感体型为卖点。X 拥有 409.7K 粉丝，2018年12月加入 X，发布 1,662 条帖子。简介注明"#フリーモデル"（自由模特）。同时活跃于 Fantia、MyFans、CandFans 等日本付费平台，也在 Instagram 发布日常、TikTok 发布舞蹈视频。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/bu_ivv) — 39.6 万粉丝
+- [X / Twitter](https://x.com/bu_ivv) — 409.7K 粉丝
 - [Fantia](https://fantia.jp/fanclubs/60323)
 - [MyFans](https://myfans.jp/pipipi_xo)
 - [CandFans](https://candfans.jp/bu_ivv)

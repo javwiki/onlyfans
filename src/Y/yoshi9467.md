@@ -10,12 +10,12 @@
 
 ## 📝 简介
 
-โยชิ (Yoshi Thunchanok)，泰国曼谷 ladyboy 创作者。X 拥有 1.2M 粉丝，是知名 ladyboy 内容创作者。2022年7月加入 X，发布 15.8K 条帖子。活跃于 OnlyFans 和多个成人平台。
+โยชิ (Yoshi Thunchanok)，泰国曼谷 ladyboy 创作者。X 拥有 1.2M 粉丝，2022年7月加入 X，发布 15.9K 条帖子。简介注明"I'm Yoshi | Ladyboy | Subscribe to my onlyfans to see my work"。活跃于 OnlyFans 和多个成人平台。
 
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/yoshi9467) — 1.2M 粉丝
-- [OnlyFans](https://onlyfans.com/yoshithunchanok)
+- [OnlyFans](https://onlyfans.com/yoshithunchanok) — 官方页面
 - [TikTok](https://www.tiktok.com/@yoshi9467)
 - [EroMe](https://www.erome.com/a/PGDLHwGu)
 - [Reddit](https://www.reddit.com/r/Shemale_Big_Cock/comments/1csz1uu/yoshi_twitteryoshi9467/)

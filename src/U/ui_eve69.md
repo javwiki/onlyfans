@@ -12,13 +12,13 @@
 
 ## 📝 简介
 
-悠木イヴ，日本グラビア/成人内容创作者。95cm 身高，Iカップ。2014年2月加入 X，拥有 24K 粉丝，发布 21.2K 条帖子。曾任峰ゆりあ、仁科百華等前辈的后辈。经营 Fantia 粉丝俱乐部"ぬめぬめ会。"。
+悠木イヴ，日本グラビア/成人内容创作者。95cm 身高，Iカップ。2014年2月加入 X，拥有 24K 粉丝，发布 21.2K 条帖子。曾任峰ゆりあ、仁科百華等前辈的后辈。经营 Fantia 粉丝俱乐部"ぬめぬめ会。"。同时也是仙台サバプラch模特、総合格闘技 THE OUTSIDER 的 Raund Angel。Amazon 愿望清单可购买礼物。
 
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/Ui_Eve69) — 24K 粉丝
 - [Fantia](https://fantia.jp) — ぬめぬめ会。
-- [Amazon 愿望清单](https://amazon.jp/hz/wishlist/ls/)
+- [Amazon 愿望清单](https://amazon.jp/hz/wishlist/ls/) — 礼物
 
 ---
 

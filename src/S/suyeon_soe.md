@@ -11,7 +11,7 @@
 
 ## 📝 简介
 
-韩国 AV 演员（MIB Star），2002 年 4 月 22 日出生，157cm/43kg，70F 罩杯。2024 年 10 月开始活跃于 X 平台，52.6K 粉丝、69 篇帖子。简介注明"#섹트 #섹블 #갱뱅 #피딩 #PDing #NSFW #Chudai #Wataa"。同时活跃于 Instagram、TikTok、Bluesky、Fantrie、LIKEY 等多个平台。
+韩国 AV 演员（MIB Star），2002 年 4 月 22 日出生，157cm/43kg，70F 罩杯。2024 年 10 月开始活跃于 X 平台，52.6K 粉丝、69 篇帖子。简介注明"#섹트 #섹블 #갱뱅 #피딩 #PDing #NSFW #Chudai #Wataa"。同时活跃于 Instagram、TikTok、Bluesky、Fantrie、LIKEY 等多个平台。使用 Linkfly 聚合链接。
 
 已发布作品：SUYEON-003（皮革女王自慰絕技，6分43秒）。
 
@@ -27,8 +27,7 @@
 
 - [X / Twitter](https://x.com/suyeon_soe) — 52.6K 粉丝
 - [OnlyFans](https://onlyfans.com/suyeon)
-- [Linktree](https://linktr.ee/suyeon_soe)
-- [Linkfly](https://linkfly.to/SUYEON)
+- [Linkfly](https://linkfly.to/SUYEON) — 聚合链接
 
 ---
 

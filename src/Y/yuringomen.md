@@ -10,11 +10,11 @@
 
 ## 📝 简介
 
-ゆりん (BabyYurin)，日本成人内容创作者。经营多个粉丝俱乐部，发布成人向视频内容。X 拥有 79K 粉丝，Pornhub 频道突破 100K 订阅。2024年11月加入 X，已发布 2,126 条帖子。
+ゆりん (BabyYurin)，日本成人内容创作者。经营多个粉丝俱乐部，发布成人向视频内容。X 拥有 78.9K 粉丝，2024年11月加入 X，已发布 2,127 条帖子。简介注明"合法ロリ🐣えちえちファンクラブ『ゆりんのちいさくてごめんなさい♡』主宰"。Fantia 粉丝俱乐部 550513，MyFans 每周2本新作。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/yuringomen) — 79K 粉丝
+- [X / Twitter](https://x.com/yuringomen) — 78.9K 粉丝
 - [Fantia](https://fantia.jp/fanclubs/550513) — 粉丝俱乐部
 - [MyFans](https://myfans.jp/yurin_gomen) — 全期间见放题
 - [Fansly](https://lit.link/yuringomen) — 海外用户

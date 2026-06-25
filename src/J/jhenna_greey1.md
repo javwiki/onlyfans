@@ -10,11 +10,11 @@
 
 ## 📝 简介
 
-Susana（jhenna_greey1），美国成人内容创作者。X 账号 @jhenna_greey1，OnlyFans 账号 @jhenna_greey。活跃于 Instagram（@susana2vel）和个人网站 jhennagreey.com。
+Susana（jhenna_greey1），美国成人内容创作者。X 拥有 296.3K 粉丝，2016年6月加入 X，发布 232 条帖子。OnlyFans 账号 @jhenna_greey。活跃于 Instagram（@susana2vel）和个人网站 jhennagreey.com。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/jhenna_greey1)
+- [X / Twitter](https://x.com/jhenna_greey1) — 296.3K 粉丝
 - [OnlyFans](https://onlyfans.com/jhenna_greey)
 - [Instagram](https://instagram.com/susana2vel)
 - [Website](https://jhennagreey.com)
