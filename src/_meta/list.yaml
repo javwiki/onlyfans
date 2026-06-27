@@ -4240,3 +4240,57 @@ aryminh:
   x_file: x/aryminh.md
   file: src/A/aryminh.md
   status: 80
+mssethiionly:
+  name: ms.sethii
+  x: mssethiionly
+  x_file: x/mssethiionly.md
+  file: src/M/mssethiionly.md
+  status: 80
+
+nina_loveu:
+  name: 崩壞的英文老師 Nina
+  x: nina_loveu
+  x_file: x/nina_loveu.md
+  region: 🇹🇼 台湾
+  file: src/N/nina_loveu.md
+  status: 80
+
+pia_wagner59:
+  name: Pia Wagner
+  x: pia_wagner59
+  x_file: x/pia_wagner59.md
+  region: 🇺🇸 美国
+  file: src/P/pia_wagner59.md
+  status: 80
+
+realassbunny43:
+  name: Realassbunny
+  x: realassbunny43
+  x_file: x/realassbunny43.md
+  region: 🇰🇷 韩国
+  file: src/R/realassbunny43.md
+  status: 80
+
+retsu_dao:
+  name: Retsu_dao
+  x: Retsu_dao
+  x_file: x/retsu_dao.md
+  region: 🇯🇵 日本
+  file: src/R/retsu_dao.md
+  status: 80
+
+senyasenyanko:
+  name: 柚月せな
+  x: senyasenyanko
+  x_file: x/senyasenyanko.md
+  region: 🇯🇵 日本
+  file: src/S/senyasenyanko.md
+  status: 80
+
+seo_ahn:
+  name: Ahn Seo Yeon
+  x: seo_ahn
+  x_file: x/seo_ahn.md
+  region: 🇰🇷 韩国
+  file: src/S/seo_ahn.md
+  status: 80
