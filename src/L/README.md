@@ -6,6 +6,7 @@
 
 ## 🧑‍🎤 博主
 
+- [@LittleAznChat](./LittleAznChat.md) — 🇨🇦 加拿大
 - [@lineage282](./lineage282.md) — 🇰🇷 韩国 BJ 模特（别名：wnfl21c、icup2828）
 
 ---

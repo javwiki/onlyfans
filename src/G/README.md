@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-_（在此添加博主链接，格式：[\`@username\`](./username.md) — 一句话简介）_
+- [@Guitar](./Guitar.md) — 🇹🇭 泰国
 
 ---
 

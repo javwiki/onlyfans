@@ -1,0 +1,84 @@
+category: 模特
+total: 34
+subcategories:
+  超模:
+    count: 3
+    members:
+    - name: Dita Von Teese
+      region: 美国
+      note: 时尚icon
+    - name: Emily Ratajkowski
+      region: 美国
+      note: 超模/演员
+    - name: Kate Upton
+      region: 美国
+      note: 体育画报封面
+  国际模特:
+    count: 17
+    members:
+    - name: Ashe Maree
+    - name: Celine Farachchole
+    - name: Cherry Quahst
+    - name: Cara Rose
+    - name: Daiane Novais
+      region: 巴西
+    - name: Emily Bloom
+    - name: Gemma Louise
+    - name: Jordan Carver
+      region: 德国
+    - name: Jessica Barton
+      region: 美国
+    - name: Leanna Decker
+      region: 美国
+    - name: Leona Mia
+    - name: Nadja Auermann
+      region: 德国
+    - name: Savanna Blade
+    - name: Stella
+    - name: Sophie Howard
+      region: 英国
+    - name: Ekaterina Shiryaeva
+      region: 俄罗斯
+    - name: Gemma Louise
+  华语模特:
+    count: 11
+    members:
+    - name: 顾欣怡
+      platform: Xiuren
+      region: 大陆
+      note: Xiuren
+    - name: 娜露
+      region: 大陆
+    - name: 王瑞儿
+      region: 大陆
+    - name: 周大萌
+      region: 大陆
+    - name: 糯美子
+      region: 大陆
+    - name: 冰漪
+      region: 大陆
+    - name: 艾小青
+      region: 大陆
+    - name: 车模Glna
+      platform: 半糖
+      region: 大陆
+      note: 车模
+    - name: 顾欣怡
+      region: 大陆
+      note: Xiuren
+    - name: 王瑞儿
+      region: 大陆
+    - name: 周大萌
+      region: 大陆
+  网红模特:
+    count: 3
+    members:
+    - name: Ashley Tervort
+      region: 美国
+      note: 网红/模特
+    - name: Laci Kay Somers
+      region: 美国
+      note: 网红/模特
+    - name: Violet Summers
+      region: 美国
+      note: 网红/模特

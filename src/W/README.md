@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-_（暂无独立博主，相关条目分别归属于 [@lineage282](../L/lineage282.md) 和 [@Amydolly](../A/Amydolly.md) 页面）_
+- [@Wine](./Wine.md) — 🇹🇭 泰国
 
 ---
 

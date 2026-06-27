@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-_（暂无博主，该字母下条目归属于 [@lineage282](../L/lineage282.md) 页面）_
+- [@izayoiRui](./izayoiRui.md) — 🇨🇳 中国
 
 ---
 
