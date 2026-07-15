@@ -1,4 +1,0 @@
-interface:
-  display_name: "X ID Research"
-  short_description: "Research creator info from X/Twitter ID"
-  default_prompt: "Research creator information for X ID: {x_id}"

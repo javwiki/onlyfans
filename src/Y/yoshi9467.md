@@ -15,6 +15,7 @@
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/yoshi9467) — 1.2M 粉丝
+- [Instagram](https://www.instagram.com/yoshithunchanok_/)
 - [OnlyFans](https://onlyfans.com/yoshithunchanok) — 官方页面
 - [TikTok](https://www.tiktok.com/@yoshi9467)
 - [EroMe](https://www.erome.com/a/PGDLHwGu)

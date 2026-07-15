@@ -24,3 +24,7 @@ book/
 bingscreenshot.png
 output.txt
 src/SUMMARY.md
+.reasonix/
+.commandcode/
+.mimocode/
+
