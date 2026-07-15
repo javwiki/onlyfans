@@ -46,6 +46,23 @@ krebs_tina71418:
   youtube: UCoU1hz0UuceWn1KmJVd8Tgw
   file: src/K/krebs_tina71418.md
   status: 80
+yui_xin_tw:
+  name: 辛尤里
+  aliases:
+  - Yui Xin
+  - yuiyui.tw
+  region: 台湾
+  x: yui_xin_tw
+  x_alt: yui_xin_twx
+  onlyfans: yui_xin_tw
+  instagram: yui_xin_
+  tiktok: yuiyui.tw
+  telegram: yui_xin
+  facebook: loveyuixin
+  douyin: MS4wLjABAAAASH3SCYjQUUHx9i1Oi9Fpnd8ME_1k2t_EASAO6Xx73DE
+  file: src/Y/yui_xin_tw.md
+  status: 80
+
 yuna_sirobuta:
   name: 白豚
   region: 日本
@@ -234,6 +251,8 @@ choco_lateP:
   status: 80
 cookiemon18:
   name: cookiemon18
+  aliases:
+  - น้องคุกกี้ กลุ่มลับน้องคุกกี้
   x: 
   region: 🇹🇭 泰国
   file: src/C/cookiemon18.md
@@ -246,6 +265,8 @@ Guitar:
   status: 70
 izayoiRui:
   name: 十六夜淚
+  aliases:
+  - 十六夜涙
   region: 🇨🇳 中国
   x: izayoiRui
   file: src/I/izayoiRui.md
@@ -348,6 +369,8 @@ Yututu:
   status: 70
 mina0977:
   name: mina0977
+  aliases:
+  - bebe
   x: mina0977
   file: src/M/mina0977.md
   status: 80
@@ -360,6 +383,8 @@ jinjinzara302:
 
 CathyBBlove:
   name: 凯西
+  aliases:
+  - cmbprod
   x: CathyBBlove
   x_file: x/CathyBBlove.md
   file: src/C/CathyBBlove.md
@@ -403,24 +428,40 @@ ssm1004:
 
 miso1239:
   name: 李韶姬
+  aliases:
+  - 李熙
+  - 이소희
+  - Lee So-hee-II
+  - live E소희
   x: miso1239
   file: src/M/miso1239.md
   status: 80
 
 kyl1012:
   name: Neat
+  aliases:
+  - 진서
+  - 青草
   x: kyl1012
   file: src/K/kyl1012.md
   status: 80
 
 klive19101403:
   name: 提莫女孩
+  aliases:
+  - 은소라
+  - 손예은
+  - 孙乐乐
+  - 孫樂樂
+  - SonYe-Eun
   x: klive19101403
   file: src/K/klive19101403.md
   status: 80
 
 gggg90:
   name: 金艺贞
+  aliases:
+  - live Subin
   x: gggg90
   file: src/G/gggg90.md
   status: 80
@@ -451,6 +492,8 @@ s5874s:
 
 xxs2xxx:
   name: 설희
+  aliases:
+  - SeolHui
   x: xxs2xxx
   file: src/X/xxs2xxx.md
   status: 80
@@ -494,6 +537,10 @@ honglis2:
 
 nanacute:
   name: nanacute
+  aliases:
+  - 大啵啵
+  - 大波波
+  - mbbong
   x: nanacute
   file: src/N/nanacute.md
   status: 80
@@ -506,6 +553,8 @@ o11na:
 
 5721004:
   name: 5721004
+  aliases:
+  - 오지림
   x: 5721004
   x_file: x/5721004.md
   file: src/5/5721004.md
@@ -513,6 +562,8 @@ o11na:
 
 wkdus222:
   name: wkdus222
+  aliases:
+  - 洛思
   x: wkdus222
   x_file: x/wkdus222.md
   file: src/W/wkdus222.md
@@ -779,6 +830,8 @@ kimjeewoo529:
 
 ChoiSeolhwa:
   name: 崔雪华
+  aliases:
+  - 최설화
   x: ChoiSeolhwa
   x_file: x/ChoiSeolhwa.md
   file: src/C/ChoiSeolhwa.md
@@ -786,6 +839,8 @@ ChoiSeolhwa:
 
 GirlCrush:
   name: 보미쇼
+  aliases:
+  - Bomi
   x: GirlCrush
   x_file: x/GirlCrush.md
   file: src/G/GirlCrush.md
@@ -821,12 +876,16 @@ nikumikyo:
 
 ShinSaeRom:
   name: 辛赛伦
+  aliases:
+  - 신새롬
   x: ShinSaeRom
   x_file: x/ShinSaeRom.md
   file: src/S/ShinSaeRom.md
   status: 80
 TS:
   name: TS酱酱
+  aliases:
+  - 蓓蓓酱
   x: 
   file: src/T/TS.md
   status: 80
@@ -845,6 +904,8 @@ StepanieKolman:
 
 LunaRodriguezMonteroLunaTrapLunaRM:
   name: Luna Rodriguez Montero
+  aliases:
+  - Luna Trap Luna RM
   x: 
   file: src/L/LunaRodriguezMonteroLunaTrapLunaRM.md
   status: 80
@@ -863,12 +924,18 @@ kaede:
 
 Chengxinglin:
   name: 城星凜
+  aliases:
+  - 星セリ
+  - 金城りせ
   x: 
   file: src/C/Chengxinglin.md
   status: 80
 
 YukoMomohi:
   name: 桃姫優子
+  aliases:
+  - 君野ここ
+  - Yuko Momohi
   x: 
   file: src/Y/YukoMomohi.md
   status: 80
@@ -1041,6 +1108,8 @@ deer:
 
 Yueya:
   name: 月牙
+  aliases:
+  - 性感电臀女王
   x: 
   region: 中国
   file: src/Y/Yueya.md
@@ -1066,12 +1135,16 @@ Jikey:
 
 KimHaNeulHyena:
   name: 金荷娜
+  aliases:
+  - Kim Ha Neul
   x: 
   file: src/K/KimHaNeulHyena.md
   status: 80
 
 Hyena:
   name: 荷娜
+  aliases:
+  - 정혜나
   x: 
   file: src/H/Hyena.md
   status: 80
@@ -1085,6 +1158,8 @@ Kexiaodedanchun:
 
 Seulbi:
   name: 瑟妃
+  aliases:
+  - 슬비
   x: 
   file: src/S/Seulbi.md
   status: 80
@@ -1189,6 +1264,8 @@ Yaoyaoxiaoyaojing:
 
 Yaomeinvwanghulijing:
   name: 妖媚女王狐狸精
+  aliases:
+  - 妲己专职勾引
   x: 
   file: src/Y/Yaomeinvwanghulijing.md
   status: 80
@@ -1208,6 +1285,8 @@ Qiumingshanrushen:
 
 JJiongwltn9818winktv:
   name: 찌옹
+  aliases:
+  - JJiong
   x: 
   region: 韩国
   file: src/J/JJiongwltn9818winktv.md
@@ -1215,6 +1294,8 @@ JJiongwltn9818winktv:
 
 Apple:
   name: 사과
+  aliases:
+  - 苹果
   x: 
   region: 韩国
   file: src/A/Apple.md
@@ -1222,6 +1303,9 @@ Apple:
 
 carpediem110392winktv:
   name: 율이
+  aliases:
+  - 崔黛恩
+  - 黛恩娜
   x: 
   region: 韩国
   file: src/C/carpediem110392winktv.md
@@ -1260,6 +1344,8 @@ Siwanvshen:
 
 Erciyuankuangreshaonv:
   name: 二次元狂热少女
+  aliases:
+  - 甜甜圈
   x: 
   file: src/E/Erciyuankuangreshaonv.md
   status: 80
@@ -1279,6 +1365,10 @@ Xinmeimei:
 
 lovable33AfreecaTV:
   name: 妲熙
+  aliases:
+  - 다희
+  - 韩国主播圆圆
+  - 탱글다희
   x: 
   region: 韩国
   file: src/L/lovable33AfreecaTV.md
@@ -1305,6 +1395,9 @@ Xiaoenya:
 
 00:
   name: 紫惜姐姐
+  aliases:
+  - 00后超级凶
+  - 00后超级胸
   x: 
   region: 中国
   file: src/0/00.md
@@ -1333,6 +1426,9 @@ Xiaoyuechaonaisi:
 
 Anna:
   name: 钱宝宝
+  aliases:
+  - 玉兔兔
+  - 安娜Anna
   x: 
   region: 中国
   file: src/A/Anna.md
@@ -1346,6 +1442,8 @@ Xiaaxia:
 
 Naiyoumeimei:
   name: 奶油妹妹
+  aliases:
+  - 小卓
   x: 
   file: src/N/Naiyoumeimei.md
   status: 80
@@ -1410,6 +1508,9 @@ Xiaoluluanzhuang:
 
 Yiman:
   name: 以曼
+  aliases:
+  - 英熙
+  - 在熙
   x: 
   region: 中国
   file: src/Y/Yiman.md
@@ -1455,12 +1556,16 @@ Naiyoutianxin:
 
 Gaoyinxing:
   name: 高銀星
+  aliases:
+  - 고은별
   x: 
   file: src/G/Gaoyinxing.md
   status: 80
 
 NAGISANagesa:
   name: NAGISA魔物喵
+  aliases:
+  - Nagesa小清
   x: 
   file: src/N/NAGISANagesa.md
   status: 80
@@ -1479,18 +1584,24 @@ Majixiaotuzi:
 
 LINABUBUJKF:
   name: 台灣藤井LINA
+  aliases:
+  - 布布
   x: 
   file: src/L/LINABUBUJKF.md
   status: 80
 
 Buchunxuemei:
   name: 不纯学妹
+  aliases:
+  - 树屋灵灵
   x: 
   file: src/B/Buchunxuemei.md
   status: 80
 
 Dongbeiyanzhixuesheng:
   name: 东北颜值学生
+  aliases:
+  - 炉果
   x: 
   region: 中国
   file: src/D/Dongbeiyanzhixuesheng.md
@@ -1498,6 +1609,11 @@ Dongbeiyanzhixuesheng:
 
 Wangdapao:
   name: 王大炮
+  aliases:
+  - 卯卯
+  - 卯哥
+  - 相声演员的自我修养
+  - 卯卯少女
   x: 
   region: 中国
   file: src/W/Wangdapao.md
@@ -1534,6 +1650,10 @@ Fnaishuimitao:
 
 Nanbeibei:
   name: 南北北
+  aliases:
+  - 葱姜蒜
+  - 西东东
+  - 真的好温柔
   x: 
   region: 中国
   file: src/N/Nanbeibei.md
@@ -1548,6 +1668,8 @@ Ananlaoshi:
 
 OkitaMisuzu:
   name: 沖田美鈴
+  aliases:
+  - Okita Misuzu
   x: 
   file: src/O/OkitaMisuzu.md
   status: 80
@@ -1589,6 +1711,9 @@ Mia:
 
 Xirui:
   name: 希瑞
+  aliases:
+  - 性感黛西
+  - 小崽崽
   x: 
   region: 中国
   file: src/X/Xirui.md
@@ -1596,6 +1721,9 @@ Xirui:
 
 baby:
   name: 熙熙baby
+  aliases:
+  - 茜宝
+  - 西宝
   x: 
   region: 中国
   file: src/B/baby.md
@@ -1603,12 +1731,17 @@ baby:
 
 SandyCoco:
   name: 可欣
+  aliases:
+  - Sandy Coco
+  - 蔡欣蓓
   x: 
   file: src/S/SandyCoco.md
   status: 80
 
 MikiWu20EGirls:
   name: 吴美希
+  aliases:
+  - Miki Wu
   x: 
   file: src/M/MikiWu20EGirls.md
   status: 80
@@ -1627,6 +1760,9 @@ Yalisha:
 
 AlleyBella:
   name: 贝拉Bella
+  aliases:
+  - Alley
+  - 錢昱慈
   x: 
   region: 台湾
   file: src/A/AlleyBella.md
@@ -1775,6 +1911,8 @@ CodiVore:
 
 smoneyordieonlyfansSkyBri:
   name: smoneyordie->onlyfans
+  aliases:
+  - Sky Bri
   x: 
   file: src/S/smoneyordieonlyfansSkyBri.md
   status: 80
@@ -1823,6 +1961,8 @@ Fujianxiongmei:
 
 lyainevan:
   name: 特莱莎
+  aliases:
+  - @lyainevan
   x: 
   file: src/L/lyainevan.md
   status: 80
@@ -1986,6 +2126,9 @@ Meiyao:
 
 SeoaliveDodo:
   name: 서아
+  aliases:
+  - Seoa
+  - live Dodo
   x: 
   file: src/S/SeoaliveDodo.md
   status: 80
@@ -2004,6 +2147,8 @@ Xiaoyali:
 
 BagelSoo:
   name: 베이글쑤
+  aliases:
+  - Bagel Soo
   x: 
   file: src/B/BagelSoo.md
   status: 80
@@ -2034,6 +2179,8 @@ Huiyeji:
 
 Zizixi:
   name: 子子西
+  aliases:
+  - 小露西西
   x: 
   file: src/Z/Zizixi.md
   status: 80
@@ -2052,12 +2199,16 @@ Gaotaituinvjiaoguan:
 
 Xiaojian:
   name: 小简
+  aliases:
+  - 一只可爱简
   x: 
   file: src/X/Xiaojian.md
   status: 80
 
 Yinanna:
   name: 伊南娜
+  aliases:
+  - 余小c
   x: 
   file: src/Y/Yinanna.md
   status: 80
@@ -2184,6 +2335,8 @@ Ruanmeiyaoyaole:
 
 LisaOkko:
   name: 林雅儿
+  aliases:
+  - Lisa Okko
   x: 
   file: src/L/LisaOkko.md
   status: 80
@@ -2244,6 +2397,8 @@ Yanpanpan:
 
 FantasyFactory:
   name: 小丁
+  aliases:
+  - Fantasy Factory
   x: 
   file: src/F/FantasyFactory.md
   status: 80
@@ -2286,12 +2441,16 @@ CrystalClark:
 
 YeonWoo:
   name: 연우
+  aliases:
+  - Yeon Woo
   x: 
   file: src/Y/YeonWoo.md
   status: 80
 
 Chuanyunyin:
   name: 穿云音
+  aliases:
+  - 妙妙音
   x: 
   file: src/C/Chuanyunyin.md
   status: 80
@@ -2328,6 +2487,9 @@ roro:
 
 Chenruochu:
   name: 陈若初
+  aliases:
+  - 陈陈H杯
+  - 陈菲儿
   x: 
   file: src/C/Chenruochu.md
   status: 80
@@ -2364,6 +2526,8 @@ kim3857pandatv:
 
 Palisi:
   name: 帕里斯
+  aliases:
+  - 瑞瑞
   x: 
   file: src/P/Palisi.md
   status: 80
@@ -2394,6 +2558,8 @@ Zaixiaxiaoyang:
 
 Shengyouxiaomeimo:
   name: 声优小魅魔
+  aliases:
+  - 小恶龙
   x: 
   file: src/S/Shengyouxiaomeimo.md
   status: 80
@@ -2424,6 +2590,8 @@ Laohucai:
 
 CarlaGrace:
   name: 香港欲女
+  aliases:
+  - Carla Grace
   x: 
   file: src/C/CarlaGrace.md
   status: 80
@@ -2472,12 +2640,16 @@ FhmAomam:
 
 ArisaraKarbdecho:
   name: 棒棒妹
+  aliases:
+  - Arisara Karbdecho
   x: 
   file: src/A/ArisaraKarbdecho.md
   status: 80
 
 JoeyChua:
   name: 蔡卓宜
+  aliases:
+  - Joey Chua
   x: 
   file: src/J/JoeyChua.md
   status: 80
@@ -2514,12 +2686,16 @@ Toxic:
 
 Pyoeunji:
   name: 표은지
+  aliases:
+  - 朴恩智
   x: 
   file: src/P/Pyoeunji.md
   status: 80
 
 FaiiOrapunPitta:
   name: Faii Orapun
+  aliases:
+  - Pitta
   x: 
   file: src/F/FaiiOrapunPitta.md
   status: 80
@@ -2652,12 +2828,16 @@ LENivayaAya:
 
 Linxingmei:
   name: 林性美
+  aliases:
+  - 임성미
   x: 
   file: src/L/Linxingmei.md
   status: 80
 
 Liushifei:
   name: 刘世菲
+  aliases:
+  - 류세비
   x: 
   file: src/L/Liushifei.md
   status: 80
@@ -2694,6 +2874,8 @@ Punima3:
 
 Pujilan:
   name: 朴姬兰
+  aliases:
+  - 박기량
   x: 
   file: src/P/Pujilan.md
   status: 80
@@ -2718,6 +2900,9 @@ Sayafox:
 
 SongJooA:
   name: 宋珠儿
+  aliases:
+  - 송주아
+  - Song JooA
   x: 
   file: src/S/SongJooA.md
   status: 80
@@ -2808,12 +2993,16 @@ GIGI:
 
 Xuanzi:
   name: 玄子
+  aliases:
+  - 顾桥楠
   x: 
   file: src/X/Xuanzi.md
   status: 80
 
 SeoRina:
   name: 徐瑞娜
+  aliases:
+  - 서리나
   x: 
   file: src/S/SeoRina.md
   status: 80
@@ -2916,36 +3105,48 @@ yoyo:
 
 PorimaCheng:
   name: 郑伊庭
+  aliases:
+  - Porima Cheng
   x: 
   file: src/P/PorimaCheng.md
   status: 80
 
 Candy:
   name: 郑稳雯
+  aliases:
+  - Candy糖糖
   x: 
   file: src/C/Candy.md
   status: 80
 
 LolitaCheng:
   name: 张慧敏
+  aliases:
+  - Lolita Cheng
   x: 
   file: src/L/LolitaCheng.md
   status: 80
 
 Zhaoningning:
   name: 赵宁宁
+  aliases:
+  - 小隋棠
   x: 
   file: src/Z/Zhaoningning.md
   status: 80
 
 TuangratChatsathavorn:
   name: Tuangrat Chatsathavorn
+  aliases:
+  - ตวงรัตน์ ชาติสถาวร
   x: 
   file: src/T/TuangratChatsathavorn.md
   status: 80
 
 Xiaxiyao:
   name: 夏羲瑶
+  aliases:
+  - 潘霜霜
   x: 
   file: src/X/Xiaxiyao.md
   status: 80

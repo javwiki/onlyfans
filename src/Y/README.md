@@ -13,6 +13,7 @@
 - [@yuna_sirobuta](./yuna_sirobuta.md) — 🇯🇵 日本 / 23.76 万 X 粉丝
 - [@yuringomen](./yuringomen.md) — 🇯🇵 日本
 - [@yuumeilyn](./yuumeilyn.md) — 🇹🇼 台湾 / 100 万 X 粉丝
+- [@yonuchaan](./yonuchaan.md) — 🇰🇷 韩国 / OnlyFans 创作者
 - [@yututu](./yututu.md) — 🇨🇳 中国大陆 / 快手网红转型
 
 ---
