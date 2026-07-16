@@ -2,7 +2,9 @@
 
 | Tag | 文章数 |
 |-----|--------|
-| [NSFW](NSFW.md) | 5 |
+| [NSFW](NSFW.md) | 6 |
+| [adultmodel](adultmodel.md) | 1 |
+| [booty](booty.md) | 1 |
 | [cosplay](cosplay.md) | 5 |
 | [curvy](curvy.md) | 1 |
 | [gamer](gamer.md) | 1 |
@@ -17,6 +19,6 @@
 | [混血](混血.md) | 1 |
 | [直播](直播.md) | 1 |
 | [福利姬](福利姬.md) | 1 |
-| [美国](美国.md) | 1 |
+| [美国](美国.md) | 2 |
 | [菲律宾](菲律宾.md) | 1 |
 | [跨性别](跨性别.md) | 1 |
