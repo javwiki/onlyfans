@@ -11,8 +11,8 @@
 | [gamer](gamer.md) | 1 |
 | [gaming](gaming.md) | 1 |
 | [latina](latina.md) | 1 |
-| [milf](milf.md) | 1 |
-| [natural tits](natural-tits.md) | 1 |
+| [milf](milf.md) | 2 |
+| [natural tits](natural-tits.md) | 2 |
 | [petite](petite.md) | 1 |
 | [trans](trans.md) | 1 |
 | [中国](中国.md) | 2 |
