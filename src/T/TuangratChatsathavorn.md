@@ -1,1 +1,0 @@
-# Tuangrat Chatsathavorn

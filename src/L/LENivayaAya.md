@@ -1,1 +1,0 @@
-# LENivaya Aya

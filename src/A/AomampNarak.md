@@ -1,1 +1,0 @@
-# Aomamp Narak
