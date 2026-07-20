@@ -1,1 +1,0 @@
-# Rocksy Light

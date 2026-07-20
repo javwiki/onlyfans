@@ -1,1 +1,0 @@
-# Cara Rose
