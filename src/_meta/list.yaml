@@ -251,6 +251,15 @@ Yves_bunny:
   myfans: Yves_bunny
   file: src/Y/Yves_bunny.md
   status: 80
+
+Yooheejade:
+  name: 小Annie
+  region: 中国
+  x: Yooheejade
+  telegram: yooheejade
+  file: src/Y/Yooheejade.md
+  status: 80
+
 yoshi9467:
   name: โยชิ ธันชนก
   aliases:
