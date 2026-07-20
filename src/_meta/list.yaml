@@ -1013,12 +1013,6 @@ LunaRodriguezMonteroLunaTrapLunaRM:
   file: src/L/LunaRodriguezMonteroLunaTrapLunaRM.md
   status: 80
 
-megumi:
-  name: megumi
-  x: 
-  file: src/M/megumi.md
-  status: 80
-
 kaede:
   name: 水無楓
   x: 
@@ -3046,12 +3040,6 @@ Xiaozezhenzhu:
   file: src/X/Xiaozezhenzhu.md
   status: 80
 
-Xiaoqiai:
-  name: 筱崎爱
-  x: 
-  file: src/X/Xiaoqiai.md
-  status: 80
-
 Xiaodaotengzi:
   name: 小岛藤子
   x: 
@@ -3144,12 +3132,6 @@ Yangchenchen:
   name: 杨晨晨
   x: 
   file: src/Y/Yangchenchen.md
-  status: 80
-
-Yizhimeng:
-  name: 伊织萌
-  x: 
-  file: src/Y/Yizhimeng.md
   status: 80
 
 Yuzhu:
