@@ -3240,6 +3240,29 @@ tswutong:
   file: src/t/tswutong.md
   status: 70
 
+UqGto:
+  name: Photo Power
+  region: 中国
+  x: UqGto
+  tags:
+  - 摄影
+  - 擦边
+  file: src/u/UqGto.md
+  status: 70
+
+Arno0226:
+  name: mKIYO
+  aliases:
+  - 阿诺
+  region: 中国
+  x: Arno0226
+  tags:
+  - 伪娘
+  - 男娘
+  - cosplay
+  file: src/a/Arno0226.md
+  status: 70
+
 Yuki_Onna90:
   name: 𝓨𝓾𝓴𝓲 𝓞𝓷𝓷𝓪
   region: 泰国
