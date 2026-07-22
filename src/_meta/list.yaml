@@ -3214,6 +3214,32 @@ LALADELUXXX:
   file: src/l/LALADELUXXX.md
   status: 80
 
+windmaomi:
+  name: 五彩斑斓的黑猫
+  aliases:
+  - windmaoma
+  region: 中国
+  x: windmaomi
+  x_alt: windmaoma
+  telegram: dagodagom
+  tags:
+  - 伪娘
+  - 药娘
+  - brat
+  file: src/w/windmaomi.md
+  status: 70
+
+tswutong:
+  name: 彤珠
+  region: 中国
+  x: tswutong
+  telegram: tstongzhu2
+  tags:
+  - transgender
+  - ts0
+  file: src/t/tswutong.md
+  status: 70
+
 meriol_chan:
   name: meriol chan
   aliases:
