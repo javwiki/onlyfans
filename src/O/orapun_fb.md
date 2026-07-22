@@ -18,7 +18,8 @@ tags: []
 - **Instagram**: [@orapunfaii](https://instagram.com/orapunfaii) - 1.134M 粉丝, 1663 帖子
 - **OnlyFans**: [imfaii](https://onlyfans.com/imfaii)
 - **YouTube**: [Linktree](https://linktr.ee/Orapunfaii) 中有链接
-- **LINE**: 有 LINE 好友功能
+- **TikTok**: [@faiiorapun](https://www.tiktok.com/@faiiorapun) - 881.6K 粉丝, 10.8M 点赞
+- **LINE**: [lin.ee/smVzaUw](http://lin.ee/smVzaUw)
 - **Linktree**: [linktr.ee/Orapunfaii](https://linktr.ee/Orapunfaii)
 
 ## 详情
