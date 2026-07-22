@@ -6,6 +6,8 @@
 
 ## 🧑‍🎤 博主
 
+- [@imsocutesexy](./imsocutesexy.md) — 🇨🇳 中国
+- [@itseunchae](./itseunchae.md) — 🇰🇷 韩国
 - [@izayoiRui](./izayoiRui.md) — 🇨🇳 中国
 
 ---

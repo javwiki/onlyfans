@@ -6,6 +6,7 @@
 
 ## 🧑‍🎤 博主
 
+- [@saya_mame_dayo](./saya_mame_dayo.md) — 🇯🇵 日本
 - [@seo_ahn](./seo_ahn.md) — 🇰🇷 韩国顶级 BJ
 - [@skyexsummers](./skyexsummers.md)
 - [@Sofie](./Sofie.md) — 🇹🇭 泰国

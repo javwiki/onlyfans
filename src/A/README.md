@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-（暂无）
+- [@averyfuta57](./averyfuta57.md) — 🇨🇦 加拿大 / Avery Tepes (TS/Shemale)
 
 ---
 
