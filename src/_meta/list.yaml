@@ -3071,6 +3071,13 @@ minami_airi_sa:
   file: src/m/minami_airi_sa.md
   status: 80
 
+shuyangbabe:
+  name: 南忘
+  region: 中国
+  x: shuyangbabe
+  file: src/s/shuyangbabe.md
+  status: 70
+
 meriol_chan:
   name: meriol chan
   aliases:
