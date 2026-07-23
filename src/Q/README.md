@@ -6,7 +6,8 @@
 
 ## 🧑‍🎤 博主
 
-_（在此添加博主链接，格式：[\`@username\`](./username.md) — 一句话简介）_
+- [@Qingxin](./Qingxin.md) — 清心
+- [@Qiumingshanrushen](./Qiumingshanrushen.md) — 秋名山乳神
 
 ---
 

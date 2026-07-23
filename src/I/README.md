@@ -6,9 +6,11 @@
 
 ## 🧑‍🎤 博主
 
-- [@imsocutesexy](./imsocutesexy.md) — 🇨🇳 中国
-- [@itseunchae](./itseunchae.md) — 🇰🇷 韩国
-- [@izayoiRui](./izayoiRui.md) — 🇨🇳 中国
+- [@IndianTwins](./IndianTwins.md) — Indian Twins
+- [@IzzyWilde](./IzzyWilde.md) — Izzy Wilde
+- [@imsocutesexy](./imsocutesexy.md) — imsocutesexy / @imsocutesexy
+- [@itseunchae](./itseunchae.md) — 장은채 / @itseunchae
+- [@izayoiRui](./izayoiRui.md) — 十六夜淚 / @izayoiRui
 
 ---
 

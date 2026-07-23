@@ -6,8 +6,9 @@
 
 ## 🧑‍🎤 博主
 
-- [@UU_Bigs](./UU_Bigs.md) — 🇨🇳 中国 / AI 伪娘/TS 内容
-- [@ui_eve69](./ui_eve69.md) — 🇯🇵 仙台 / I 罩杯写真模特 / 悠木イヴ
+- [@UU_Bigs](./UU_Bigs.md) — UㅅU / @UU_Bigs
+- [@UqGto](./UqGto.md) — Photo Power / @UqGto
+- [@ui_eve69](./ui_eve69.md) — 悠木イヴ / @Ui_Eve69
 
 ---
 

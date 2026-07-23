@@ -23,7 +23,8 @@ target
 book/
 bingscreenshot.png
 output.txt
-src/SUMMARY.md
+# src/SUMMARY.md is tracked by git; do not ignore it
+# src/SUMMARY.md
 .reasonix/
 .commandcode/
 .mimocode/
