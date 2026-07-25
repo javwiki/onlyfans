@@ -2070,9 +2070,12 @@ miohot:
   status: 80
 
 Obokozu:
-  name: Obokozu
+  name: OBOKOZU
+  region: 意大利/日本
   x: Obokozu
+  onlyfans: obokozu
   file: src/O/Obokozu.md
+  x: Obokozu
   status: 80
 
 Milkyth:
@@ -3565,3 +3568,11 @@ MoroccanZina_:
   file: src/M/MoroccanZina_.md
   x: MoroccanZina_
   status: 80
+
+baby_dollgem:
+  name: Baby Dollgem
+  region: 未知
+  x: baby_dollgem
+  file: src/B/baby_dollgem.md
+  x: baby_dollgem
+  status: 50
