@@ -2063,9 +2063,15 @@ KylieNG:
   status: 80
 
 mauymyb:
-  name: 米布儿
+  name: iammyb
+  region: 泰国 (曼谷)
   x: mauymyb
+  x_alt: muaymyb1
+  onlyfans: muaymyb
+  line: iammyb
+  facebook: miyabii.nuam.5
   file: src/M/mauymyb.md
+  x: mauymyb
   status: 80
 
 miohot:
@@ -3733,14 +3739,3 @@ wuuuuuucy:
   file: src/W/wuuuuuucy.md
   x: wuuuuuucy
   status: 70
-
-muaymyb1:
-  name: iammyb
-  region: 泰国 (曼谷)
-  x: muaymyb1
-  onlyfans: muaymyb
-  line: iammyb
-  facebook: miyabii.nuam.5
-  file: src/M/muaymyb1.md
-  x: muaymyb1
-  status: 80
