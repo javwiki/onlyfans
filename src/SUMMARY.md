@@ -496,6 +496,7 @@
   * [月牙](Y/Yueya.md)
   * [@yui_xin_tw](Y/yui_xin_tw.md)
   * [@Yuki_Onna90](Y/Yuki_Onna90.md)
+  * [@yukijimiwan](Y/yukijimiwan.md)
   * [桃姫優子](Y/YukoMomohi.md)
   * [yumi_03](Y/yumi_03.md)
   * [芋喵喵](Y/Yumiaomiao.md)
