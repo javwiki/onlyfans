@@ -105,6 +105,7 @@
   * [陈小魔](C/Chenxiaomo.md)
   * [cherida](C/cherida.md)
   * [爱妃](C/Cherilyn.md)
+  * [@Cheryl_Bloss_](C/Cheryl_Blossom.md)
   * [Chessie Rae](C/ChessieRae.md)
   * [Chinhbaby](C/Chinhbaby.md)
   * [chitarlight](C/chitarlight.md)
