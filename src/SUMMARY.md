@@ -57,6 +57,7 @@
   * [@ammy_rouse_x](A/ammy_rouse_x.md)
   * [Ammy Rouse](A/AmmyRouse.md)
   * [安安老师](A/Ananlaoshi.md)
+  * [@angel_wicky_ii](A/Angel_Wicky.md)
   * [@Angellicagood](A/angellicagood.md)
   * [安吉](A/Anji.md)
   * [钱宝宝](A/Anna.md)
