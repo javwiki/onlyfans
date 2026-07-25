@@ -368,6 +368,7 @@
   * [软软趴在床单上](R/Ruanruanpazaichuangdanshang.md)
   * [软软小湿妹](R/Ruanruanxiaoshimei.md)
   * [@ruruka820](R/ruruka820.md)
+  * [@ruth_hotlee](R/ruth_hotlee.md)
 * [S — 博主列表](S/README.md)
   * [설희](S/s5874s.md)
   * [Samantha Flair](S/SamanthaFlair.md)
