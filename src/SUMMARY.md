@@ -218,6 +218,7 @@
   * [Korra Del Rio](K/KorraDelRio.md)
   * [@krebs_tina71418](K/krebs_tina71418.md)
   * [@kuaijiu_jium](K/kuaijiu_jium.md)
+  * [@kxoktty](K/kxoktty.md)
   * [Neat](K/kyl1012.md)
   * [Kylie-NG](K/KylieNG.md)
 * [L — 博主列表](L/README.md)
