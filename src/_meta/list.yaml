@@ -1120,10 +1120,13 @@ littlemouse_patchy:
   status: 80
 
 milky_hamasakiii:
-  name: milky_hamasakiii
-  x: milky_hamasakiii
-  x_file: x/milky_hamasakiii.md
+  name: Milky_hamasakii
+  region: 泰国
+  x: Milky_hamasakii
+  x_alt: milky_hamasakiii
+  facebook: milky2019
   file: src/M/milky_hamasakiii.md
+  x: Milky_hamasakii
   status: 80
 
 nikumikyo:
