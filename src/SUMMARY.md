@@ -427,6 +427,7 @@
   * [我是你可爱的小猫](W/Woshinikeaidexiaomao.md)
   * [吴丽娜](W/Wulina.md)
   * [吴清雅](W/Wuqingya.md)
+  * [@wuuuuuucy](W/wuuuuuucy.md)
   * [吴X晶](W/WuXjing.md)
 * [X — 博主列表](X/README.md)
   * [XfuukaX](X/XfuukaX.md)
