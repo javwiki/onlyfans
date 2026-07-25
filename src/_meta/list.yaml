@@ -3624,3 +3624,15 @@ kxoktty:
   file: src/K/kxoktty.md
   x: kxoktty
   status: 70
+
+meikouii:
+  name: Mei Kou
+  region: 美国
+  x: meikouii
+  twitch: meikoui
+  instagram: meikoui
+  discord: 6EyQHWdhkx
+  website: passes.com/meikou
+  file: src/M/meikouii.md
+  x: meikouii
+  status: 80
