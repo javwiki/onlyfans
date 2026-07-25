@@ -378,7 +378,6 @@
   * [李韶姬](S/ssm1004.md)
   * [설희](S/sss0405.md)
   * [썬비키 (Ssunbiki)](S/ssunbiki.md)
-  * [Stepanie Kolman](S/StepanieKolman.md)
   * [@StephanieKolman](S/StephanieKolman.md)
   * [苏小美波波妹](S/Suxiaomeibobomei.md)
   * [@suyeon_soe](S/suyeon_soe.md)

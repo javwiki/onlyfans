@@ -1,1 +1,0 @@
-# Stepanie Kolman
