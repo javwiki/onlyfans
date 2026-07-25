@@ -15,6 +15,7 @@ Yingnoey2808（@yingnoey4），泰国出身的 OnlyFans 创作者。X 拥有 **1
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/yingnoey4) — 140 万粉丝
+- [Instagram](https://instagram.com/yingnoey2808)
 - [OnlyFans](https://onlyfans.com/noey_yanisa) — 官方页面
 
 ---
