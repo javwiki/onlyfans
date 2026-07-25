@@ -3636,3 +3636,12 @@ meikouii:
   file: src/M/meikouii.md
   x: meikouii
   status: 80
+
+mortaomaotor:
+  name: Mortao Maotor
+  region: 泰国
+  x: mortaomaotor
+  patreon: MortaoMaotor
+  file: src/M/mortaomaotor.md
+  x: mortaomaotor
+  status: 80
