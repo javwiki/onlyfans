@@ -498,6 +498,7 @@
   * [桃姫優子](Y/YukoMomohi.md)
   * [yumi_03](Y/yumi_03.md)
   * [芋喵喵](Y/Yumiaomiao.md)
+  * [@yumikomiyaki_](Y/yumikomiyaki_.md)
   * [@yuna_sirobuta](Y/yuna_sirobuta.md)
   * [@yunablove](Y/yunablove.md)
   * [@yunadoll117](Y/yunadoll117.md)
