@@ -416,8 +416,12 @@ megnutt02:
   status: 80
 miebb:
   name: mie
+  aliases:
+  - 林美惠子
+  - Mieko
   region: 🇨🇳 中国
   x: miebb
+  onlyfans: miebb
   file: src/M/miebb.md
   x: miebb
   status: 80
@@ -3692,9 +3696,26 @@ Numkhin40664711:
   name: Numkhing
   region: 泰国
   x: Numkhin40664711
+  instagram: numkhing1997
+  tiktok: numkhing221
   file: src/N/Numkhin40664711.md
   x: Numkhin40664711
   status: 70
+
+allecakes:
+  name: Allecakes
+  region: 待核验
+  onlyfans: allecakes
+  instagram: allecakes
+  twitch: allecakes
+  file: src/A/Allecakes.md
+  status: 70
+
+AshleyTervort:
+  name: Ashley Tervort
+  region: 美国
+  file: src/A/Ashley_Tervort.md
+  status: 50
 
 iceza7799:
   name: ice
