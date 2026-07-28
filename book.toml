@@ -4,6 +4,9 @@ language = "zh"
 src = "src"
 title = "OnlyFans 博主介绍"
 
+[build]
+create-missing = false
+
 [output.html]
 default-theme = "ayu"
 git-repository-url = "https://github.com/javwiki/onlyfans"

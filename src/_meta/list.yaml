@@ -429,7 +429,7 @@ SkyexSummers:
   name: SkyexSummers
   region: 🇺🇸 美国 (South USA)
   x: SkyexSummers
-  file: src/S/SkyexSummers.md
+  file: src/S/skyexsummers.md
   x: SkyexSummers
   status: 80
 Sofie14175952:
@@ -488,7 +488,7 @@ Yututu:
   name: Dian-Bing Wang
   region: 🇨🇳 中国
   x: Yututu
-  file: src/Y/Yututu.md
+  file: src/Y/yututu.md
   x: Yututu
   status: 70
 mina0977:
@@ -2991,7 +2991,7 @@ retsu_dao:
   x: Retsu_dao
   x_file: x/retsu_dao.md
   region: 🇯🇵 日本
-  file: src/R/retsu_dao.md
+  file: src/R/Retsu_dao.md
   x: retsu_dao
   status: 80
 
