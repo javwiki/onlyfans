@@ -47,9 +47,13 @@ jobs:
       - name: Install mdBook, mdbook-summarizer and mdbook-tagging
         run: |
           rustup update stable
-          cargo install --locked mdbook
-          cargo install --locked mdbook-summarizer
-          cargo install --locked mdbook-tagging
+          for tool in mdbook mdbook-summarizer mdbook-tagging; do
+            if command -v "$tool" &>/dev/null; then
+              echo "$tool $( $tool --version ) cached, skipping install"
+            else
+              cargo install --locked "$tool"
+            fi
+          done
       - name: Generate tag index pages with mdbook-tagging
         run: |
           mdbook-tagging generate .
