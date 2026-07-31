@@ -2107,7 +2107,9 @@ Milkyth:
 
 AmiraWest:
   name: Amira West
+  region: 美国
   x: AmiraWest
+  onlyfans: amirawest
   file: src/A/AmiraWest.md
   status: 80
 
