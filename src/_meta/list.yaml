@@ -2107,8 +2107,11 @@ Milkyth:
 
 AmiraWest:
   name: Amira West
-  region: 美国
-  x: AmiraWest
+  aliases:
+  - Nyla Lueeth
+  - Nyla San
+  region: 苏丹
+  x: amirawest_
   onlyfans: amirawest
   file: src/A/AmiraWest.md
   status: 80
