@@ -1,0 +1,68 @@
+{
+  "topic_20260705-160819_2b8d6301e110a2c1": {
+    "stage": 3,
+    "userTurns": 4,
+    "basisHash": "884ab7cf534e5434",
+    "updatedAt": 1783961204746
+  },
+  "topic_20260715-164932_9a48534af7a6d649": {
+    "stage": 3,
+    "userTurns": 3,
+    "basisHash": "448440433ddc1949",
+    "updatedAt": 1784136318711
+  },
+  "topic_20260719-092421_5a1e93ddf63048b3": {
+    "stage": 3,
+    "userTurns": 3,
+    "basisHash": "a4bbc5e53e5a2d86",
+    "updatedAt": 1784455198101
+  },
+  "topic_20260722-140328_e4c5b6b15689e621": {
+    "stage": 3,
+    "userTurns": 3,
+    "basisHash": "a6f959bf9ebb7e66",
+    "updatedAt": 1784730594742
+  },
+  "topic_20260723-134123_bfe652bfd7f0fccd": {
+    "stage": 3,
+    "userTurns": 3,
+    "basisHash": "14120ef996abe6ee",
+    "updatedAt": 1784815962749
+  },
+  "topic_20260725-045541_1e44900d5170943e": {
+    "stage": 3,
+    "userTurns": 16,
+    "basisHash": "882529649c5092ae",
+    "updatedAt": 1784969679638
+  },
+  "topic_20260725-123857_358a30afe4eae3f1": {
+    "stage": 3,
+    "userTurns": 3,
+    "basisHash": "62a9e5ff554770f4",
+    "updatedAt": 1784990010078
+  },
+  "topic_20260729-135157_e30e17c12c57736c": {
+    "stage": 3,
+    "userTurns": 3,
+    "basisHash": "ea1c9998163d8f3f",
+    "updatedAt": 1785334184766
+  },
+  "topic_20260731-153925_b59cc52bac7120fb": {
+    "stage": 3,
+    "userTurns": 8,
+    "basisHash": "33341e6ef9bd818e",
+    "updatedAt": 1785575655502
+  },
+  "topic_20260802-132443_94939cafb0271361": {
+    "stage": 1,
+    "userTurns": 1,
+    "basisHash": "694b27e4de22a0ae",
+    "updatedAt": 1785678120909
+  },
+  "topic_20260803-133635_c4f0139e93b9af49": {
+    "stage": 3,
+    "userTurns": 3,
+    "basisHash": "c7616502f9e1824b",
+    "updatedAt": 1785764661066
+  }
+}

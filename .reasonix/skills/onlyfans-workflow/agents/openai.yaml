@@ -1,0 +1,4 @@
+interface:
+  display_name: "完整工作流 Complete Workflow"
+  short_description: "从 X ID 调研到发布的全流程操作"
+  default_prompt: "Complete workflow for creator: {x_id}"
