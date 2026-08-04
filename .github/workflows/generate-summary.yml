@@ -67,6 +67,11 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with mdBook
         run: mdbook build
+      - name: Alias index.html as README.html
+        # mdBook 把 README.md 章节渲染为 index.html（index 预处理器），但正文链接
+        # 只做 .md -> .html 朴素改写，导致 ./README.html、../README.html 404。
+        # 为每个 index.html 生成 README.html 副本，使 README 链接可解析。
+        run: find book -name index.html -execdir cp index.html README.html \;
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
