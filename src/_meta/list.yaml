@@ -2827,6 +2827,11 @@ retsu_dao:
 senyasenyanko:
   name: 柚月せな
   region: 日本
+  tags:
+  - cosplay
+  - japanese
+  - 男の娘
+  - 伪娘
   file: src/S/senyasenyanko.md
   x: senyasenyanko
   status: 80
