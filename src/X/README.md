@@ -38,7 +38,6 @@
 - [@Xuya](./Xuya.md) — 徐雅
 - [@xiaokuiwoainii](./xiaokuiwoainii.md) — 小葵ovo / @xiaokuiwoainii
 - [@xmoondreams](./xmoondreams.md) — Naomi Ventura（Moon） / @xmoondreams
-- [@xxs2xxx](./xxs2xxx.md) — 설희 / @xxs2xxx
 
 ---
 

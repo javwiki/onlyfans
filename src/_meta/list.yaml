@@ -556,12 +556,6 @@ scok5:
   x: scok5
   status: 80
 
-sss0405:
-  name: 설희
-  file: src/S/sss0405.md
-  x: sss0405
-  status: 70
-
 ss0519:
   name: 설희
   aliases:
@@ -574,12 +568,6 @@ ss0519:
   region: 韩国
   file: src/S/ss0519.md
   status: 90
-
-s5874s:
-  name: 설희
-  file: src/S/s5874s.md
-  x: s5874s
-  status: 80
 
 xmoondreams:
   name: Naomi Ventura（Moon）
@@ -596,14 +584,6 @@ xmoondreams:
   file: src/X/xmoondreams.md
   x: xmoondreams
   status: 80
-
-xxs2xxx:
-  name: 설희
-  aliases:
-  - SeolHui
-  file: src/X/xxs2xxx.md
-  x: xxs2xxx
-  status: 70
 
 pupu28:
   name: pupu28

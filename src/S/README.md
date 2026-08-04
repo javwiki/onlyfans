@@ -24,7 +24,6 @@
 - [@SoolinKelter](./SoolinKelter.md) — Soolin Kelter
 - [@StephanieKolman](./StephanieKolman.md) — Steph Kolman 💄 / @StephanieKolman
 - [@Suxiaomeibobomei](./Suxiaomeibobomei.md) — 苏小美波波妹
-- [@s5874s](./s5874s.md) — 설희 / @s5874s
 - [@saya_mame_dayo](./saya_mame_dayo.md) — さやえんどう。 / @saya_mame_dayo
 - [@scok5](./scok5.md) — scok5 / @scok5
 - [@seeyoumm520](./seeyoumm520.md) — 天使西柚 / @seeyoumm520
@@ -35,7 +34,6 @@
 - [@ss0519](./ss0519.md) — 설희 / @ss0519
 - [@ssaimi](./ssaimi.md) — ssaimi
 - [@ssm1004](./ssm1004.md) — 李韶姬 / @ssm1004
-- [@sss0405](./sss0405.md) — 설희 / @sss0405
 - [@ssunbiki](./ssunbiki.md) — 썬비키 (Ssunbiki) / @Ssunbiki
 - [@suyeon_soe](./suyeon_soe.md) — suyeon_soe / @suyeon_soe
 - [@szn_uu_sub](./szn_uu_sub.md) — 川北すずね (かわきたすずね) / @szn_uu_sub
