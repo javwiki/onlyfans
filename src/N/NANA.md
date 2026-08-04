@@ -12,4 +12,4 @@ X 页面显示名称为「Nana」，账号 @nana。简介为「Free online trade
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)

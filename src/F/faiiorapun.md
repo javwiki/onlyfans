@@ -11,4 +11,4 @@ faii orapun（faiiorapun）是一位网络创作者。其 Twitter 账号 @faiior
 
 ---
 
-[◀ 返回 F 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 F 列表](./README.md) · [🏠 首页](../README.md)

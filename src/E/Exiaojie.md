@@ -10,4 +10,4 @@ E小姐（Exiaojie），国内Coser及成人内容创作者，以神秘的"E小�
 
 ---
 
-[◀ 返回 E 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 E 列表](./README.md) · [🏠 首页](../README.md)

@@ -12,4 +12,4 @@ X平台显示名为「lucia andriani」，账号创建于2011年3月，0条推�
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)

@@ -28,4 +28,4 @@ Joyce Zarza 是一位来自美国的 fitness 影响者和 OnlyFans 内容创作�
 
 ---
 
-[◀ 返回 J 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 J 列表](./README.md) · [🏠 首页](../README.md)

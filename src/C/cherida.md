@@ -12,4 +12,4 @@ Instagram 账号为 @cherida，显示名「Cherida Van Dieijen-van Veen」。
 
 ---
 
-[◀ 返回 C 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 C 列表](./README.md) · [🏠 首页](../README.md)

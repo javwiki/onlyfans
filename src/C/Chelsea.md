@@ -11,4 +11,4 @@ Twitter 显示名「chels」，简介为「is this thing on? go birds. nfl fan. 
 
 ---
 
-[◀ 返回 C 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 C 列表](./README.md) · [🏠 首页](../README.md)

@@ -10,4 +10,4 @@ eemiim，成人内容创作者。X 账号 @eemiim 不存在（404），无法获
 
 ---
 
-[◀ 返回 E 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 E 列表](./README.md) · [🏠 首页](../README.md)

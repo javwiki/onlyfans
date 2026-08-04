@@ -10,4 +10,4 @@ X 页面显示名称为「Zoë」，账号 @Nono。位于英国埃克塞特（Ex
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)

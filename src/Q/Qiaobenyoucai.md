@@ -12,4 +12,4 @@ X 账号 @Qiaobenyoucai 返回 404 错误，页面提示「We're unable to show 
 
 ---
 
-[◀ 返回 Q 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 Q 列表](./README.md) · [🏠 首页](../README.md)

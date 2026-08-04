@@ -10,4 +10,4 @@ X 页面显示名称为「P!nk」（美国知名歌手 Pink），账号 @Pink。
 
 ---
 
-[◀ 返回 P 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 P 列表](./README.md) · [🏠 首页](../README.md)

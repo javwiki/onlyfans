@@ -25,4 +25,4 @@ Kiana（@kxoktty），美国 Barbie / Bimbo 风格社交媒体内容创作者。
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)

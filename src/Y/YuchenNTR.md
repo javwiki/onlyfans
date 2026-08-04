@@ -22,4 +22,4 @@ tags: [伪娘, 男娘, 诱受]
 
 ---
 
-[◀ 返回 y 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 y 列表](./README.md) · [🏠 首页](../README.md)

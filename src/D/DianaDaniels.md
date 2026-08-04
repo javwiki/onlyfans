@@ -10,4 +10,4 @@ Diana Daniels（@dianadaniels），科技领域创业者、投资人。X（Twitt
 
 ---
 
-[◀ 返回 D 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 D 列表](./README.md) · [🏠 首页](../README.md)

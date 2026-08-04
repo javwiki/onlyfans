@@ -23,4 +23,4 @@ StellarLoving（@ImStellarLoving），美国洛杉矶出身的成人内容创作
 
 ---
 
-[◀ 返回 I 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 I 列表](./README.md) · [🏠 首页](../README.md)

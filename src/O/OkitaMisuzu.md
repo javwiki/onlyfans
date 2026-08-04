@@ -12,4 +12,4 @@ Instagram 未找到对应账号。
 
 ---
 
-[◀ 返回 O 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 O 列表](./README.md) · [🏠 首页](../README.md)

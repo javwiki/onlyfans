@@ -26,4 +26,4 @@
 - [@ruth_hotlee](./ruth_hotlee.md) — Ruthlee
 ---
 
-[◀ 返回首页](../index.md)
+[◀ 返回首页](../README.md)

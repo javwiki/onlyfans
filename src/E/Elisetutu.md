@@ -10,4 +10,4 @@ OnlyFans 创作者，用户名 Elisetutu，中文名谭晓彤（兔兔），来�
 
 ---
 
-[◀ 返回 E 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 E 列表](./README.md) · [🏠 首页](../README.md)

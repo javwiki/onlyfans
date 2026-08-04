@@ -10,4 +10,4 @@ Faii FB（อรพรรณ สมอหอม，Twitter 显示名 Faii FB）�
 
 ---
 
-[◀ 返回 O 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 O 列表](./README.md) · [🏠 首页](../README.md)

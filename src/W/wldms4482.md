@@ -10,4 +10,4 @@ wldms4482（@wldms4482），其X（Twitter）账号无法访问（可能已被�
 
 ---
 
-[◀ 返回 W 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 W 列表](./README.md) · [🏠 首页](../README.md)

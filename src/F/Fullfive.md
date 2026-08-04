@@ -11,4 +11,4 @@ X 账户（@Fullfive）显示名称为 manfive，所在地 China，简介中含�
 
 ---
 
-[◀ 返回 F 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 F 列表](./README.md) · [🏠 首页](../README.md)

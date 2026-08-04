@@ -30,4 +30,4 @@ tags: [中国, 剧情]
 
 ---
 
-[◀ 返回 S 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 S 列表](./README.md) · [🏠 首页](../README.md)

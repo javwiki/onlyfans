@@ -21,4 +21,4 @@ iammyb，泰国曼谷出身的 OnlyFans 创作者与公众人物。Facebook 拥�
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)

@@ -10,4 +10,4 @@ OnlyFans 创作者，用户名 Gguesting。其 X（Twitter）账户（@Gguesting
 
 ---
 
-[◀ 返回 G 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 G 列表](./README.md) · [🏠 首页](../README.md)

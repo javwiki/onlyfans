@@ -10,4 +10,4 @@ mintmoca3（抹茶🍥）是一位 X（Twitter）创作者，于 2024 年 9 月�
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)

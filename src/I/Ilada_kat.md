@@ -21,4 +21,4 @@ ILada Sikua（@Ilada_kat），泰国出身的数字内容创作者与模特。Fa
 
 ---
 
-[◀ 返回 I 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 I 列表](./README.md) · [🏠 首页](../README.md)

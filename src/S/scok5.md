@@ -12,4 +12,4 @@ scok5 是一位社交媒体创作者，在 X（原 Twitter）上以 @scok5 为�
 
 > ⚠️ 网络搜索未找到更多具体信息。
 
-[◀ 返回 S 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 S 列表](./README.md) · [🏠 首页](../README.md)

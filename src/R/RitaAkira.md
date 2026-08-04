@@ -10,4 +10,4 @@ Rita Akira 是一位社交媒体用户，Twitter 账号 @RitaAkira 创建于2011
 
 ---
 
-[◀ 返回 R 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 R 列表](./README.md) · [🏠 首页](../README.md)

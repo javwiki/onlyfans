@@ -25,4 +25,4 @@ TS张思妮（@TSzhangsini188），中国 TS/Shemale 户外露出内容创作者
 
 ---
 
-[◀ 返回 t 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 t 列表](./README.md) · [🏠 首页](../README.md)

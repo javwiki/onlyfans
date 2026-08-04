@@ -10,4 +10,4 @@ meikoui 是一位创作者。网络搜索未找到该创作者的具体信息。
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)

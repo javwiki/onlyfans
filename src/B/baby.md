@@ -10,4 +10,4 @@ Twitter 显示名「ＣＡＫＥ」，简介为韩文「지금은 사랑할 땐 
 
 ---
 
-[◀ 返回 B 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 B 列表](./README.md) · [🏠 首页](../README.md)

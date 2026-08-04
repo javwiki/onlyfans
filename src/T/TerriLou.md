@@ -10,4 +10,4 @@ Terri Lou。经跨平台网络搜索，未在公开渠道找到关于 Terri Lou 
 
 ---
 
-[◀ 返回 T 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 T 列表](./README.md) · [🏠 首页](../README.md)

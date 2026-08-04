@@ -19,4 +19,4 @@ Isabella Alvarez（@ammy_rouse_x），哥伦比亚 Medellín 出身的跨性别�
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 A 列表](./README.md) · [🏠 首页](../README.md)

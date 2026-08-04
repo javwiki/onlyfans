@@ -25,4 +25,4 @@ tags: [伪娘, 药娘, brat]
 
 ---
 
-[◀ 返回 w 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 w 列表](./README.md) · [🏠 首页](../README.md)

@@ -19,4 +19,4 @@ Leah Wilde（@leahgoeswilde），美国出身的 OnlyFans 创作者。X 拥有 *
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

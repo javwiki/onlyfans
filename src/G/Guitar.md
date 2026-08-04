@@ -22,4 +22,4 @@
 
 > ⚠️ 网络搜索未找到具体 OnlyFans 账号链接。
 
-[◀ 返回 G 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 G 列表](./README.md) · [🏠 首页](../README.md)

@@ -10,4 +10,4 @@ Twitter 显示名「特莱莎」，简介为「谢谢关注，有事私信吧，
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

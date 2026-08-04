@@ -13,4 +13,4 @@ Instagram 账号 @lovesisi 存在，显示名「Sisi Yu」。
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

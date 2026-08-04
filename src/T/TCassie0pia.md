@@ -23,4 +23,4 @@ Cassie（@TCassie0pia），美国出身的成人内容创作者与游戏主播�
 
 ---
 
-[◀ 返回 T 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 T 列表](./README.md) · [🏠 首页](../README.md)

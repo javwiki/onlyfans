@@ -10,4 +10,4 @@ panid69，成人内容创作者。X 账号 @panid69 已被平台暂停，因违�
 
 ---
 
-[◀ 返回 P 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 P 列表](./README.md) · [🏠 首页](../README.md)

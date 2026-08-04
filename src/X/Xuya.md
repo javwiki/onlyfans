@@ -12,4 +12,4 @@
 
 > ⚠️ 网络搜索未找到具体 OnlyFans 创作者信息。X 账号与条目名称不匹配。
 
-[◀ 返回 X 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 X 列表](./README.md) · [🏠 首页](../README.md)

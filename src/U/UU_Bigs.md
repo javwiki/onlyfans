@@ -24,4 +24,4 @@ UㅅU（@UU_Bigs），中国 AI 伪娘/TS 内容创作者。X 拥有 35.9 万粉
 
 ---
 
-[◀ 返回 u 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 u 列表](./README.md) · [🏠 首页](../README.md)

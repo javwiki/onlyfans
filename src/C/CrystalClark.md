@@ -10,4 +10,4 @@ Crystal Clark 是一位社交媒体用户，公开信息较少。网络搜索未
 
 ---
 
-[◀ 返回 C 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 C 列表](./README.md) · [🏠 首页](../README.md)

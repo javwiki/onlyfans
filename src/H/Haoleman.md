@@ -10,4 +10,4 @@ X 账户（@haoleman）显示名称为 Rick Bronson，所在地 Left Coast，账
 
 ---
 
-[◀ 返回 H 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 H 列表](./README.md) · [🏠 首页](../README.md)

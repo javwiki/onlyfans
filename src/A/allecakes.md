@@ -21,4 +21,4 @@
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 A 列表](./README.md) · [🏠 首页](../README.md)

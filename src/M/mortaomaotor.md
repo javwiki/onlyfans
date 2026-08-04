@@ -19,4 +19,4 @@ Mortao Maotor（@mortaomaotor），泰国出身的自拍创作者。自称"Selfi
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)

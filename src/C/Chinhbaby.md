@@ -11,4 +11,4 @@ Chinhbaby，又名77（柒柒），是一位来自台湾的创作者。她在 X�
 
 ---
 
-[◀ 返回 C 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 C 列表](./README.md) · [🏠 首页](../README.md)

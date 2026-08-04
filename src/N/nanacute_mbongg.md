@@ -20,4 +20,4 @@ Sữa（@nanacute_mbongg），越南出身的成人内容创作者。X 拥有 11
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)

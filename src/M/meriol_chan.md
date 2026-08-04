@@ -31,4 +31,4 @@ Meriol Chan（@meriol_chan），自称"smol meri nya 🐰"，是一位 cosplay +
 
 ---
 
-[◀ 返回 m 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 m 列表](./README.md) · [🏠 首页](../README.md)

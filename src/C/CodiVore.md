@@ -11,4 +11,4 @@ Codi Vore，成人内容创作者。X（Twitter）账号 @CodiVore 显示名为�
 
 ---
 
-[◀ 返回 C 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 C 列表](./README.md) · [🏠 首页](../README.md)

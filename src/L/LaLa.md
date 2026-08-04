@@ -10,4 +10,4 @@ X 账户（@lala）显示简介为「Thanks for the love! Its appreciated and al
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

@@ -17,7 +17,7 @@ src/
 │   ├── list.yaml    # 创作者索引（YAML格式）
 │   └── source.md    # 数据来源
 ├── A-Z/             # 按字母分类的博主页面
-├── index.md         # 首页
+├── README.md        # 首页
 └── SUMMARY.md       # 自动生成的目录
 ```
 

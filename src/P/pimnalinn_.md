@@ -19,4 +19,4 @@ pimnalinn（@pimnalinn_），泰国出身的成人内容创作者。X 拥有 344
 
 ---
 
-[◀ 返回 P 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 P 列表](./README.md) · [🏠 首页](../README.md)

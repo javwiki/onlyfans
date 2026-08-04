@@ -20,4 +20,4 @@ Naomiii（@Naomiiihub），日本出身的 OnlyFans 创作者。X 拥有 **73.7 
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)

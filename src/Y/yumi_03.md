@@ -13,4 +13,4 @@ Instagram 账号 @yumi_03 存在，但未设置显示名称。
 
 ---
 
-[◀ 返回 Y 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 Y 列表](./README.md) · [🏠 首页](../README.md)

@@ -11,4 +11,4 @@ imsocutesexy 是一位内容创作者，在 OnlyFans 等平台上活跃。其 X�
 
 ---
 
-[◀ 返回 I 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 I 列表](./README.md) · [🏠 首页](../README.md)

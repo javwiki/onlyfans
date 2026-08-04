@@ -10,4 +10,4 @@ Lena Li（显示名 Lena），信息较为有限。经 Bing 搜索"Lena Li onlyf
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

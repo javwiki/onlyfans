@@ -12,4 +12,4 @@ Twitter 账号 @LilyLou 已被暂停，无法获取信息。
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

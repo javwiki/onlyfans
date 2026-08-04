@@ -29,4 +29,4 @@ pupu噗噗（@gfpupu），中国 OnlyFans/FansOne/Telegram 成人内容创作者
 
 ---
 
-[◀ 返回 g 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 g 列表](./README.md) · [🏠 首页](../README.md)

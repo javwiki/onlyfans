@@ -10,4 +10,4 @@ Twitter 显示名「ananlaoshi」，简介为「I am because you are」。2022 �
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 A 列表](./README.md) · [🏠 首页](../README.md)

@@ -34,4 +34,4 @@ Angellica Good（@Angellicagood），跨性别成人内容创作者和表演者�
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 A 列表](./README.md) · [🏠 首页](../README.md)

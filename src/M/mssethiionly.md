@@ -33,4 +33,4 @@ Shilpa Sethi（ms.sethii），是一位印度血统的内容创作者，活跃�
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)

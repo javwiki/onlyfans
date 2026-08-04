@@ -10,4 +10,4 @@ Niley Hott 是一位网络创作者。经跨平台网络搜索，未在公开渠
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)

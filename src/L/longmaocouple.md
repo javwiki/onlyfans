@@ -10,4 +10,4 @@ X 账号名为 🐱（@longmaocouple），2022年11月加入，关注 5 人，�
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

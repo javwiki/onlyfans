@@ -10,4 +10,4 @@ Mspuiyi（Mspuiyi2）的 Twitter 账号 @Mspuiyi2 当前无法访问（页面返
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)

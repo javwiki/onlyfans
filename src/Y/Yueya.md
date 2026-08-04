@@ -10,4 +10,4 @@ X 账号 @Yueya 显示名「VC」，简介：Shoe lover, nail polish addict, and
 
 ---
 
-[◀ 返回 Y 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 Y 列表](./README.md) · [🏠 首页](../README.md)

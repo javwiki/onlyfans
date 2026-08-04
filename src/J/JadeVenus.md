@@ -12,4 +12,4 @@ Jade Venus 是一位美国跨性别成人模特及内容创作者。X 平台个�
 
 ---
 
-[◀ 返回 J 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 J 列表](./README.md) · [🏠 首页](../README.md)

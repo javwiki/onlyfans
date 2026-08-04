@@ -10,4 +10,4 @@ Katie Thornton 是一位社交媒体用户，Twitter 账号 @KatieThornton 创�
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)

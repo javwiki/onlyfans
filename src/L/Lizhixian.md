@@ -10,4 +10,4 @@ X 账号 @lizhixian 显示名「ㅈㅎ」，简介：汉语/日本語/music/art/
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

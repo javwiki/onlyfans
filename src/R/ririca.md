@@ -11,4 +11,4 @@ ririca 是一位创作者。其 Instagram 账号 @ririca 存在，显示名「Ri
 
 ---
 
-[◀ 返回 R 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 R 列表](./README.md) · [🏠 首页](../README.md)

@@ -28,4 +28,4 @@ tags: [body-modification, 人体改造, 穿刺, 分舌]
 
 ---
 
-[◀ 返回 m 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 m 列表](./README.md) · [🏠 首页](../README.md)

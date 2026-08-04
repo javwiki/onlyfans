@@ -10,4 +10,4 @@ tracey butler（@princessdolly），中文名翁雨澄。该X账号自2009年2�
 
 ---
 
-[◀ 返回 P 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 P 列表](./README.md) · [🏠 首页](../README.md)

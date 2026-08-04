@@ -10,4 +10,4 @@ Larkin Love（又名 MaryAnn Veseskis），公开信息较少。经 Bing 搜索"
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

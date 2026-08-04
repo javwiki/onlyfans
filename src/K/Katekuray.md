@@ -24,4 +24,4 @@ Kate Kuray（@Katekuray），美国出身的成人内容创作者。X 拥有 **2
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)

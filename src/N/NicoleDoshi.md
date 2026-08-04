@@ -10,4 +10,4 @@ Twitter 显示名「Nicole Doshi」，简介为「Tiny waifu at 5'2 💕 Kpop be
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)

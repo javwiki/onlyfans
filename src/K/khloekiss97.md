@@ -22,4 +22,4 @@ Khloe Kiss（@khloekiss97），跨性别亚洲裔成人内容创作者。X 拥�
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)

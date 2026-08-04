@@ -12,4 +12,4 @@ X 账号 @Hyena 显示名「Hyena」，简介：Since 2005, Recycled by Hyena pr
 
 ---
 
-[◀ 返回 H 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 H 列表](./README.md) · [🏠 首页](../README.md)

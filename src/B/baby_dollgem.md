@@ -20,4 +20,4 @@ Baby Dollgem（@baby_dollgem），跨性别成人内容创作者。X 拥有 1.6K
 
 ---
 
-[◀ 返回 B 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 B 列表](./README.md) · [🏠 首页](../README.md)

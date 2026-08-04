@@ -10,4 +10,4 @@ Twitter 显示名「Nur」，简介为「Donation ko-fi.com/nurayistiqbal Promo 
 
 ---
 
-[◀ 返回 R 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 R 列表](./README.md) · [🏠 首页](../README.md)

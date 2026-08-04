@@ -10,4 +10,4 @@ nana（@nanacute），X账号显示名为"nana"。该账号自2009年2月注册�
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)

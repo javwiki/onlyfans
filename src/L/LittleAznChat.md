@@ -20,4 +20,4 @@ LittleAznChat，加拿大亚裔成人内容创作者。Twitch Partner，自称"P
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

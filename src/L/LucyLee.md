@@ -10,4 +10,4 @@ Twitter 显示名「Southside Girl」，简介为「Retired」，位于「Milky 
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)

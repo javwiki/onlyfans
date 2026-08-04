@@ -10,4 +10,4 @@ X 账号 @fangxiaotian 显示名「方小天」，简介：拒绝遗忘的恐怖
 
 ---
 
-[◀ 返回 F 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 F 列表](./README.md) · [🏠 首页](../README.md)

@@ -24,4 +24,4 @@ tags: [伪娘, 男娘, 足控, 臭脚]
 
 ---
 
-[◀ 返回 k 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 k 列表](./README.md) · [🏠 首页](../README.md)

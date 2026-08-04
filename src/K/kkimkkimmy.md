@@ -29,4 +29,4 @@ KimmySun（Kimmy Sun），泰国模特、OnlyFans 创作者。X 账号 @kimmysun
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)

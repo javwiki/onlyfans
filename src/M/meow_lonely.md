@@ -25,4 +25,4 @@ LonelyMeow（@meowlonely），自称"你的小喵！唯一的本人账户!"。On
 
 ---
 
-[◀ 返回 m 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 m 列表](./README.md) · [🏠 首页](../README.md)
