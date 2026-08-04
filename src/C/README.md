@@ -38,6 +38,7 @@
 - [@cookiemon18](./cookiemon18.md) — cookiemon18
 
 - [@Catcatcat888](./Catcatcat888.md) — 猫猫猫
+- [@Chenyi](./Chenyi.md) — 陈祎
 - [@Cheryl_Blossom](./Cheryl_Blossom.md) — Cheryl Blossom
 - [@CourtesanAnna](./CourtesanAnna.md) — CourtesanAnnabel
 ---

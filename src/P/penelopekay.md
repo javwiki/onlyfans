@@ -1,4 +1,4 @@
-# @420bbyk
+# Penelope Kay（@420bbyk）
 
 | 项目 | 内容 |
 |------|------|
@@ -25,4 +25,4 @@ Penelope Kay，美国成人内容创作者。X 拥有 189.2K 粉丝，2020年8�
 
 ---
 
-[◀ 返回 4 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 P 列表](./README.md) · [🏠 首页](../index.md)

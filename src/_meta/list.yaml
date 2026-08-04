@@ -1,8 +1,8 @@
-420bbyk:
+penelopekay:
   name: Penelope Kay
   region: 美国
   x: 420bbyk
-  file: src/4/420bbyk.md
+  file: src/P/penelopekay.md
   status: 80
 bu_ivv:
   name: bu_ivv
@@ -653,12 +653,17 @@ o11na:
   x: o11na
   status: 70
 
-5721004:
-  name: 5721004
+ozirim:
+  name: 오지림
   aliases:
-  - 오지림
-  x: 5721004
-  file: src/5/5721004.md
+  - Ojirim
+  - 吴智林
+  - 5721004
+  region: 韩国
+  twitch: ozirim
+  pandalive: 100472
+  flextv: 1844
+  file: src/O/ozirim.md
   status: 80
 
 wkdus222:
@@ -1127,11 +1132,12 @@ Yazhoushuiwasangongzhu:
   file: src/Y/Yazhoushuiwasangongzhu.md
   status: 80
 
-180:
-  name: 180 日本 倩倩
-  x: 
+Qianqian180:
+  name: 倩倩
+  aliases:
+  - 180 日本 倩倩
   region: 中国
-  file: src/1/180.md
+  file: src/Q/Qianqian180.md
   status: 70
 
 Asiafox:
@@ -1465,14 +1471,15 @@ Xiaoenya:
   file: src/X/Xiaoenya.md
   status: 70
 
-00:
+zixisister:
   name: 紫惜姐姐
   aliases:
   - 00后超级凶
   - 00后超级胸
-  x: 
+  - 紫惜
   region: 中国
-  file: src/0/00.md
+  tiktok: zixisister
+  file: src/Z/zixisister.md
   status: 80
 
 Meinajiang:
@@ -2022,10 +2029,12 @@ LauraBragato:
   file: src/L/LauraBragato.md
   status: 70
 
-2015:
-  name: 上海师范大学2015级播音主持专业陈祎
-  x: 
-  file: src/2/2015.md
+Chenyi:
+  name: 陈祎
+  aliases:
+  - 上海师范大学2015级播音主持专业陈祎
+  region: 中国
+  file: src/C/Chenyi.md
   status: 70
 
 Zhangwanying:
@@ -2213,10 +2222,10 @@ Xiaoyali:
   file: src/X/Xiaoyali.md
   status: 80
 
-02:
+daxiongmei:
   name: 02大胸妹
-  x: 
-  file: src/0/02.md
+  region: 中国
+  file: src/D/daxiongmei.md
   status: 80
 
 BagelSoo:
@@ -2831,11 +2840,12 @@ ssunbiki:
   x: ssunbiki
   status: 70
 
-1014harurubb:
+harubaby_nya:
   name: Haru哈嚕♡
   aliases:
   - 萧婷安
   - Haru
+  - 1014harurubb
   region: 台湾
   x: 1014harurubb
   x_alt: harubaby_nya02
@@ -2846,7 +2856,7 @@ ssunbiki:
   douyin: harubaby_nya
   tags:
   - cosplay
-  file: src/1/1014harurubb.md
+  file: src/H/harubaby_nya.md
   status: 80
 
 tongtong0401:

@@ -2,7 +2,7 @@
 tags: [cosplay]
 ---
 
-# @1014harurubb
+# Haru哈嚕♡（@1014harurubb）
 
 | 项目 | 内容 |
 |------|------|
@@ -29,4 +29,4 @@ Haru哈嚕♡（萧婷安），台湾成人内容创作者，拥有 N Cup 傲人
 
 ---
 
-[◀ 返回 1 列表](./README.md) · [🏠 首页](../index.md)
+[◀ 返回 H 列表](./README.md) · [🏠 首页](../index.md)

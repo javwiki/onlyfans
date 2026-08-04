@@ -20,6 +20,7 @@
 - [@hungerlan](./hungerlan.md) — hungerlan / @hungerlan
 
 - [@Haoleman](./Haoleman.md) — Haoleman
+- [@harubaby_nya](./harubaby_nya.md) — Haru哈嚕♡ / @1014harurubb
 - [@Hellokitty0311](./Hellokitty0311.md) — きのっぴ
 - [@Hongyi0122](./Hongyi0122.md) — Hongyi0122
 ---

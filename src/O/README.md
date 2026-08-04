@@ -14,6 +14,7 @@
 
 - [@Onebigkiss2](./Onebigkiss2.md) — Onebigkiss / @Onebigkiss2
 - [@Oqqk](./Oqqk.md) — Oqqk / @Oqqk
+- [@ozirim](./ozirim.md) — 오지림 (Ojirim)
 ---
 
 [◀ 返回首页](../index.md)

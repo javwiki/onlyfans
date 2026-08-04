@@ -18,6 +18,7 @@
 - [@Zizixi](./Zizixi.md) — 子子西
 
 - [@zhangheyu](./zhangheyu.md) — 张贺玉
+- [@zixisister](./zixisister.md) — 紫惜姐姐
 - [@zlsigg](./zlsigg.md) — 张老师
 ---
 
