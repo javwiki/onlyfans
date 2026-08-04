@@ -12,6 +12,8 @@
 - [@octokuro](./octokuro.md) — octokuro / @octokuro
 - [@orapun_fb](./orapun_fb.md) — Faii FB (อรพรรณ สมอหอม) / @orapun_fb
 
+- [@Onebigkiss2](./Onebigkiss2.md) — Onebigkiss / @Onebigkiss2
+- [@Oqqk](./Oqqk.md) — Oqqk / @Oqqk
 ---
 
 [◀ 返回首页](../index.md)

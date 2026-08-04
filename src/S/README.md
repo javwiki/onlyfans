@@ -14,11 +14,10 @@
 - [@Shaonvqiangxieshi](./Shaonvqiangxieshi.md) — 少女枪械师
 - [@Shengyouxiaomeimo](./Shengyouxiaomeimo.md) — 声优小魅魔
 - [@Shengyouxiaoyun](./Shengyouxiaoyun.md) — 声优小允
-- [@Shenqiao](./Shenqiao.md) — 沈樵
 - [@ShinSaeRom](./ShinSaeRom.md) — 辛赛伦 / @ShinSaeRom
 - [@Sirenwanwu](./Sirenwanwu.md) — 私人玩物
 - [@Siwanvshen](./Siwanvshen.md) — 撕袜女神
-- [@SkyexSummers](./skyexsummers.md) — SkyexSummers / @SkyexSummers
+- [@SkyexSummers](./SkyexSummers.md) — SkyexSummers / @SkyexSummers
 - [@Sofie14175952](./Sofie14175952.md) — Sofie 🍓tran / @Sofie14175952
 - [@Sola](./Sola.md) — Sola酱
 - [@Songxingxing-kuaishou](./Songxingxing-kuaishou.md) — 宋星星 - 快手
@@ -41,6 +40,7 @@
 - [@suyeon_soe](./suyeon_soe.md) — suyeon_soe / @suyeon_soe
 - [@szn_uu_sub](./szn_uu_sub.md) — 川北すずね (かわきたすずね) / @szn_uu_sub
 
+- [@shenqiaoquella](./shenqiaoquella.md) — 沈樵 / @shenqiaoquella
 ---
 
 [◀ 返回首页](../index.md)

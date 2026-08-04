@@ -20,6 +20,8 @@
 - [@bu_ivv](./bu_ivv.md) — bu_ivv / @bu_ivv
 - [@bunnybunnylove](./bunnybunnylove.md) — 爱露露 / @bunnybunnylove
 
+- [@BBann](./BBann.md) — BBann
+- [@baby_dollgem](./baby_dollgem.md) — Baby Dollgem
 ---
 
 [◀ 返回首页](../index.md)

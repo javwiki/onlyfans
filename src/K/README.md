@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [@KOMACHI](./KOMACHI.md) — こまち.小丁 / @_KOMACHI_1
+- [@KOMACHI](./_KOMACHI_1.md) — こまち.小丁 / @_KOMACHI_1
 - [@KatieThornton](./KatieThornton.md) — Katie Thornton
 - [@KatyaLetova](./KatyaLetova.md) — Katya Letova
 - [@Kexiaodedanchun](./Kexiaodedanchun.md) — 可笑的单纯
@@ -27,6 +27,13 @@
 - [@kuaijiu_jium](./kuaijiu_jium.md) — 极品妖畜苦艾酒 / @kuaijiu_jium
 - [@kyl1012](./kyl1012.md) — Neat / @kyl1012
 
+- [@KAKA](./KAKA.md) — KAKA / @KAKA
+- [@KITTY](./KITTY.md) — KITTY / @KITTY
+- [@Kakiooi](./Kakiooi.md) — Kakiooi / @Kakiooi
+- [@Katekuray](./Katekuray.md) — Kate Kuray / @Katekuray
+- [@Kikiii](./Kikiii.md) — Kikiii / @Kikiii
+- [@khloekiss97](./khloekiss97.md) — Khloe Kiss / @khloekiss97
+- [@kxoktty](./kxoktty.md) — Kiana 👸🏼 / @kxoktty
 ---
 
 [◀ 返回首页](../index.md)

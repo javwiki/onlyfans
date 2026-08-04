@@ -7,29 +7,33 @@
 ## 🧑‍🎤 博主
 
 - [@AbbyOpel](./AbbyOpel.md) — Abby Opel
-- [@AliceNANA](./AliceNANA.md) — AliceNANA / @AliceNANA
+- [@AliceNANA](./AliceNANA.md) — AliceNANA
 - [@AlisaAmore](./AlisaAmore.md) — Alisa Amore
 - [@AlleyBella](./AlleyBella.md) — 贝拉Bella
 - [@Amandapaipai](./Amandapaipai.md) — 阿曼達拍拍
 - [@AmiraWest](./AmiraWest.md) — Amira West
 - [@AmmyRouse](./AmmyRouse.md) — Ammy Rouse
 - [@Ananlaoshi](./Ananlaoshi.md) — 安安老师
+- [@Angel_Wicky](./Angel_Wicky.md) — Angel Wicky
 - [@Anji](./Anji.md) — 安吉
 - [@Anna](./Anna.md) — 钱宝宝
 - [@Apple](./Apple.md) — 사과
 - [@Arikajoy](./Arikajoy.md) — Arika joy
-- [@Arno0226](./Arno0226.md) — mKIYO / @Arno0226
-- [@Artgroovy](./Artgroovy.md) — Artgroovy / @Artgroovy
+- [@Arno0226](./Arno0226.md) — mKIYO
+- [@Artgroovy](./Artgroovy.md) — Artgroovy
+- [@AshleyTervort](./AshleyTervort.md) — Ashley Tervort
 - [@Asiafox](./Asiafox.md) — Asia fox
-- [@ad1yn2](./ad1yn2.md) — ad1yn2 / @ad1yn2
+- [@ad1yn2](./ad1yn2.md) — ad1yn2
 - [@alinaxmei](./alinaxmei.md) — Alina Mei
+- [@allecakes](./allecakes.md) — Allecakes
 - [@alswl100455winktvmodel](./alswl100455winktvmodel.md) — 장미->model
-- [@angellicagood](./angellicagood.md) — Angellica Good / @Angellicagood
-- [@aoki__alice](./aoki__alice.md) — Aoki Alice / @aoki__alice
-- [@aprilmaxima](./aprilmaxima.md) — April Maxima / @aprilmaxima
-- [@aryminh](./aryminh.md) — aryminh / @aryminh
-- [@averyfuta57](./averyfuta57.md) — Avery Tepes / @averyfuta57
-- [@azngoodgirl](./azngoodgirl.md) — azngoodgirl / @azngoodgirl
+- [@ammy_rouse_x](./ammy_rouse_x.md) — Isabella Alvarez 🏳️‍⚧️
+- [@angellicagood](./angellicagood.md) — Angellica Good 💕（0.2% OF）
+- [@aoki__alice](./aoki__alice.md) — Aoki Alice 🍒
+- [@aprilmaxima](./aprilmaxima.md) — aprilmaxima
+- [@aryminh](./aryminh.md) — aryminh
+- [@averyfuta57](./averyfuta57.md) — Avery Tepes
+- [@azngoodgirl](./azngoodgirl.md) — Azngoodgirl (Sexy Lexi)
 
 ---
 

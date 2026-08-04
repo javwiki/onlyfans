@@ -13,12 +13,17 @@
 - [@Ruanruanpazaichuangdanshang](./Ruanruanpazaichuangdanshang.md) — 软软趴在床单上
 - [@Ruanruanxiaoshimei](./Ruanruanxiaoshimei.md) — 软软小湿妹
 - [@realassbunny43](./realassbunny43.md) — Realassbunny / @realassbunny43
-- [@retsu_dao](./Retsu_dao.md) — Retsu_dao / @Retsu_dao
+- [@retsu_dao](./retsu_dao.md) — Retsu_dao / @Retsu_dao
 - [@rio_hcup_fantia](./rio_hcup_fantia.md) — りお / @rio_hcup_fantia
 - [@ririca](./ririca.md) — ririca
 - [@roro](./roro.md) — roro软软
 - [@ruruka820](./ruruka820.md) — るるたん / @ruruka820
 
+- [@RIRI](./RIRI.md) — RIRI
+- [@RUNRUN](./RUNRUN.md) — RUNRUN
+- [@RuoY](./RuoY.md) — 若依
+- [@rakuraku166](./rakuraku166.md) — 落落Raku_66 🐾
+- [@ruth_hotlee](./ruth_hotlee.md) — Ruthlee
 ---
 
 [◀ 返回首页](../index.md)

@@ -16,6 +16,8 @@
 - [@egg](./egg.md) — egg尤妮丝
 - [@euna](./euna.md) — eun-a
 
+- [@EllieLeen1](./EllieLeen1.md) — Ellie Leen
+- [@empressellievip](./empressellievip.md) — Ellie The Empress
 ---
 
 [◀ 返回首页](../index.md)
