@@ -1,6 +1,10 @@
 penelopekay:
   name: Penelope Kay
   region: 美国
+  tags:
+  - 美国
+  - NSFW
+  - adultmodel
   x: 420bbyk
   file: src/P/penelopekay.md
   status: 80
@@ -660,6 +664,10 @@ ozirim:
   - 吴智林
   - 5721004
   region: 韩国
+  tags:
+  - kbj
+  - 韩国
+  - 直播
   twitch: ozirim
   pandalive: 100472
   flextv: 1844
@@ -1137,6 +1145,9 @@ Qianqian180:
   aliases:
   - 180 日本 倩倩
   region: 中国
+  tags:
+  - 中国
+  - 直播
   file: src/Q/Qianqian180.md
   status: 70
 
@@ -1478,6 +1489,10 @@ zixisister:
   - 00后超级胸
   - 紫惜
   region: 中国
+  tags:
+  - 中国
+  - cosplay
+  - 直播
   tiktok: zixisister
   file: src/Z/zixisister.md
   status: 80
@@ -2034,6 +2049,8 @@ Chenyi:
   aliases:
   - 上海师范大学2015级播音主持专业陈祎
   region: 中国
+  tags:
+  - 中国
   file: src/C/Chenyi.md
   status: 70
 
@@ -2225,6 +2242,10 @@ Xiaoyali:
 daxiongmei:
   name: 02大胸妹
   region: 中国
+  tags:
+  - 中国
+  - 直播
+  - 巨乳
   file: src/D/daxiongmei.md
   status: 80
 
@@ -2856,6 +2877,8 @@ harubaby_nya:
   douyin: harubaby_nya
   tags:
   - cosplay
+  - 巨乳
+  - 台湾
   file: src/H/harubaby_nya.md
   status: 80
 
