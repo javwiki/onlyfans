@@ -1,3 +1,7 @@
+---
+tags: [cosplay]
+---
+
 # @_KOMACHI_1
 
 | 项目 | 内容 |
