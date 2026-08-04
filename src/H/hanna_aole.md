@@ -27,11 +27,6 @@ Hanna Aole（hanna🥰）是一位亚拉美混血（Asian + Latina）成人内�
 - [TikTok](https://www.tiktok.com/@hanna_aole)
 - [AllMyLinks](https://allmylinks.com/hanna0fx)
 
-## 📁 泄漏资源
-
-- [Teenager365 - wetkinky pussy play](https://teenager365.to/video/9887/hanna-aole-wetkinky-pussy-play-onlyfans-video-leaked/)
-- [Fapello - wetkinky 泄漏](https://fapello.com/wetkinky/)
-
 ---
 
 [◀ 返回 H 列表](./README.md) · [🏠 首页](../index.md)

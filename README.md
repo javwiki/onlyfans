@@ -30,17 +30,22 @@ src/
 
 ## 本地运行
 
-1. 安装 mdBook：
+1. 安装 mdBook 与目录生成器：
 ```bash
-cargo install mdbook
+cargo install mdbook mdbook-summarizer
 ```
 
-2. 本地预览：
+2. 生成目录文件（`SUMMARY.md` 由 CI 自动生成并被 gitignore，本地需手动生成）：
+```bash
+mdbook-summarizer --src src
+```
+
+3. 本地预览：
 ```bash
 mdbook serve
 ```
 
-3. 访问 http://localhost:3000
+4. 访问 http://localhost:3000
 
 ## 自动部署
 

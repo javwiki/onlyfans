@@ -18,12 +18,11 @@
 - [@ShinSaeRom](./ShinSaeRom.md) — 辛赛伦 / @ShinSaeRom
 - [@Sirenwanwu](./Sirenwanwu.md) — 私人玩物
 - [@Siwanvshen](./Siwanvshen.md) — 撕袜女神
-- [@SkyexSummers](./SkyexSummers.md) — SkyexSummers / @SkyexSummers
+- [@SkyexSummers](./skyexsummers.md) — SkyexSummers / @SkyexSummers
 - [@Sofie14175952](./Sofie14175952.md) — Sofie 🍓tran / @Sofie14175952
 - [@Sola](./Sola.md) — Sola酱
 - [@Songxingxing-kuaishou](./Songxingxing-kuaishou.md) — 宋星星 - 快手
 - [@SoolinKelter](./SoolinKelter.md) — Soolin Kelter
-- [@StepanieKolman](./StepanieKolman.md) — Stepanie Kolman
 - [@StephanieKolman](./StephanieKolman.md) — Steph Kolman 💄 / @StephanieKolman
 - [@Suxiaomeibobomei](./Suxiaomeibobomei.md) — 苏小美波波妹
 - [@s5874s](./s5874s.md) — 설희 / @s5874s

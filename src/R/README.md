@@ -13,7 +13,7 @@
 - [@Ruanruanpazaichuangdanshang](./Ruanruanpazaichuangdanshang.md) — 软软趴在床单上
 - [@Ruanruanxiaoshimei](./Ruanruanxiaoshimei.md) — 软软小湿妹
 - [@realassbunny43](./realassbunny43.md) — Realassbunny / @realassbunny43
-- [@retsu_dao](./retsu_dao.md) — Retsu_dao / @Retsu_dao
+- [@retsu_dao](./Retsu_dao.md) — Retsu_dao / @Retsu_dao
 - [@rio_hcup_fantia](./rio_hcup_fantia.md) — りお / @rio_hcup_fantia
 - [@ririca](./ririca.md) — ririca
 - [@roro](./roro.md) — roro软软
