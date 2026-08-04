@@ -10,4 +10,4 @@ nynykk，经跨平台网络搜索，未在公开渠道找到关于 nynykk 的其
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 N 列表](./index.md) · [🏠 首页](../index.md)

@@ -10,4 +10,4 @@ Arika joy，成人内容创作者。其X（Twitter）账号 @Arikajoy 已不存�
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 A 列表](./index.md) · [🏠 首页](../index.md)

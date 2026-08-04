@@ -15,4 +15,4 @@ tags: [中国, cosplay, 直播]
 
 ---
 
-[◀ 返回 Z 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 Z 列表](./index.md) · [🏠 首页](../index.md)

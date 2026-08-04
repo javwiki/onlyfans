@@ -20,4 +20,4 @@ Milky_hamasakii，泰国出身的自由模特与产品推广创作者。X 拥有
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 M 列表](./index.md) · [🏠 首页](../index.md)

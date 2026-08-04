@@ -10,4 +10,4 @@ X 页面显示名称为「New York, New York!」，账号 @NYC，是一个以纽
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 N 列表](./index.md) · [🏠 首页](../index.md)

@@ -20,4 +20,4 @@ OBOKOZU（@obokozu），国际情侣成人内容创作者组合。X 拥有 169.4
 
 ---
 
-[◀ 返回 O 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 O 列表](./index.md) · [🏠 首页](../index.md)

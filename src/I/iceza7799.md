@@ -21,4 +21,4 @@ ice（@iceza7799），泰国出身的成人内容创作者。X 拥有 451.2K 粉
 
 ---
 
-[◀ 返回 I 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 I 列表](./index.md) · [🏠 首页](../index.md)

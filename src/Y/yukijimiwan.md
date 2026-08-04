@@ -22,4 +22,4 @@ YuKi（@yukijimiwan），泰国曼谷出身的模特、独立演员与数字内�
 
 ---
 
-[◀ 返回 Y 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 Y 列表](./index.md) · [🏠 首页](../index.md)

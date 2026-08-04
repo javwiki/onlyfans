@@ -31,4 +31,4 @@ Izzy Wilde（@TsIzzyWilde），美国 NSFW 女性成人内容创作者、模特�
 
 ---
 
-[◀ 返回 T 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 T 列表](./index.md) · [🏠 首页](../index.md)

@@ -13,4 +13,4 @@ Mr.Bunny-兔子先生，台湾/日本成人内容创作者。X 账号 @Mr_BunnyS
 
 ---
 
-[◀ 返回 T 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 T 列表](./index.md) · [🏠 首页](../index.md)

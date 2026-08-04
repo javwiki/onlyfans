@@ -12,4 +12,4 @@ X 账号 @Meiqiaobaby 返回 404 错误，页面提示「We're unable to show th
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 M 列表](./index.md) · [🏠 首页](../index.md)

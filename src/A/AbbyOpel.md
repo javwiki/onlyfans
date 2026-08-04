@@ -14,4 +14,4 @@ Abby Opel 是一位爱情与关系教练（Love and relationship coach）。她�
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 A 列表](./index.md) · [🏠 首页](../index.md)

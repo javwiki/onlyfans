@@ -30,4 +30,4 @@ Yunadoll 是一位日系成人内容创作者，以高质量 cosplay 角色扮�
 
 ---
 
-[◀ 返回 Y 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 Y 列表](./index.md) · [🏠 首页](../index.md)

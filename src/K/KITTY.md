@@ -10,4 +10,4 @@ X 账户（@KITTY）已被平台暂停（Account suspended），无法获取简�
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 K 列表](./index.md) · [🏠 首页](../index.md)

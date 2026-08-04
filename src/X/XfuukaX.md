@@ -10,4 +10,4 @@ XfuukaX（楓夏），日本Coser及成人内容创作者，以二次元角色�
 
 ---
 
-[◀ 返回 X 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 X 列表](./index.md) · [🏠 首页](../index.md)

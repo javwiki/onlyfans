@@ -11,4 +11,4 @@ Bora（@bora），X 显示名为「Bora Kizil」，简介为「Entrepreneur. Cre
 
 ---
 
-[◀ 返回 B 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 B 列表](./index.md) · [🏠 首页](../index.md)

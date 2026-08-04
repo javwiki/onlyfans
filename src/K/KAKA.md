@@ -10,4 +10,4 @@ X 账户（@KAKA）为巴西著名足球运动员 Kaka（里卡多·伊泽克森
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 K 列表](./index.md) · [🏠 首页](../index.md)

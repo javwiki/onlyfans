@@ -10,4 +10,4 @@ X 页面显示名称为「Phil」，账号 @Momo。该账号发布了 115.6K 条
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 M 列表](./index.md) · [🏠 首页](../index.md)

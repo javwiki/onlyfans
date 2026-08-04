@@ -10,4 +10,4 @@ aryminh（Twitter 显示名 minhie）是一位社交媒体影响者，账号 @ar
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 A 列表](./index.md) · [🏠 首页](../index.md)

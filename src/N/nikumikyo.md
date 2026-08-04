@@ -10,4 +10,4 @@ X 账号名为 しの肉肉（@nikumikyo），2023年5月加入，关注 724 人
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 N 列表](./index.md) · [🏠 首页](../index.md)

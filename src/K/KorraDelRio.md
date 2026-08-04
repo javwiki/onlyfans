@@ -11,4 +11,4 @@ Award Winning Adult Performer / Cam Star。来自 Las Vegas, NV。2012 年 10 �
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 K 列表](./index.md) · [🏠 首页](../index.md)

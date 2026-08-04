@@ -12,4 +12,4 @@ X 账号 @funnyg 显示名「Giovanna Solimando」，简介：Communication Mana
 
 ---
 
-[◀ 返回 F 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 F 列表](./index.md) · [🏠 首页](../index.md)

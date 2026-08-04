@@ -17,4 +17,4 @@
 - [@ozirim](./ozirim.md) — 오지림 (Ojirim)
 ---
 
-[◀ 返回首页](../README.md)
+[◀ 返回首页](../index.md)

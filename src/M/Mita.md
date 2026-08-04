@@ -11,4 +11,4 @@ X 页面显示名称为「Mita Yun」，账号 @Mita。简介为「CEO Kiki.ai. 
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 M 列表](./index.md) · [🏠 首页](../index.md)

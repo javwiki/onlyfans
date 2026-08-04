@@ -22,4 +22,4 @@ Photo Power（@UqGto），中国摄影/擦边内容创作者。自称"我的尺�
 
 ---
 
-[◀ 返回 u 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 u 列表](./index.md) · [🏠 首页](../index.md)

@@ -20,4 +20,4 @@ Yingnoey2808（@yingnoey4），泰国出身的 OnlyFans 创作者。X 拥有 **1
 
 ---
 
-[◀ 返回 Y 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 Y 列表](./index.md) · [🏠 首页](../index.md)

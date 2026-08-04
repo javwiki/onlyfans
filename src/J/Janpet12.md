@@ -27,4 +27,4 @@ Jan兔（@Janpet12），台湾成人内容创作者。自称"Jan小兔子"，以
 
 ---
 
-[◀ 返回 j 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 j 列表](./index.md) · [🏠 首页](../index.md)

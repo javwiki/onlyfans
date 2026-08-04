@@ -10,4 +10,4 @@ X 账号 @neinei 显示名为「N.」，简介为「エル社のぐーぱんち�
 
 ---
 
-[◀ 返回 N 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 N 列表](./index.md) · [🏠 首页](../index.md)

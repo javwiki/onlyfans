@@ -10,4 +10,4 @@ OnlyFans 创作者，用户名 Punima，中文名朴妮唛。其 X（Twitter）�
 
 ---
 
-[◀ 返回 P 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 P 列表](./index.md) · [🏠 首页](../index.md)

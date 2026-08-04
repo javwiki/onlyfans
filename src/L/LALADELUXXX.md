@@ -25,4 +25,4 @@ Kyla（@LALADELUXXX），美国洛杉矶亚裔成人内容创作者。自称"you
 
 ---
 
-[◀ 返回 l 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 l 列表](./index.md) · [🏠 首页](../index.md)

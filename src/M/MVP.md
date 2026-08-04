@@ -10,4 +10,4 @@ X 账号 @MVP 目前处于「Account suspended（账号已被冻结）」状态�
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 M 列表](./index.md) · [🏠 首页](../index.md)

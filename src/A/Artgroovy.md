@@ -10,4 +10,4 @@ Artgroovy（X 显示名称：artdi）是一个在 X（Twitter）上的账号，�
 
 ---
 
-[◀ 返回 A 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 A 列表](./index.md) · [🏠 首页](../index.md)

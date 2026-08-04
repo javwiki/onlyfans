@@ -25,4 +25,4 @@ Mei Kou（@meikouii），美国洛杉矶出身的游戏/Cosplay 内容创作者�
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 M 列表](./index.md) · [🏠 首页](../index.md)

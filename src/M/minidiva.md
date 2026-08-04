@@ -10,4 +10,4 @@ Mini diva（@MINIDIVA），X（Twitter）账号显示名为"FANTIASHA WALLACE"�
 
 ---
 
-[◀ 返回 M 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 M 列表](./index.md) · [🏠 首页](../index.md)

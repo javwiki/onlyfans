@@ -10,4 +10,4 @@ OnlyFans 创作者，用户名 GOFLOWER。其 X（Twitter）账号（@goflower�
 
 ---
 
-[◀ 返回 G 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 G 列表](./index.md) · [🏠 首页](../index.md)

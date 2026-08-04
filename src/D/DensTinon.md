@@ -10,4 +10,4 @@ DensTinon（北京天使）是一位常驻洛杉矶（LA）的华人摄影师与
 
 ---
 
-[◀ 返回 D 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 D 列表](./index.md) · [🏠 首页](../index.md)

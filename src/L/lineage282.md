@@ -20,4 +20,4 @@ lineage282 是一位韩国成人内容创作者，其 X（Twitter）账号已被
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 L 列表](./index.md) · [🏠 首页](../index.md)

@@ -24,4 +24,4 @@ Aoki Alice 🍒（@aoki__alice），日本 Asian tease 成人内容创作者。�
 
 ---
 
-[◀ 返回 a 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 a 列表](./index.md) · [🏠 首页](../index.md)

@@ -10,4 +10,4 @@ Kikiii，成人内容创作者。X 账号 @kikiii 显示名称为「mel」，账
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 K 列表](./index.md) · [🏠 首页](../index.md)

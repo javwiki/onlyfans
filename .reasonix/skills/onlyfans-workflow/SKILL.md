@@ -274,7 +274,7 @@ tags: [cosplay, beautyleg]    # 根据实际情况填写，无标签则留空 []
 
 ---
 
-[◀ 返回 <首字母> 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 <首字母> 列表](./index.md) · [🏠 首页](../index.md)
 ```
 
 ### 地区 Emoji 对照表

@@ -25,4 +25,4 @@ Steph Kolman，美国迈阿密 TS 模型。X 拥有 212.9K 粉丝，发布 390.4
 
 ---
 
-[◀ 返回 S 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 S 列表](./index.md) · [🏠 首页](../index.md)

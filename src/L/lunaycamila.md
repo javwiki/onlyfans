@@ -20,4 +20,4 @@ Galilea Gonzalez（@lunaycamila），哥伦比亚 Cali 出身的成人内容创�
 
 ---
 
-[◀ 返回 L 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 L 列表](./index.md) · [🏠 首页](../index.md)

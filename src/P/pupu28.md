@@ -10,4 +10,4 @@ pupu28 是 X（原 Twitter）上的一个账号，显示名称为「るう」。
 
 ---
 
-[◀ 返回 P 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 P 列表](./index.md) · [🏠 首页](../index.md)

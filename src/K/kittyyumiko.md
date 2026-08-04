@@ -10,4 +10,4 @@ kittyyumiko 是一位创作者。网络搜索未找到该创作者的具体信�
 
 ---
 
-[◀ 返回 K 列表](./README.md) · [🏠 首页](../README.md)
+[◀ 返回 K 列表](./index.md) · [🏠 首页](../index.md)
