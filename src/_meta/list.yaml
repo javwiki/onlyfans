@@ -563,11 +563,17 @@ sss0405:
   status: 70
 
 ss0519:
-  name: さちこ
-  region: 日本
+  name: 설희
+  aliases:
+  - Seolhui
+  - Seoulhui
+  - 리원
+  - sss0405
+  - s5874s
+  - xxs2xxx
+  region: 韩国
   file: src/S/ss0519.md
-  x: ss0519
-  status: 70
+  status: 90
 
 s5874s:
   name: 설희
