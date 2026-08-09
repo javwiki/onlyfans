@@ -2897,14 +2897,20 @@ retsu_dao:
 
 senyasenyanko:
   name: 柚月せな
+  aliases:
+  - せな♂
+  - senya
   region: 日本
   tags:
   - cosplay
   - japanese
   - 男の娘
   - 伪娘
-  file: src/S/senyasenyanko.md
+  fantia: 39009
+  myfans: senyanko
   x: senyasenyanko
+  x_alt: kitune_ponpoko
+  file: src/S/senyasenyanko.md
   status: 80
 
 seo_ahn:
