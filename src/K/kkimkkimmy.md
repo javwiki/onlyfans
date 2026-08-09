@@ -42,6 +42,7 @@ OnlyFans 主账号现为 **kkimkkimmy**（VIP，无 PPV）：1,130 帖 / 3,362 �
 - [TikTok](https://www.tiktok.com/@kimmysunnn) — 15.6K 粉丝
 - [Pornhub](https://www.pornhub.com/model/kimmysun0312) — 模型页
 - [Thai Girl Mag](https://thaigirlmag.com/kimmy-sun/) — 泰国模特介绍页
+- [idoljung（泰语介绍页）](https://idoljung.com/kimmy-sun/) — เปิดวาร์ป น้องคิมมี่
 - [Jablehk（腿控专题）](https://jablehk.com/southeastasiangirls/kimmysun) — 港台介绍「腿控必追！」
 - [TWPornstars](https://www.twpornstars.com/kimmysun_) — X 媒体存档
 
@@ -52,6 +53,23 @@ OnlyFans 主账号现为 **kkimkkimmy**（VIP，无 PPV）：1,130 帖 / 3,362 �
 - **TWPornstars**：归档其 X 视频（代表作「Kimmy's all time ☀️」41.8K 播放、「I name it the fountain 💦💦」等）
 - 视频亦流传于 SpankBang（playlist）、Taiav 等平台
 - X 显示名曾注明「650K celebration」里程碑（2023 年庆祝 65 万粉丝）
+
+## 🇹🇭 泰语圈资料
+
+### 📰 泰语介绍页（idoljung.com）
+
+- **2024-09-02 idoljung**《เปิดวาร์ป น้องคิมมี่ Kimmy Sun สาวตัวตึง Onlyfans หนุ่มๆ ไม่ควรพลาด》（Warp 直达！OnlyFans 当红小姐姐 Kimmy Sun，男生不容错过）：
+  - 描述她「ใบหน้าเป็นเอกลักษณ์…ดูดีเหมือนกับสาวญี่ปุ่น」（长相有辨识度，像日本女生）、「ไฟคู่หน้าจัดหนักจัดเต็มแบบล้นทะลัก」（上围傲人）、「น่ารัก พร้อมกับความเซ็กซี่」（可爱又性感）、「ขี้เล่นแบบอารมณ์ดี」（爱闹、性格好）
+  - 称其为「ตัวท็อปเบอร์ต้นๆ ของวงการ」（圈内顶流之一），并列出 IG kimmy.sun0312、OF kimmyyummy 与 kkimkkimmy
+
+### 💬 泰语粉丝社群
+
+- **Facebook Onlyfin**（Onlyfinth，2023-02-07 帖）：《Kimmy Sun สาวลูกครึ่งสุดแซ่บ ไซส์มินิขวัญใจหนุ่มๆ Onlyfans!》——称她为「性感混血小只马、OnlyFans 男粉心头好」（สาวลูกครึ่ง = 混血，与本人自称马/日混血一致；ไซส์มินิ = 小只），附 IG / X / OF 链接
+
+### 🌶️ 泰站流传
+
+- **หนังโป๊ดัง.cc**（2024-01-07）：其 OF 视频被以泰语标题「Onlyfans Kkimkkimmy คลิบโป๊ไทย คิมมี่ซัน Kimmy Sun」转载收录（泰语昵称 **คิมมี่ซัน**）
+- **Pantip** 搜索「kimmysun」无相关讨论帖；泰语音译「คิมมี่ซัน」搜索结果多为其他同名账号（如 @kimmi_sunflower），需注意甄别
 
 ## ⚠️ 账号结构说明（重要）
 
