@@ -528,7 +528,10 @@ lin002200:
   status: 80
 
 mintmoca3:
-  name: mintmoca3
+  name: 抹茶🍥
+  tags:
+  - NSFW
+  region: 中国
   file: src/M/mintmoca3.md
   x: mintmoca3
   status: 80
