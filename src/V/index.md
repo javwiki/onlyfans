@@ -6,6 +6,7 @@
 
 ## 🧑‍🎤 博主
 
+- [@veenus_](./veenus_.md) — Veenus（Pamela Ferrer）
 - [@vivibabe](./vivibabe.md) — vivibabe / @vivibabe
 
 ---
