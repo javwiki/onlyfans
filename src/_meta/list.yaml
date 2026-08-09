@@ -2796,12 +2796,18 @@ Jiangkeai:
   file: src/J/Jiangkeai.md
   status: 70
 
-Mspuiyi2:
-  name: Mspuiyi
-  x: Mspuiyi2
+Mspuiyi:
+  name: Ms. Puiyi（萧佩儿）
+  aliases:
+  - MSPUIYI
+  - Siew Pui Yi
   region: 马来西亚
-  file: src/M/Mspuiyi2.md
-  status: 70
+  onlyfans: mspuiyi
+  instagram: ms_puiyi
+  x: mspuiyiofficial
+  website: https://mspuiyi.com
+  file: src/M/Mspuiyi.md
+  status: 80
 
 Guazha:
   name: 古阿扎
