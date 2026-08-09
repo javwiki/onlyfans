@@ -3767,7 +3767,12 @@ Angel_Wicky:
 
 ruth_hotlee:
   name: Ruthlee
+  aliases:
+  - Ruth Lee
+  - Ruth Chavarri
   region: 委内瑞拉
+  tags:
+  - 委内瑞拉
   onlyfans: ruth_lee
   instagram: ruth_chavarri
   tiktok: queenruthlee
