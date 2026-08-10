@@ -2403,10 +2403,18 @@ Xiaojian:
 Yinanna:
   name: 伊南娜
   aliases:
+  - 小c
+  - 小C
   - 余小c
+  - 限定版伊南娜
+  region: 中国
   x: Yinanna
   file: src/Y/Yinanna.md
-  status: 70
+  tags:
+  - 擦边
+  - 直播
+  - 摄影
+  status: 80
 
 Arikajoy:
   name: Arika joy
