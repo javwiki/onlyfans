@@ -20,6 +20,7 @@
 - [@Apple](./Apple.md) — 사과
 - [@Arikajoy](./Arikajoy.md) — Arika joy
 - [@Arno0226](./Arno0226.md) — mKIYO
+- [@AromaGif](./AromaGif.md) — Aroma.gif（男娘海军人设）
 - [@Artgroovy](./Artgroovy.md) — Artgroovy
 - [@AshleyTervort](./AshleyTervort.md) — Ashley Tervort
 - [@Asiafox](./Asiafox.md) — Asia fox
