@@ -32,6 +32,7 @@
 - [@lineage282](./lineage282.md) — lineage282 / @lineage282
 - [@littlemouse_patchy](./littlemouse_patchy.md) — littlemouse_patchy / @littlemouse_patchy
 - [@littlereislin](./littlereislin.md) — little reislin
+- [@livi_doll](./livi_doll.md) — livi doll / @livi_doll
 - [@longmaocouple](./longmaocouple.md) — longmaocouple / @longmaocouple
 - [@lovable33AfreecaTV](./lovable33AfreecaTV.md) — 妲熙
 - [@lovesisi](./lovesisi.md) — lovesisi / @lovesisi

@@ -762,6 +762,21 @@ nanacute:
   x: nanacute
   status: 70
 
+nbnabunny:
+  name: nbnabunny
+  region: 英国
+  onlyfans: nbnabunny
+  fansly: nbnabunny
+  chaturbate: nbnabunny
+  tiktok: nbnabunny_og
+  file: src/N/nbnabunny.md
+  x: nbnabunny
+  tags:
+  - 英国
+  - NSFW
+  - adultmodel
+  status: 80
+
 o11na:
   name: o11na
   file: src/O/o11na.md
@@ -2492,6 +2507,24 @@ littlereislin:
   name: little reislin
   x: littlereislin
   file: src/L/littlereislin.md
+  status: 80
+
+livi_doll:
+  name: livi doll
+  aliases:
+  - Livi Doll
+  region: 美国
+  onlyfans: livi_doll
+  chaturbate: livi_doll
+  twitch: livi_doll
+  bluesky: lividoll.bsky.social
+  file: src/L/livi_doll.md
+  x: livi_doll
+  tags:
+  - 美国
+  - NSFW
+  - adultmodel
+  - trans
   status: 80
 
 minidiva:

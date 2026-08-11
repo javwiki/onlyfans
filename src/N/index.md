@@ -17,6 +17,7 @@
 - [@NicoleDoshi](./NicoleDoshi.md) — Nicole Doshi
 - [@NileyHott](./NileyHott.md) — Niley Hott
 - [@nanacute](./nanacute.md) — nanacute / @nanacute
+- [@nbnabunny](./nbnabunny.md) — nbnabunny / @nbnabunny
 - [@neinei](./neinei.md) — neinei
 - [@nier](./nier.md) — 燕儿nier
 - [@nigella_pty](./nigella_pty.md) — nigella_pty / @nigella_pty
