@@ -9,6 +9,7 @@
 - [@Daerxuemei](./Daerxuemei.md) — 大二学妹
 - [@Dandan](./Dandan.md) — 胆胆
 - [@DensTinon](./DensTinon.md) — 北京天使 / @DensTinon
+- [@Desireeblackkk](./Desireeblackkk.md) — Desiree Black / @Desireeblackkk
 - [@DianaDaniels](./DianaDaniels.md) — Diana Daniels
 - [@Dongbeiyanzhixuesheng](./Dongbeiyanzhixuesheng.md) — 东北颜值学生
 - [@Douniang](./Douniang.md) — 抖娘
