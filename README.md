@@ -37,7 +37,7 @@ cargo install mdbook mdbook-summarizer
 
 2. 生成目录文件（`SUMMARY.md` 由 CI 自动生成并被 gitignore，本地需手动生成）：
 ```bash
-mdbook-summarizer --src src
+mdbook-summarizer --src src --auto-readme
 ```
 
 3. 本地预览：
@@ -62,6 +62,20 @@ mdbook serve
 1. 在对应字母目录下创建 `.md` 文件
 2. 在 `src/_meta/list.yaml` 中添加索引条目
 3. 提交 Pull Request
+
+### `status` 字段说明
+
+`src/_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：
+
+| 值 | 含义 |
+|----|------|
+| 90 | 信息较完整：包含详细简介、内容类型、多平台链接，已核实 |
+| 85 | 信息较完整，少量字段待补 |
+| 80 | 有基本公开信息（姓名/地区/链接） |
+| 70 | 占位条目：公开信息很少或未搜索到，待补充 |
+| 50 | 仅基础线索，最需补充 |
+
+提交新条目时请如实标注，信息补全后可逐步上调。
 
 ## 许可证
 
