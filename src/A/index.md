@@ -12,7 +12,6 @@
 - [@AlleyBella](./AlleyBella.md) — 贝拉Bella
 - [@Amandapaipai](./Amandapaipai.md) — 阿曼達拍拍
 - [@AmiraWest](./AmiraWest.md) — Amira West
-- [@AmmyRouse](./AmmyRouse.md) — Ammy Rouse
 - [@Ananlaoshi](./Ananlaoshi.md) — 安安老师
 - [@Angel_Wicky](./Angel_Wicky.md) — Angel Wicky
 - [@Anji](./Anji.md) — 安吉
