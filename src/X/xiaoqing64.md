@@ -8,6 +8,7 @@
 
 - [X / Twitter](https://x.com/xiaoqing64?lang=zh)
 - [51CG 相关资料](https://51cg1.com/archives/152858/)
+- [JKF 相关资料](https://jkforum.net/p/thread-18021396-1-1.html)
 
 ---
 
