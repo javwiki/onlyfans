@@ -42,7 +42,6 @@
 - [@mssethiionly](./mssethiionly.md) — ms.sethii / @mssethiionly
 
 - [@Mabelle](./Mabelle.md) — Mabelle
-- [@Maomao](./Maomao.md) — 猫咪
 - [@Meiqiaobaby](./Meiqiaobaby.md) — 美乔baby
 - [@Mira_EiEi](./Mira_EiEi.md) — Mira_ei
 - [@MoroccanZina_](./MoroccanZina_.md) — Zina Hadid

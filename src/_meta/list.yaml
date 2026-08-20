@@ -3091,11 +3091,6 @@ Kakiooi:
   file: src/K/Kakiooi.md
   x: Kakiooi
   status: 70
-LaLa:
-  name: LaLa
-  file: src/L/LaLa.md
-  x: LaLa
-  status: 70
 Luobao:
   name: 萝卜包
   file: src/L/Luobao.md
@@ -3109,11 +3104,6 @@ Mabelle:
   name: Mabelle
   file: src/M/Mabelle.md
   x: Mabelle
-  status: 70
-Maomao:
-  name: 猫咪
-  file: src/M/Maomao.md
-  x: Maomao
   status: 70
 Meiqiaobaby:
   name: 美乔baby

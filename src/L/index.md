@@ -34,7 +34,6 @@
 - [@lovable33AfreecaTV](./lovable33AfreecaTV.md) — 妲熙
 - [@lyainevan](./lyainevan.md) — 特莱莎
 
-- [@LaLa](./LaLa.md) — LaLa
 - [@Luobao](./Luobao.md) — 萝卜包
 - [@Luojieer](./Luojieer.md) — 罗洁儿
 - [@leahgoeswilde](./leahgoeswilde.md) — Leah Wilde
