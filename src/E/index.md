@@ -7,6 +7,7 @@
 ## 🧑‍🎤 博主
 
 - [@EdMosaic](./EdMosaic.md) — Ed Mosaic
+- [Eunsora](./Eunsora.md) — 提莫女孩 / 은소라 / 티모 / 손예은（同一人）
 - [@Elisetutu](./Elisetutu.md) — 谭晓彤（兔兔） / @TUTUElise
 - [@Equanshaonv](./Equanshaonv.md) — 恶犬少女
 - [@Erciyuankuangreshaonv](./Erciyuankuangreshaonv.md) — 二次元狂热少女
