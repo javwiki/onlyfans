@@ -1061,12 +1061,6 @@ Punima:
   file: src/P/Punima.md
   status: 80
 
-nini:
-  name: 蜜桃臀女友nini
-  x: nini
-  file: src/N/nini.md
-  status: 70
-
 Tuzixiansheng:
   name: 兔子先生
   x: Tuzixiansheng
@@ -1496,13 +1490,6 @@ Xiaobaozi:
   region: 中国
   file: src/X/Xiaobaozi.md
   status: 70
-
-neinei:
-  name: neinei
-  x: neinei
-  region: 中国
-  file: src/N/neinei.md
-  status: 80
 
 Tudoujie:
   name: 土豆姐
@@ -3252,11 +3239,6 @@ Morise:
   file: src/M/Morise.md
   x: Morise
   status: 70
-NONO:
-  name: NONO
-  file: src/N/NONO.md
-  x: NONO
-  status: 70
 NYC:
   name: NYC
   file: src/N/NYC.md
@@ -3266,11 +3248,6 @@ Naixiang:
   name: 乃香
   file: src/N/Naixiang.md
   x: Naixiang
-  status: 70
-Nannan:
-  name: 南南
-  file: src/N/Nannan.md
-  x: Nannan
   status: 70
 Oqqk:
   name: Oqqk
