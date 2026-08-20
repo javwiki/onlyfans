@@ -20,7 +20,6 @@
 - [@kitty2002102](./kitty2002102.md) — kitty🐱💘 / @kitty2002102
 - [@kittyyumiko](./kittyyumiko.md) — kittyyumiko / @kittyyumiko
 - [@kkimkkimmy](./kkimkkimmy.md) — KimmySun☀️ / @kimmysun_
-- [@klive19101403](./klive19101403.md) — 提莫女孩 / @klive19101403
 - [@krebs_tina71418](./krebs_tina71418.md) — 乙葉らら / @krebs_tina71418
 - [@kuaijiu_jium](./kuaijiu_jium.md) — 极品妖畜苦艾酒 / @kuaijiu_jium
 - [@kyl1012](./kyl1012.md) — Neat / @kyl1012
