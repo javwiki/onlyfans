@@ -680,12 +680,6 @@ Pongkyubi:
   x: Pongkyubi
   status: 70
 
-Cherilyn:
-  name: 爱妃
-  file: src/C/Cherilyn.md
-  x: Cherilyn
-  status: 70
-
 octokuro:
   name: octokuro
   file: src/O/octokuro.md

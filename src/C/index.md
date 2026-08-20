@@ -18,7 +18,6 @@
 - [@Chensisi](./Chensisi.md) — 陈丝丝
 - [@Chentiantian](./Chentiantian.md) — 陈甜甜
 - [@Chenxiaomo](./Chenxiaomo.md) — 陈小魔
-- [@Cherilyn](./Cherilyn.md) — 爱妃 / @Cherilyn
 - [@ChessieRae](./ChessieRae.md) — Chessie Rae
 - [@Chinhbaby](./Chinhbaby.md) — Chinhbaby / @Chinhbaby
 - [@Chuanyunyin](./Chuanyunyin.md) — 穿云音
