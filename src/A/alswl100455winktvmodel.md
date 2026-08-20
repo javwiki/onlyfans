@@ -1,13 +1,12 @@
-# 장미->model (alswl100455winktvmodel)
+# 장미（model）
 
 ## 📝 简介
 
-网络搜索未找到该创作者的具体信息。
+장미（model）与 `alswl100455` 为同一人的名称与直播账号标识，活动平台为 WINKTV（KBJ）。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/alswl100455winktvmodel) — 404 不存在
-- [Bing 搜索](https://www.bing.com/search?q=alswl100455winktvmodel+onlyfans)
+- WINKTV / KBJ：`alswl100455`
 
 ---
 
