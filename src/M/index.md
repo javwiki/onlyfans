@@ -43,12 +43,10 @@
 - [@mssethiionly](./mssethiionly.md) — ms.sethii / @mssethiionly
 
 - [@MANDY](./MANDY.md) — MANDY
-- [@MVP](./MVP.md) — MVP
 - [@Mabelle](./Mabelle.md) — Mabelle
 - [@Maomao](./Maomao.md) — 猫咪
 - [@Meiqiaobaby](./Meiqiaobaby.md) — 美乔baby
 - [@Mira_EiEi](./Mira_EiEi.md) — Mira_ei
-- [@Morise](./Morise.md) — Morise
 - [@MoroccanZina_](./MoroccanZina_.md) — Zina Hadid
 - [@meikouii](./meikouii.md) — Mei Kou
 - [@mila_azul](./mila_azul.md) — Mila Azul
