@@ -16,7 +16,6 @@
 - [@Mengfeitongxiang](./Mengfeitongxiang.md) — 梦菲桐香
 - [@Mia](./Mia.md) — 美七Mia
 - [@MikiWu20EGirls](./MikiWu20EGirls.md) — 吴美希
-- [@Mila](./Mila.md) — 米拉
 - [@Milkyth](./Milkyth.md) — Milkyth
 - [@MissA](./MissA.md) — MissA
 - [@MissAlice](./MissAlice.md) — Miss Alice
