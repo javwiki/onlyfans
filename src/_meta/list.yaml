@@ -582,6 +582,12 @@ Candybaby:
   x: Candybaby
   status: 70
 
+Fullfive:
+  name: Fullfive（小富婆）
+  file: src/F/Fullfive.md
+  x: Fullfive
+  status: 70
+
 Ladyyuan:
   name: Ladyyuan
   file: src/L/Ladyyuan.md
