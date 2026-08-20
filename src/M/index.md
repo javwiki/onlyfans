@@ -45,7 +45,6 @@
 - [@monlingwu](./monlingwu.md) — 吴梦梦 / @monlingwu
 - [@msbreewc](./msbreewc.md) — Msbreewc / @msbreewc
 - [@mssethiionly](./mssethiionly.md) — ms.sethii / @mssethiionly
-- [@myagelia](./myagelia.md) — myagelia / @myagelia
 
 - [@MANDY](./MANDY.md) — MANDY
 - [@MM](./MM.md) — MM

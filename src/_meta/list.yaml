@@ -653,12 +653,6 @@ veenus_:
   file: src/V/veenus_.md
   status: 80
 
-myagelia:
-  name: myagelia
-  file: src/M/myagelia.md
-  x: myagelia
-  status: 70
-
 monlingwu:
   name: 吴梦梦
   file: src/M/monlingwu.md
@@ -1636,10 +1630,9 @@ eemiim:
 
 Anji:
   name: 安吉
-  x: Anji
   region: 台湾
   file: src/A/Anji.md
-  status: 70
+  status: 80
 
 IndianTwins:
   name: Indian Twins

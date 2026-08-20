@@ -2,11 +2,12 @@
 
 ## 📝 简介
 
-网络搜索未找到该创作者的具体信息。
+安吉是台湾创作者，JVID 页面使用名称「安吉」；台灣 SWAG 用户名为 `myagelia`。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Anji)（账号不存在）
+- [JVID](https://www.jvid.com/%E5%AE%89%E5%90%89) — 安吉
+- SWAG — `myagelia`
 
 ---
 
