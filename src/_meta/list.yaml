@@ -3192,11 +3192,6 @@ irllillie:
   status: 90
 
 
-BBann:
-  name: BBann
-  file: src/B/BBann.md
-  x: BBann
-  status: 70
 Catcatcat888:
   name: 猫猫猫
   file: src/C/Catcatcat888.md
