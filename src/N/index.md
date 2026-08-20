@@ -23,7 +23,6 @@
 - [@nina_loveu](./nina_loveu.md) — 崩壞的英文老師 Nina / @nina_loveu
 - [@nynykk](./nynykk.md) — nynykk
 
-- [@NYC](./NYC.md) — NYC
 - [@Naixiang](./Naixiang.md) — 乃香
 - [@Naomiiihub](./Naomiiihub.md) — Naomiii
 - [@Numkhin40664711](./Numkhin40664711.md) — Numkhing
