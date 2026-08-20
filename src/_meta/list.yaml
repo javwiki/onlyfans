@@ -1642,10 +1642,10 @@ mauymyb:
 
 miohot:
   name: 米欧
-  x: miohot
+  x: mio772
   region: 台湾
   file: src/M/miohot.md
-  status: 70
+  status: 80
 
 Obokozu:
   name: OBOKOZU
