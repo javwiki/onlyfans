@@ -8,8 +8,6 @@
 
 - [@Palisi](./Palisi.md) — 帕里斯
 - [@Pongkyubi](./Pongkyubi.md) — Pongkyubi / @Pongkyubi
-- [@Princessdolly](./Princessdolly.md) — 翁雨澄 / @Princessdolly
-- [@Punima](./Punima.md) — 朴妮唛
 - [@Punima2](./Punima2.md) — 朴妮唛
 - [@panid69](./panid69.md) — panid69 / @panid69
 - [@pia_wagner59](./pia_wagner59.md) — Pia Wagner / @pia_wagner59

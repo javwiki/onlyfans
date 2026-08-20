@@ -593,11 +593,6 @@ Ladyyuan:
   x: Ladyyuan
   status: 70
 
-Princessdolly:
-  name: 翁雨澄
-  file: src/P/Princessdolly.md
-  x: Princessdolly
-  status: 70
 
 TokyoDiary:
   name: TokyoDiary
@@ -1053,11 +1048,6 @@ Qingxin:
   file: src/Q/Qingxin.md
   status: 80
 
-Punima:
-  name: 朴妮唛
-  x: Punima
-  file: src/P/Punima.md
-  status: 80
 
 Tuzixiansheng:
   name: 兔子先生
