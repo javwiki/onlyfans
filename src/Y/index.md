@@ -46,8 +46,6 @@
 - [@yuumeilyn](./yuumeilyn.md) — 玲兒 / @yuumeilyn
 - [@yuzichucunqi](./yuzichucunqi.md) — 鱼籽储存器 / @yuzichucunqi
 
-- [@Yangxiaomi](./Yangxiaomi.md) — 杨小米
-- [@Yanshaoxiaojie](./Yanshaoxiaojie.md) — 燕小骚小姐
 - [@Yuer](./Yuer.md) — 月儿
 - [@yingnoey4](./yingnoey4.md) — Yingnoey2808
 - [@yukijimiwan](./yukijimiwan.md) — YuKi_Yaifoto / Yu Sweetty
