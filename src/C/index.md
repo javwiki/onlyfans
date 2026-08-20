@@ -12,9 +12,7 @@
 - [@Caomeixiong](./Caomeixiong.md) — 草莓熊
 - [@CarlaGrace](./CarlaGrace.md) — 香港欲女
 - [@CathyBBlove](./CathyBBlove.md) — 凯西 / @CathyBBlove
-- [@Chelsea](./Chelsea.md) — Chelsea
 - [@Chengdunaimapinger](./Chengdunaimapinger.md) — 成都奶妈瓶儿
-- [@Chengxinglin](./Chengxinglin.md) — 城星凜
 - [@Chenkexin](./Chenkexin.md) — 陈可心
 - [@Chenruochu](./Chenruochu.md) — 陈若初
 - [@Chensisi](./Chensisi.md) — 陈丝丝
@@ -36,7 +34,6 @@
 - [@cocopiemommy](./cocopiemommy.md) — 🦊CocoPie🦊 / @cocopiemommy
 - [@cookiemon18](./cookiemon18.md) — cookiemon18
 
-- [@Catcatcat888](./Catcatcat888.md) — 猫猫猫
 - [@Chenyi](./Chenyi.md) — 陈祎
 - [@Cheryl_Blossom](./Cheryl_Blossom.md) — Cheryl Blossom
 - [@CourtesanAnna](./CourtesanAnna.md) — CourtesanAnnabel

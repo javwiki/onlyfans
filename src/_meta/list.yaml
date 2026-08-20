@@ -858,12 +858,6 @@ kaede:
   file: src/K/kaede.md
   status: 70
 
-Chengxinglin:
-  name: 城星凜
-  x: Chengxinglin
-  file: src/C/Chengxinglin.md
-  status: 70
-
 YukoMomohi:
   name: 桃姫優子
   x: YukoMomohi
@@ -1594,13 +1588,6 @@ Bora:
   name: Bora
   x: Bora
   file: src/B/Bora.md
-  status: 80
-
-Chelsea:
-  name: Chelsea
-  x: Chelsea
-  region: 台湾
-  file: src/C/Chelsea.md
   status: 80
 
 EdMosaic:
@@ -3192,11 +3179,6 @@ irllillie:
   status: 90
 
 
-Catcatcat888:
-  name: 猫猫猫
-  file: src/C/Catcatcat888.md
-  x: Catcatcat888
-  status: 70
 DIDI:
   name: DIDI
   file: src/D/DIDI.md
