@@ -199,6 +199,8 @@ screening:
 
 编辑 `src/_meta/list.yaml` 添加或更新创作者条目。
 
+为保持索引简短，条目默认只保留 `name`、`file`、`status`，以及已有的非空 `x`、`region`、`tags`；OnlyFans、社交平台、网站、别名和联系方式等详情统一写入对应 Markdown 文件，不再新增到 `list.yaml`。
+
 ### list.yaml 字段说明
 
 | 字段 | 必填 | 说明 |
