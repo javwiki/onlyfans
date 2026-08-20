@@ -18,7 +18,6 @@
 - [@kikobabiiiii](./kikobabiiiii.md) — 羊咩咩Ena🖤 / @kikobabiiiii
 - [@kim3857pandatv](./kim3857pandatv.md) — 林风姬
 - [@kimjeewoo529](./kimjeewoo529.md) — 尹敏洙 / @kimjeewoo529
-- [@kimtan1004](./kimtan1004.md) — 李韶姬 / @kimtan1004
 - [@kitty2002102](./kitty2002102.md) — kitty🐱💘 / @kitty2002102
 - [@kittyyumiko](./kittyyumiko.md) — kittyyumiko / @kittyyumiko
 - [@kkimkkimmy](./kkimkkimmy.md) — KimmySun☀️ / @kimmysun_

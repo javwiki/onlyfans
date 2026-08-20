@@ -34,7 +34,7 @@
 - [@smoneyordieonlyfansSkyBri](./smoneyordieonlyfansSkyBri.md) — smoneyordie->onlyfans
 - [@ss0519](./ss0519.md) — 설희 / @ss0519
 - [@ssaimi](./ssaimi.md) — ssaimi
-- [@ssm1004](./ssm1004.md) — 李韶姬 / @ssm1004
+- [@ssm1004](./ssm1004.md) — 李韶姬 / @ssm1004（含 @kimtan1004、@miso1239）
 - [@ssunbiki](./ssunbiki.md) — 썬비키 (Ssunbiki) / @Ssunbiki
 - [@suyeon_soe](./suyeon_soe.md) — suyeon_soe / @suyeon_soe
 - [@szn_uu_sub](./szn_uu_sub.md) — 川北すずね (かわきたすずね) / @szn_uu_sub

@@ -37,7 +37,6 @@
 - [@mintmoca3](./mintmoca3.md) — mintmoca3 / @mintmoca3
 - [@mio772](./miohot.md) — 米欧
 - [@miratamu_07xx](./miratamu_07xx.md) — みらたむ / @miratamu_07xx
-- [@miso1239](./miso1239.md) — 李韶姬 / @miso1239
 - [@miuzxc](./miuzxc.md) — Miuzxc / @miuzxc
 - [@mmzhazhixia](./mmzhazhixia.md) — 榨汁夏 / @mmzhazhixia
 - [@monlingwu](./monlingwu.md) — 吴梦梦 / @monlingwu
