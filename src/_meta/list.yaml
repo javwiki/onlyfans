@@ -734,12 +734,6 @@ bunnybunnylove:
   x: bunnybunnylove
   status: 70
 
-lovesisi:
-  name: lovesisi
-  file: src/L/lovesisi.md
-  x: lovesisi
-  status: 80
-
 FirtsBornUnicorn:
   name: FirtsBornUnicorn
   x: FirtsBornUnicorn
@@ -1610,11 +1604,6 @@ MissA:
   file: src/M/MissA.md
   status: 70
 
-LucyLee:
-  name: Lucy Lee
-  x: LucyLee
-  file: src/L/LucyLee.md
-  status: 80
 
 SoolinKelter:
   name: Soolin Kelter
@@ -2007,11 +1996,6 @@ KatieThornton:
   file: src/K/KatieThornton.md
   status: 70
 
-LucieWilde:
-  name: Lucie Wilde
-  x: LucieWilde
-  file: src/L/LucieWilde.md
-  status: 80
 
 LenaLi:
   name: Lena Li
@@ -3146,11 +3130,6 @@ Kikiii:
   name: Kikiii
   file: src/K/Kikiii.md
   x: Kikiii
-  status: 70
-LULU:
-  name: LULU
-  file: src/L/LULU.md
-  x: LULU
   status: 70
 LaLa:
   name: LaLa

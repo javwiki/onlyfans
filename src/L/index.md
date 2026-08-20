@@ -23,8 +23,6 @@
 - [@LittleAznChat](./LittleAznChat.md) — 🌸🌙LittleAznChat 🍒 / @LittleAznChat
 - [@Lixiaoya](./Lixiaoya.md) — 李晓雅
 - [@Lizhixian](./Lizhixian.md) — 李智贤
-- [@LucieWilde](./LucieWilde.md) — Lucie Wilde
-- [@LucyLee](./LucyLee.md) — Lucy Lee
 - [@LunaRodriguezMonteroLunaTrapLunaRM](./LunaRodriguezMonteroLunaTrapLunaRM.md) — Luna Rodriguez Montero
 - [@lalaxiaoqiya_](./lalaxiaoqiya_.md) — 辣辣小柒 / @lalaxiaoqiya_
 - [@lin002200](./lin002200.md) — lin002200 / @lin002200
@@ -34,10 +32,8 @@
 - [@livi_doll](./livi_doll.md) — livi doll / @livi_doll
 - [@longmaocouple](./longmaocouple.md) — longmaocouple / @longmaocouple
 - [@lovable33AfreecaTV](./lovable33AfreecaTV.md) — 妲熙
-- [@lovesisi](./lovesisi.md) — lovesisi / @lovesisi
 - [@lyainevan](./lyainevan.md) — 特莱莎
 
-- [@LULU](./LULU.md) — LULU
 - [@LaLa](./LaLa.md) — LaLa
 - [@Luobao](./Luobao.md) — 萝卜包
 - [@Luojieer](./Luojieer.md) — 罗洁儿
