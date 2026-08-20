@@ -29,7 +29,6 @@
 - [@senyasenyanko](./senyasenyanko.md) — 柚月せな / @senyasenyanko
 - [@seo_ahn](./seo_ahn.md) — Ahn Seo Yeon / @seo_ahn
 - [@shuyangbabe](./shuyangbabe.md) — 南忘 / @shuyangbabe
-- [@smoneyordieonlyfansSkyBri](./smoneyordieonlyfansSkyBri.md) — smoneyordie->onlyfans
 - [@ss0519](./ss0519.md) — 설희 / @ss0519
 - [@ssaimi](./ssaimi.md) — ssaimi
 - [@ssm1004](./ssm1004.md) — 李韶姬 / @ssm1004（含 @kimtan1004、@miso1239）
