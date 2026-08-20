@@ -1,8 +1,18 @@
-# Eunsora（提莫女孩 / 은소라 / 티모 / 손예은 / Son Ye Eun）
+# Eunsora（BJ Eunsora / 은소라 / Yenny / son_ye_eun / ye._eun_s2 / yeeny618 / 손예은）
 
 ## 📝 简介
 
-根据用户确认，提莫女孩、은소라（Eun Sora）、티모（Timo）和 손예은（Son Ye-eun / Son Ye Eun）是同一位网络创作者/BJ的相关名称。该条目不是韩国演员 손여은（Son Yeo-eun）。
+根据用户确认，提莫女孩、BJ Eunsora、은소라（Eun Sora）、Yenny、son_ye_eun、ye._eun_s2、yeeny618 和 손예은（Son Ye-eun / Son Ye Eun）是同一位网络创作者/BJ的相关名称。该条目不是韩国演员 손여은（Son Yeo-eun）。
+
+## 🏷️ 相关别名与账号标识
+
+- BJ Eunsora
+- 은소라（Eun Sora）
+- Yenny
+- son_ye_eun
+- ye._eun_s2
+- yeeny618
+- 손예은
 
 ## 🔗 相关链接
 
