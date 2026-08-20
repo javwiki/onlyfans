@@ -17,9 +17,6 @@
 - [@princessdolly_i](./princessdolly_i.md) — 娃娃Princessdolly / @princessdolly_i
 - [@pupu28](./pupu28.md) — pupu28 / @pupu28
 
-- [@PINK](./PINK.md) — PINK / @PINK
-- [@PPP](./PPP.md) — PPP / @PPP
-- [@Paopao](./Paopao.md) — 泡泡 / @Paopao
 - [@pimnalinn_](./pimnalinn_.md) — pimnalinn 🧸 / @pimnalinn_
 - [@punipxn](./punipxn.md) — punipxn / @punipxn
 - [@penelopekay](./penelopekay.md) — Penelope Kay / @420bbyk
