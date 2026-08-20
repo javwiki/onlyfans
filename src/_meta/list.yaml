@@ -1790,9 +1790,10 @@ Suxiaomeibobomei:
   status: 70
 
 Succubus_86:
-  name: Succubus_86
+  name: 猫属性八六
+  x: Succubus_86
   file: src/S/Succubus_86.md
-  status: 70
+  status: 80
 
 Lingmumeixiao:
   name: 铃木美咲
