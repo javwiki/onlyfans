@@ -7,6 +7,8 @@
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/daddysgirl222)
+- [Chaturbate](https://chaturbate.com/daddysgirl222/)
+- [Fansly](https://fansly.com/daddysgirl222)
 
 ---
 
