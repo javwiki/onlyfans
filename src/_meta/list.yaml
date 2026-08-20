@@ -1632,12 +1632,6 @@ SoolinKelter:
   file: src/S/SoolinKelter.md
   status: 70
 
-RaeLilBlack:
-  name: Rae Lil Black
-  x: RaeLilBlack
-  file: src/R/RaeLilBlack.md
-  status: 70
-
 YuuSakura:
   name: Yuu Sakura
   x: YuuSakura
@@ -3221,21 +3215,6 @@ Oqqk:
   name: Oqqk
   file: src/O/Oqqk.md
   x: Oqqk
-  status: 70
-Qianqian:
-  name: 芊芊
-  file: src/Q/Qianqian.md
-  x: Qianqian
-  status: 70
-Qiaobenyoucai:
-  name: 桥本有菜
-  file: src/Q/Qiaobenyoucai.md
-  x: Qiaobenyoucai
-  status: 70
-Qieer:
-  name: 且儿
-  file: src/Q/Qieer.md
-  x: Qieer
   status: 70
 RIRI:
   name: RIRI

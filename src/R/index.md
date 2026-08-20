@@ -6,7 +6,6 @@
 
 ## 🧑‍🎤 博主
 
-- [@RaeLilBlack](./RaeLilBlack.md) — Rae Lil Black
 - [@RirisuAmano](./RirisuAmano.md) — 天野リリス / @RirisuAmano
 - [@RitaAkira](./RitaAkira.md) — Rita Akira
 - [@Ruanmeiyaoyaole](./Ruanmeiyaoyaole.md) — 軟妹搖搖樂
