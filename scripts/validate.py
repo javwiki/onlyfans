@@ -8,7 +8,7 @@
   E1  list.yaml 可解析，且每条目 file 字段指向存在的文件
   E2  除 index.md 外的所有博主页都被 list.yaml 引用（无孤儿文件）
   E3  字母索引页（src/X/index.md）列出了该字母下所有条目
-  E4  页面 frontmatter 的 tags 与 list.yaml 中的 tags 一致
+  E4  list.yaml 不保存 tags（标签仅由页面 frontmatter 维护）
   E5  页面包含「简介」与「相关链接」区块，且有返回导航
   E6  页面内相对链接无死链
 
@@ -54,14 +54,6 @@ def load_data() -> dict:
             err(f"E1 {LIST_YAML} 解析失败: {e}")
             return {}
     return data
-
-
-def parse_frontmatter_tags(content: str) -> set:
-    m = re.search(r"^---\ntags: \[(.*?)\]\n---", content, re.S)
-    if not m:
-        return None  # 无 frontmatter
-    raw = m.group(1).strip()
-    return set(t.strip() for t in raw.split(",") if t.strip()) if raw else set()
 
 
 def main() -> int:
@@ -113,17 +105,17 @@ def main() -> int:
             if key not in content and v.get("name", "") not in content:
                 err(f"E3 索引页 {idx} 未列出条目 {key}")
 
-    # ---- E4/E5/E6: 页面级检查 ----
+    # ---- E4: list.yaml 保持简短，tags 仅存于页面 frontmatter ----
+    for key, v in data.items():
+        if "tags" in v:
+            err(f"E4 条目 {key}: list.yaml 不应包含 tags，请移至页面 frontmatter")
+
+    # ---- E5/E6: 页面级检查 ----
     w_region = []
     w_placeholder = []
     for key, v in data.items():
         f = os.path.join(ROOT, v["file"])
         content = open(f, encoding="utf-8").read()
-        # E4: tags 一致性
-        ytags = set(t for t in (v.get("tags") or []) if t)
-        ftags = parse_frontmatter_tags(content)
-        if ftags is not None and ytags != ftags:
-            err(f"E4 {v['file']}: yaml tags={sorted(ytags)} 与 frontmatter tags={sorted(ftags)} 不一致")
         # E5: 区块完整性
         if "简介" not in content:
             err(f"E5 {v['file']}: 缺少「简介」区块")

@@ -21,7 +21,7 @@
 - [@AromaGif](./AromaGif.md) — Aroma.gif（男娘海军人设）
 - [@Artgroovy](./Artgroovy.md) — Artgroovy
 - [@AshleyTervort](./AshleyTervort.md) — Ashley Tervort
-- [@Asiafox](./Asiafox.md) — Asia fox
+- [Asia Fox](./Asiafox.md) — 泰国 webcam 模特，身份待核验
 - [@ad1yn2](./ad1yn2.md) — ad1yn2
 - [@alinaxmei](./alinaxmei.md) — Alina Mei
 - [@allecakes](./allecakes.md) — Allecakes
