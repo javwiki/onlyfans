@@ -1561,12 +1561,6 @@ SandyCoco:
   file: src/S/SandyCoco.md
   status: 70
 
-MikiWu20EGirls:
-  name: 吴美希
-  x: MikiWu20EGirls
-  file: src/M/MikiWu20EGirls.md
-  status: 70
-
 egg:
   name: egg尤妮丝
   file: src/E/egg.md
@@ -1703,12 +1697,6 @@ NicoleDoshi:
   name: Nicole Doshi
   x: NicoleDoshi
   file: src/N/NicoleDoshi.md
-  status: 80
-
-CodiVore:
-  name: Codi Vore
-  x: CodiVore
-  file: src/C/CodiVore.md
   status: 80
 
 smoneyordieonlyfansSkyBri:
@@ -3287,26 +3275,6 @@ Meiqiaobaby:
   name: 美乔baby
   file: src/M/Meiqiaobaby.md
   x: Meiqiaobaby
-  status: 70
-Mememe:
-  name: Mememe
-  file: src/M/Mememe.md
-  x: Mememe
-  status: 70
-Mengmei:
-  name: 梦妹
-  file: src/M/Mengmei.md
-  x: Mengmei
-  status: 70
-Mengyue:
-  name: 梦月
-  file: src/M/Mengyue.md
-  x: Mengyue
-  status: 70
-Mint_tea:
-  name: 薄荷茶
-  file: src/M/Mint_tea.md
-  x: Mint_tea
   status: 70
 Mita:
   name: 觅她

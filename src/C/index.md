@@ -22,7 +22,6 @@
 - [@Chinhbaby](./Chinhbaby.md) — Chinhbaby / @Chinhbaby
 - [@Chuanyunyin](./Chuanyunyin.md) — 穿云音
 - [@CiNiao438](./CiNiao438.md) — 仙本娜娜 / @CiNiao438
-- [@CodiVore](./CodiVore.md) — Codi Vore
 - [@CrystalClark](./CrystalClark.md) — Crystal Clark
 - [@carpediem110392winktv](./carpediem110392winktv.md) — 율이
 - [@cdnmxy](./cdnmxy.md) — 南牧绪央 / @cdnmxy
