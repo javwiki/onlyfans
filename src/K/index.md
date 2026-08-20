@@ -18,6 +18,7 @@
 - [@kim3857pandatv](./kim3857pandatv.md) — 林风姬
 - [@kimjeewoo529](./kimjeewoo529.md) — 尹敏洙 / @kimjeewoo529
 - [@kitty2002102](./kitty2002102.md) — kitty🐱💘 / @kitty2002102
+- [@kittyxkum](./kittyxkum.md) — Kitty Kum / @kittyxkum
 - [@kittyyumiko](./kittyyumiko.md) — kittyyumiko / @kittyyumiko
 - [@kkimkkimmy](./kkimkkimmy.md) — KimmySun☀️ / @kimmysun_
 - [@krebs_tina71418](./krebs_tina71418.md) — 乙葉らら / @krebs_tina71418
