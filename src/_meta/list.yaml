@@ -713,7 +713,6 @@ nigella_pty:
 babynookie:
   name: babynookie
   file: src/B/babynookie.md
-  x: babynookie
   status: 70
 
 yumi_03:

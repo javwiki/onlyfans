@@ -15,7 +15,7 @@
 - [@Bora](./Bora.md) — Bora
 - [@Buchunxuemei](./Buchunxuemei.md) — 不纯学妹
 - [@baby](./baby.md) — 熙熙baby
-- [@babynookie](./babynookie.md) — babynookie / @babynookie
+- [babynookie](./babynookie.md) — babynookie
 - [@bebe5200000](./bebe5200000.md) — Bebe / @bebe5200000
 - [@bibianeruby](./bibianeruby.md) — bibianeruby / @bibianeruby
 - [@bu_ivv](./bu_ivv.md) — bu_ivv / @bu_ivv
