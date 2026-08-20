@@ -1,12 +1,15 @@
-# OnlyFans 博主介绍
+# OnlyFans / Adult Model / NSFW Webcam Girl 索引
 
-这是一个使用 mdBook 构建的 OnlyFans 博主索引项目，收录了来自全球的优秀创作者。
+这是一个使用 mdBook 构建的公开资料索引项目，定位关键词为 `OnlyFans`、`adult model`、`NSFW webcam girl` 与 `amateur leak`。
+
+其中 `amateur leak` 仅作为检索与分类关键词；项目不收录、转载、链接或分发泄露及非自愿私密内容，只记录合法公开的创作者资料与官方/公开平台页面。
 
 ## 项目特点
 
 - 📚 按用户名首字母 A-Z 分类
 - 🌍 覆盖多个国家和地区
-- 🔗 包含社交媒体链接和简介
+- 🔗 包含社交媒体、内容平台链接和简介
+- 🔎 支持成人模特、NSFW webcam girl 等公开身份线索检索
 - 📱 支持 GitHub Pages 自动部署
 
 ## 项目结构

@@ -1,6 +1,10 @@
-# 前言
+# OnlyFans / Adult Model / NSFW Webcam Girl 索引
 
-本书记录了 OnlyFans 平台上来自全球的优秀创作者。每位博主按用户名首字母归类，方便查阅。
+本项目收录来自 OnlyFans、成人模特与 NSFW webcam girl 领域的公开创作者资料，并按用户名首字母归类。
+
+定位关键词：`OnlyFans`、`adult model`、`NSFW webcam girl`、`amateur leak`。
+
+> `amateur leak` 仅用于检索与分类，不代表项目收录泄露内容。项目不提供、转载或链接非自愿私密影像及下载资源。
 
 ## 如何使用
 

@@ -1,6 +1,6 @@
 ---
 name: onlyfans-workflow
-description: 完整工作流：优先从 X 核验创作者，再更新 list.yaml、生成创作者 MD 文件并构建发布；包含假冒账号筛查。
+description: OnlyFans、adult model、NSFW webcam girl 公开资料索引工作流；优先从 X 核验创作者，再更新 list.yaml、生成创作者 MD 文件并构建发布，包含假冒账号筛查。
 ---
 
 # 完整工作流 Complete Workflow
@@ -12,6 +12,12 @@ description: 完整工作流：优先从 X 核验创作者，再更新 list.yaml
 - 用户提供 X/Twitter ID（用户名）或创作者名称
 - 项目根目录：当前工作目录
 - 可能需要 Playwright（用于浏览器自动化搜索与 OnlyFans 直连验证）
+
+## 项目定位与内容边界
+
+- 项目定位关键词：`OnlyFans`、`adult model`、`NSFW webcam girl`、`amateur leak`。
+- `amateur leak` 仅作为检索与分类关键词；不得搜索、保存、转载、链接或整理泄露及非自愿私密内容。
+- 条目只记录合法公开的身份资料、创作者自愿发布的内容线索，以及官方或公开平台页面；不提供下载、磁力或盗版资源。
 
 ---
 
