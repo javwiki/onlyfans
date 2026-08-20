@@ -2236,9 +2236,12 @@ Linxiaoxia:
 
 Sirenwanwu:
   name: 私人玩物
-  x: Sirenwanwu
+  aliases:
+  - CWanwu
+  - Sirenwanwu
+  x: ""
   file: src/S/Sirenwanwu.md
-  status: 80
+  status: 70
 
 Suxiaomeibobomei:
   name: 苏小美波波妹
