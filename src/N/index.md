@@ -26,7 +26,6 @@
 - [@nini](./nini.md) — 蜜桃臀女友nini
 - [@nynykk](./nynykk.md) — nynykk
 
-- [@NANA](./NANA.md) — NANA
 - [@NONO](./NONO.md) — NONO
 - [@NYC](./NYC.md) — NYC
 - [@Naixiang](./Naixiang.md) — 乃香

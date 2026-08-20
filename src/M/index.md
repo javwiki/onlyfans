@@ -6,7 +6,6 @@
 
 ## 🧑‍🎤 博主
 
-- [@MOMO](./MOMO.md) — MOMO酱
 - [@Majixiaotuzi](./Majixiaotuzi.md) — 麻吉小兔子
 - [@Maorou_K8M](./Maorou_K8M.md) — 樁山民子 / @Maorou_K8M
 - [@MarcelinAbadir](./MarcelinAbadir.md) — Marcelin Abadir
@@ -44,14 +43,11 @@
 - [@mssethiionly](./mssethiionly.md) — ms.sethii / @mssethiionly
 
 - [@MANDY](./MANDY.md) — MANDY
-- [@MM](./MM.md) — MM
 - [@MVP](./MVP.md) — MVP
 - [@Mabelle](./Mabelle.md) — Mabelle
 - [@Maomao](./Maomao.md) — 猫咪
 - [@Meiqiaobaby](./Meiqiaobaby.md) — 美乔baby
 - [@Mira_EiEi](./Mira_EiEi.md) — Mira_ei
-- [@Mita](./Mita.md) — 觅她
-- [@Miya](./Miya.md) — Miya
 - [@Morise](./Morise.md) — Morise
 - [@MoroccanZina_](./MoroccanZina_.md) — Zina Hadid
 - [@meikouii](./meikouii.md) — Mei Kou
