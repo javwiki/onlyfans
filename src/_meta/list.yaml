@@ -518,12 +518,6 @@ honglis2:
   x: honglis2
   status: 70
 
-nanacute:
-  name: nanacute
-  file: src/N/nanacute.md
-  x: nanacute
-  status: 70
-
 nbnabunny:
   name: nbnabunny
   region: 英国
