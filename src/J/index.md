@@ -7,7 +7,6 @@
 ## 🧑‍🎤 博主
 
 - [@JJiongwltn9818winktv](./JJiongwltn9818winktv.md) — 찌옹
-- [@JadeVenus](./JadeVenus.md) — Jade Venus
 - [@Janpet12](./Janpet12.md) — Jan兔 / @Janpet12
 - [@JennySuen10](./JennySuen10.md) — 孫禾頤JennySuen / @JennySuen10
 - [@Jiaduobao](./Jiaduobao.md) — 佳多饱
