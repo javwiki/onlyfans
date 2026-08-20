@@ -9,7 +9,6 @@
 - [@AbbyOpel](./AbbyOpel.md) — Abby Opel
 - [@AliceNANA](./AliceNANA.md) — AliceNANA
 - [@AlisaAmore](./AlisaAmore.md) — Alisa Amore
-- [@AlleyBella](./AlleyBella.md) — 贝拉Bella
 - [@Amandapaipai](./Amandapaipai.md) — 阿曼達拍拍
 - [@AmiraWest](./AmiraWest.md) — Amira West
 - [@Ananlaoshi](./Ananlaoshi.md) — 安安老师
