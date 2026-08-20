@@ -17,7 +17,7 @@
 - [@baby](./baby.md) — 熙熙baby
 - [babynookie](./babynookie.md) — babynookie
 - [@bebe5200000](./bebe5200000.md) — Bebe / @bebe5200000
-- [@bibianeruby](./bibianeruby.md) — bibianeruby / @bibianeruby
+- [bibianeruby](./bibianeruby.md) — bibianeruby
 - [@bu_ivv](./bu_ivv.md) — bu_ivv / @bu_ivv
 - [@bunnybunnylove](./bunnybunnylove.md) — 爱露露 / @bunnybunnylove
 

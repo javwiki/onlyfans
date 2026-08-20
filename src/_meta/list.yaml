@@ -729,9 +729,9 @@ deerlong:
 
 bibianeruby:
   name: bibianeruby
+  region: 韩国
   file: src/B/bibianeruby.md
-  x: bibianeruby
-  status: 80
+  status: 50
 
 kittyyumiko:
   name: kittyyumiko
