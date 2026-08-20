@@ -500,8 +500,7 @@ wldms4482:
 ad1yn2:
   name: ad1yn2
   file: src/A/ad1yn2.md
-  x: ad1yn2
-  status: 70
+  status: 80
 
 angellicagood:
   name: Angellica Good

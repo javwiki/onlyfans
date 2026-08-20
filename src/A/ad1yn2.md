@@ -2,11 +2,11 @@
 
 ## 📝 简介
 
-网络搜索未找到该创作者的具体信息。
+ad1yn2 是 SOOP 平台上的直播账号，公开直播间 ID 为 `ad1yn2`。当前未核实其官方 OnlyFans 账号。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/ad1yn2)
+- [SOOP 直播间](https://www.sooplive.com/station/ad1yn2) — ad1yn2
 
 ---
 
