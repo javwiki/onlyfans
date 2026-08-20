@@ -14,7 +14,6 @@
 - [@Shaonvqiangxieshi](./Shaonvqiangxieshi.md) — 少女枪械师
 - [@Shengyouxiaomeimo](./Shengyouxiaomeimo.md) — 声优小魅魔
 - [@Shengyouxiaoyun](./Shengyouxiaoyun.md) — 声优小允
-- [@ShinSaeRom](./ShinSaeRom.md) — 辛赛伦 / @ShinSaeRom
 - [@Sirenwanwu](./Sirenwanwu.md) — 私人玩物
 - [@Siwanvshen](./Siwanvshen.md) — 撕袜女神
 - [@SkyexSummers](./SkyexSummers.md) — SkyexSummers / @SkyexSummers

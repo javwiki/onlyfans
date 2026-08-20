@@ -8,7 +8,6 @@
 
 - [@YEWON](./YEWON.md) — 예원
 - [@Yajiangjiangjiang](./Yajiangjiangjiang.md) — 丫酱酱酱
-- [@Yalisha](./Yalisha.md) — 亚里沙
 - [@Yanfengjiao](./Yanfengjiao.md) — 闫凤娇
 - [@Yanpanpan](./Yanpanpan.md) — 闫盼盼
 - [@Yaomeinvwanghulijing](./Yaomeinvwanghulijing.md) — 妖媚女王狐狸精

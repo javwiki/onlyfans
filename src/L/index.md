@@ -15,7 +15,6 @@
 - [@LenaLi](./LenaLi.md) — Lena Li
 - [@Lianxin](./Lianxin.md) — 连欣
 - [@Lienxi](./Lienxi.md) — 李蒽熙
-- [@LilyLou](./LilyLou.md) — Lily Lou
 - [@LilMilk](./lilmilk_69.md) — LilMilk / @lilmilk_69
 - [@Lingmumeixiao](./Lingmumeixiao.md) — 铃木美咲
 - [@Linxiaoxia](./Linxiaoxia.md) — 林小夏
@@ -38,7 +37,6 @@
 - [@lovesisi](./lovesisi.md) — lovesisi / @lovesisi
 - [@lyainevan](./lyainevan.md) — 特莱莎
 
-- [@LING](./LING.md) — LING
 - [@LULU](./LULU.md) — LULU
 - [@LaLa](./LaLa.md) — LaLa
 - [@Luobao](./Luobao.md) — 萝卜包

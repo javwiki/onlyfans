@@ -801,11 +801,6 @@ nikumikyo:
   x: nikumikyo
   status: 80
 
-ShinSaeRom:
-  name: 辛赛伦
-  file: src/S/ShinSaeRom.md
-  x: ShinSaeRom
-  status: 70
 TS:
   name: TS酱酱
   file: src/T/TS.md
@@ -1517,11 +1512,6 @@ egg:
   file: src/E/egg.md
   status: 70
 
-Yalisha:
-  name: 亚里沙
-  x: Yalisha
-  file: src/Y/Yalisha.md
-  status: 70
 
 Bora:
   name: Bora
@@ -1649,11 +1639,6 @@ smoneyordieonlyfansSkyBri:
   file: src/S/smoneyordieonlyfansSkyBri.md
   status: 70
 
-LilyLou:
-  name: Lily Lou
-  x: LilyLou
-  file: src/L/LilyLou.md
-  status: 70
 
 Amandapaipai:
   name: 阿曼達拍拍
@@ -3161,11 +3146,6 @@ Kikiii:
   name: Kikiii
   file: src/K/Kikiii.md
   x: Kikiii
-  status: 70
-LING:
-  name: LING
-  file: src/L/LING.md
-  x: LING
   status: 70
 LULU:
   name: LULU
