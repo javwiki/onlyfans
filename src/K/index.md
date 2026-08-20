@@ -17,7 +17,7 @@
 - [@kikobabiiiii](./kikobabiiiii.md) — 羊咩咩Ena🖤 / @kikobabiiiii
 - [@kim3857pandatv](./kim3857pandatv.md) — 林风姬
 - [@kimjeewoo529](./kimjeewoo529.md) — 尹敏洙 / @kimjeewoo529
-- [@klive19101403](./klive19101403.md) — 提莫女孩 / 은소라 / 티모
+- [@klive19101403](./klive19101403.md) — 提莫女孩 / 은소라 / 티모 / 손예은
 - [@kitty2002102](./kitty2002102.md) — kitty🐱💘 / @kitty2002102
 - [@kittyyumiko](./kittyyumiko.md) — kittyyumiko / @kittyyumiko
 - [@kkimkkimmy](./kkimkkimmy.md) — KimmySun☀️ / @kimmysun_
