@@ -41,7 +41,6 @@
 - [@msbreewc](./msbreewc.md) — Msbreewc / @msbreewc
 - [@mssethiionly](./mssethiionly.md) — ms.sethii / @mssethiionly
 
-- [@MANDY](./MANDY.md) — MANDY
 - [@Mabelle](./Mabelle.md) — Mabelle
 - [@Maomao](./Maomao.md) — 猫咪
 - [@Meiqiaobaby](./Meiqiaobaby.md) — 美乔baby
