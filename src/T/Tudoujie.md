@@ -2,7 +2,7 @@
 
 ## 📝 简介
 
-土豆姐，来自中国的成人内容创作者。X（Twitter）账号 @Tudoujie 显示用户名为「Robin」，简介为「Parsons Illustration major. Contact at [email protected]!」，位于纽约。账号于2015年7月加入，目前关注18人，拥有9名关注者，暂无公开发布的推文。其Tumblr博客地址为 tudoujie.tumblr.com。网络搜索未找到更多关于该创作者的信息。
+网络搜索未找到该创作者的具体信息。
 
 ## 🔗 相关链接
 

@@ -2,7 +2,7 @@
 
 ## 📝 简介
 
-짱짱걸门把手（Jjangjjanggeol），该账号为韩国 K-pop 粉丝账号，并非 OnlyFans 成人内容创作者。跨平台网络搜索未找到名为"짱짱걸"或"Jjangjjanggeol"的 OnlyFans 创作者的具体信息。
+网络搜索未找到该创作者的具体信息。
 
 ## 🔗 相关链接
 

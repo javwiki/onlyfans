@@ -15,8 +15,6 @@ tags: []
 
 ## 📝 简介
 
-Dolly Orchid（Dolly X），香港出身、活跃于英国的成人内容创作者和模特。2024 年进入行业，曾与 Team Skeet、iStripper 等公司合作。她在 Fansly 上是 Top 1% 创作者（每周更新 10+ 次），OnlyFans 和 Pornhub 上也有大量内容。Instagram @dollyorchid2（27K 粉丝），TikTok @dollyinuk。
-
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/dollyinuk) — 主账号（ONLY TWITTER AC）

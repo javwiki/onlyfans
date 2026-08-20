@@ -19,7 +19,7 @@ Naomi Ventura（@xmoondreams / Moon 🌙✨），菲律宾裔成人内容创作�
 
 活跃于 Twitch 直播（ xmloightdreams）、SextPanther（成人聊天平台）、Instagram、OnlyFans 等多平台，通过 Linktree 集合所有入口。内容涵盖 Twitch 游戏直播、成人Cosplay照片、SextPanther性爱聊天等，在菲律宾成人内容圈层中具有较高人气。
 
-成名帖子包括"Filipina girls win"、"When he says his type is short thick asian girls"等，单条推文转发可达数十万。Payments via Venmo and CashApp.
+成名帖子包括"Filipina girls win"、"When he says his type is short thick asian girls"等，单条推文转发可达数十万。
 
 ## 🔗 相关链接
 

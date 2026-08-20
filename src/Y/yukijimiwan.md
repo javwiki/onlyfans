@@ -9,7 +9,7 @@
 
 ## 📝 简介
 
-YuKi（@yukijimiwan），泰国曼谷出身的模特、独立演员与数字内容创作者。X 拥有 36.6K 粉丝，2021年3月加入。Facebook（Yu Sweetty）拥有 7 万粉丝。曾就读于 Siam Technology College 酒店与旅游管理专业。提供付费内容（锁定账号，1,599 泰铢永久会员）及模特/演出服务。活跃于 LINE SHOPPING（shopter.co/yuki）。
+YuKi（@yukijimiwan），泰国曼谷出身的模特、独立演员与数字内容创作者。X 拥有 36.6K 粉丝，2021年3月加入。Facebook（Yu Sweetty）拥有 7 万粉丝。曾就读于 Siam Technology College 酒店与旅游管理专业。活跃于 LINE SHOPPING（shopter.co/yuki）。
 
 > ⚠️ 未发现 OnlyFans 等海外付费平台链接。
 

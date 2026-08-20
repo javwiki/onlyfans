@@ -2,7 +2,7 @@
 
 ## 📝 简介
 
-Samantha Flair（@SamanthaFlair），X（Twitter）账号显示名为"Samantha Flair"。账号于2019年11月加入，目前没有发布任何推文，拥有99位关注者。
+网络搜索未找到该创作者的具体信息。
 
 ## 🔗 相关链接
 

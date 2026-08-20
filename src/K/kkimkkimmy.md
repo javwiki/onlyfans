@@ -28,7 +28,6 @@ OnlyFans 主账号现为 **kkimkkimmy**（VIP，无 PPV）：1,130 帖 / 3,362 �
 - **OnlyFans（Free）** `kimmyyummy`：免费引流号（非 PPV 号），简介「It's free what are you waiting for ❤️」，链接 VIP 页
 - **Instagram**：@kimmy.sun0312（新账号，旧号 @kimmysun / @kimmysun.0312 / @kimmysun0321 已多次更换）
 - **TikTok**：@kimmysunnn — 15.6K 粉丝 / 47.1K 赞
-- **Pornhub**：kimmysun0312（模型页）
 
 ## 🔗 相关链接
 

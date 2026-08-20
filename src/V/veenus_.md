@@ -28,7 +28,6 @@ OnlyFans 简介自称「your 6'0" trans dream 🏳️‍⚧️ / Long legs, dang
 - **Instagram**：@iamveenusx（Pamela Ferrer）
 - **TikTok**：@_veenus0（Pamela ferrer）— 1,924 粉丝 / 7,018 赞
 - **Telegram**：@veenus_1
-- **Pornhub**：模型页 veenus
 - **Reddit**：r/PamelaFerrer（粉丝社区）
 
 ## 🔗 相关链接

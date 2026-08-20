@@ -2,7 +2,7 @@
 
 ## 📝 简介
 
-OnlyFans 创作者，用户名 Daerxuemei，中文名「大二学妹」。其 X（Twitter）账号（@Daerxuemei）已被平台暂停（Account suspended），无法获取简介信息。跨平台网络搜索未找到除 X 以外的其他社交平台或具体资料。
+网络搜索未找到该创作者的具体信息。
 
 ## 🔗 相关链接
 

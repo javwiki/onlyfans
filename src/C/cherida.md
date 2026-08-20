@@ -2,8 +2,7 @@
 
 ## 📝 简介
 
-Instagram 账号为 @cherida，显示名「Cherida Van Dieijen-van Veen」。
-国籍标注为中国。网络搜索未找到该创作者的具体信息。
+网络搜索未找到该创作者的具体信息。
 
 ## 🔗 相关链接
 

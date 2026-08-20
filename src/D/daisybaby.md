@@ -2,8 +2,7 @@
 
 ## 📝 简介
 
-daisybaby（@daisybaby），Instagram 账号 @daisybaby 存在，但未设置显示名称。
-跨平台网络搜索未找到其他公开信息。
+网络搜索未找到该创作者的具体信息。
 
 ## 🔗 相关链接
 

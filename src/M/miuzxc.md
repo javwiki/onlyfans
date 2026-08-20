@@ -14,8 +14,6 @@ tags: []
 
 ## 📝 简介
 
-Miuzxc（@miuzxc），越南 AV 模特 / 成人内容创作者。自称"Hi I'm Miuzxc AV model - Livestreaming - Asian I like Asian Food ~ Traveling ~ Make content"。X 拥有 22.4 万粉丝。活跃于 Fansly、Stripchat、Pornhub、xHamster、Faphouse 等平台。Instagram @miuzxc，TikTok @miuzxc，Linktree @miuzxc。
-
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/miuzxc) — 22.4万粉丝

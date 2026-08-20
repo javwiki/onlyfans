@@ -2,7 +2,7 @@
 
 ## 📝 简介
 
-清心（Qingxin），X 账号 @qingxin 显示名为「清心♡」，简介为「基督徒 a Christian | Truth seeker, Church Leader, Writer, Blogger&Twitter...」，位于北京，2007 年 3 月加入。该账号内容与宗教、信仰相关，并非 OnlyFans 成人内容创作者。跨平台网络搜索未找到名为"清心"的 OnlyFans 创作者的具体信息。
+网络搜索未找到该创作者的具体信息。
 
 ## 🔗 相关链接
 

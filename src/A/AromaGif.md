@@ -12,13 +12,10 @@ tags: [男娘, 伪娘, NSFW, adultmodel]
 | **地区** | 未知（英语内容，国籍未确认） |
 | **性别** | 男（Femboy / 男娘） |
 | **内容类型** | 成人内容 |
-| **风格** | 「海绵宝宝」海军男娘人设；OnlyFans / Fansly 付费内容 + Pornhub / Xhamster 4K 公开内容 |
 
 ## 📝 简介
 
 Aroma.gif（@AromaGif），Femboy（男娘）成人内容创作者，以「海绵宝宝」主题人设著称：自称「Seaman Second Class Aroma ⚓️（比奇堡 Chum Bucket 舰队男娘分部）」，简介注明身高 5'4" / 55kg / 18cm(7'')，X 地区标注为「USS Nathan James」（《超级战舰》中的虚构军舰，属人设的一部分）。
-
-X 主账号拥有 **18.1 万粉丝**，2022年1月加入，发布 1,494 条帖子、809 条媒体，为 X 平台认证（verified）账号。付费内容主要发布在 OnlyFans 与 Fansly，另有 Pornhub、Xhamster 4K 公开内容及 Instagram @aroma.gif。
 
 ## 📈 平台数据
 
@@ -26,7 +23,6 @@ X 主账号拥有 **18.1 万粉丝**，2022年1月加入，发布 1,494 条帖�
 - **X / Twitter（日常小号）** `@sandy70643435`：Linktree 标注「Twitter Daily」
 - **OnlyFans** `aromagif`：主付费平台
 - **Fansly** `aromagif`：付费平台
-- **Pornhub** `model/aroma`：4K 公开内容
 - **Xhamster** `users/aromagif`：4K 公开内容
 - **Instagram** `@aroma.gif`
 

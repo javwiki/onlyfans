@@ -15,8 +15,6 @@ tags: [巨乳, 素人, asian]
 
 ## 📝 简介
 
-Alina Mei（alinaxmei），日本出身的亚洲成人内容创作者。以天然巨乳为标志性特征，活跃于 PornHub、OnlyFans 等多个平台。PornHub 累计播放量超过 2420 万次，拥有 12.1 万订阅者。自称 "Finally, I'm back."，兴趣爱好包括 Pole dancer 和游戏。视频风格以 POV、巨乳 titfuck、日本素人题材为主。
-
 ## 🔗 相关链接
 
 - [OnlyFans](https://onlyfans.com/alinaxmei)

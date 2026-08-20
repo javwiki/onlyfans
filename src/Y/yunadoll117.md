@@ -10,12 +10,9 @@ tags: [cosplay, japanese, asian, maid, schoolgirl, big tits]
 | **名称** | Yunadoll |
 | **别名** | yunadollyu（备用X） |
 | **地区** | 🇯🇵 日本 |
-| **类型** | OnlyFans / Fansly / Pornhub 创作者 |
 | **风格** | 日系角色扮演、巨乳、ASIAN |
 
 ## 📝 简介
-
-Yunadoll 是一位日系成人内容创作者，以高质量 cosplay 角色扮演内容著称。她在 Pornhub 拥有 246K 订阅者和 7.6M 视频浏览量，活跃于 OnlyFans、Fansly、Instagram（@iamyunadoll）等平台。内容主题涵盖女仆、校园、运动、护士角色扮演等日系成人剧情向作品。
 
 ## 🔗 相关链接
 
