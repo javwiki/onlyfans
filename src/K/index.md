@@ -26,10 +26,8 @@
 - [@kyl1012](./kyl1012.md) — Neat / @kyl1012
 
 - [@KAKA](./KAKA.md) — KAKA / @KAKA
-- [@KITTY](./KITTY.md) — KITTY / @KITTY
 - [@Kakiooi](./Kakiooi.md) — Kakiooi / @Kakiooi
 - [@Katekuray](./Katekuray.md) — Kate Kuray / @Katekuray
-- [@Kikiii](./Kikiii.md) — Kikiii / @Kikiii
 - [@khloekiss97](./khloekiss97.md) — Khloe Kiss / @khloekiss97
 - [@kxoktty](./kxoktty.md) — Kiana 👸🏼 / @kxoktty
 ---

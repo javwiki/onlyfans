@@ -3111,20 +3111,10 @@ KAKA:
   file: src/K/KAKA.md
   x: KAKA
   status: 70
-KITTY:
-  name: KITTY
-  file: src/K/KITTY.md
-  x: KITTY
-  status: 70
 Kakiooi:
   name: Kakiooi
   file: src/K/Kakiooi.md
   x: Kakiooi
-  status: 70
-Kikiii:
-  name: Kikiii
-  file: src/K/Kikiii.md
-  x: Kikiii
   status: 70
 LaLa:
   name: LaLa
