@@ -23,7 +23,6 @@
 - [@xiaolemasem1](./masem.md) — 小乐乐
 - [@mauymyb](./mauymyb.md) — 米布儿
 - [@megnutt02](./megnutt02.md) — megnutt02 / @megnutt02
-- [@meikoui](./meikoui.md) — meikoui
 - [@meow_lonely](./meow_lonely.md) — LonelyMeow / @meow_lonely
 - [@meriol_chan](./meriol_chan.md) — meriol chan / @meriol_chan
 - [@miebb](./miebb.md) — mie / @miebb

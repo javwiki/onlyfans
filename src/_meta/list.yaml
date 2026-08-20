@@ -1580,12 +1580,6 @@ minichu:
   file: src/M/minichu.md
   status: 80
 
-meikoui:
-  name: meikoui
-  x: meikoui
-  file: src/M/meikoui.md
-  status: 70
-
 MissA:
   name: MissA
   x: MissA
