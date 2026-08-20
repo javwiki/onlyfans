@@ -1599,12 +1599,6 @@ SoolinKelter:
   file: src/S/SoolinKelter.md
   status: 70
 
-YuuSakura:
-  name: Yuu Sakura
-  x: YuuSakura
-  file: src/Y/YuuSakura.md
-  status: 80
-
 NicoleDoshi:
   name: Nicole Doshi
   x: NicoleDoshi
