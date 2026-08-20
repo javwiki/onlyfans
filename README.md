@@ -1,8 +1,8 @@
 # OnlyFans / Adult Model / NSFW Webcam Girl 索引
 
-这是一个使用 mdBook 构建的公开资料索引项目，定位关键词为 `OnlyFans`、`adult model`、`NSFW webcam girl` 与 `amateur leak`。
+这是一个使用 mdBook 构建的公开资料索引项目，定位关键词为 `OnlyFans`、`adult model`、`NSFW webcam girl` 与 `amateur made`。
 
-其中 `amateur leak` 仅作为检索与分类关键词；项目不收录、转载、链接或分发泄露及非自愿私密内容，只记录合法公开的创作者资料与官方/公开平台页面。
+其中 `amateur made` 仅作为检索与分类关键词，只记录合法公开的创作者资料与官方/公开平台页面。
 
 ## 项目特点
 

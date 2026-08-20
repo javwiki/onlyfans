@@ -15,8 +15,8 @@ description: OnlyFans、adult model、NSFW webcam girl 公开资料索引工作�
 
 ## 项目定位与内容边界
 
-- 项目定位关键词：`OnlyFans`、`adult model`、`NSFW webcam girl`、`amateur leak`。
-- `amateur leak` 仅作为检索与分类关键词；不得搜索、保存、转载、链接或整理泄露及非自愿私密内容。
+- 项目定位关键词：`OnlyFans`、`adult model`、`NSFW webcam girl`、`amateur made`。
+- `amateur made` 仅作为检索与分类关键词；不得搜索、保存、转载、链接或整理泄露及非自愿私密内容。
 - 条目只记录合法公开的身份资料、创作者自愿发布的内容线索，以及官方或公开平台页面；不提供下载、磁力或盗版资源。
 
 ---
