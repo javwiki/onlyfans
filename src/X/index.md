@@ -37,6 +37,7 @@
 - [@Xirui](./Xirui.md) — 希瑞
 - [@Xuya](./Xuya.md) — 徐雅
 - [@xiaokuiwoainii](./xiaokuiwoainii.md) — 小葵ovo / @xiaokuiwoainii
+- [@xiaoqing64](./xiaoqing64.md) — 美乳女神 MANDY / 闵雨晴
 - [@xmoondreams](./xmoondreams.md) — Naomi Ventura（Moon） / @xmoondreams
 
 ---
