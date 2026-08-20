@@ -2642,6 +2642,7 @@ nynykk:
 
 AbbyOpel:
   name: Abby Opel
+  linktree: Abbyopel
   x: AbbyOpel
   file: src/A/AbbyOpel.md
   status: 80

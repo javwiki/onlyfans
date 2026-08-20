@@ -11,6 +11,7 @@ Abby Opel 是一位爱情与关系教练（Love and relationship coach）。她�
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/AbbyOpel)
+- [Linktree](https://linktr.ee/Abbyopel) — @Abbyopel 官方链接页
 
 ---
 
