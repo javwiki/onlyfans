@@ -1,14 +1,16 @@
-# 可可
+# 可可（funnyg）
 
 ## 📝 简介
 
-X 账号 @funnyg 显示名「Giovanna Solimando」，简介：Communication Manager, Lucana, vivo a Torino. Cultura e innovazione sociale i temi su cui lavoro. Presidente Casa Quartiere S. Salvario。位置 Torino, Italy。2007 年 8 月加入。
+可可（SWAG ID：funnyg）是 SWAG 平台创作者与主播。SWAG 官方部落格以「可可 @funnyg」介绍她，并提到她参与直播、影片和节目企划；公开访谈资料列出的 Instagram 为 @funnyg___。目前没有足够公开资料确认其真实姓名等个人信息。
 
-该账号属于一位意大利人，而非 OnlyFans 创作者。经 Bing 搜索「Funnyg onlyfans」，未找到与该创作者相关的具体信息。
+旧资料中的 X 账号 @funnyg 对应一位位于意大利都灵的 Communication Manager，与可可创作者资料不一致，因此不作为本条目的社交账号收录。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Funnyg)
+- [Instagram](https://www.instagram.com/funnyg___/) — @funnyg___
+- [YouTube](https://www.youtube.com/watch?v=9hS0F2xaHUU)
+- [SWAG 官方介绍](https://swag.live/blog/swagger-funnyg/)
 
 ---
 

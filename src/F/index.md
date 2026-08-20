@@ -14,7 +14,7 @@
 - [@ForestNymph](./ForestNymph.md) — Forest Nymph
 - [@Fujianxiongmei](./Fujianxiongmei.md) — 福建兄妹
 - [Fullfive](./Fullfive.md) — Fullfive / 小富婆
-- [@Funnyg](./Funnyg.md) — 可可
+- [@funnyg](./Funnyg.md) — 可可 / SWAG
 - [@faiiorapun](./faiiorapun.md) — faii orapun
 
 - [@FuukaDoll](./FuukaDoll.md) — Fuuka Doll 🔞🍥👽
