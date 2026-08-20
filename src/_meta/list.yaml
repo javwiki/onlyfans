@@ -912,6 +912,12 @@ eeegon:
   file: src/E/eeegon.md
   status: 80
 
+eeegon87:
+  name: eeegon87
+  x: eeegon87
+  file: src/E/eeegon87.md
+  status: 70
+
 euna:
   name: eun-a
   x: euna

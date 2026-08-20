@@ -12,6 +12,7 @@
 - [@Erciyuankuangreshaonv](./Erciyuankuangreshaonv.md) — 二次元狂热少女
 - [@Exiaojie](./Exiaojie.md) — E小姐
 - [@eeegon](./eeegon.md) — eeegon
+- [@eeegon87](./eeegon87.md) — eeegon87
 - [@eemiim](./eemiim.md) — eemiim
 - [@egg](./egg.md) — egg尤妮丝
 - [@euna](./euna.md) — eun-a
