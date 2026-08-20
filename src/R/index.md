@@ -18,9 +18,6 @@
 - [@roro](./roro.md) — roro软软
 - [@ruruka820](./ruruka820.md) — るるたん / @ruruka820
 
-- [@RIRI](./RIRI.md) — RIRI
-- [@RUNRUN](./RUNRUN.md) — RUNRUN
-- [@RuoY](./RuoY.md) — 若依
 - [@rakuraku166](./rakuraku166.md) — 落落Raku_66 🐾
 - [@ruth_hotlee](./ruth_hotlee.md) — Ruthlee
 ---
