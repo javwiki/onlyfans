@@ -12,7 +12,6 @@
 - [@Kexiaodedanchun](./Kexiaodedanchun.md) — 可笑的单纯
 - [@KimHaNeulHyena](./KimHaNeulHyena.md) — 金荷娜
 - [@KimHyeEun](./KimHyeEun.md) — 金慧恩 / @KimHyeEun
-- [@KorraDelRio](./KorraDelRio.md) — Korra Del Rio
 - [@KylieNG](./KylieNG.md) — Kylie-NG
 - [@kaede](./kaede.md) — 水無楓
 - [@kikobabiiiii](./kikobabiiiii.md) — 羊咩咩Ena🖤 / @kikobabiiiii
