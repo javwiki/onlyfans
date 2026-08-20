@@ -3420,10 +3420,6 @@ RuoY:
   name: 若依
   file: src/R/RuoY.md
   status: 70
-Tangshi:
-  name: 唐诗
-  file: src/T/Tangshi.md
-  status: 70
 Willow:
   name: Willow
   file: src/W/Willow.md

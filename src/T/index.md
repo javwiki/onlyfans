@@ -23,7 +23,6 @@
 - [@tutu1miba](./tutu1miba.md) — 兔兔一米八 / @tutu1miba
 
 - [@TCassie0pia](./TCassie0pia.md) — TheRealCassie0pia / @TCassie0pia
-- [@Tangshi](./Tangshi.md) — 唐诗 / @Tangshi
 ---
 
 [◀ 返回首页](../index.md)
