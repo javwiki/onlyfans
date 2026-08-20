@@ -23,7 +23,6 @@
 - [@Cherilyn](./Cherilyn.md) — 爱妃 / @Cherilyn
 - [@ChessieRae](./ChessieRae.md) — Chessie Rae
 - [@Chinhbaby](./Chinhbaby.md) — Chinhbaby / @Chinhbaby
-- [@ChoiSeolhwa](./ChoiSeolhwa.md) — 崔雪华 / @ChoiSeolhwa
 - [@Chuanyunyin](./Chuanyunyin.md) — 穿云音
 - [@CiNiao438](./CiNiao438.md) — 仙本娜娜 / @CiNiao438
 - [@CodiVore](./CodiVore.md) — Codi Vore
