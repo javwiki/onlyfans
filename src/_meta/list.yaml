@@ -582,12 +582,6 @@ Candybaby:
   x: Candybaby
   status: 70
 
-Fullfive:
-  name: Fullfive
-  file: src/F/Fullfive.md
-  x: Fullfive
-  status: 80
-
 Ladyyuan:
   name: Ladyyuan
   file: src/L/Ladyyuan.md
@@ -3134,11 +3128,6 @@ DIDI:
   name: DIDI
   file: src/D/DIDI.md
   x: DIDI
-  status: 70
-FFFM:
-  name: FFFM
-  file: src/F/FFFM.md
-  x: FFFM
   status: 70
 GOFLOWER:
   name: GOFLOWER
