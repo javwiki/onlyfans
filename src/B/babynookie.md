@@ -2,11 +2,12 @@
 
 ## 📝 简介
 
-该创作者的 X 账号为 @babynookie（显示名称：samantha baxter），简介为"I hate school and I love play softball"。账号注册于 2014 年 5 月，关注 3 人，有 174 位粉丝，共有 3 条推文。
+公开检索发现 `@babynookie` 的 OnlyFans 页面。未登录页面仅返回 OnlyFans 通用页，无法确认账号主体；该页面与现有 X 账号（显示名称：samantha baxter）是否属于同一人，暂未核实。
 
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/babynookie)
+- [OnlyFans](https://onlyfans.com/babynookie) — 候选页面，未核实
 
 ---
 
