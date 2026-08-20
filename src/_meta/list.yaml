@@ -1593,12 +1593,6 @@ MissA:
   status: 70
 
 
-SoolinKelter:
-  name: Soolin Kelter
-  x: SoolinKelter
-  file: src/S/SoolinKelter.md
-  status: 70
-
 NicoleDoshi:
   name: Nicole Doshi
   x: NicoleDoshi

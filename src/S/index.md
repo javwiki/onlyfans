@@ -20,7 +20,6 @@
 - [@Sofie14175952](./Sofie14175952.md) — Sofie 🍓tran / @Sofie14175952
 - [@Sola](./Sola.md) — Sola酱
 - [@Songxingxing-kuaishou](./Songxingxing-kuaishou.md) — 宋星星 - 快手
-- [@SoolinKelter](./SoolinKelter.md) — Soolin Kelter
 - [@StephanieKolman](./StephanieKolman.md) — Steph Kolman 💄 / @StephanieKolman
 - [@Succubus_86](./Succubus_86.md) — 猫属性八六 / @Succubus_86
 - [@Suxiaomeibobomei](./Suxiaomeibobomei.md) — 苏小美波波妹
