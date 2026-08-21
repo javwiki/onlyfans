@@ -28,7 +28,7 @@
 - [@lin002200](./lin002200.md) — lin002200 / @lin002200
 - [@lineage282](./lineage282.md) — lineage282 / @lineage282
 - [@littlemouse_patchy](./littlemouse_patchy.md) — littlemouse_patchy / @littlemouse_patchy
-- [@littlereislin](./littlereislin.md) — little reislin
+- [@littlereislin](./littlereislin.md) — Reislin（与 [@reislin_model_](../R/reislin_model_.md) 同一人，旧账号）
 - [@livi_doll](./livi_doll.md) — livi doll / @livi_doll
 - [@longmaocouple](./longmaocouple.md) — longmaocouple / @longmaocouple
 - [@lovable33AfreecaTV](./lovable33AfreecaTV.md) — 妲熙

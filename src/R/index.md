@@ -17,6 +17,7 @@
 - [@ririca](./ririca.md) — ririca
 - [@roro](./roro.md) — roro软软
 - [@ruruka820](./ruruka820.md) — るるたん / @ruruka820
+- [@reislin_model_](./reislin_model_.md) — Reislin / @reislin_model_
 
 - [@rakuraku166](./rakuraku166.md) — 落落Raku_66 🐾
 - [@ruth_hotlee](./ruth_hotlee.md) — Ruthlee

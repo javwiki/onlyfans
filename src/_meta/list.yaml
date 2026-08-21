@@ -1800,9 +1800,10 @@ harrietsugarcookie:
   status: 80
 
 littlereislin:
-  name: little reislin
-  x: littlereislin
+  name: Reislin
+  region: 拉脱维亚
   file: src/L/littlereislin.md
+  x: reislin_model_
   status: 80
 
 livi_doll:
@@ -2916,3 +2917,9 @@ punipxn:
   file: src/P/punipxn.md
   x: punipxn
   status: 70
+reislin_model_:
+  name: Reislin
+  region: 拉脱维亚
+  file: src/R/reislin_model_.md
+  x: reislin_model_
+  status: 85
