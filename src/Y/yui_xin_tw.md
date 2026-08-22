@@ -9,21 +9,24 @@ tags: [台湾, 巨乳, curvy]
 | **用户名** | `yui_xin_tw` |
 | **显示名** | 辛尤里 |
 | **别名** | Yui Xin、yuiyui.tw |
-| **地区** | 🇹🇼 台湾 |
+| **地区** | 🇹🇼 台湾 (台北市) |
 | **内容类型** | 成人内容 / 写真 |
 | **风格** | 巨乳、Curvy（36-29-34, G罩杯） |
+| **X 状态** | 已认证（Verified），约 349.4K 粉丝、2,219 帖子 |
 
 ## 📝 简介
 
-辛尤里（Yui Xin，1992年1月25日-），出生于台湾（一说台北/高雄），台湾成人内容创作者、网红模特。身高 167 cm，体型丰腴，以丰满上围和热辣身材著称。活跃于 OnlyFans、TikTok、Facebook 等多个平台。
+辛尤里（Yui Xin，1992年1月25日-），出生于台湾（一说台北/高雄），台湾成人内容创作者、网红模特。身高 167 cm，体型丰腴，以丰满上围和热辣身材著称。活跃于 OnlyFans、TikTok、Facebook 等多个平台。X 主号已通过官方认证，2026 年 7 月时约 34.9 万粉丝、发布 2,200 余条帖子，主页标注地点为台北市。
 
 她在 OnlyFans 拥有约 141.4K 个赞，免费订阅即可查看大量内容，包括无码露点照片和影片。内容涵盖大尺度写真、亲密关系主题录像、定制视频等，是台湾成人内容领域的知名创作者之一。中文圈常被简称为"辛尤里"或"Yui Xin"。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/yui_xin_tw) — 官方推特
+- [X / Twitter](https://x.com/yui_xin_tw) — 官方推特，已认证，约349.4K粉丝
 - [X / Twitter 本人唯一账号](https://x.com/yui_xin_twx) — 小号/备用号
-- [OnlyFans](https://onlyfans.com/yui_xin_tw) — 免费订阅，14.1万赞，4236照片，696视频
+- [OnlyFans](https://onlyfans.com/yui_xin_tw) — 唯一正版主号，免费订阅，14.1万赞，4236照片，696视频
+- [OnlyFans VIP](https://onlyfans.com/onlyyuixin) — VIP号（🌸VIP）
+- [fansone](https://fansone.co/yui_xin_tw) — fansone 平台主页
 - [TikTok](https://www.tiktok.com/@yuiyui.tw) — 主号（约8765粉丝）
 - [Instagram](https://www.instagram.com/yui_xin_/)
 - [Telegram](https://t.me/yui_xin) — Love love love yui chanel，约22.7K成员
