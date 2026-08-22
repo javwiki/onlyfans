@@ -39,6 +39,7 @@
 - [@leahgoeswilde](./leahgoeswilde.md) — Leah Wilde
 - [@lexi_hart](./lexi_hart.md) — Lexi Hart
 - [@lj10010](./lj10010.md) — 林佳
+- [@ljthesiren](./ljthesiren.md) — LJ🍒 / @ljthesiren
 - [@lunaycamila](./lunaycamila.md) — Galilea Gonzalez
 ---
 
