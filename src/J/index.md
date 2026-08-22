@@ -16,6 +16,7 @@
 - [@Jugensihan](./Jugensihan.md) — 巨根思涵
 - [@jethedeath](./jethedeath.md) — 魷魚𝔍𝔢𝔰𝔰𝔢 / @jethedeath
 - [@jhenna_greey1](./jhenna_greey1.md) — Susana / @jhenna_greey1
+- [@jared999d3dx](./jared999d3dx.md) — jared999D / @jared999d3dx
 - [@jinjinzara302](./jinjinzara302.md) — 베베앙 / @jinjinzara302
 - [@joycezarza](./joycezarza.md) — Joyce Zarza / @joycezarza
 
