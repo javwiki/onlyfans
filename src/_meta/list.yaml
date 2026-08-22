@@ -2934,3 +2934,9 @@ reislin_model_:
   file: src/R/reislin_model_.md
   x: reislin_model_
   status: 85
+stellafrancisx:
+  name: Stella Francis
+  region: 美国/英国
+  file: src/S/stellafrancisx.md
+  x: stellafrancisx
+  status: 80

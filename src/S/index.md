@@ -35,6 +35,7 @@
 - [@ssunbiki](./ssunbiki.md) — 썬비키 (Ssunbiki) / @Ssunbiki
 - [@suyeon_soe](./suyeon_soe.md) — suyeon_soe / @suyeon_soe
 - [@szn_uu_sub](./szn_uu_sub.md) — 川北すずね (かわきたすずね) / @szn_uu_sub
+- [@stellafrancisx](./stellafrancisx.md) — Stella Francis (ON1YF4NZ🌶️) / @stellafrancisx
 
 - [@shenqiaoquella](./shenqiaoquella.md) — 沈樵 / @shenqiaoquella
 ---
