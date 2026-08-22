@@ -24,6 +24,7 @@
 - [@CiNiao438](./CiNiao438.md) — 仙本娜娜 / @CiNiao438
 - [@CrystalClark](./CrystalClark.md) — Crystal Clark
 - [@carpediem110392winktv](./carpediem110392winktv.md) — 율이
+- [@cdLua76768](./cdLua76768.md) — Lua / @cdLua76768
 - [@cdnmxy](./cdnmxy.md) — 南牧绪央 / @cdnmxy
 - [@chennianjun11](./chennianjun11.md) — 陈念君 / @chennianjun11
 - [@cherida](./cherida.md) — cherida
