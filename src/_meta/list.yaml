@@ -2951,3 +2951,7 @@ ari_n3ko:
   file: src/A/ari_n3ko.md
   x: ari_n3ko
   status: 80
+SelenS:
+  name: SelenS
+  file: src/S/SelenS.md
+  status: 70
