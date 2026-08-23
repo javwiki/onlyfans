@@ -30,6 +30,7 @@
 - [@angellicagood](./angellicagood.md) — Angellica Good 💕（0.2% OF）
 - [@aoki__alice](./aoki__alice.md) — Aoki Alice 🍒
 - [@aprilmaxima](./aprilmaxima.md) — aprilmaxima
+- [@ari_n3ko](./ari_n3ko.md) — ari 🌸
 - [@aryminh](./aryminh.md) — aryminh
 - [@averyfuta57](./averyfuta57.md) — Avery Tepes
 - [@azngoodgirl](./azngoodgirl.md) — Azngoodgirl (Sexy Lexi)
