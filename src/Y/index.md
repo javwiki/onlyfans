@@ -48,6 +48,7 @@
 
 - [@Yuer](./Yuer.md) — 月儿
 - [@yingnoey4](./yingnoey4.md) — Yingnoey2808
+- [@yuki3336x](./yuki3336x.md) — y . / @yuki3336x
 - [@yukijimiwan](./yukijimiwan.md) — YuKi_Yaifoto / Yu Sweetty
 - [@yumikomiyaki_](./yumikomiyaki_.md) — ยูมิโกะ มิยากิ (Yumiko Miyaki) / ไอรินนน
 - [@yunablove](./yunablove.md) — Yuna
