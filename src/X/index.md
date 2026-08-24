@@ -36,6 +36,7 @@
 - [@Xinmeimei](./Xinmeimei.md) — 欣妹妹
 - [@Xirui](./Xirui.md) — 希瑞
 - [@Xuya](./Xuya.md) — 徐雅
+- [@_xingxiyue](./_xingxiyue.md) — 邢曦月 / @_xingxiyue
 - [@xiaokuiwoainii](./xiaokuiwoainii.md) — 小葵ovo / @xiaokuiwoainii
 - [@xiaoqing64](./xiaoqing64.md) — 美乳女神 MANDY / 闵雨晴
 - [@xmoondreams](./xmoondreams.md) — Naomi Ventura（Moon） / @xmoondreams
