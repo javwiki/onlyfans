@@ -10,7 +10,7 @@
 
 ## 📝 简介
 
-Khloe Kiss（@khloekiss97），跨性别亚洲裔成人内容创作者。X 拥有 351.4K 粉丝，2018年4月加入。活跃于 OnlyFans 平台。另有备用 X 账号 @urtransegf。
+Khloe Kiss（@khloekiss97），跨性别亚洲裔成人内容创作者。X 拥有 351.1K 粉丝，2018年4月加入，发布 6,065 条帖子。活跃于 OnlyFans 平台。另有备用 X 账号 @urtransegf。本人声明其 X 账号仅有这两个，其余均为冒名账号。
 
 > ⚠️ 具体地区信息待补充。
 
