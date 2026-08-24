@@ -11,11 +11,11 @@
 
 ## 📝 简介
 
-りお (Rio)，日本爆乳 Icup 创作者。以ツインテール为特征，简介注明"ツインテール=りおで覚えてね"。X 拥有 92.7K 粉丝，2020年11月加入 X，发布 3,671 条帖子。在 Fantia 发布成人向作品，也做 Spaces 直播。
+りお (Rio)，日本爆乳 Icup 创作者。以ツインテール为特征，简介注明"ツインテール=りおで覚えてね"。X 拥有 96.8K 粉丝，2020年11月加入 X，发布 3,975 条帖子，目标粉丝数 10 万。在 Fantia 发布成人向作品，也做 Spaces 直播。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/rio_hcup_fantia) — 92.7K 粉丝
+- [X / Twitter](https://x.com/rio_hcup_fantia) — 96.8K 粉丝
 - [lit.link](https://lit.link/riohcup) — 链接汇总
 - [Fantia](https://fantia.jp) — 成人向作品
 
