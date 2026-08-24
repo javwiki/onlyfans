@@ -20,6 +20,7 @@
 - [@deer](./deer.md) — 사슴이
 - [@deerlong](./deerlong.md) — deerlong / @deerlong
 - [@dollyinuk](./dollyinuk.md) — Dolly Orchid / @dollyinuk
+- [@Dorokadesu](./Dorokadesu.md) — VanillaMuddy / @Dorokadesu
 - [@doreenvirtue](./doreenvirtue.md) — 想入霏霏 / @doreenvirtue
 - [@double101PandaTV](./double101PandaTV.md) — 韩宝贝
 
