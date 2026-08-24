@@ -22,6 +22,12 @@ SingaporeLily:
   x: SingaporeLily
   file: src/S/SingaporeLily.md
   status: 80
+MackGFour:
+  name: MackG4
+  region: 未知
+  x: MackGFour
+  file: src/M/MackGFour.md
+  status: 80
 penelopekay:
   name: Penelope Kay
   region: 美国
