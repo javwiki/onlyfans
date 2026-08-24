@@ -39,6 +39,7 @@
 - [SelenS](./SelenS.md) — SelenS（Stripchat 成人主播）
 
 - [@shenqiaoquella](./shenqiaoquella.md) — 沈樵 / @shenqiaoquella
+- [@SingaporeLily](./SingaporeLily.md) — Ladyboy Lily 🏳️‍⚧️ / @SingaporeLily
 ---
 
 [◀ 返回首页](../index.md)
