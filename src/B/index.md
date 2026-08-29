@@ -20,6 +20,7 @@
 - [bibianeruby](./bibianeruby.md) — bibianeruby
 - [@bu_ivv](./bu_ivv.md) — bu_ivv / @bu_ivv
 - [@bunnybunnylove](./bunnybunnylove.md) — 爱露露 / @bunnybunnylove
+- [bunnydelphine](./bunnydelphine.md) — Belle Delphine
 
 - [@baby_dollgem](./baby_dollgem.md) — Baby Dollgem
 - [@BustyEma](./BustyEma.md) — BustyEma_ official / @BustyEma
