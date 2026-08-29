@@ -25,6 +25,7 @@
 - [@Hellokitty0311](./Hellokitty0311.md) — きのっぴ
 - [@Hongyi0122](./Hongyi0122.md) — Hongyi0122
 - [@hijasmineteaa](./hijasmineteaa.md) — Jasmine Teaa / @hijasmineteaa
+- [@Hidori_Rose](./Hidori_Rose.md) — 🌹Hidori Rose🌹 / @Hidori_Rose
 ---
 
 [◀ 返回首页](../index.md)

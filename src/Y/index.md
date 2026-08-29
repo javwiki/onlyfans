@@ -53,6 +53,7 @@
 - [@yukijimiwan](./yukijimiwan.md) — YuKi_Yaifoto / Yu Sweetty
 - [@yumikomiyaki_](./yumikomiyaki_.md) — ยูมิโกะ มิยากิ (Yumiko Miyaki) / ไอรินนน
 - [@yunablove](./yunablove.md) — Yuna
+- [@yoshinobi_cos](./yoshinobi_cos.md) — Yoshinobi-chan / @yoshinobi_cos
 ---
 
 [◀ 返回首页](../index.md)

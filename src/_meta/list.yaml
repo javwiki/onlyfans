@@ -3090,3 +3090,22 @@ Xreindeers_of:
   file: src/X/Xreindeers_of.md
   x: Xreindeers_of
   status: 80
+SongLeeXXX:
+  name: Song Lee
+  region: 美国
+  file: src/S/songleexxx.md
+  x: SongLeeXXX
+  status: 80
+Hidori_Rose:
+  name: Hidori Rose
+  region: 未知
+  file: src/H/Hidori_Rose.md
+  x: Hidori_Rose
+  status: 85
+yoshinobi_cos:
+  name: Yoshinobi
+  region: 未知
+  file: src/Y/yoshinobi_cos.md
+  x: yoshinobi_cos
+  status: 85
+
