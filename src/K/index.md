@@ -30,6 +30,7 @@
 - [@Katekuray](./Katekuray.md) — Kate Kuray / @Katekuray
 - [@khloekiss97](./khloekiss97.md) — Khloe Kiss / @khloekiss97
 - [@kxoktty](./kxoktty.md) — Kiana 👸🏼 / @kxoktty
+- [@Kittylixo](./Kittylixo.md) — Kitty Lixo / @Kittylixo
 ---
 
 [◀ 返回首页](../index.md)
