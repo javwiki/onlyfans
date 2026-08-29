@@ -38,6 +38,8 @@
 - [@szn_uu_sub](./szn_uu_sub.md) — 川北すずね (かわきたすずね) / @szn_uu_sub
 - [@stellafrancisx](./stellafrancisx.md) — Stella Francis (ON1YF4NZ🌶️) / @stellafrancisx
 - [SelenS](./SelenS.md) — SelenS（Stripchat 成人主播）
+- [Silvanalee88](./Silvanalee88.md) — Silvana Lee / @Silvanalee88
+- [StrawberryTabby](./StrawberryTabby.md) — StrawberryTabby / @StrawberyTabby
 
 - [@shenqiaoquella](./shenqiaoquella.md) — 沈樵 / @shenqiaoquella
 - [@SingaporeLily](./SingaporeLily.md) — Ladyboy Lily 🏳️‍⚧️ / @SingaporeLily

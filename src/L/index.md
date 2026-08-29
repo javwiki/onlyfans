@@ -41,6 +41,7 @@
 - [@lj10010](./lj10010.md) — 林佳
 - [@ljthesiren](./ljthesiren.md) — LJ🍒 / @ljthesiren
 - [@lunaycamila](./lunaycamila.md) — Galilea Gonzalez
+- [lenfried](./lenfried.md) — lenfried（れんふりーど） / @lenfried_now
 ---
 
 [◀ 返回首页](../index.md)

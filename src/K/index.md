@@ -32,6 +32,7 @@
 - [@kxoktty](./kxoktty.md) — Kiana 👸🏼 / @kxoktty
 - [@Kittylixo](./Kittylixo.md) — Kitty Lixo / @Kittylixo
 - [@Kianna_Dior](./Kianna_Dior.md) — Kianna Dior / @Kianna_Dior
+- [KorinaKova](./KorinaKova.md) — Korina Kova / @KorinaKova
 ---
 
 [◀ 返回首页](../index.md)
