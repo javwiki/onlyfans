@@ -15,6 +15,7 @@ Milkcharin_kh（Charin Kh），泰国曼谷出身的 OnlyFans 创作者与数字
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/milkcharin_kh) — 29.6K 粉丝
+- [X / Twitter 新号](https://x.com/Charinkh_milk) — 新账号（详见 [Charinkh_milk](../C/Charinkh_milk.md)）
 - [Facebook](https://facebook.com/charin.kh.39) — 19 万粉丝
 - [OnlyFans](https://onlyfans.com/charinkh) — 官方页面
 

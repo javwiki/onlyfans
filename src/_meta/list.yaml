@@ -3120,4 +3120,10 @@ punachancos:
   file: src/P/punachancos.md
   x: punachancos
   status: 80
+Charinkh_milk:
+  name: Charin Kh
+  region: 泰国
+  file: src/C/Charinkh_milk.md
+  x: Charinkh_milk
+  status: 80
 

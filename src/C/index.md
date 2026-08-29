@@ -38,6 +38,7 @@
 - [@Cheryl_Blossom](./Cheryl_Blossom.md) — Cheryl Blossom
 - [@CourtesanAnna](./CourtesanAnna.md) — CourtesanAnnabel
 - [@cocopie0218](./cocopie0218.md) — CocoPie 扣扣派 / 穆語彤
+- [@Charinkh_milk](./Charinkh_milk.md) — Charin Kh / Charinkhmilk
 ---
 
 [◀ 返回首页](../index.md)
