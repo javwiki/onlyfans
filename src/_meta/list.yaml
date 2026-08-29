@@ -2428,10 +2428,10 @@ bebe5200000:
 
 msbreewc:
   name: Msbreewc
-  region: 美国
+  region: 新加坡
   file: src/M/msbreewc.md
   x: msbreewc
-  status: 80
+  status: 85
 
 shuyangbabe:
   name: 南忘
@@ -3108,4 +3108,16 @@ yoshinobi_cos:
   file: src/Y/yoshinobi_cos.md
   x: yoshinobi_cos
   status: 85
+Kianna_Dior:
+  name: Kianna Dior
+  region: 加拿大
+  file: src/K/Kianna_Dior.md
+  x: Kianna_Dior
+  status: 85
+punachancos:
+  name: PUNA / 元・赤目レイラン
+  region: 日本
+  file: src/P/punachancos.md
+  x: punachancos
+  status: 80
 

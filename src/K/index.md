@@ -31,6 +31,7 @@
 - [@khloekiss97](./khloekiss97.md) — Khloe Kiss / @khloekiss97
 - [@kxoktty](./kxoktty.md) — Kiana 👸🏼 / @kxoktty
 - [@Kittylixo](./Kittylixo.md) — Kitty Lixo / @Kittylixo
+- [@Kianna_Dior](./Kianna_Dior.md) — Kianna Dior / @Kianna_Dior
 ---
 
 [◀ 返回首页](../index.md)
