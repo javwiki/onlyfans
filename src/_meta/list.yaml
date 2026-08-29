@@ -1861,9 +1861,10 @@ ForestNymph:
   status: 70
 
 harrietsugarcookie:
-  name: harriet sugarcookie
+  name: Harriet Sugarcookie
+  region: 英国
   file: src/H/harrietsugarcookie.md
-  status: 80
+  status: 85
 
 littlereislin:
   name: Reislin
@@ -3083,3 +3084,9 @@ hijasmineteaa:
   file: src/H/hijasmineteaa.md
   x: hijasmineteaa
   status: 85
+Xreindeers_of:
+  name: Xreindeers
+  region: 未知
+  file: src/X/Xreindeers_of.md
+  x: Xreindeers_of
+  status: 80

@@ -11,7 +11,7 @@
 
 ## 📝 简介
 
-StellarLoving（@ImStellarLoving），美国洛杉矶出身的成人内容创作者。X 拥有 25K 粉丝，2021年6月加入。同时活跃于 OnlyFans 和 MyFreeCams 平台。
+StellarLoving（@ImStellarLoving），美国洛杉矶出身的成人内容创作者。X 拥有 25K 粉丝，1.89 万条推文，2021年6月加入。同时活跃于 OnlyFans 和 MyFreeCams 平台。
 
 > *"I make beautiful things for the most curious people"*
 
