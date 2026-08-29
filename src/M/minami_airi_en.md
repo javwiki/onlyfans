@@ -17,6 +17,7 @@
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/minami_airi_en) — 58.5K 粉丝
+- [X / Twitter](https://x.com/minami_airi_sa) — 日文主账号 88.3K 粉丝（详见 [minami_airi_sa](./minami_airi_sa.md)）
 - [X / Twitter](https://x.com/minami_airi2) — 告知用
 - [X / Twitter](https://x.com/minamiairi_Cos) — コスプレ用
 - [OnlyFans](https://onlyfans.com/minamiairi) — 官方页面

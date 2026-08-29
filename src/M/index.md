@@ -30,6 +30,7 @@
 - [@milky_hamasakiii](./milky_hamasakiii.md) — milky_hamasakiii / @milky_hamasakiii
 - [@mina0977](./mina0977.md) — mina0977 / @mina0977
 - [@minami_airi_en](./minami_airi_en.md) — 美波あいり / @minami_airi_en
+- [@minami_airi_sa](./minami_airi_sa.md) — 美波あいり / @minami_airi_sa（日文主账号）
 - [@minichu](./minichu.md) — minichu
 - [@minidiva](./minidiva.md) — mini diva
 - [@mintmoca3](./mintmoca3.md) — mintmoca3 / @mintmoca3

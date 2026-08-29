@@ -3126,4 +3126,10 @@ Charinkh_milk:
   file: src/C/Charinkh_milk.md
   x: Charinkh_milk
   status: 80
+minami_airi_sa:
+  name: 美波あいり
+  region: 日本
+  file: src/M/minami_airi_sa.md
+  x: minami_airi_sa
+  status: 85
 
