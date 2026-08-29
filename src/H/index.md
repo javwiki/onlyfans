@@ -24,6 +24,7 @@
 - [@harubaby_nya](./harubaby_nya.md) — Haru哈嚕♡ / @1014harurubb
 - [@Hellokitty0311](./Hellokitty0311.md) — きのっぴ
 - [@Hongyi0122](./Hongyi0122.md) — Hongyi0122
+- [@hijasmineteaa](./hijasmineteaa.md) — Jasmine Teaa / @hijasmineteaa
 ---
 
 [◀ 返回首页](../index.md)

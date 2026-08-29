@@ -1563,9 +1563,10 @@ MissA:
 
 NicoleDoshi:
   name: Nicole Doshi
+  region: 美国
   x: NicoleDoshi
   file: src/N/NicoleDoshi.md
-  status: 80
+  status: 85
 
 Amandapaipai:
   name: 阿曼達拍拍
@@ -2701,7 +2702,7 @@ allecakes:
   name: Allecakes
   region: 待核验
   file: src/A/allecakes.md
-  status: 70
+  status: 80
 
 AshleyTervort:
   name: Ashley Tervort
@@ -3075,4 +3076,10 @@ Kittylixo:
   region: 美国
   file: src/K/Kittylixo.md
   x: Kittylixo
+  status: 85
+hijasmineteaa:
+  name: Jasmine Teaa
+  region: 未知
+  file: src/H/hijasmineteaa.md
+  x: hijasmineteaa
   status: 85
