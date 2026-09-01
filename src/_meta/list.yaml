@@ -2516,6 +2516,12 @@ windmaomi:
   file: src/W/windmaomi.md
   x: windmaomi
   status: 70
+webtolove:
+  name: Fragile Tempt
+  region: 未知
+  file: src/W/webtolove.md
+  x: webtolove
+  status: 85
 
 tsprincess__:
   name: Lilly Benz
