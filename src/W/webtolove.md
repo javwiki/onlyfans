@@ -2,7 +2,7 @@
 
 ## 📝 简介
 
-Fragile Tempt（@webtolove），成人内容创作者，自我定位为 "model, cosplayer, gamer"，主要运营 Fanly 平台。Fansly 账号约 6.8K 粉丝，发布 4.9K 照片、185 视频，累计获 42.3K 赞。同时运营 X（@webtolove）、Instagram（@fragiletempt）与 Bluesky（@webtolove.bsky.social）账号。
+Fragile Tempt（@webtolove），成人内容创作者，自我定位为 "model, cosplayer, gamer"，主要运营 Fansly 平台。Fansly 账号约 6.8K 粉丝，发布 4.9K 照片、185 视频，累计获 42.3K 赞。同时运营 X（@webtolove）、Instagram（@fragiletempt）与 Bluesky（@webtolove.bsky.social）账号。
 
 ## 🔗 相关链接
 
