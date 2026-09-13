@@ -11,6 +11,7 @@
 - [@AliceNANA](./AliceNANA.md) — AliceNANA
 - [@AlexisArias](./AlexisArias.md) — Alexis Arias / Lexi2Legit
 - [@AlisaAmore](./AlisaAmore.md) — Alisa Amore
+- [Amouranth](./Amouranth.md) — Amouranth
 - [@Amandapaipai](./Amandapaipai.md) — 阿曼達拍拍
 - [@AmiraWest](./AmiraWest.md) — Amira West
 - [@Ananlaoshi](./Ananlaoshi.md) — 安安老师
