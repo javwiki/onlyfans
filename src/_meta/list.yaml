@@ -654,6 +654,11 @@ octokuro:
   x: octokuro
   status: 80
 
+EmilyBloom:
+  name: Emily Bloom
+  file: src/E/EmilyBloom.md
+  status: 70
+
 panid69:
   name: panid69
   file: src/P/panid69.md

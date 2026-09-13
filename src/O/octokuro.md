@@ -7,6 +7,7 @@ octokuro 是一位专注于 NSFW 内容和 erotic cosplay 的创作者。其 X �
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/octokuro)
+- [Babepedia](https://www.babepedia.com/babe/Octokuro)
 
 ---
 

@@ -18,6 +18,7 @@
 - [@euna](./euna.md) — eun-a
 
 - [@EllieLeen1](./EllieLeen1.md) — Ellie Leen
+- [Emily Bloom](./EmilyBloom.md) — Emily Bloom
 - [@empressellievip](./empressellievip.md) — Ellie The Empress
 - [@ero_inkyung](./ero_inkyung.md) — 강인경 卿卿 / Inkyung
 ---
