@@ -22,6 +22,7 @@
 - [@Songxingxing-kuaishou](./Songxingxing-kuaishou.md) — 宋星星 - 快手
 - [@StephanieKolman](./StephanieKolman.md) — Steph Kolman 💄 / @StephanieKolman
 - [@Succubus_86](./Succubus_86.md) — 猫属性八六 / @Succubus_86
+- [Sweetie Fox](./SweetieFox.md) — Sweetie Fox
 - [@Suxiaomeibobomei](./Suxiaomeibobomei.md) — 苏小美波波妹
 - [@sandralamppp](./sandralamppp.md) — Sandralamp / @sandralamppp
 - [@saya_mame_dayo](./saya_mame_dayo.md) — さやえんどう。 / @saya_mame_dayo
