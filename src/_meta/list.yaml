@@ -669,6 +669,11 @@ Amouranth:
   file: src/A/Amouranth.md
   status: 70
 
+Morgpie:
+  name: Morgpie
+  file: src/M/Morgpie.md
+  status: 70
+
 CutieKim:
   name: Cutie Kim
   file: src/C/CutieKim.md

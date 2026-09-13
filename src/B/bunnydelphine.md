@@ -12,6 +12,7 @@ Belle Delphine（本名 Mary-Belle Kirschner，@bunnydelphine），英国知名�
 - [YouTube](https://www.youtube.com/@bunnybelledelphine)
 - [Instagram](https://www.instagram.com/belle.delphine/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Belle_Delphine)
+- [Babepedia](https://www.babepedia.com/babe/Belle_Delphine)
 
 ---
 

@@ -18,6 +18,7 @@
 - [@MissA](./MissA.md) — MissA
 - [@MissAlice](./MissAlice.md) — Miss Alice
 - [@Mojing](./Mojing.md) — 莫菁
+- [Morgpie](./Morgpie.md) — Morgpie
 - [@mspuiyiofficial](./Mspuiyi.md) — Ms. Puiyi（萧佩儿）
 - [@maoning2333](./maoning2333.md) — 司雨 / @maoning2333
 - [@xiaolemasem1](./masem.md) — 小乐乐
