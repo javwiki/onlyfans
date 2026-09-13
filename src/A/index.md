@@ -9,6 +9,7 @@
 - [@AbbyOpel](./AbbyOpel.md) — Abby Opel
 - [@abbykitty0505](./abbykitty0505.md) — 艾爺 abbykitty / @abbykitty0505
 - [@AliceNANA](./AliceNANA.md) — AliceNANA
+- [@AlexisArias](./AlexisArias.md) — Alexis Arias / Lexi2Legit
 - [@AlisaAmore](./AlisaAmore.md) — Alisa Amore
 - [@Amandapaipai](./Amandapaipai.md) — 阿曼達拍拍
 - [@AmiraWest](./AmiraWest.md) — Amira West

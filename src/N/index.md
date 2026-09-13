@@ -9,6 +9,7 @@
 - [@NAGISANagesa](./NAGISANagesa.md) — NAGISA魔物喵
 - [@Naiai](./Naiai.md) — 乃爱
 - [@Naimi](./Naimi.md) — Naimi奶咪
+- [@NadineKerastas](./NadineKerastas.md) — Nadine Kerastas
 - [@Naixijiang](./Naixijiang.md) — 奈汐酱
 - [@Naiyoumeimei](./Naiyoumeimei.md) — 奶油妹妹
 - [@Naiyoutianxin](./Naiyoutianxin.md) — 奶油甜心
