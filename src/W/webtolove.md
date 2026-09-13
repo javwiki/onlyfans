@@ -10,6 +10,7 @@ Fragile Tempt（@webtolove），成人内容创作者，自我定位为 "model, 
 - [X / Twitter](https://x.com/webtolove) — @webtolove
 - [Instagram](https://instagram.com/fragiletempt) — @fragiletempt
 - [Bluesky](https://bsky.app/profile/webtolove.bsky.social) — @webtolove.bsky.social
+- [Babepedia](https://www.babepedia.com/babe/Webtolove)
 
 ---
 
