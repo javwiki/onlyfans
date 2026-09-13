@@ -10,6 +10,7 @@
 - [@Candybaby](./Candybaby.md) — 夏晴子 / @Candybaby
 - [@Caomao](./Caomao.md) — 草帽
 - [@Caomeixiong](./Caomeixiong.md) — 草莓熊
+- [@CaraRose](./CaraRose.md) — Cara Rose
 - [@CarlaGrace](./CarlaGrace.md) — 香港欲女
 - [@CathyBBlove](./CathyBBlove.md) — 凯西 / @CathyBBlove
 - [@Cathy1314love](./Cathy1314love.md) — Cathy / @Cathy1314love
