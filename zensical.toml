@@ -1,0 +1,21 @@
+[project]
+site_name = "OnlyFans / Adult Model / NSFW Webcam Girl 索引"
+site_url = "https://javwiki.github.io/onlyfans/"
+site_description = "OnlyFans、成人模特与 NSFW webcam girl 公开创作者资料索引。"
+repo_url = "https://github.com/javwiki/onlyfans"
+repo_name = "javwiki/onlyfans"
+edit_uri = "edit/main/docs/"
+use_directory_urls = true
+
+[project.theme]
+variant = "classic"
+language = "zh"
+features = [
+  "navigation.instant",
+  "navigation.path",
+  "navigation.sections",
+  "navigation.top",
+  "search.highlight",
+]
+
+[project.plugins.tags]

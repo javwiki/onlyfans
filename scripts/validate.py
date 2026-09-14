@@ -7,7 +7,7 @@
 校验项（error 会失败退出）:
   E1  list.yaml 可解析，且每条目 file 字段指向存在的文件
   E2  除 index.md 外的所有博主页都被 list.yaml 引用（无孤儿文件）
-  E3  字母索引页（src/X/index.md）列出了该字母下所有条目
+  E3  字母索引页（docs/X/index.md）列出了该字母下所有条目
   E4  list.yaml 不保存 tags（标签仅由页面 frontmatter 维护）
   E5  页面包含「简介」与「相关链接」区块，且有返回导航
   E6  页面内相对链接无死链
@@ -26,7 +26,7 @@ from collections import Counter
 import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(ROOT, "src")
+SRC = os.path.join(ROOT, "docs")
 LIST_YAML = os.path.join(SRC, "_meta", "list.yaml")
 LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 PLACEHOLDER_MARKS = ("网络搜索未找到", "未找到关于", "未找到其他公开信息")
@@ -98,9 +98,9 @@ def main() -> int:
         content = open(idx, encoding="utf-8").read()
         for key, v in data.items():
             f = v.get("file", "")
-            if not f.startswith(f"src/{d}/"):
+            if not f.startswith(f"docs/{d}/"):
                 continue
-            if f == f"src/{d}/index.md":
+            if f == f"docs/{d}/index.md":
                 continue
             if key not in content and v.get("name", "") not in content:
                 err(f"E3 索引页 {idx} 未列出条目 {key}")

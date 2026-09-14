@@ -203,7 +203,7 @@ screening:
 
 ## Step 2: 更新 list.yaml (Metadata)
 
-编辑 `src/_meta/list.yaml` 添加或更新创作者条目。
+编辑 `docs/_meta/list.yaml` 添加或更新创作者条目。
 
 为保持索引简短，条目默认只保留 `name`、`file`、`status`，以及已有的非空 `x`、`region`、`tags`；OnlyFans、社交平台、网站、别名和联系方式等详情统一写入对应 Markdown 文件，不再新增到 `list.yaml`。
 
@@ -214,7 +214,7 @@ screening:
 | `name` | ✅ | 创作者名称/艺名 |
 | `region` | ✅ | 地区：日本/美国/台湾/泰国/中国/苏丹等 |
 | `x` | ❌ | X/Twitter ID（可选，无则留空） |
-| `file` | ✅ | MD 文件路径，格式 `src/<首字母>/<key>.md` |
+| `file` | ✅ | MD 文件路径，格式 `docs/<首字母>/<key>.md` |
 | `status` | ✅ | 状态码：90=完整, 80=常规, 70=不完整, 50=待确认 |
 | `aliases` | ❌ | 别名列表 |
 | `x_alt` | ❌ | 备用 X 账号 |
@@ -238,7 +238,7 @@ screening:
 
 ### 添加条目
 
-在 `src/_meta/list.yaml` 末尾添加新条目，格式：
+在 `docs/_meta/list.yaml` 末尾添加新条目，格式：
 
 ```yaml
 <key>:                   # key 使用 x_id（如有）或名称拼音（小写）
@@ -249,7 +249,7 @@ screening:
   x: <x_id>              # X 账号（可选，无则留空或省略该行）
   onlyfans: <onlyfans_id>
   instagram: <instagram_id>
-  file: src/<首字母>/<key>.md
+  file: docs/<首字母>/<key>.md
   status: 80
 ```
 
@@ -265,11 +265,11 @@ screening:
 
 ## Step 3: 生成创作者 MD 文件 (Content)
 
-在 `src/<首字母>/<key>.md` 创建创作者 Markdown 文件。
+在 `docs/<首字母>/<key>.md` 创建创作者 Markdown 文件。
 
 ### MD 文件模板
 
-记得在文件顶部添加 frontmatter `tags:`，以便 `mdbook-tagging` 自动生成标签索引页：
+记得在文件顶部添加 frontmatter `tags:`，以便 Zensical 原生 Tags 插件渲染标签并参与搜索：
 
 ```markdown
 ---
@@ -325,40 +325,26 @@ tags: [cosplay, beautyleg]    # 根据实际情况填写，无标签则留空 []
 
 ---
 
-## Step 4: 更新 SUMMARY.md 并构建 (Build)
+## Step 4: 构建 (Build)
 
-### 4.1 生成标签索引页
+Zensical 按 `index.md` 和目录结构自动生成导航；页面标签由原生 Tags 插件处理。
 
-为所有带有 frontmatter `tags:` 的 markdown 文件生成标签索引页面：
+### 4.1 本地构建验证
 
 ```bash
-mdbook-tagging generate .
+uvx --from zensical==0.0.62 zensical build --clean --strict
 ```
 
-如果某个创作者有 `tags: [cosplay, beautyleg]`，`mdbook-tagging` 会自动生成对应的标签归档页面。
-
-### 4.2 生成 SUMMARY.md
-
-使用 `mdbook-summarizer` 自动生成目录文件：
+### 4.2 本地预览
 
 ```bash
-mdbook-summarizer --src src --auto-readme
+uvx --from zensical==0.0.62 zensical serve
 ```
 
-### 4.3 本地构建验证
+### 4.3 Git 提交
 
 ```bash
-# 构建 mdBook
-mdbook build
-
-# 本地预览（可选）
-mdbook serve
-```
-
-### 4.4 Git 提交
-
-```bash
-git add src/_meta/list.yaml src/<首字母>/<key>.md src/SUMMARY.md
+git add docs/_meta/list.yaml docs/<首字母>/<key>.md docs/<首字母>/index.md
 git commit -m "feat: add creator <name> (<key>)"
 ```
 
@@ -379,17 +365,15 @@ Step 1: 调研 (Research)
   │
   ▼
 Step 2: 更新 list.yaml
-  └─ 追加 src/_meta/list.yaml 条目
+  └─ 追加 docs/_meta/list.yaml 条目
   │
   ▼
 Step 3: 生成 MD 文件
-  └─ 创建 src/<首字母>/<key>.md
+  └─ 创建 docs/<首字母>/<key>.md
   │
   ▼
 Step 4: 构建并提交
-  ├─ mdbook-tagging generate (标签索引)
-  ├─ mdbook-summarizer (SUMMARY.md)
-  ├─ mdbook build
+  ├─ zensical build --strict
   └─ git commit
 ```
 

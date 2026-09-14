@@ -1,6 +1,6 @@
 # OnlyFans / Adult Model / NSFW Webcam Girl 索引
 
-这是一个使用 mdBook 构建的公开资料索引项目，定位关键词为 `OnlyFans`、`adult model`、`NSFW webcam girl` 与 `amateur made`。
+这是一个使用 Zensical 构建的公开资料索引项目，定位关键词为 `OnlyFans`、`adult model`、`NSFW webcam girl` 与 `amateur made`。
 
 其中 `amateur made` 仅作为检索与分类关键词，只记录合法公开的创作者资料与官方/公开平台页面。
 
@@ -15,13 +15,13 @@
 ## 项目结构
 
 ```
-src/
+docs/
 ├── _meta/           # 元数据
 │   ├── list.yaml    # 创作者索引（YAML格式）
 │   └── source.md    # 数据来源
 ├── A-Z/             # 按字母分类的博主页面
 ├── index.md         # 首页
-└── SUMMARY.md       # 自动生成的目录
+└── index.md         # 首页
 ```
 
 ## 数据来源
@@ -33,29 +33,24 @@ src/
 
 ## 本地运行
 
-1. 安装 mdBook 与目录生成器：
+1. 安装 Zensical：
 ```bash
-cargo install mdbook mdbook-summarizer
+uvx --from zensical==0.0.62 zensical --version
 ```
 
-2. 生成目录文件（`SUMMARY.md` 由 CI 自动生成并被 gitignore，本地需手动生成）：
+2. 本地预览：
 ```bash
-mdbook-summarizer --src src --auto-readme
+uvx --from zensical==0.0.62 zensical serve
 ```
 
-3. 本地预览：
-```bash
-mdbook serve
-```
-
-4. 访问 http://localhost:3000
+访问 http://localhost:8000
 
 ## 自动部署
 
 项目使用 GitHub Actions 自动部署到 GitHub Pages：
 
 - 每次推送到 `main` 分支时自动构建
-- 自动生成 `SUMMARY.md` 目录文件
+- 按 `index.md` 和目录结构自动生成导航
 - 部署到 GitHub Pages
 
 ## 贡献指南
@@ -63,12 +58,12 @@ mdbook serve
 欢迎提交新的博主信息！请按照以下格式：
 
 1. 在对应字母目录下创建 `.md` 文件
-2. 在 `src/_meta/list.yaml` 中添加索引条目
+2. 在 `docs/_meta/list.yaml` 中添加索引条目
 3. 提交 Pull Request
 
 ### `status` 字段说明
 
-`src/_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：
+`docs/_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：
 
 | 值 | 含义 |
 |----|------|
