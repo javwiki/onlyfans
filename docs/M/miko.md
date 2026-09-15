@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/miko) — 账号已被暂停
 
 ---
 

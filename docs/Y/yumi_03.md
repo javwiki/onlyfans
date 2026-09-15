@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/yumi_03) — 已暂停
 - [Instagram](https://www.instagram.com/yumi_03/)
 
 ---

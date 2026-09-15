@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/IndianTwins) — 账号不存在
 
 ---
 

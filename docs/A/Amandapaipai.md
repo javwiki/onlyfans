@@ -8,7 +8,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Amandapaipai) — 账号不存在
 
 ---
 

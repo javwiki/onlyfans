@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/BagelSoo) — 账号已不存在
 
 ---
 

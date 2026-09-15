@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/kim3857pandatv) — 账号已不存在（404）
 
 ---
 

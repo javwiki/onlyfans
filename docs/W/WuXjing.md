@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/WuXjing) — 账号已不存在
 
 ---
 

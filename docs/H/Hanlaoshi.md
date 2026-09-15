@@ -16,8 +16,6 @@ tags: []
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Hanlaoshi)（账号已被暂停）
-- [X / Twitter - hanlaoshihebei](https://x.com/hanlaoshihebei)（同名个人账号，非 OF 推广号）
 
 ---
 

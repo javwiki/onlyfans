@@ -16,7 +16,6 @@ Jikey（_jikey_）是一位亚洲 OnlyFans 成人内容创作者。她曾使用 
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Jikey)（账号已被暂停）
 
 ---
 

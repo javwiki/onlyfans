@@ -8,7 +8,6 @@ X 账号 @Oqqk 返回 404 错误，页面提示「We're unable to show this acco
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Oqqk)
 
 ---
 

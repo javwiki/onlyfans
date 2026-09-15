@@ -8,7 +8,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/AlisaAmore) — 候选账号，未核实
 - [Babepedia](https://www.babepedia.com/babe/Alisa_Amore) — 第三方资料页
 - [BraSizeX](https://brasizex.com/alisa-amore/) — 第三方资料页，含身体资料
 

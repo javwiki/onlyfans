@@ -6,7 +6,6 @@ lineage282 是一位韩国成人内容创作者，其 X（Twitter）账号已被
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/lineage282) — 已暂停
 - [OnlyFans](https://onlyfans.com/lineage282)
 - [OnlyFans @icup2828](https://onlyfans.com/icup2828)
 - [OnlyFans @ncup2828](https://onlyfans.com/ncup2828)

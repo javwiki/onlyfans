@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Hongyi0122)（页面不存在）
 
 ---
 

@@ -17,7 +17,6 @@ tags: [cd, shemale]
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/jinjinzara302) — 已暂停
 - [OnlyFans](https://onlyfans.com/jinjinzara302) — 82 个视频
 - [Shemale6](https://www.shemale6.com/search/jinjinzara302/) — 27 个视频
 - 主词条：[@mina0977](../M/mina0977.md)

@@ -8,7 +8,6 @@ X 账号 @Luojieer 返回 404 错误，页面提示「We're unable to show this 
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Luojieer)
 
 ---
 

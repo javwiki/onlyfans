@@ -16,7 +16,6 @@ tags: []
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Douyajie)（账号已被暂停）
 - [Instagram (豆芽 Sandy)](https://www.instagram.com/sandy_doya/)
 - [抖音：豆芽姐](https://www.douyin.com/user/MS4wLjABAAAAJEOZpJ41WqH-aI-1byRFa8pKuYpCd3wLh-Iv7qpf424)
 - [YY 直播](https://www.yy.com/1338869774)

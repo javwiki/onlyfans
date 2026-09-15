@@ -13,8 +13,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/krebs_tina71418) — 已暂停
-- [X / Twitter](https://x.com/EvertonEvtn) — 备用账号
 - [YouTube](https://www.youtube.com/channel/UCoU1hz0UuceWn1KmJVd8Tgw)
 - [Bing 搜索](https://www.bing.com/search?q=乙葉らら+onlyfans)
 

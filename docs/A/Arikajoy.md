@@ -6,7 +6,6 @@ Arika joy，成人内容创作者。其X（Twitter）账号 @Arikajoy 已不存�
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Arikajoy) — 账号已不存在
 
 ---
 

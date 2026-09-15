@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Xiaomei)（账号不存在）
 
 ---
 

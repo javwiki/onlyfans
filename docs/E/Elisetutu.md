@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Elisetutu)（页面不存在）
 
 ---
 
