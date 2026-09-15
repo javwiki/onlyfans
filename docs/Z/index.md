@@ -17,9 +17,8 @@
 - [@Zhouzhouguaizai](./Zhouzhouguaizai.md) — 周周乖崽
 - [@Zizixi](./Zizixi.md) — 子子西
 
-- [@zhangheyu](./zhangheyu.md) — 张贺玉（与 @zlsigg 为同一人）
+- [@zhangheyu](./zhangheyu.md) — 张贺玉 / 张老师 / @zlsigg
 - [@zixisister](./zixisister.md) — 紫惜姐姐
-- [@zlsigg](./zlsigg.md) — 张老师 / 张贺玉（同一人）
 ---
 
 [◀ 返回首页](../index.md)
