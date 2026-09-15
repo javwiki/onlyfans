@@ -1,0 +1,20 @@
+[h2] Profile
+[a] Log in
+[a] Sign up
+[h2] Profile
+[a] Log in
+[a] Sign up
+[h2] Account suspended
+[p] X suspends accounts which violate the
+[a] X Rules
+[h2] Log in or sign up for X
+[p] See what’s happening and join the conversation
+[span] Continue with phone
+[span] Continue with Apple
+[span] Continue with Google
+[span] Continue with Google
+[span] Log in with username or email
+[a] Accessibility
+[a] Ads Info
+[span] © 2026 X Corp.
+[span] Scan to get the app

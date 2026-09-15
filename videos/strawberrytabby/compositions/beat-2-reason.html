@@ -1,0 +1,17 @@
+<template id="beat-2-reason-template">
+  <div data-composition-id="beat-2-reason" data-width="1920" data-height="1080" data-start="0" data-duration="5">
+    <style>
+      @font-face{font-family:Chirp;src:url('capture/assets/fonts/Chirp-Regular.c88864db.latin.woff2')}[data-composition-id="beat-2-reason"]{width:100%;height:100%;background:#FFFFFF;overflow:hidden;font-family:Chirp,Arial,sans-serif;color:#0F141A}.scene{width:100%;height:100%;padding:96px 150px;box-sizing:border-box;display:flex;align-items:center;justify-content:center;position:relative}.shot{width:1200px;height:675px;object-fit:cover;object-position:center center;opacity:.18;border:1px solid #E4EAEC}.callout{position:absolute;left:260px;top:360px;width:920px;background:#FFFFFF;border-left:7px solid #1D9BF0;padding:28px 40px;box-shadow:0 18px 46px rgba(15,20,26,.09)}.kicker{font-size:20px;color:#52636F;margin-bottom:16px}.text{font-size:52px;line-height:1.08;font-weight:800;letter-spacing:-.03em;max-width:820px}.link{color:#1D9BF0}.bracket{position:absolute;left:230px;top:330px;width:1010px;height:170px;border-top:1px solid #1D9BF0;border-bottom:1px solid #1D9BF0;opacity:.7}
+    </style>
+    <div class="scene"><img class="shot" src="capture/screenshots/scroll-000.png"/><div class="bracket"></div><div class="callout"><div class="kicker">Public explanation</div><div class="text">X says this account has been <span class="link">suspended</span> for violating the X Rules.</div></div></div>
+    <script>
+      window.__timelines=window.__timelines||{};const tl=gsap.timeline({paused:true});
+      tl.fromTo('.shot',{scale:1,opacity:0,y:20},{scale:1.03,opacity:.18,y:0,duration:1.1,ease:'power2.out'},0);
+      tl.fromTo('.bracket',{scaleX:0,transformOrigin:'left center'},{scaleX:1,duration:.7,ease:'power2.out'},.45);
+      tl.fromTo('.callout',{x:-32,opacity:0},{x:0,opacity:1,duration:.8,ease:'power3.out'},.7);
+      tl.fromTo('.link',{color:'#0F141A'},{color:'#1D9BF0',duration:.55,ease:'power2.out'},2.1);
+      tl.to('.bracket',{y:3,duration:1.2,yoyo:true,repeat:1,ease:'sine.inOut'},2.6);
+      window.__timelines['beat-2-reason']=tl;
+    </script>
+  </div>
+</template>

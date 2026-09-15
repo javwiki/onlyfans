@@ -1,0 +1,20 @@
+<template id="beat-3-next-step-template">
+  <div data-composition-id="beat-3-next-step" data-width="1920" data-height="1080" data-start="0" data-duration="6.1">
+    <style>
+      @font-face{font-family:Chirp;src:url('capture/assets/fonts/Chirp-Regular.c88864db.latin.woff2')}[data-composition-id="beat-3-next-step"]{width:100%;height:100%;background:#FFFFFF;overflow:hidden;font-family:Chirp,Arial,sans-serif;color:#0F141A}.scene{width:100%;height:100%;padding:90px 180px;box-sizing:border-box;display:flex;align-items:center;justify-content:center;position:relative}.card{width:470px;background:#FFFFFF;border:1px solid #E4EAEC;border-radius:22px;padding:34px 40px;box-shadow:0 20px 48px rgba(15,20,26,.10)}.heading{font-size:34px;font-weight:800;margin-bottom:12px}.sub{font-size:20px;line-height:1.35;color:#52636F;margin-bottom:28px}.btn{height:54px;border-radius:28px;border:1px solid #BACBD4;display:flex;align-items:center;justify-content:center;font-size:18px;font-weight:700;margin-top:12px}.btn.primary{background:#0F141A;color:#FFFFFF;border-color:#0F141A}.divider{display:flex;align-items:center;gap:14px;color:#52636F;font-size:18px;margin:24px 0}.line{height:1px;background:#E4EAEC;flex:1}.mark{position:absolute;left:120px;top:90px;font-size:46px;font-weight:300}.footer{position:absolute;right:130px;bottom:90px;color:#52636F;font-size:18px}.accent{color:#52636F}
+    </style>
+    <div class="scene"><div class="mark">𝕏</div><div class="card"><div class="heading">Log in or sign up for X</div><div class="sub">See what’s happening and join the conversation</div><div class="btn primary">Continue with phone</div><div class="btn">Continue with Apple</div><div class="btn">Continue with Google</div><div class="divider"><div class="line"></div>or<div class="line"></div></div><div class="btn">Log in with username or email</div></div><div class="footer">Public page · <span class="accent">x.com/StrawberryTabby</span></div></div>
+    <script>
+      window.__timelines=window.__timelines||{};const tl=gsap.timeline({paused:true});
+      tl.fromTo('.card',{x:32,y:18,opacity:0},{x:0,y:0,opacity:1,duration:.85,ease:'power3.out'},0);
+      tl.fromTo('.heading',{y:14,opacity:0},{y:0,opacity:1,duration:.5,ease:'power2.out'},.35);
+      tl.fromTo('.sub',{y:12,opacity:0},{y:0,opacity:1,duration:.45,ease:'power2.out'},.55);
+      tl.fromTo('.btn',{x:18,opacity:0},{x:0,opacity:1,duration:.42,stagger:.12,ease:'power2.out'},.85);
+      tl.fromTo('.divider',{scaleX:0,transformOrigin:'left center',opacity:0},{scaleX:1,opacity:1,duration:.5,ease:'power2.out'},1.5);
+      tl.fromTo('.mark',{scale:.8,opacity:0},{scale:1,opacity:1,duration:.6,ease:'back.out(1.4)'},.2);
+      tl.fromTo('.footer',{y:8,opacity:0},{y:0,opacity:1,duration:.5,ease:'power2.out'},2.3);
+      tl.to('.mark',{y:-4,duration:1.2,yoyo:true,repeat:2,ease:'sine.inOut'},2.4);
+      window.__timelines['beat-3-next-step']=tl;
+    </script>
+  </div>
+</template>

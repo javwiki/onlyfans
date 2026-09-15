@@ -1,0 +1,22 @@
+{
+  "schema": "hyperframes.capture.icons.v1",
+  "headline": {
+    "file": "assets/favicon.png",
+    "source": "assets/icon-icon-unsized.png",
+    "rank": 1,
+    "shape": "badge",
+    "reason": "no bare-mark candidate among 1 icon(s); used the best-ranked badge"
+  },
+  "icons": [
+    {
+      "file": "assets/icon-icon-unsized.png",
+      "url": "https://x.com/favicon.ico",
+      "rel": "icon",
+      "sizes": null,
+      "type": null,
+      "rank": 1,
+      "shape": "badge",
+      "shapeReason": "4 of 4 edge midpoints are opaque, so the drawing carries a backdrop"
+    }
+  ]
+}
