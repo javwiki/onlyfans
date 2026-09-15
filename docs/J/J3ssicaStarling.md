@@ -1,4 +1,4 @@
-# Jessica Starling (J3ssicaStarling)
+# Jessica Starling
 
 ## 📝 简介
 

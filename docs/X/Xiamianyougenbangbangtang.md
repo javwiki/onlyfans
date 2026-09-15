@@ -1,4 +1,4 @@
-# 下面有根棒棒糖 (Xiamianyougenbangbangtang)
+# 下面有根棒棒糖
 
 ## 📝 简介
 

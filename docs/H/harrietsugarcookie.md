@@ -1,4 +1,4 @@
-# Harriet Sugarcookie (HSugarCookie)
+# Harriet Sugarcookie
 
 ## 📝 简介
 

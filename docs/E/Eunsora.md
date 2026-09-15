@@ -1,4 +1,4 @@
-# Eunsora（BJ Eunsora / 은소라 / Yenny / son_ye_eun / ye._eun_s2 / yeeny618 / 손예은）
+# Eunsora
 
 ## 📝 简介
 

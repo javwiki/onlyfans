@@ -1,4 +1,4 @@
-# 宋星星 - 快手 (Songxingxing-kuaishou)
+# 宋星星
 
 ## 📝 简介
 

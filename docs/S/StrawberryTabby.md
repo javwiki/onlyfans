@@ -1,4 +1,4 @@
-# StrawberryTabby (StrawberyTabby)
+# StrawberryTabby
 
 ## 📝 简介
 

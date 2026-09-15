@@ -1,4 +1,4 @@
-# 美波あいり / Minami Airi (minami_airi_sa)
+# 美波あいり
 
 ## 📝 简介
 

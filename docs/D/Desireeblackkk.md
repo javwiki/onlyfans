@@ -2,7 +2,7 @@
 tags: [美国, 罗马尼亚, NSFW, adultmodel, trans]
 ---
 
-# Desiree Markovich（@Desireeblackkk）
+# Desiree Markovich
 
 | 项目 | 内容 |
 |------|------|

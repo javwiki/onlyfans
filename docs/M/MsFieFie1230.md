@@ -1,4 +1,4 @@
-# 想入霏霏 Ms. Fie Fie (MsFieFie1230)
+# 想入霏霏
 
 ## 📝 简介
 
