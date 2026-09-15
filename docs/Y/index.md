@@ -34,7 +34,7 @@
 - [@Yuki_Onna90](./Yuki_Onna90.md) — 𝓨𝓾𝓴𝓲 𝓞𝓷𝓷𝓪 / @Yuki_Onna90
 - [@YukoMomohi](./YukoMomohi.md) — 桃姫優子
 - [@Yumiaomiao](./Yumiaomiao.md) — 芋喵喵
-- [@Yututu](./Yututu.md) — Dian-Bing Wang / @Yututu
+- [@Yututu](./Yututu.md) — 玉兔兔 / @Yututu
 - [@Yuyuzi](./Yuyuzi.md) — 鱼鱼子
 - [@Yves_bunny](./Yves_bunny.md) — イヴ / @Yves_bunny
 - [@yoshi9467](./yoshi9467.md) — โยชิ ธันชนก / @yoshi9467
