@@ -19,7 +19,7 @@
 
 - [@GOFLOWER](./GOFLOWER.md) — GOFLOWER
 - [@Gguesting](./Gguesting.md) — Gguesting
-- [@Ghosty40hands](./Ghosty40hands.md) — Ghosty40hands
+- [@Ghosty40hands](./Ghosty40hands.md) — Ghost Park
 ---
 
 [◀ 返回首页](../index.md)
