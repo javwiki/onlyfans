@@ -15,7 +15,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter @CWanwu](https://x.com/CWanwu) — 历史账号线索，当前状态未核实
 - [Telegram @sirenwanwu](https://t.me/sirenwanwu) — 同名频道，未核实官方归属
 - [Telegram SR私人玩物](https://t.me/SRsirenwanwu) — 同名频道，未核实官方归属
 

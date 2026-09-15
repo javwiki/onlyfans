@@ -17,8 +17,6 @@ Luna Rodriguez Montero 是一位跨性别（Transgender/Shemale）成人内容�
 ## 🔗 相关链接
 
 - [OnlyFans (luna_trap)](https://onlyfans.com/luna_trap)
-- [X / Twitter (SFW)](https://x.com/LunaRM_Mu)
-- [X / Twitter (NSFW)](https://x.com/Luna_Trap)
 - [Twitch](https://www.twitch.tv/lunatrap)
 
 ---

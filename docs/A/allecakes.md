@@ -6,7 +6,6 @@ Allecakes（@allecakes），内容创作者，活跃于 Twitch、OnlyFans、Inst
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/allecakes)
 - [OnlyFans](https://onlyfans.com/allecakes)
 - [Twitch](https://twitch.tv/allecakes)
 - [Instagram](https://instagram.com/allecakes_)

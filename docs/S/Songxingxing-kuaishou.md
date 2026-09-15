@@ -6,8 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Songxingxing-kuaishou) — 账号存在但无法正常访问
-
 ---
 
 [◀ 返回 S 列表](./index.md) · [🏠 首页](../index.md)

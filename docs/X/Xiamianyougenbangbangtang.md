@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/Xiamianyougenbangbangtang) — 账号 404 不可访问
 
 ---
 

@@ -6,8 +6,6 @@ TS酱酱，中文互联网成人内容创作者。X 账号 @ovo987123（ts酱酱
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/ovo987123)
-
 ---
 
 [◀ 返回 T 列表](./index.md) · [🏠 首页](../index.md)

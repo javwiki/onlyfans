@@ -6,7 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/yuko_yuko_45678)（账号已暂停）
 - [XVIDEOS](https://www.xvideos.com/?k=%E6%A1%83%E5%A7%AB%E5%84%AA%E5%AD%90)
 
 ---

@@ -4,7 +4,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter - Mr_BunnySex](https://x.com/Mr_BunnySex)
 - [Linktree](https://linktr.ee/Mr_BunnySex)
 - [Pornhub](https://cn.pornhub.com/view_video.php?viewkey=661501fbd9b0f)
 - [Telegram](https://t.me/mr_bunny_sexy2026)

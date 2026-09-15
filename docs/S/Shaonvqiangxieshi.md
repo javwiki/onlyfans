@@ -16,7 +16,6 @@ tags: []
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/qiangxieshi)
 
 ---
 

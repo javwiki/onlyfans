@@ -16,8 +16,6 @@ tags: []
 
 ## 🔗 相关链接
 
-- [X / Twitter (小蔡头喵喵喵)](https://x.com/xiaocaitoummm)
-- [X / Twitter (小蔡头喵喵)](https://x.com/xiaocaitoumm)
 - [Instagram](https://www.instagram.com/xiaocaitou233/)
 
 ---

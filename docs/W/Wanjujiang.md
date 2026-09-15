@@ -6,8 +6,6 @@
 
 ## 🔗 相关链接
 
-- [X / Twitter - 完具少女](https://x.com/wanjucutegirl)
-- [X / Twitter - 主号 sweetwovoo](https://x.com/sweetwovoo)
 
 ---
 

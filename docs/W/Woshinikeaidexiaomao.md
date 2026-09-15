@@ -16,7 +16,6 @@ tags: []
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/xiaomao1998)
 - [微博](https://weibo.com)（搜索「我是你家可爱的小猫」）
 
 ---

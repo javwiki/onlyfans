@@ -6,7 +6,6 @@ Luobao（洛宝），中文互联网成人内容创作者。X 账号 @luobao_122
 
 ## 🔗 相关链接
 
-- [X / Twitter - 洛宝](https://x.com/luobao_1221)
 - [OnlyFans](https://onlyfans.com/luvoba)
 - [Afans](https://afans.vip/luobao1221)
 

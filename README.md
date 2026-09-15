@@ -61,6 +61,8 @@ uvx --from zensical==0.0.62 zensical serve
 2. 在 `docs/_meta/list.yaml` 中添加索引条目
 3. 提交 Pull Request
 
+X/Twitter 账号为可选信息。只有已确认归属的账号才填写 `x` 字段并放入词条的相关链接；如果没有确认的 X 账号，`x` 字段和 X/Twitter 链接都应省略。
+
 ### `status` 字段说明
 
 `docs/_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：

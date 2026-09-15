@@ -6,7 +6,6 @@ Harriet Sugarcookie（@HSugarCookie），越南出生、现居伦敦的成人内
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/HSugarCookie) — 主账号
 - [OnlyFans](https://onlyfans.com/harrietsugarcookie) — 付费账号
 - [OnlyFans 免费](https://onlyfans.com/freesugarcookies)
 - [Fansly](https://fansly.com/harrietsugarcookie)

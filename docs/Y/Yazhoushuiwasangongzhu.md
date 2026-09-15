@@ -16,8 +16,6 @@ tags: []
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/d2024o1652)
-
 ---
 
 [◀ 返回 Y 列表](./index.md) · [🏠 首页](../index.md)
