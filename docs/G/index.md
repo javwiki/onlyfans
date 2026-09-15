@@ -16,6 +16,7 @@
 - [@Guitar](./Guitar.md) — Guitar
 - [@gfpupu](./gfpupu.md) — pupu噗噗 / @gfpupu
 - [@gggg90](./gggg90.md) — 金艺贞 / @gggg90
+- [Giulia Wylde](./GiuliaWylde.md) — Giulia Wylde
 
 - [@GOFLOWER](./GOFLOWER.md) — GOFLOWER
 - [@Gguesting](./Gguesting.md) — Gguesting

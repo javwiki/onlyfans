@@ -42,6 +42,7 @@
 - [@monlingwu](./monlingwu.md) — 吴梦梦 / @monlingwu
 - [@msbreewc](./msbreewc.md) — Msbreewc / @msbreewc
 - [@mssethiionly](./mssethiionly.md) — ms.sethii / @mssethiionly
+- [Mia Stark](./MiaStark.md) — Mia Stark
 
 - [@Mabelle](./Mabelle.md) — Mabelle
 - [@Meiqiaobaby](./Meiqiaobaby.md) — 美乔baby

@@ -2079,6 +2079,27 @@ faiiorapun:
   file: docs/F/faiiorapun.md
   status: 80
 
+laurine_model:
+  name: Laurine
+  file: docs/L/Laurine_Model.md
+  status: 70
+
+solomiya_maievska:
+  name: Solomiya Maievska
+  region: 乌克兰
+  file: docs/S/SolomiyaMaievska.md
+  status: 80
+
+giulia_wylde:
+  name: Giulia Wylde
+  file: docs/G/GiuliaWylde.md
+  status: 80
+
+mia_stark:
+  name: Mia Stark
+  file: docs/M/MiaStark.md
+  status: 70
+
 Lienxi:
   name: 李蒽熙
   x: Lienxi

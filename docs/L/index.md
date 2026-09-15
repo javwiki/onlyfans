@@ -33,6 +33,7 @@
 - [@longmaocouple](./longmaocouple.md) — longmaocouple / @longmaocouple
 - [@lovable33AfreecaTV](./lovable33AfreecaTV.md) — 妲熙
 - [@lyainevan](./lyainevan.md) — 特莱莎
+- [Laurine](./Laurine_Model.md) — Laurine
 
 - [@Luobao](./Luobao.md) — 萝卜包
 - [@Luojieer](./Luojieer.md) — 罗洁儿

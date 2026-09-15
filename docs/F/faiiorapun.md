@@ -7,6 +7,7 @@ faii orapun（faiiorapun）是一位网络创作者。其 Twitter 账号 @faiior
 ## 🔗 相关链接
 
 - [Instagram](https://www.instagram.com/orapunfaii/) — @orapunfaii
+- [Babepedia](https://www.babepedia.com/babe/Faii_Orapun)
 
 ---
 
