@@ -13,7 +13,7 @@
 
 ## 📝 简介
 
-泰国曼谷 shemale 模特/学生。20 岁，身高 5'8"（约 173cm），体重 92lbs（约 42kg）。性格甜美浪漫，自称时尚达人。在 OnlyFans 等平台发布成人内容。X 账号 @Wine 可能已被删除或不存在，Bing 搜索「Wine Thai onlyfans」未找到额外的具体信息。
+泰国曼谷 shemale 模特/学生。20 岁，身高 5'8"（约 173cm），体重 92lbs（约 42kg）。性格甜美浪漫，自称时尚达人。在 OnlyFans 等平台发布成人内容。Bing 搜索「Wine Thai onlyfans」未找到额外的具体信息。
 
 ## 🔗 相关链接
 

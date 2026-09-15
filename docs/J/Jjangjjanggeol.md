@@ -10,6 +10,6 @@
 
 ---
 
-> ⚠️ 网络搜索未找到具体 OnlyFans 创作者信息。X 账号内容与 OnlyFans 无关。
+> ⚠️ 网络搜索未找到具体 OnlyFans 创作者信息。
 
 [◀ 返回 J 列表](./index.md) · [🏠 首页](../index.md)

@@ -10,7 +10,7 @@
 
 ## 📝 简介
 
-日本大阪出身的成人内容创作者，内容涵盖 cosplay、creampie、油压按摩等。同时活跃于 OnlyFans、Fansly、MyFans 等平台。X 主账号已不可用（可能被删除或封禁），使用副账号活动。
+日本大阪出身的成人内容创作者，内容涵盖 cosplay、creampie、油压按摩等。同时活跃于 OnlyFans、Fansly、MyFans 等平台。
 
 ## 🔗 相关链接
 

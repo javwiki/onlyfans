@@ -149,7 +149,6 @@ joycezarza:
   name: Joyce Zarza
   region: 美国
   file: docs/J/joycezarza.md
-  x: joycezarza
   status: 80
 
 ruruka820:
@@ -205,7 +204,6 @@ princessdolly_i:
   status: 80
 Yoyo_520:
   name: 少妇yoyo
-  x: Yoyo_520
   region: 中国
   file: docs/Y/Yoyo_520.md
   status: 70
@@ -269,13 +267,11 @@ cocopiemommy:
 
 cookiemon18:
   name: cookiemon18
-  x: cookiemon18
   region: 泰国
   file: docs/C/cookiemon18.md
   status: 70
 Guitar:
   name: Guitar
-  x: Guitar
   region: 泰国
   file: docs/G/Guitar.md
   status: 70
@@ -371,13 +367,11 @@ szn_uu_sub:
   status: 80
 Tontan:
   name: Tontan
-  x: Tontan
   region: 泰国
   file: docs/T/Tontan.md
   status: 70
 Wine:
   name: Wine
-  x: Wine
   region: 泰国
   file: docs/W/Wine.md
   status: 70
@@ -385,7 +379,6 @@ Yututu:
   name: Dian-Bing Wang
   region: 中国
   file: docs/Y/Yututu.md
-  x: Yututu
   status: 70
 mina0977:
   name: mina0977
@@ -546,7 +539,6 @@ ozirim:
 wkdus222:
   name: wkdus222
   file: docs/W/wkdus222.md
-  x: wkdus222
   status: 70
 
 imsocutesexy:
@@ -588,7 +580,6 @@ Fullfive:
 Ladyyuan:
   name: Ladyyuan
   file: docs/L/Ladyyuan.md
-  x: Ladyyuan
   status: 70
 
 
@@ -608,7 +599,6 @@ Elisetutu:
 daisybaby:
   name: daisybaby
   file: docs/D/daisybaby.md
-  x: daisybaby
   status: 70
 
 vivibabe:
@@ -789,7 +779,6 @@ kimjeewoo529:
 GirlCrush:
   name: 보미쇼
   file: docs/G/GirlCrush.md
-  x: GirlCrush
   status: 80
 
 KimHyeEun:
@@ -841,7 +830,6 @@ kaede:
 
 YukoMomohi:
   name: 桃姫優子
-  x: YukoMomohi
   file: docs/Y/YukoMomohi.md
   status: 80
 
@@ -866,7 +854,6 @@ Fangxiaotian:
 
 Huangmengmeng:
   name: 黄檬萌
-  x: Huangmengmeng
   file: docs/H/Huangmengmeng.md
   status: 70
 
@@ -944,7 +931,6 @@ Asiafox:
 
 Jjangjjanggeol:
   name: 짱짱걸门把手
-  x: Jjangjjanggeol
   region: 韩国
   file: docs/J/Jjangjjanggeol.md
   status: 80
@@ -1053,7 +1039,6 @@ Qingxin:
 
 Tuzixiansheng:
   name: 兔子先生
-  x: Tuzixiansheng
   file: docs/T/Tuzixiansheng.md
   status: 80
 
@@ -1066,7 +1051,6 @@ TubaobaoC:
 
 Wanjujiang:
   name: 完具酱
-  x: Wanjujiang
   file: docs/W/Wanjujiang.md
   status: 80
 
@@ -1292,7 +1276,6 @@ Xiaolujiang:
 
 Exiaojie:
   name: E小姐
-  x: Exiaojie
   file: docs/E/Exiaojie.md
   status: 70
 
@@ -1350,7 +1333,6 @@ Dandan:
 
 Tutu:
   name: 兔兔
-  x: Tutu
   file: docs/T/Tutu.md
   status: 70
 
@@ -1498,7 +1480,6 @@ Mia:
 
 Xirui:
   name: 希瑞
-  x: Xirui
   region: 中国
   file: docs/X/Xirui.md
   status: 70
@@ -1662,7 +1643,6 @@ lyainevan:
 
 Huangke:
   name: 黄可
-  x: Huangke
   file: docs/H/Huangke.md
   status: 80
 
@@ -1852,7 +1832,6 @@ Douniang:
 
 Huiyeji:
   name: 辉夜姬
-  x: Huiyeji
   file: docs/H/Huiyeji.md
   status: 70
 
@@ -1956,7 +1935,6 @@ SamanthaFlair:
 
 KatyaLetova:
   name: Katya Letova
-  x: KatyaLetova
   file: docs/K/KatyaLetova.md
   status: 70
 
@@ -1975,13 +1953,11 @@ KatieThornton:
 
 LenaLi:
   name: Lena Li
-  x: LenaLi
   file: docs/L/LenaLi.md
   status: 70
 
 LarkinLove:
   name: Larkin Love
-  x: LarkinLove
   file: docs/L/LarkinLove.md
   status: 70
 
@@ -2147,7 +2123,6 @@ Lienxi:
 
 Jiaduobao:
   name: 佳多饱
-  x: Jiaduobao
   file: docs/J/Jiaduobao.md
   status: 70
 
@@ -2182,7 +2157,6 @@ Chentiantian:
 
 Lianxin:
   name: 连欣
-  x: Lianxin
   file: docs/L/Lianxin.md
   status: 70
 
@@ -2246,7 +2220,6 @@ Xiamianyougenbangbangtang:
 
 Laohucai:
   name: 老虎菜
-  x: Laohucai
   file: docs/L/Laohucai.md
   status: 70
 
@@ -2285,14 +2258,12 @@ Mspuiyi:
 
 Guazha:
   name: 古阿扎
-  x: Guazha
   region: 中国
   file: docs/G/Guazha.md
   status: 70
 
 Goutouluoli:
   name: 狗头萝莉
-  x: Goutouluoli
   region: 中国
   file: docs/G/Goutouluoli.md
   status: 80
@@ -2361,7 +2332,6 @@ retsu_dao:
   name: Retsu_dao
   region: 日本
   file: docs/R/retsu_dao.md
-  x: retsu_dao
   status: 80
 
 senyasenyanko:
