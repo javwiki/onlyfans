@@ -3192,3 +3192,9 @@ milky_d1:
   file: docs/M/milky_d1.md
   x: milky_d1
   status: 85
+piperblushexp:
+  name: Piper Blush
+  region: 加拿大
+  x: PiperBlushExp
+  file: docs/P/piperblushexp.md
+  status: 85
