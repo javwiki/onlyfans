@@ -8,6 +8,7 @@
 
 - [@KOMACHI](./_KOMACHI_1.md) — こまち.小丁 / @_KOMACHI_1
 - [@KatieThornton](./KatieThornton.md) — Katie Thornton
+- [@KatestoneA](./Kate_Stone.md) — Kate Stone / @KatestoneA
 - [@KatyaLetova](./KatyaLetova.md) — Katya Letova
 - [@Kexiaodedanchun](./Kexiaodedanchun.md) — 可笑的单纯
 - [@KimHaNeulHyena](./KimHaNeulHyena.md) — 金荷娜

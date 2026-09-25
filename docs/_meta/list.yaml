@@ -3204,3 +3204,27 @@ itsmukkk:
   x: itssmuk
   file: docs/I/itsmukkk.md
   status: 80
+AddingtonJ1:
+  name: Josie Addington
+  region: 美国
+  x: AddingtonJ1
+  file: docs/A/AddingtonJ1.md
+  status: 80
+VixenViragoX:
+  name: Vixen Virago
+  region: 未知
+  x: VixenViragoX
+  file: docs/V/VixenViragoX.md
+  status: 80
+kate_stone:
+  name: Kate Stone
+  region: 哥伦比亚
+  x: KatestoneA
+  file: docs/K/Kate_Stone.md
+  status: 80
+robin_grey:
+  name: Robin Grey
+  region: 加拿大/日本
+  x: _littlerobin_1
+  file: docs/R/Robin_Grey.md
+  status: 80
