@@ -4,7 +4,7 @@
 
 定位关键词：`OnlyFans`、`adult model`、`NSFW webcam girl`、`amateur made`。
 
-> `amateur made` 仅用于检索与分类。项目不提供、转载或链接非自愿私密影像及下载资源。
+> `amateur made` 仅用于检索与分类。条目收录公开身份资料与官方/公开平台页面；不收录非自愿偷拍影像与付费内容的盗版转载。
 
 ## 如何使用
 
