@@ -1,84 +1,87 @@
-# OnlyFans / Adult Model / NSFW Webcam Girl 索引
+# OnlyFans / Adult Model / NSFW Webcam Girl Index
 
-这是一个使用 Zensical 构建的公开资料索引项目，定位关键词为 `OnlyFans`、`adult model`、`NSFW webcam girl` 与 `amateur made`。
+English | [简体中文](./README.zh-CN.md)
 
-其中 `amateur made` 仅作为检索与分类关键词。条目收录创作者公开身份资料、自愿发布的内容线索，以及官方或公开平台页面（含公开可访问的成人行业资料站与媒体报道）；不收录非自愿偷拍影像与付费内容的盗版转载。
+A public information index built with Zensical, focused on the keywords `OnlyFans`, `adult model`, `NSFW webcam girl`, and `amateur made`.
 
-## 项目特点
+`amateur made` is used only for search and classification. Entries cover creators' public identity information, references to voluntarily published content, and official or public platform pages, including publicly accessible adult industry information sites and media reports. The index excludes non-consensual recordings and pirated copies of paid content.
 
-- 📚 按用户名首字母 A-Z 分类
-- 🌍 覆盖多个国家和地区
-- 🔗 包含社交媒体、内容平台链接和简介
-- 🔎 支持成人模特、NSFW webcam girl 等公开身份线索检索
-- 📱 支持 GitHub Pages 自动部署
+## Features
 
-## 项目结构
+- 📚 Creators organized alphabetically by username, A–Z
+- 🌍 Coverage across multiple countries and regions
+- 🔗 Social media links, content platform links, and profiles
+- 🔎 Searchable public information about adult models and NSFW webcam creators
+- 📱 Automatic deployment to GitHub Pages
 
-```
+## Project structure
+
+```text
 docs/
-├── 0_meta/           # 元数据
-│   ├── list.yaml    # 创作者索引（YAML格式）
-│   └── source.md    # 数据来源
-├── A-Z/             # 按字母分类的博主页面
-├── index.md         # 首页
-└── index.md         # 首页
+├── 0_meta/          # Background information and metadata
+│   ├── list.yaml    # Creator index (YAML)
+│   └── source.md    # Information sources
+├── A-Z/            # Creator pages grouped by initial letter
+└── index.md        # Home page
 ```
 
-导航依靠目录与文件名自动排序：`0_meta` 的数字前缀使背景资料排在 A–Z 分组之前，首页仍位于首位；目录内的 `index.md` 优先，其余页面按文件名排序。无需显式配置 `nav`。
+Navigation is generated automatically from directory and file names. The numeric prefix in `0_meta` places background information before the A–Z sections, while the home page remains first. Within each directory, `index.md` comes first, followed by the other pages in filename order. No explicit `nav` configuration is needed.
 
-## 数据来源
+## Information sources
 
 - X (Twitter)
 - OnlyFans
 - Wikipedia
 - Namu Wiki
 
-## 本地运行
+## Run locally
 
-1. 安装 Zensical：
+1. Check the Zensical version:
+
 ```bash
 uvx --from zensical==0.0.62 zensical --version
 ```
 
-2. 本地预览：
+2. Start the local preview:
+
 ```bash
 uvx --from zensical==0.0.62 zensical serve
 ```
 
-访问 http://localhost:8000
+Open http://localhost:8000.
 
-## 自动部署
+## Automatic deployment
 
-项目使用 GitHub Actions 自动部署到 GitHub Pages：
+GitHub Actions builds and deploys the project to GitHub Pages:
 
-- 每次推送到 `main` 分支时自动构建
-- 按 `index.md` 和目录结构自动生成导航
-- 部署到 GitHub Pages
+- Every push to `main` triggers a build
+- Navigation is generated automatically from `index.md` pages and the directory structure
+- The generated site is deployed to GitHub Pages
 
-## 贡献指南
+## Contributing
 
-欢迎提交新的博主信息！请按照以下格式：
+To add a creator:
 
-1. 在对应字母目录下创建 `.md` 文件
-2. 在 `docs/0_meta/list.yaml` 中添加索引条目
-3. 提交 Pull Request
+1. Create a `.md` page in the directory for the corresponding initial letter
+2. Add an entry to `docs/0_meta/list.yaml`
+3. Submit a pull request
 
-X/Twitter 账号为可选信息。只有已确认归属的账号才填写 `x` 字段并放入词条的相关链接；如果没有确认的 X 账号，`x` 字段和 X/Twitter 链接都应省略。
+The X/Twitter account is optional. Include the `x` field and an X/Twitter link only when the account has been confirmed to belong to the creator. Otherwise, omit both.
 
-### `status` 字段说明
+### The `status` field
 
-`docs/0_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：
+The `status` field in `docs/0_meta/list.yaml` represents information completeness on a scale of 0–100:
 
-| 值 | 含义 |
-|----|------|
-| 90 | 信息较完整：包含详细简介、内容类型、多平台链接，已核实 |
-| 85 | 信息较完整，少量字段待补 |
-| 80 | 有基本公开信息（姓名/地区/链接） |
-| 70 | 占位条目：公开信息很少或未搜索到，待补充 |
-| 50 | 仅基础线索，最需补充 |
+| Value | Meaning |
+| --- | --- |
+| 90 | Mostly complete: a detailed profile, content types, and links to multiple platforms; verified |
+| 85 | Mostly complete, with a few fields still missing |
+| 80 | Basic public information is available, such as name, region, or links |
+| 70 | Placeholder entry: little public information is available or research found no information; needs further work |
+| 50 | Only basic references are available; needs the most work |
 
-提交新条目时请如实标注，信息补全后可逐步上调。
+Set the value according to the available information and increase it as the entry becomes more complete.
 
-## 许可证
+## License
 
 MIT License

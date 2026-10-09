@@ -1,0 +1,87 @@
+# OnlyFans / Adult Model / NSFW Webcam Girl 索引
+
+[English](./README.md) | 简体中文
+
+这是一个使用 Zensical 构建的公开资料索引项目，定位关键词为 `OnlyFans`、`adult model`、`NSFW webcam girl` 与 `amateur made`。
+
+其中 `amateur made` 仅作为检索与分类关键词。条目收录创作者公开身份资料、自愿发布的内容线索，以及官方或公开平台页面（含公开可访问的成人行业资料站与媒体报道）；不收录非自愿偷拍影像与付费内容的盗版转载。
+
+## 项目特点
+
+- 📚 按用户名首字母 A-Z 分类
+- 🌍 覆盖多个国家和地区
+- 🔗 包含社交媒体、内容平台链接和简介
+- 🔎 支持成人模特、NSFW webcam girl 等公开身份线索检索
+- 📱 支持 GitHub Pages 自动部署
+
+## 项目结构
+
+```
+docs/
+├── 0_meta/          # 背景资料与元数据
+│   ├── list.yaml    # 创作者索引（YAML格式）
+│   └── source.md    # 数据来源
+├── A-Z/             # 按字母分类的博主页面
+└── index.md         # 首页
+```
+
+导航依靠目录与文件名自动排序：`0_meta` 的数字前缀使背景资料排在 A–Z 分组之前，首页仍位于首位；目录内的 `index.md` 优先，其余页面按文件名排序。无需显式配置 `nav`。
+
+## 数据来源
+
+- X (Twitter)
+- OnlyFans
+- Wikipedia
+- Namu Wiki
+
+## 本地运行
+
+1. 检查 Zensical 版本：
+
+```bash
+uvx --from zensical==0.0.62 zensical --version
+```
+
+2. 本地预览：
+
+```bash
+uvx --from zensical==0.0.62 zensical serve
+```
+
+访问 http://localhost:8000
+
+## 自动部署
+
+项目使用 GitHub Actions 自动部署到 GitHub Pages：
+
+- 每次推送到 `main` 分支时自动构建
+- 按 `index.md` 和目录结构自动生成导航
+- 部署到 GitHub Pages
+
+## 贡献指南
+
+欢迎提交新的博主信息！请按照以下格式：
+
+1. 在对应字母目录下创建 `.md` 文件
+2. 在 `docs/0_meta/list.yaml` 中添加索引条目
+3. 提交 Pull Request
+
+X/Twitter 账号为可选信息。只有已确认归属的账号才填写 `x` 字段并放入词条的相关链接；如果没有确认的 X 账号，`x` 字段和 X/Twitter 链接都应省略。
+
+### `status` 字段说明
+
+`docs/0_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：
+
+| 值 | 含义 |
+|----|------|
+| 90 | 信息较完整：包含详细简介、内容类型、多平台链接，已核实 |
+| 85 | 信息较完整，少量字段待补 |
+| 80 | 有基本公开信息（姓名/地区/链接） |
+| 70 | 占位条目：公开信息很少或未搜索到，待补充 |
+| 50 | 仅基础线索，最需补充 |
+
+提交新条目时请如实标注，信息补全后可逐步上调。
+
+## 许可证
+
+MIT License
