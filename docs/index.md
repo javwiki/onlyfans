@@ -12,6 +12,12 @@
 - 点击博主用户名，查看详细信息页面
 - 每个博主页面包含：用户名、显示名、地区、内容类型、简介和相关链接
 
+## 背景资料
+
+- [OnlyFans 公司历史与商业模式](./_meta/onlyfans-history.md)
+- [类似公司与平台比较](./_meta/similar-platforms.md)
+- [UGC 成人内容：各国与地区法律概览](./_meta/ugc-porn-laws.md)
+
 ## 数据来源
 
 本项目数据主要来源于：
