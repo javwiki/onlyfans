@@ -16,13 +16,15 @@
 
 ```
 docs/
-├── _meta/           # 元数据
+├── 0_meta/           # 元数据
 │   ├── list.yaml    # 创作者索引（YAML格式）
 │   └── source.md    # 数据来源
 ├── A-Z/             # 按字母分类的博主页面
 ├── index.md         # 首页
 └── index.md         # 首页
 ```
+
+导航依靠目录与文件名自动排序：`0_meta` 的数字前缀使背景资料排在 A–Z 分组之前，首页仍位于首位；目录内的 `index.md` 优先，其余页面按文件名排序。无需显式配置 `nav`。
 
 ## 数据来源
 
@@ -58,14 +60,14 @@ uvx --from zensical==0.0.62 zensical serve
 欢迎提交新的博主信息！请按照以下格式：
 
 1. 在对应字母目录下创建 `.md` 文件
-2. 在 `docs/_meta/list.yaml` 中添加索引条目
+2. 在 `docs/0_meta/list.yaml` 中添加索引条目
 3. 提交 Pull Request
 
 X/Twitter 账号为可选信息。只有已确认归属的账号才填写 `x` 字段并放入词条的相关链接；如果没有确认的 X 账号，`x` 字段和 X/Twitter 链接都应省略。
 
 ### `status` 字段说明
 
-`docs/_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：
+`docs/0_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：
 
 | 值 | 含义 |
 |----|------|

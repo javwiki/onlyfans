@@ -14,9 +14,9 @@
 
 ## 背景资料
 
-- [OnlyFans 公司历史与商业模式](./_meta/onlyfans-history.md)
-- [类似公司与平台比较](./_meta/similar-platforms.md)
-- [UGC 成人内容：各国与地区法律概览](./_meta/ugc-porn-laws.md)
+- [OnlyFans 公司历史与商业模式](./0_meta/onlyfans-history.md)
+- [类似公司与平台比较](./0_meta/similar-platforms.md)
+- [UGC 成人内容：各国与地区法律概览](./0_meta/ugc-porn-laws.md)
 
 ## 数据来源
 

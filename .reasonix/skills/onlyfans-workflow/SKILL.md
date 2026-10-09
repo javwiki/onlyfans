@@ -204,7 +204,7 @@ screening:
 
 ## Step 2: 更新 list.yaml (Metadata)
 
-编辑 `docs/_meta/list.yaml` 添加或更新创作者条目。
+编辑 `docs/0_meta/list.yaml` 添加或更新创作者条目。
 
 为保持索引简短，条目默认只保留 `name`、`file`、`status`，以及已有的非空 `x`、`region`、`tags`；OnlyFans、社交平台、网站、别名和联系方式等详情统一写入对应 Markdown 文件，不再新增到 `list.yaml`。
 
@@ -239,7 +239,7 @@ screening:
 
 ### 添加条目
 
-在 `docs/_meta/list.yaml` 末尾添加新条目，格式：
+在 `docs/0_meta/list.yaml` 末尾添加新条目，格式：
 
 ```yaml
 <key>:                   # key 使用 x_id（如有）或名称拼音（小写）
@@ -347,7 +347,7 @@ uvx --from zensical==0.0.62 zensical serve
 ### 4.3 Git 提交
 
 ```bash
-git add docs/_meta/list.yaml docs/<首字母>/<key>.md docs/<首字母>/index.md
+git add docs/0_meta/list.yaml docs/<首字母>/<key>.md docs/<首字母>/index.md
 git commit -m "feat: add creator <name> (<key>)"
 ```
 
@@ -368,7 +368,7 @@ Step 1: 调研 (Research)
   │
   ▼
 Step 2: 更新 list.yaml
-  └─ 追加 docs/_meta/list.yaml 条目
+  └─ 追加 docs/0_meta/list.yaml 条目
   │
   ▼
 Step 3: 生成 MD 文件

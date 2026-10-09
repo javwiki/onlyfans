@@ -27,7 +27,7 @@ import yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "docs")
-LIST_YAML = os.path.join(SRC, "_meta", "list.yaml")
+LIST_YAML = os.path.join(SRC, "0_meta", "list.yaml")
 LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 PLACEHOLDER_MARKS = ("网络搜索未找到", "未找到关于", "未找到其他公开信息")
 
