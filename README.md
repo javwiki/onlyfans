@@ -68,6 +68,19 @@ To add a creator:
 
 The X/Twitter account is optional. Include the `x` field and an X/Twitter link only when the account has been confirmed to belong to the creator. Otherwise, omit both.
 
+### Validate before pushing
+
+Before every push, run these commands from the project root. Push only after both pass:
+
+```bash
+uv run --with pyyaml python scripts/validate.py
+uvx --from zensical==0.0.62 zensical build --clean --strict
+```
+
+The data validator checks duplicate YAML keys, field types, the `status` range, profile files, alphabet index links, and page structure. Missing regions and placeholder profiles produce warnings in normal mode and do not block a push.
+
+To treat these completeness warnings as errors, run `uv run --with pyyaml python scripts/validate.py --strict`. The repository currently has such warnings, so strict data validation does not yet pass. This is separate from the site build's `--strict` check.
+
 ### The `status` field
 
 The `status` field in `docs/0_meta/list.yaml` represents information completeness on a scale of 0–100:

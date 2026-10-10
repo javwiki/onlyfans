@@ -68,6 +68,19 @@ uvx --from zensical==0.0.62 zensical serve
 
 X/Twitter 账号为可选信息。只有已确认归属的账号才填写 `x` 字段并放入词条的相关链接；如果没有确认的 X 账号，`x` 字段和 X/Twitter 链接都应省略。
 
+### Push 前校验
+
+每次 push 前，先在项目根目录执行以下命令；两项均通过后再推送：
+
+```bash
+uv run --with pyyaml python scripts/validate.py
+uvx --from zensical==0.0.62 zensical build --clean --strict
+```
+
+资料校验会检查 YAML 重复键、字段类型、`status` 范围、详情文件、字母索引链接和页面结构。地区缺失与占位页在普通模式下只提示警告，不阻止推送。
+
+如需将这些资料完整度警告也视为错误，可执行 `uv run --with pyyaml python scripts/validate.py --strict`。当前仓库仍有此类警告，因此资料严格校验尚不能通过；这与站点构建的 `--strict` 是不同的检查。
+
 ### `status` 字段说明
 
 `docs/0_meta/list.yaml` 中每条目的 `status` 字段表示信息完整度（0–100）：
