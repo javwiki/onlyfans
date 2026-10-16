@@ -21,6 +21,7 @@
 - [@Sola](./Sola.md) — Sola酱
 - [@Songxingxing-kuaishou](./Songxingxing-kuaishou.md) — 宋星星 - 快手
 - [@StephanieKolman](./StephanieKolman.md) — Steph Kolman 💄 / @StephanieKolman
+- [@SuChiBi1](./SuChiBi1.md) — Su Chibi / @SuChiBi1
 - [@Succubus_86](./Succubus_86.md) — 猫属性八六 / @Succubus_86
 - [Sweetie Fox](./SweetieFox.md) — Sweetie Fox
 - [@Suxiaomeibobomei](./Suxiaomeibobomei.md) — 苏小美波波妹

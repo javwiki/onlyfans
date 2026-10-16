@@ -8,19 +8,20 @@ tags: []
 |------|------|
 | **用户名** | `gfpupu` |
 | **显示名** | pupu噗噗♡‌ |
-| **别名** | pupuwaifu、waifupupu、goodgirlpupu |
+| **别名** | pupuwaifu、@waifupupu、@goodgirlpupu |
 | **地区** | 🇨🇳 中国 |
 | **内容类型** | OnlyFans/FansOne/Telegram 成人内容创作者 |
-| **特征** | NO PPV‼️订阅观看往期所有内容，52.2 万 X 粉丝，24vids 111 万订阅 |
+| **特征** | NO PPV‼️订阅观看往期所有内容，约 333 万 X 粉丝，24vids 111 万订阅 |
 
 ## 📝 简介
 
-pupu噗噗（@gfpupu），中国 OnlyFans/FansOne/Telegram 成人内容创作者。自称"You look lonely, I can fix that"，X 拥有 52.2 万粉丝，24vids 上 111 万订阅者。FansOne @aheyanlz（SSSVIP 营地），Telegram @aheyanlz_bot。Linktree @pupuwaifu。强调"NO PPV‼️订阅观看往期所有内容"，支持 ZFB 支付。
+pupu噗噗（@gfpupu），中国 OnlyFans/FansOne/Telegram 成人内容创作者。自称"You look lonely, I can fix that"，24vids 上有 111 万订阅者，同一人运营多个 X 账号，其中 **@waifupupu 约 333 万粉丝**为主账号，另有 **@gfpupu 约 110 万粉丝**与 **@goodgirlpupu 约 53.7 万粉丝**。FansOne @aheyanlz（SSSVIP 营地），Telegram @aheyanlz_bot。Linktree @pupuwaifu。强调"NO PPV‼️订阅观看往期所有内容"，支持 ZFB 支付。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/gfpupu) — 主账号（52.2K 粉丝）
-- [X / Twitter (备)](https://x.com/goodgirlpupu) — 备用账号
+- [X / Twitter](https://x.com/waifupupu) — 主账号（约 333 万粉丝）
+- [X / Twitter](https://x.com/gfpupu) — 主账号（约 110 万粉丝）
+- [X / Twitter (备)](https://x.com/goodgirlpupu) — 备用账号（约 53.7 万粉丝）
 - [OnlyFans](https://onlyfans.com/pupuwaifu) — NO PPV
 - [FansOne](https://fansone.co/aheyanlz) — 支持 ZFB
 - [Telegram](https://t.me/aheyanlz_bot) — TG 订阅

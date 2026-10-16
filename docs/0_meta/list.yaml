@@ -1642,6 +1642,13 @@ Suxiaomeibobomei:
   file: docs/S/Suxiaomeibobomei.md
   status: 70
 
+SuChiBi1:
+  name: Su Chibi
+  region: 越南
+  file: docs/S/SuChiBi1.md
+  x: SuChiBi1
+  status: 80
+
 Succubus_86:
   name: 猫属性八六
   x: Succubus_86

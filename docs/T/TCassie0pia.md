@@ -10,11 +10,12 @@
 
 ## 📝 简介
 
-Cassie（@TCassie0pia），美国出身的成人内容创作者与游戏主播。X 拥有 **25.5 万粉丝**，2018年7月加入。主要玩 Dead by Daylight、Valorant、COD、Diablo 3 等游戏。活跃于 OnlyFans、ManyVids、Chaturbate 和 Twitch 平台。5'1"（155cm），38O 罩杯。
+Cassie（@TCassie0pia），美国出身的成人内容创作者与游戏主播。X 拥有 **26.7 万粉丝**，2018年7月加入。主要玩 Dead by Daylight、Valorant、COD、Diablo 3 等游戏。活跃于 OnlyFans、ManyVids、Chaturbate 和 Twitch 平台。5'1"（155cm），38O 罩杯。X 简介注明"My only twitter!"，为唯一官方 X 账号。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/TCassie0pia) — 25.5 万粉丝
+- [X / Twitter](https://x.com/TCassie0pia) — 约 26.7 万粉丝
+- [Linktree](https://linktr.ee/Cassie0pia) — 官方链接汇总
 - [OnlyFans](https://onlyfans.com/Cassie0pia)
 - [ManyVids](https://www.manyvids.com/Profile/Cassie0pia)
 - [Chaturbate](https://chaturbate.com/Cassie0pia)

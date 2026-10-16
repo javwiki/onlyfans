@@ -14,7 +14,7 @@
 - [@Goutouluoli](./Goutouluoli.md) — 狗头萝莉
 - [@Guazha](./Guazha.md) — 古阿扎
 - [@Guitar](./Guitar.md) — Guitar
-- [@gfpupu](./gfpupu.md) — pupu噗噗 / @gfpupu
+- [@gfpupu](./gfpupu.md) — pupu噗噗 / @gfpupu（同人账号：@waifupupu、@goodgirlpupu）
 - [@gggg90](./gggg90.md) — 金艺贞 / @gggg90
 - [Giulia Wylde](./GiuliaWylde.md) — Giulia Wylde
 
