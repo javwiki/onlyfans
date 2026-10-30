@@ -6,6 +6,7 @@
 
 ## 🧑‍🎤 博主
 
+- [@raissabellini](./raissabellini.md) — Raissa Bellini / @raissabellini
 - [@rakuraku166](./rakuraku166.md) — 落落Raku_66 🐾
 - [@realassbunny43](./realassbunny43.md) — Realassbunny / @realassbunny43
 - [@realnaomieast](./realnaomieast.md) — Naomi East / @realnaomieast

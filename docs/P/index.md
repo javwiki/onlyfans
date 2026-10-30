@@ -8,6 +8,7 @@
 
 - [@Palisi](./Palisi.md) — 帕里斯
 - [@panid69](./panid69.md) — panid69 / @panid69
+- [@PeachofScotland](./PeachofScotland.md) — Peach of Scotland / @PeachofScotland
 - [@peachygirlmomo](./peachygirlmomo.md) — Momokun 🍑 / @peachygirlmomo
 - [@420bbyk](./penelopekay.md) — Penelope Kay / @420bbyk
 - [@pia_wagner59](./pia_wagner59.md) — Pia Wagner / @pia_wagner59
