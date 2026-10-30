@@ -2,7 +2,7 @@
 tags: [男娘, 伪娘, nsfw, adult-model]
 ---
 
-# Aroma.gif（@AromaGif）
+# Aroma.gif
 
 | 项目 | 内容 |
 |------|------|

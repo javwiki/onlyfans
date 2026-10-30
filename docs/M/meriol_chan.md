@@ -1,4 +1,4 @@
-# @meriol_chan
+# meriol chan
 
 | 项目 | 内容 |
 |------|------|

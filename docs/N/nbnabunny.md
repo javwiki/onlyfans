@@ -2,7 +2,7 @@
 tags: [英国, nsfw, adult-model]
 ---
 
-# nbnabunny（@nbnabunny）
+# nbnabunny
 
 | 项目 | 内容 |
 |------|------|

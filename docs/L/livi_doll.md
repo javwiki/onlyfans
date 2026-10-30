@@ -2,7 +2,7 @@
 tags: [美国, nsfw, adult-model, trans]
 ---
 
-# livi doll（@livi_doll）
+# livi doll
 
 | 项目 | 内容 |
 |------|------|

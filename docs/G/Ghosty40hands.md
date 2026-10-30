@@ -1,4 +1,4 @@
-# Ghost Park 👻 (@Ghosty40hands)
+# Ghost Park
 
 | 项目 | 内容 |
 |------|------|

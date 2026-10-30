@@ -2,7 +2,7 @@
 tags: [美国, nsfw, adult-model]
 ---
 
-# Josie Addington（@AddingtonJ1）
+# Josie Addington
 
 | 项目 | 内容 |
 |------|------|

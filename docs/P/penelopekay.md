@@ -2,7 +2,7 @@
 tags: [美国, nsfw, adult-model]
 ---
 
-# Penelope Kay（@420bbyk）
+# Penelope Kay
 
 | 项目 | 内容 |
 |------|------|

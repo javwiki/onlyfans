@@ -1,4 +1,4 @@
-# @pimnalinn_
+# pimnalinn
 
 | 项目 | 内容 |
 |------|------|

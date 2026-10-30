@@ -2,7 +2,7 @@
 tags: [onlyfans, nsfw]
 ---
 
-# Monique Mae 🌺 @Asianhotwife 🏆 0.0%
+# Monique Mae 🌺
 
 | 项目 | 内容 |
 |------|------|

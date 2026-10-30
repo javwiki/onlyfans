@@ -1,4 +1,4 @@
-# @meow_lonely
+# LonelyMeow
 
 ## 📝 简介
 

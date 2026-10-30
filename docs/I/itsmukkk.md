@@ -2,7 +2,7 @@
 tags: [nsfw, adult-model]
 ---
 
-# realitsmuk🤍（@itssmuk）
+# realitsmuk🤍
 
 | 项目 | 内容 |
 |------|------|

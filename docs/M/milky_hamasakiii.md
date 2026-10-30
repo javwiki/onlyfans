@@ -1,4 +1,4 @@
-# @Milky_hamasakii
+# Milky_hamasakii
 
 | 项目 | 内容 |
 |------|------|

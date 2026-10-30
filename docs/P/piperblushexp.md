@@ -2,7 +2,7 @@
 tags: [加拿大, nsfw, adult-model]
 ---
 
-# Piper Blush（@PiperBlushExp）
+# Piper Blush
 
 | 项目 | 内容 |
 |------|------|

@@ -2,7 +2,7 @@
 tags: [美国, nsfw, adult-model, trans]
 ---
 
-# LILLY BENZ（@tsprincess__）
+# Lilly Benz
 
 | 项目 | 内容 |
 |------|------|
