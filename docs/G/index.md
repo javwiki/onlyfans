@@ -10,7 +10,7 @@
 - [@Gaotaituinvjiaoguan](./Gaotaituinvjiaoguan.md) — 高抬腿女教官
 - [@Gaoyinxing](./Gaoyinxing.md) — 高銀星
 - [@Gatitayan](./Gatitayan.md) — 朵妃 / @Gatitayan
-- [@GirlCrush](./GirlCrush.md) — 보미쇼 / @GirlCrush
+- [@GirlCrush](./GirlCrush.md) — 보미쇼
 - [@Goutouluoli](./Goutouluoli.md) — 狗头萝莉
 - [@Guazha](./Guazha.md) — 古阿扎
 - [@Guitar](./Guitar.md) — Guitar

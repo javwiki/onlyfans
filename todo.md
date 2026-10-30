@@ -2,7 +2,7 @@
 
 核对日期：2026-10-30。以下条目正文不足 200 字，或简介含「网络搜索未找到」「未找到关于」「未找到其他公开信息」。补全公开身份、地区与平台链接后，从本表删除。
 
-共 207 条。
+共 198 条。
 
 ## A
 
@@ -11,13 +11,11 @@
 - [ ] [安安老师](docs/A/Ananlaoshi.md) — 占位，status 80，正文约 88 字
 - [ ] [钱宝宝](docs/A/Anna.md) — 过短，status 70，正文约 152 字
 - [ ] [사과](docs/A/Apple.md) — 过短，status 70，正文约 154 字
-- [ ] [Arika joy](docs/A/Arikajoy.md) — 过短，无外链，status 80，正文约 152 字
 - [ ] [Artgroovy](docs/A/Artgroovy.md) — 占位，status 80，正文约 92 字
 
 ## B
 
 - [ ] [熙熙baby](docs/B/baby.md) — 占位，status 80，正文约 181 字
-- [ ] [베이글쑤](docs/B/BagelSoo.md) — 占位，无外链，status 80，正文约 45 字
 - [ ] [暴龙娜塔莎](docs/B/Baolongnatasha.md) — 占位，无外链，status 80，正文约 63 字
 - [ ] [八月未央](docs/B/Bayueweiyang.md) — 占位，无外链，status 80，正文约 45 字
 - [ ] [水BIG悦](docs/B/BIG.md) — 占位，无外链，status 70，正文约 56 字
@@ -37,7 +35,6 @@
 - [ ] [陈小魔](docs/C/Chenxiaomo.md) — 过短，status 70，正文约 156 字
 - [ ] [陈祎](docs/C/Chenyi.md) — 占位，无外链，status 70，正文约 56 字
 - [ ] [cherida](docs/C/cherida.md) — 占位，status 70，正文约 146 字
-- [ ] [chitarlight](docs/C/chitarlight.md) — 占位，status 70，正文约 96 字
 - [ ] [穿云音](docs/C/Chuanyunyin.md) — 占位，无外链，status 70，正文约 141 字
 
 ## D
@@ -56,7 +53,6 @@
 
 - [ ] [eemiim](docs/E/eemiim.md) — 占位，无外链，status 70，正文约 47 字
 - [ ] [egg尤妮丝](docs/E/egg.md) — 占位，无外链，status 70，正文约 57 字
-- [ ] [谭晓彤（兔兔）](docs/E/Elisetutu.md) — 占位，无外链，status 80，正文约 60 字
 - [ ] [恶犬少女](docs/E/Equanshaonv.md) — 占位，status 70，正文约 89 字
 - [ ] [二次元狂热少女](docs/E/Erciyuankuangreshaonv.md) — 占位，仅搜索链接，status 80，正文约 109 字
 - [ ] [eun-a](docs/E/euna.md) — 占位，status 70，正文约 89 字
@@ -74,11 +70,8 @@
 - [ ] [朵妃](docs/G/Gatitayan.md) — 占位，status 70，正文约 85 字
 - [ ] [金艺贞](docs/G/gggg90.md) — 占位，status 70，正文约 83 字
 - [ ] [Gguesting](docs/G/Gguesting.md) — 占位，无外链，status 70，正文约 50 字
-- [ ] [보미쇼](docs/G/GirlCrush.md) — 占位，仅搜索链接，status 80，正文约 101 字
 - [ ] [GOFLOWER](docs/G/GOFLOWER.md) — 占位，status 70，正文约 97 字
 - [ ] [月亮爱神GOL](docs/G/GOL.md) — 占位，无外链，status 70，正文约 61 字
-- [ ] [狗头萝莉](docs/G/Goutouluoli.md) — 占位，仅搜索链接，status 80，正文约 117 字
-- [ ] [古阿扎](docs/G/Guazha.md) — 过短，仅搜索链接，status 70，正文约 168 字
 
 ## H
 
@@ -142,7 +135,6 @@
 - [ ] [萌白酱](docs/M/Mengbaijiang.md) — 过短，status 80，正文约 184 字
 - [ ] [梦菲桐香](docs/M/Mengfeitongxiang.md) — 占位，无外链，status 70，正文约 59 字
 - [ ] [美七Mia](docs/M/Mia.md) — 占位，无外链，status 70，正文约 56 字
-- [ ] [mie](docs/M/miebb.md) — 占位，status 80，正文约 651 字
 - [ ] [豪乳miko](docs/M/miko.md) — 占位，无外链，status 80，正文约 53 字
 - [ ] [mini diva](docs/M/minidiva.md) — 占位，status 70，正文约 91 字
 - [ ] [MissA](docs/M/MissA.md) — 占位，status 70，正文约 84 字
@@ -235,7 +227,6 @@
 - [ ] [小妹](docs/X/Xiaomei.md) — 占位，无外链，status 70，正文约 43 字
 - [ ] [小奶油](docs/X/Xiaonaiyou.md) — 占位，status 70，正文约 87 字
 - [ ] [小乔](docs/X/Xiaoqiao.md) — 占位，status 70，正文约 135 字
-- [ ] [小水熙](docs/X/Xiaoshuixi.md) — 占位，status 70，正文约 141 字
 - [ ] [小水熙](docs/X/Xiaoshuixi2.md) — 占位，无外链，status 70，正文约 58 字
 - [ ] [小仙云 - X](docs/X/Xiaoxianyun-X.md) — 占位，无外链，status 70，正文约 61 字
 - [ ] [小仙云](docs/X/Xiaoxianyun.md) — 占位，status 70，正文约 88 字

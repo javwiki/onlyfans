@@ -1,29 +1,24 @@
-# miebb
+---
+tags: [中国, 写真]
+---
+
+# mie
 
 | 项目 | 内容 |
 |------|------|
-| **用户名** | `miebb` |
-| **显示名** | mie / 林美惠子Mieko |
-| **别名** | mie_xxx, little_brat_mei |
+| **用户名** | miebb |
+| **显示名** | 林美惠子 |
+| **X** | [@Linmeihuizi1997](https://x.com/Linmeihuizi1997) |
 | **地区** | 🇨🇳 中国（深圳） |
-| **血统** | 中日混血 |
-| **毕业院校** | 深圳大学 |
-| **经纪公司** | 深圳市星粤文化传媒 |
-| **内容类型** | 成人内容 / 艺术写真 |
-| **资料状态** | 部分核验 |
+| **内容类型** | 平面模特、广告演员 |
 
 ## 📝 简介
 
-网络搜索未找到该创作者的具体信息。
+林美惠子（Mieko）的公开模特资料与本页原表一致：中日混血，在广东深圳活动，深圳大学，经纪为深圳市星粤文化传媒，作品在秀人网一类写真平台。X [@Linmeihuizi1997](https://x.com/Linmeihuizi1997) 的简介写明「林美惠子唯一真人号」，并指向新浪微博「Mieko林美惠子」以及秀人网、颜图社、微密圈。各站出生日期不一致，本条不写生日。onlyfans.com/miebb 与空的 @miebb 都未核到，不写入。资料核对日期：2026-10-30。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/miebb) — 3 粉丝
-- [OnlyFans](https://onlyfans.com/miebb)
-- [秀人网](https://m.xsnvshen.com/girl/24043) — 写真集
-- [Pornhub](https://cn.pornhub.com/view_video.php?viewkey=ph5e74aba02393f) — 泄露内容
-- [Pornhub](https://cn.pornhub.com/view_video.php?viewkey=ph5e74aba02393f)
-- [秀人网写真集](https://m.xsnvshen.com/girl/24043) — 林美惠子Mieko 图片
+- [X](https://x.com/Linmeihuizi1997)
 
 ---
 

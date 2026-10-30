@@ -31,7 +31,7 @@
 - [@cdnmxy](./cdnmxy.md) — 南牧绪央 / @cdnmxy
 - [@chennianjun11](./chennianjun11.md) — 陈念君 / @chennianjun11
 - [@cherida](./cherida.md) — cherida
-- [@chitarlight](./chitarlight.md) — chitarlight / @chitarlight
+- [@chitarlight](./chitarlight.md) — chitarlight
 - [@choco_lateP](./choco_lateP.md) — レート / @choco_lateP
 - [@cocopiemommy](./cocopiemommy.md) — 🦊CocoPie🦊 / @cocopiemommy
 - [@cookiemon18](./cookiemon18.md) — cookiemon18

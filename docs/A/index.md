@@ -20,7 +20,7 @@
 - [@Anji](./Anji.md) — 安吉
 - [@Anna](./Anna.md) — 钱宝宝
 - [@Apple](./Apple.md) — 사과
-- [@Arikajoy](./Arikajoy.md) — Arika joy
+- [@Arikajoy](./Arikajoy.md) — Arika joy / @arika_joy
 - [@Arno0226](./Arno0226.md) — mKIYO
 - [@AromaGif](./AromaGif.md) — Aroma.gif（男娘海军人设）
 - [@Artgroovy](./Artgroovy.md) — Artgroovy

@@ -319,8 +319,8 @@ miebb:
   name: mie
   region: 中国
   file: docs/M/miebb.md
-  x: miebb
-  status: 80
+  x: Linmeihuizi1997
+  status: 85
 SkyexSummers:
   name: SkyexSummers
   region: 美国
@@ -592,7 +592,8 @@ Elisetutu:
   name: 谭晓彤（兔兔）
   region: 中国
   file: docs/E/Elisetutu.md
-  status: 80
+  x: TUTUElise
+  status: 85
 
 daisybaby:
   name: daisybaby
@@ -766,9 +767,9 @@ FirtsBornUnicorn:
 
 chitarlight:
   name: chitarlight
+  region: 泰国
   file: docs/C/chitarlight.md
-  x: chitarlight
-  status: 70
+  status: 85
 
 hungerlan:
   name: hungerlan
@@ -790,8 +791,9 @@ kimjeewoo529:
 
 GirlCrush:
   name: 보미쇼
+  region: 韩国
   file: docs/G/GirlCrush.md
-  status: 80
+  status: 85
 
 KimHyeEun:
   name: 金慧恩
@@ -1813,8 +1815,9 @@ daxiongmei:
 
 BagelSoo:
   name: 베이글쑤
+  region: 韩国
   file: docs/B/BagelSoo.md
-  status: 80
+  status: 85
 
 Xiaoxianyun-X:
   name: 小仙云 - X
@@ -1869,8 +1872,10 @@ Yinanna:
 
 Arikajoy:
   name: Arika joy
+  region: 拉脱维亚
   file: docs/A/Arikajoy.md
-  status: 80
+  x: arika_joy
+  status: 85
 
 AlisaAmore:
   name: Alisa Amore
@@ -2271,13 +2276,13 @@ Guazha:
   name: 古阿扎
   region: 中国
   file: docs/G/Guazha.md
-  status: 70
+  status: 85
 
 Goutouluoli:
   name: 狗头萝莉
   region: 中国
   file: docs/G/Goutouluoli.md
-  status: 80
+  status: 85
 
 Linyuxin:
   name: 林雨馨
@@ -2288,10 +2293,9 @@ Linyuxin:
 
 Xiaoshuixi:
   name: 小水熙
-  x: Xiaoshuixi
   region: 中国
   file: docs/X/Xiaoshuixi.md
-  status: 70
+  status: 85
 
 Zhiyimeimei:
   name: 知一妹妹
