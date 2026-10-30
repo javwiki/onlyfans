@@ -2,6 +2,8 @@
 
 English | [简体中文](./README.zh-CN.md)
 
+**Live site:** <https://javwiki.github.io/onlyfans/>
+
 A public information index built with Zensical, focused on the keywords `OnlyFans`, `adult model`, `NSFW webcam girl`, and `amateur made`.
 
 `amateur made` is used only for search and classification. Entries cover creators' public identity information, references to published content, and official or public platform pages, including publicly accessible adult industry information sites and media reports.
