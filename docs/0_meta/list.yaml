@@ -1883,13 +1883,6 @@ harrietsugarcookie:
   file: docs/H/harrietsugarcookie.md
   status: 85
 
-littlereislin:
-  name: Reislin
-  region: 拉脱维亚
-  file: docs/L/littlereislin.md
-  x: reislin_model_
-  status: 80
-
 livi_doll:
   name: livi doll
   region: 美国

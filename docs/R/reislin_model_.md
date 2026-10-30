@@ -51,7 +51,7 @@ Reislin（@reislin_model_），**拉脱维亚裔**成人内容创作者与导演
 
 ## ⚠️ 甄别提示
 
-- 本词条已按 **IAFD** 档案（id=58088972-…）核对：@reislin_model_ 与官方 AKA **Little Reislin**（旧账号 `littlereislin` / IG `ph_little_reislin`）为**同一人**，拉脱维亚裔
+- 本词条已按 **IAFD** 档案（id=58088972-…）核对：@reislin_model_ 与官方 AKA **Little Reislin**（旧用户名 `littlereislin` / IG `ph_little_reislin`）为**同一人**，拉脱维亚裔。旧用户名不再单独成条。
 
 ---
 
