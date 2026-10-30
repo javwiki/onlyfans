@@ -1524,7 +1524,7 @@ EdMosaic:
 eemiim:
   name: eemiim
   file: docs/E/eemiim.md
-  status: 70
+  status: 85
 
 Anji:
   name: 安吉
@@ -1579,9 +1579,10 @@ AmiraWest:
 
 Naimi:
   name: Naimi奶咪
-  x: Naimi
+  x: Anaimiya
+  region: 香港
   file: docs/N/Naimi.md
-  status: 70
+  status: 85
 
 minichu:
   name: minichu
@@ -1775,9 +1776,10 @@ Zhouboer:
 
 mmzhazhixia:
   name: 榨汁夏
+  region: 中国
   file: docs/M/mmzhazhixia.md
   x: mmzhazhixia
-  status: 80
+  status: 85
 
 Bayueweiyang:
   name: 八月未央
@@ -2980,9 +2982,9 @@ Luojieer:
   status: 70
 Mabelle:
   name: Mabelle
+  region: 法国
   file: docs/M/Mabelle.md
-  x: Mabelle
-  status: 70
+  status: 85
 Meiqiaobaby:
   name: 美乔baby
   file: docs/M/Meiqiaobaby.md
