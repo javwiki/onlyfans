@@ -9,12 +9,18 @@
   E2  除 index.md 外的所有博主页都被 list.yaml 引用（无孤儿文件）
   E3  字母索引页（docs/X/index.md）实际链接到该字母下所有条目
   E4  list.yaml 不保存 tags（标签仅由页面 frontmatter 维护）
-  E5  页面包含「简介」与「相关链接」区块，且有返回导航
+  E5  页面包含「简介」与「相关链接」区块（按标题判断），且有返回导航
   E6  页面内相对链接无死链
+  E7  「简介」「相关链接」区块不得为空
+  E8  字母索引中的 @handle 必须对应已核验的 x 字段
 
 校验项（warning，仅提示，--strict 时视为 error）:
   W1  条目缺少 region 字段
   W2  页面为占位页（含「网络搜索未找到」等占位表述）
+  W3  平台账号被多个条目共用（互相关联的页面除外）
+  W4  tags 大小写、空格或同义写法未规范化
+  W5  占位表述与 status ≥ 85 矛盾
+  W6  字母索引未按用户名排序
 """
 import argparse
 import os
@@ -100,6 +106,46 @@ def relative_targets(content: str, source: str, include_images: bool = True) -> 
     return targets
 
 
+def sections(content: str) -> dict[str, str]:
+    """Split page body into ``## `` sections, stopping at the footer rule."""
+    result: dict[str, str] = {}
+    title = None
+    buf: list[str] = []
+    for line in content.splitlines():
+        if line.startswith("## "):
+            if title is not None:
+                result[title] = "\n".join(buf).strip()
+            title = line[3:].strip()
+            buf = []
+        elif title is not None:
+            if line.strip() == "---":
+                result[title] = "\n".join(buf).strip()
+                title = None
+                buf = []
+            else:
+                buf.append(line)
+    if title is not None:
+        result[title] = "\n".join(buf).strip()
+    return result
+
+
+def find_section(secs: dict[str, str], keyword: str) -> str | None:
+    for title, body in secs.items():
+        if keyword in title:
+            return body
+    return None
+
+
+def page_tags(content: str) -> list[str] | None:
+    match = re.match(r"^---\n(.*?)\n---\n", content, re.S)
+    if not match:
+        return None
+    tag_line = re.search(r"^tags:\s*(.*)$", match.group(1), re.M)
+    if not tag_line:
+        return None
+    return [t.strip() for t in tag_line.group(1).strip().strip("[]").split(",") if t.strip()]
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--strict", action="store_true", help="将 warning 视为 error")
@@ -146,6 +192,8 @@ def main() -> int:
         err(f"E2 孤儿页面未被 list.yaml 引用: {orphan}")
 
     # ---- E3: 字母索引页完整性 ----
+    entry_by_file = {os.path.normpath(v["file"]): (key, v) for key, v in pages.items()}
+    index_orders: list[tuple[str, list[str]]] = []
     for d in LETTERS:
         idx = os.path.join(SRC, d, "index.md")
         if not os.path.exists(idx):
@@ -161,23 +209,57 @@ def main() -> int:
                 continue
             if os.path.realpath(os.path.join(ROOT, f)) not in targets:
                 err(f"E3 索引页 {idx} 未链接到条目 {key}: {f}")
+        # E8: 索引中的 @handle 必须与已核验的 x 字段一致
+        order = []
+        for line in content.splitlines():
+            match = re.match(r"^(?:- )?\[([^\]]+)\]\(\./([^)#]+\.md)\)", line)
+            if not match:
+                continue
+            label, link = match.group(1), match.group(2)
+            target = os.path.normpath(os.path.join(f"docs/{d}", link))
+            entry = entry_by_file.get(target)
+            if entry is None:
+                continue
+            name, v = entry
+            order.append(name)
+            if not label.startswith("@"):
+                continue
+            handle = label[1:]
+            x = v.get("x")
+            if not x:
+                err(f"E8 {idx}: 条目 {name} 标注 @{handle}，但 list.yaml 没有已核验的 x 字段")
+            elif handle.casefold() != x.casefold():
+                err(f"E8 {idx}: 条目 {name} 标注 @{handle}，与 x={x} 不一致")
+        index_orders.append((idx, order))
 
     # ---- E4: list.yaml 保持简短，tags 仅存于页面 frontmatter ----
     for key, v in data.items():
         if isinstance(v, dict) and "tags" in v:
             err(f"E4 条目 {key}: list.yaml 不应包含 tags，请移至页面 frontmatter")
 
-    # ---- E5/E6: 页面级检查 ----
+    # ---- E5/E6/E7: 页面级检查 ----
     w_region = []
     w_placeholder = []
+    w_status = []
+    w_tags = []
+    accounts: dict[str, set[str]] = {}
+    contents: dict[str, str] = {}
     for key, v in pages.items():
         f = os.path.join(ROOT, v["file"])
         content = Path(f).read_text(encoding="utf-8")
-        # E5: 区块完整性
-        if "简介" not in content:
+        contents[v["file"]] = content
+        secs = sections(content)
+        intro = find_section(secs, "简介")
+        links = find_section(secs, "相关链接")
+        # E5: 区块完整性（按标题判断，不能被子串误伤）
+        if intro is None:
             err(f"E5 {v['file']}: 缺少「简介」区块")
-        if "相关链接" not in content and "链接" not in content:
+        elif not intro:
+            err(f"E7 {v['file']}: 「简介」区块为空")
+        if links is None:
             err(f"E5 {v['file']}: 缺少「相关链接」区块")
+        elif not links:
+            err(f"E7 {v['file']}: 「相关链接」区块为空")
         if "返回" not in content or "首页" not in content:
             err(f"E5 {v['file']}: 缺少返回导航")
         # E6: 相对链接死链
@@ -190,11 +272,61 @@ def main() -> int:
         # W2: 占位
         if any(mark in content for mark in PLACEHOLDER_MARKS):
             w_placeholder.append(v["file"])
+        # W4: tags 规范
+        tags = page_tags(content)
+        if tags is not None:
+            if not tags:
+                w_tags.append(f"{v['file']}: tags 为空数组")
+            seen = set()
+            for tag in tags:
+                canonical = (tag.strip().casefold().replace(" ", "-")
+                             .replace("adultmodel", "adult-model")
+                             .replace("cammodel", "cam-model"))
+                if tag != canonical:
+                    w_tags.append(f"{v['file']}: 标签 {tag!r} 应写作 {canonical!r}")
+                if canonical in seen:
+                    w_tags.append(f"{v['file']}: 标签 {canonical!r} 重复")
+                seen.add(canonical)
+        # W5: 占位表述与高 status 矛盾
+        status = v.get("status")
+        if (type(status) is int and status >= 85
+                and any(mark in content for mark in PLACEHOLDER_MARKS)):
+            w_status.append(v["file"])
+        # W3: 账号是否被多个条目共用
+        if v.get("x"):
+            accounts.setdefault(f"x:{v['x'].casefold()}", set()).add(v["file"])
+        for match in re.finditer(
+            r"https?://(?:www\.)?onlyfans\.com/([A-Za-z0-9_.-]+)", content, re.I
+        ):
+            accounts.setdefault(f"onlyfans:{match.group(1).casefold()}", set()).add(v["file"])
 
     if w_region:
         warn(f"W1 缺少 region 字段的条目: {len(w_region)} 个")
     if w_placeholder:
         warn(f"W2 占位页（未搜索到信息）: {len(w_placeholder)} 个")
+    for account, files in sorted(accounts.items()):
+        if len(files) < 2:
+            continue
+        # 关联账号页面互相引用时视为有意共用，不再提示
+        linked = any(
+            any(
+                target == os.path.realpath(os.path.join(ROOT, other))
+                for _, target in relative_targets(contents[f], f)
+                for other in files
+                if other != f
+            )
+            for f in files
+        )
+        if not linked:
+            warn(f"W3 账号 {account} 被多个条目共用: {', '.join(sorted(files))}")
+    if w_tags:
+        warn(f"W4 tags 需规范化的页面: {len(w_tags)} 个")
+    if w_status:
+        warn(f"W5 占位表述但 status ≥ 85 的页面: {len(w_status)} 个")
+    for idx, order in index_orders:
+        seq = [(name.lstrip('_-').casefold(), name) for name in order]
+        if seq != sorted(seq):
+            warn(f"W6 {idx} 未按用户名排序")
 
     # ---- 输出 ----
     for w in warnings:

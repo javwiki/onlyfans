@@ -23,5 +23,12 @@ target
 site/
 bingscreenshot.png
 output.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
 .commandcode/
 .mimocode/

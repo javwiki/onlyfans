@@ -68,6 +68,8 @@ To add a creator:
 
 The X/Twitter account is optional. Include the `x` field and an X/Twitter link only when the account has been confirmed to belong to the creator. Otherwise, omit both.
 
+The letter index shows `@handle` only for entries with a verified `x` field, and the handle must match that field. Entries without a verified X account are listed by their username without `@`. `scripts/validate.py` enforces this rule.
+
 ### Validate before pushing
 
 Before every push, run these commands from the project root. Push only after both pass:
@@ -77,7 +79,7 @@ uv run --with pyyaml python scripts/validate.py
 uvx --from zensical==0.0.62 zensical build --clean --strict
 ```
 
-The data validator checks duplicate YAML keys, field types, the `status` range, profile files, alphabet index links, and page structure. Missing regions and placeholder profiles produce warnings in normal mode and do not block a push.
+The data validator checks duplicate YAML keys, field types, the `status` range, profile files, alphabet index links and ordering, verified X handles in the index, page sections (including empty ones), relative links, tag formatting, and shared platform accounts. Missing regions, placeholder profiles, and reused accounts produce warnings in normal mode and do not block a push.
 
 To treat these completeness warnings as errors, run `uv run --with pyyaml python scripts/validate.py --strict`. The repository currently has such warnings, so strict data validation does not yet pass. This is separate from the site build's `--strict` check.
 
@@ -89,7 +91,7 @@ The `status` field in `docs/0_meta/list.yaml` represents information completenes
 | --- | --- |
 | 90 | Mostly complete: a detailed profile, content types, and links to multiple platforms; verified |
 | 85 | Mostly complete, with a few fields still missing |
-| 80 | Basic public information is available, such as name, region, or links |
+| 80 | Basic public information is available, such as name, region, or links; the profile may still be a placeholder |
 | 70 | Placeholder entry: little public information is available or research found no information; needs further work |
 | 50 | Only basic references are available; needs the most work |
 

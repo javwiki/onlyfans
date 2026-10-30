@@ -127,6 +127,86 @@ class ValidationTests(unittest.TestCase):
                 self.assertIn("E1", output)
                 self.data["Alice"] = previous
 
+    def add_entry(self, key, filename, content, **fields):
+        entry = {"name": key, "region": "日本", "file": f"docs/A/{filename}", "status": 80}
+        entry.update(fields)
+        self.data[key] = entry
+        (self.docs / "A" / filename).write_text(content, encoding="utf-8")
+        self.index.write_text(
+            self.index.read_text(encoding="utf-8").rstrip("\n") + f"\n[{key}](./{filename})\n",
+            encoding="utf-8",
+        )
+        self.save()
+
+    def test_empty_sections_are_rejected(self):
+        self.page.write_text(
+            "## 简介\n\n## 相关链接\n\n---\n\n[返回](./index.md) · 首页\n", encoding="utf-8"
+        )
+        code, output = self.run_validator()
+        self.assertEqual(code, 1)
+        self.assertEqual(output.count("E7"), 2, output)
+
+    def test_links_heading_is_required_even_if_word_appears_in_prose(self):
+        self.page.write_text(
+            "## 简介\n介绍\n\n缺少已核验的平台链接。\n\n[返回](./index.md) · 首页\n",
+            encoding="utf-8",
+        )
+        code, output = self.run_validator()
+        self.assertEqual(code, 1)
+        self.assertIn("E5", output)
+
+    def test_index_handle_must_match_verified_x(self):
+        self.index.write_text("[@Alice](./Alice.md)\n", encoding="utf-8")
+        code, output = self.run_validator()
+        self.assertEqual(code, 1)
+        self.assertIn("E8", output)
+
+        self.data["Alice"]["x"] = "alice"
+        self.save()
+        self.assertEqual(self.run_validator(strict=True)[0], 0)
+
+        self.index.write_text("[@Bob](./Alice.md)\n", encoding="utf-8")
+        code, output = self.run_validator()
+        self.assertEqual(code, 1)
+        self.assertIn("与 x=alice 不一致", output)
+
+    def test_shared_onlyfans_account_is_a_warning(self):
+        page = ("## 简介\n介绍\n## 相关链接\n"
+                "- [OnlyFans](https://onlyfans.com/shared)\n[返回](./index.md) · 首页\n")
+        self.page.write_text(page, encoding="utf-8")
+        self.add_entry("Bob", "Bob.md", page)
+        code, output = self.run_validator()
+        self.assertEqual(code, 0, output)
+        self.assertIn("W3", output)
+
+    def test_unnormalized_tags_are_warned(self):
+        self.page.write_text(
+            "---\ntags: [NSFW, adultmodel]\n---\n" + self.page.read_text(encoding="utf-8"),
+            encoding="utf-8",
+        )
+        code, output = self.run_validator()
+        self.assertEqual(code, 0, output)
+        self.assertIn("W4", output)
+
+    def test_placeholder_page_with_high_status_is_warned(self):
+        self.data["Alice"]["status"] = 90
+        self.save()
+        self.page.write_text(
+            self.page.read_text(encoding="utf-8") + "网络搜索未找到该创作者的具体信息。",
+            encoding="utf-8",
+        )
+        code, output = self.run_validator()
+        self.assertEqual(code, 0, output)
+        self.assertIn("W5", output)
+
+    def test_index_order_is_warned(self):
+        page = "## 简介\n介绍\n## 相关链接\n[返回](./index.md) · 首页\n"
+        self.add_entry("Bob", "Bob.md", page)
+        self.index.write_text("[Bob](./Bob.md)\n[Alice](./Alice.md)\n", encoding="utf-8")
+        code, output = self.run_validator()
+        self.assertEqual(code, 0, output)
+        self.assertIn("W6", output)
+
     def test_encoded_index_link_and_broken_relative_link(self):
         self.index.write_text('[Alice](./%41lice.md#profile "Profile")', encoding="utf-8")
         self.assertEqual(self.run_validator(strict=True)[0], 0)
