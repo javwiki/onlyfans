@@ -7,10 +7,10 @@
 ## 🧑‍🎤 博主
 
 - [@Candybaby](./Candybaby.md) — 夏晴子 / @Candybaby
-- [@Caomao](./Caomao.md) — 草帽
-- [@Caomeixiong](./Caomeixiong.md) — 草莓熊
+- [Caomao](./Caomao.md) — 草帽
+- [Caomeixiong](./Caomeixiong.md) — 草莓熊
 - [CaraRose](./CaraRose.md) — Cara Rose
-- [@CarlaGrace](./CarlaGrace.md) — 香港欲女
+- [CarlaGrace](./CarlaGrace.md) — 香港欲女
 - [carpediem110392winktv](./carpediem110392winktv.md) — 율이
 - [@Cathy1314love](./Cathy1314love.md) — Cathy / @Cathy1314love
 - [@CathyBBlove](./CathyBBlove.md) — 凯西 / @CathyBBlove
@@ -18,14 +18,14 @@
 - [@cdnmxy](./cdnmxy.md) — 南牧绪央 / @cdnmxy
 - [CDwant](./CDwant.md) — CDwant
 - [Chengdunaimapinger](./Chengdunaimapinger.md) — 成都奶妈瓶儿
-- [@Chenkexin](./Chenkexin.md) — 陈可心
+- [Chenkexin](./Chenkexin.md) — 陈可心
 - [@chennianjun11](./chennianjun11.md) — 陈念君 / @chennianjun11
-- [@Chenruochu](./Chenruochu.md) — 陈若初
-- [@Chensisi](./Chensisi.md) — 陈丝丝
-- [@Chentiantian](./Chentiantian.md) — 陈甜甜
-- [@Chenxiaomo](./Chenxiaomo.md) — 陈小魔
+- [Chenruochu](./Chenruochu.md) — 陈若初
+- [Chensisi](./Chensisi.md) — 陈丝丝
+- [Chentiantian](./Chentiantian.md) — 陈甜甜
+- [Chenxiaomo](./Chenxiaomo.md) — 陈小魔
 - [Chenyi](./Chenyi.md) — 陈祎
-- [@cherida](./cherida.md) — cherida
+- [cherida](./cherida.md) — cherida
 - [@Cheryl_Bloss_](./Cheryl_Blossom.md) — Cheryl Blossom
 - [@ChessieRae](./ChessieRae.md) — Chessie Rae
 - [@Chinhbaby](./Chinhbaby.md) — Chinhbaby / @Chinhbaby

@@ -30,7 +30,8 @@ Angellica Good（@Angellicagood），跨性别成人内容创作者和表演者�
 - [Instagram（备用）](https://www.instagram.com/tsangellica)
 - [Fansly](https://fansly.com/tsangellica)
 - [TikTok](https://www.tiktok.com/@angellicagood)
-- Linkme：link.me/tsangellica（原链接已失效）
+- [IMDb](https://www.imdb.com/name/nm15300715) — 演员档案
+- [Daily Star 报道](https://www.dailystar.co.uk/real-life/im-real-life-barbie--29737872) — 2023-04-20，介绍其经历
 
 ---
 

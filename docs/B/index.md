@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [@baby](./baby.md) — 熙熙baby
+- [baby](./baby.md) — 熙熙baby
 - [@baby_dollgem](./baby_dollgem.md) — Baby Dollgem
 - [@nparinpp](./babynookie.md) — babynookie
 - [BagelSoo](./BagelSoo.md) — 베이글쑤
