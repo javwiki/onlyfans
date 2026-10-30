@@ -7,8 +7,8 @@
 ## 🧑‍🎤 博主
 
 - [@Palisi](./Palisi.md) — 帕里斯
-- [@Pinkchyu](./Pinkchyu.md) — Pinkchyu
-- [@Pongkyubi](./Pongkyubi.md) — Pongkyubi / @Pongkyubi
+- [@pinkchyu](./Pinkchyu.md) — Pinkchyu / @pinkchyu
+- [@pongkyubimodel](./Pongkyubi.md) — Pongkyubi / @pongkyubimodel
 - [@Punima2](./Punima2.md) — 朴妮唛
 - [@panid69](./panid69.md) — panid69 / @panid69
 - [@pia_wagner59](./pia_wagner59.md) — Pia Wagner / @pia_wagner59

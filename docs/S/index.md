@@ -23,14 +23,14 @@
 - [@StephanieKolman](./StephanieKolman.md) — Steph Kolman 💄 / @StephanieKolman
 - [@SuChiBi1](./SuChiBi1.md) — Su Chibi / @SuChiBi1
 - [@Succubus_86](./Succubus_86.md) — 猫属性八六 / @Succubus_86
-- [Sweetie Fox](./SweetieFox.md) — Sweetie Fox
+- [@swfx_waifu](./SweetieFox.md) — Sweetie Fox / @swfx_waifu
 - [@Suxiaomeibobomei](./Suxiaomeibobomei.md) — 苏小美波波妹
 - [@sandralamppp](./sandralamppp.md) — Sandralamp / @sandralamppp
 - [@saya_mame_dayo](./saya_mame_dayo.md) — さやえんどう。 / @saya_mame_dayo
 - [@scok5](./scok5.md) — scok5 / @scok5
 - [@seeyoumm520](./seeyoumm520.md) — 天使西柚 / @seeyoumm520
 - [@senyasenyanko](./senyasenyanko.md) — 柚月せな / @senyasenyanko
-- [@seo_ahn](./seo_ahn.md) — Ahn Seo Yeon / @seo_ahn
+- [@seoahn28_](./seo_ahn.md) — Ahn Seo Yeon / @seoahn28_
 - [@shuyangbabe](./shuyangbabe.md) — 南忘 / @shuyangbabe
 - [@ss0519](./ss0519.md) — 설희 / @ss0519
 - [@ssaimi](./ssaimi.md) — ssaimi

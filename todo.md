@@ -2,7 +2,7 @@
 
 核对日期：2026-10-30。以下条目正文不足 200 字，或简介含「网络搜索未找到」「未找到关于」「未找到其他公开信息」。补全公开身份、地区与平台链接后，从本表删除。
 
-共 257 条。
+共 247 条。
 
 ## A
 
@@ -57,7 +57,6 @@
 - [ ] [02大胸妹](docs/D/daxiongmei.md) — 占位，无外链，status 80，正文约 59 字
 - [ ] [deepeggs](docs/D/deepeggs.md) — 占位，status 70，正文约 90 字
 - [ ] [사슴이](docs/D/deer.md) — 占位，status 70，正文约 81 字
-- [ ] [deerlong](docs/D/deerlong.md) — 过短，status 70，正文约 167 字
 - [ ] [DIDI](docs/D/DIDI.md) — 占位，status 70，正文约 180 字
 - [ ] [东北颜值学生](docs/D/Dongbeiyanzhixuesheng.md) — 过短，无外链，status 70，正文约 115 字
 - [ ] [抖娘](docs/D/Douniang.md) — 占位，status 70，正文约 84 字
@@ -167,13 +166,11 @@
 - [ ] [mie](docs/M/miebb.md) — 占位，status 80，正文约 651 字
 - [ ] [豪乳miko](docs/M/miko.md) — 占位，无外链，status 80，正文约 53 字
 - [ ] [Milkyth](docs/M/Milkyth.md) — 占位，无外链，status 70，正文约 48 字
-- [ ] [minichu](docs/M/minichu.md) — 占位，status 80，正文约 88 字
 - [ ] [mini diva](docs/M/minidiva.md) — 占位，status 70，正文约 91 字
 - [ ] [MissA](docs/M/MissA.md) — 占位，status 70，正文约 84 字
 - [ ] [榨汁夏](docs/M/mmzhazhixia.md) — 过短，status 80，正文约 165 字
 - [ ] [莫菁](docs/M/Mojing.md) — 过短，status 70，正文约 84 字
 - [ ] [吴梦梦](docs/M/monlingwu.md) — 占位，status 70，正文约 86 字
-- [ ] [Morgpie](docs/M/Morgpie.md) — 过短，status 70，正文约 158 字
 
 ## N
 
@@ -185,8 +182,6 @@
 - [ ] [奶油甜心](docs/N/Naiyoutianxin.md) — 过短，status 80，正文约 179 字
 - [ ] [南北北](docs/N/Nanbeibei.md) — 占位，status 70，正文约 93 字
 - [ ] [燕儿nier](docs/N/nier.md) — 过短，status 80，正文约 159 字
-- [ ] [nigella_pty](docs/N/nigella_pty.md) — 占位，status 70，正文约 96 字
-- [ ] [Niley Hott](docs/N/NileyHott.md) — 过短，无外链，status 70，正文约 109 字
 - [ ] [nynykk](docs/N/nynykk.md) — 过短，无外链，status 70，正文约 88 字
 
 ## O
@@ -198,8 +193,6 @@
 
 - [ ] [帕里斯](docs/P/Palisi.md) — 占位，status 80，正文约 92 字
 - [ ] [panid69](docs/P/panid69.md) — 占位，无外链，status 70，正文约 48 字
-- [ ] [Pinkchyu](docs/P/Pinkchyu.md) — 过短，status 70，正文约 161 字
-- [ ] [Pongkyubi](docs/P/Pongkyubi.md) — 占位，status 70，正文约 92 字
 - [ ] [punipxn](docs/P/punipxn.md) — 占位，status 70，正文约 88 字
 - [ ] [pupu28](docs/P/pupu28.md) — 过短，status 70，正文约 164 字
 
@@ -221,7 +214,6 @@
 
 - [ ] [可欣](docs/S/SandyCoco.md) — 占位，status 70，正文约 85 字
 - [ ] [scok5](docs/S/scok5.md) — 占位，status 80，正文约 168 字
-- [ ] [Ahn Seo Yeon](docs/S/seo_ahn.md) — 占位，status 80，正文约 215 字
 - [ ] [서아](docs/S/SeoaliveDodo.md) — 过短，无外链，status 70，正文约 86 字
 - [ ] [瑟妃](docs/S/Seulbi.md) — 过短，status 70，正文约 130 字
 - [ ] [上海西西](docs/S/Shanghaixixi.md) — 占位，无外链，status 70，正文约 60 字
@@ -234,11 +226,9 @@
 - [ ] [ssaimi](docs/S/ssaimi.md) — 占位，status 70，正文约 293 字
 - [ ] [썬비키 (Ssunbiki)](docs/S/ssunbiki.md) — 占位，无外链，status 70，正文约 55 字
 - [ ] [苏小美波波妹](docs/S/Suxiaomeibobomei.md) — 占位，无外链，status 70，正文约 61 字
-- [ ] [Sweetie Fox](docs/S/SweetieFox.md) — 过短，status 70，正文约 170 字
 
 ## T
 
-- [ ] [Terri Lou](docs/T/TerriLou.md) — 过短，无外链，status 70，正文约 97 字
 - [ ] [TokyoDiary](docs/T/TokyoDiary.md) — 过短，status 70，正文约 140 字
 - [ ] [TS酱酱](docs/T/TS.md) — 过短，无外链，status 70，正文约 104 字
 - [ ] [兔宝宝C](docs/T/TubaobaoC.md) — 占位，无外链，status 70，正文约 45 字

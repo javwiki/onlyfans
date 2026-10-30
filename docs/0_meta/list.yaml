@@ -636,9 +636,10 @@ kkimkkimmy:
 
 Pongkyubi:
   name: Pongkyubi
+  region: 越南
   file: docs/P/Pongkyubi.md
-  x: Pongkyubi
-  status: 70
+  x: pongkyubimodel
+  status: 85
 
 octokuro:
   name: octokuro
@@ -654,8 +655,10 @@ EmilyBloom:
 
 Pinkchyu:
   name: Pinkchyu
+  region: 美国
   file: docs/P/Pinkchyu.md
-  status: 70
+  x: pinkchyu
+  status: 85
 
 Amouranth:
   name: Amouranth
@@ -665,8 +668,10 @@ Amouranth:
 
 Morgpie:
   name: Morgpie
+  region: 美国
   file: docs/M/Morgpie.md
-  status: 70
+  x: Bigwomb
+  status: 85
 
 CutieKim:
   name: Cutie Kim
@@ -675,8 +680,10 @@ CutieKim:
 
 SweetieFox:
   name: Sweetie Fox
+  region: 俄罗斯
   file: docs/S/SweetieFox.md
-  status: 70
+  x: swfx_waifu
+  status: 85
 
 panid69:
   name: panid69
@@ -692,8 +699,7 @@ deepeggs:
 nigella_pty:
   name: nigella_pty
   file: docs/N/nigella_pty.md
-  x: nigella_pty
-  status: 70
+  status: 85
 
 babynookie:
   name: babynookie
@@ -707,9 +713,10 @@ yumi_03:
 
 deerlong:
   name: deerlong
+  region: 泰国
   file: docs/D/deerlong.md
   x: deerlong
-  status: 70
+  status: 85
 
 bibianeruby:
   name: bibianeruby
@@ -1566,9 +1573,9 @@ Naimi:
 
 minichu:
   name: minichu
-  x: minichu
+  region: 泰国
   file: docs/M/minichu.md
-  status: 80
+  status: 85
 
 MissA:
   name: MissA
@@ -1948,8 +1955,9 @@ LarkinLove:
 
 NileyHott:
   name: Niley Hott
+  region: 哥伦比亚
   file: docs/N/NileyHott.md
-  status: 70
+  status: 85
 
 RitaAkira:
   name: Rita Akira
@@ -1959,8 +1967,9 @@ RitaAkira:
 
 TerriLou:
   name: Terri Lou
+  region: 英国
   file: docs/T/TerriLou.md
-  status: 70
+  status: 85
 
 Ruanmeiyaoyaole:
   name: 軟妹搖搖樂
@@ -2339,8 +2348,8 @@ seo_ahn:
   name: Ahn Seo Yeon
   region: 韩国
   file: docs/S/seo_ahn.md
-  x: seo_ahn
-  status: 80
+  x: seoahn28_
+  status: 85
 
 orapun_fb:
   name: Faii FB (อรพรรณ สมอหอม)

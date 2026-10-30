@@ -8,7 +8,7 @@
 
 - [@TS](./TS.md) — TS酱酱
 - [@TSzhangsini188](./TSzhangsini188.md) — TS张思妮 / @TSzhangsini188
-- [@TerriLou](./TerriLou.md) — Terri Lou
+- [Terri Lou](./TerriLou.md) — Terri Lou
 - [@TokyoDiary](./TokyoDiary.md) — TokyoDiary / @TokyoDiary
 - [@Tontan](./Tontan.md) — Tontan
 - [@Ts990303](./Ts990303.md) — 林允 / @Ts990303

@@ -18,7 +18,7 @@
 - [@daisybaby](./daisybaby.md) — daisybaby / @daisybaby
 - [@deepeggs](./deepeggs.md) — deepeggs / @deepeggs
 - [@deer](./deer.md) — 사슴이
-- [@deerlong](./deerlong.md) — deerlong / @deerlong
+- [@deerlong](./deerlong.md) — DEERLONG / @deerlong
 - [@dollyinuk](./dollyinuk.md) — Dolly Orchid / @dollyinuk
 - [@Dorokadesu](./Dorokadesu.md) — VanillaMuddy / @Dorokadesu
 - [@doreenvirtue](./doreenvirtue.md) — 想入霏霏 / @doreenvirtue

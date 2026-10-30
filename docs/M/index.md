@@ -18,7 +18,7 @@
 - [@MissA](./MissA.md) — MissA
 - [@MissAlice](./MissAlice.md) — Miss Alice
 - [@Mojing](./Mojing.md) — 莫菁
-- [Morgpie](./Morgpie.md) — Morgpie
+- [@Bigwomb](./Morgpie.md) — Morgpie / @Bigwomb
 - [@mspuiyiofficial](./Mspuiyi.md) — Ms. Puiyi（萧佩儿）
 - [@maoning2333](./maoning2333.md) — 司雨 / @maoning2333
 - [@xiaolemasem1](./masem.md) — 小乐乐
@@ -32,7 +32,7 @@
 - [@mina0977](./mina0977.md) — mina0977 / @mina0977
 - [@minami_airi_en](./minami_airi_en.md) — 美波あいり / @minami_airi_en
 - [@minami_airi_sa](./minami_airi_sa.md) — 美波あいり / @minami_airi_sa（日文主账号）
-- [@minichu](./minichu.md) — minichu
+- [minichu](./minichu.md) — Minichu
 - [@minidiva](./minidiva.md) — mini diva
 - [@mintmoca3](./mintmoca3.md) — mintmoca3 / @mintmoca3
 - [@mio772](./miohot.md) — 米欧

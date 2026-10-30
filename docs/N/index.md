@@ -16,10 +16,10 @@
 - [@Nanbeibei](./Nanbeibei.md) — 南北北
 - [@NeneAizawa](./NeneAizawa.md) — Nene Aizawa
 - [@NicoleDoshi](./NicoleDoshi.md) — Nicole Doshi
-- [@NileyHott](./NileyHott.md) — Niley Hott
+- [Niley Hott](./NileyHott.md) — Niley Hott
 - [@nbnabunny](./nbnabunny.md) — nbnabunny / @nbnabunny
 - [@nier](./nier.md) — 燕儿nier
-- [@nigella_pty](./nigella_pty.md) — nigella_pty / @nigella_pty
+- [nigella_pty](./nigella_pty.md) — Natalie Wang TBA
 - [@nikumikyo](./nikumikyo.md) — きょう肉肉 / @nikumikyo
 - [@nina_loveu](./nina_loveu.md) — 崩壞的英文老師 Nina / @nina_loveu
 - [@nynykk](./nynykk.md) — nynykk
