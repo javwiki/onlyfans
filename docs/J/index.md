@@ -6,22 +6,22 @@
 
 ## 🧑‍🎤 博主
 
-- [@J3ssicaStarling](./J3ssicaStarling.md) — Jessica Starling / @J3ssicaStarling
-- [@Janpet12](./Janpet12.md) — Jan兔 / @Janpet12
-- [@jared999d3dx](./jared999d3dx.md) — jared999D / @jared999d3dx
-- [@JasminFoxe](./JasminFoxe.md) — ♡ Jazzy ♡ / @JasminFoxe
-- [@Jawmorantt](./Jawmorantt.md) — JAW MORANT 💋 / @Jawmorantt
-- [@JennySuen10](./JennySuen10.md) — 孫禾頤JennySuen / @JennySuen10
-- [@jessicasuchxxx](./jessicasuchxxx.md) — TS JESS SUCH / @jessicasuchxxx
-- [@jethedeath](./jethedeath.md) — 魷魚𝔍𝔢𝔰𝔰𝔢 / @jethedeath
-- [@jhenna_greey1](./jhenna_greey1.md) — Susana / @jhenna_greey1
+- [@J3ssicaStarling](./J3ssicaStarling.md) — Jessica Starling
+- [@Janpet12](./Janpet12.md) — Jan兔
+- [@jared999d3dx](./jared999d3dx.md) — jared999D
+- [@JasminFoxe](./JasminFoxe.md) — ♡ Jazzy ♡
+- [@Jawmorantt](./Jawmorantt.md) — JAW MORANT 💋
+- [@JennySuen10](./JennySuen10.md) — 孫禾頤JennySuen
+- [@jessicasuchxxx](./jessicasuchxxx.md) — TS JESS SUCH
+- [@jethedeath](./jethedeath.md) — 魷魚𝔍𝔢𝔰𝔰𝔢
+- [@jhenna_greey1](./jhenna_greey1.md) — Susana
 - [Jiaduobao](./Jiaduobao.md) — 佳多饱
 - [@Jiangkeai](./Jiangkeai.md) — 江可爱
 - [Jikey](./Jikey.md) — Jikey
-- [jinjinzara302](./jinjinzara302.md) — 베베앙 / @jinjinzara302
+- [jinjinzara302](./jinjinzara302.md) — 베베앙
 - [Jjangjjanggeol](./Jjangjjanggeol.md) — 짱짱걸门把手
 - [JJiongwltn9818winktv](./JJiongwltn9818winktv.md) — 찌옹
-- [joycezarza](./joycezarza.md) — Joyce Zarza / @joycezarza
+- [joycezarza](./joycezarza.md) — Joyce Zarza
 - [@Jugensihan](./Jugensihan.md) — 巨根思涵
 ---
 

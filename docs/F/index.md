@@ -9,7 +9,7 @@
 - [faiiorapun](./faiiorapun.md) — faii orapun
 - [@Fangxiaotian](./Fangxiaotian.md) — 方筱甜
 - [@FantasyFactory](./FantasyFactory.md) — 小丁
-- [@fembabyth](./fembabyth.md) — FEMBY 0.1% / @fembabyth
+- [@fembabyth](./fembabyth.md) — FEMBY 0.1%
 - [@camgirlunicorn](./FirtsBornUnicorn.md) — FirtsBornUnicorn / @FirtsBornUnicorn
 - [Fnaishuimitao](./Fnaishuimitao.md) — F奶水蜜桃
 - [@ForestNymph](./ForestNymph.md) — Forest Nymph
@@ -17,7 +17,7 @@
 - [Fullfive](./Fullfive.md) — Fullfive / 小富婆
 - [Funnyg](./Funnyg.md) — 可可 / SWAG
 - [@FuukaDoll](./FuukaDoll.md) — Fuuka Doll 🔞🍥👽
-- [@FXHMRW](./FXHMRW.md) — FXHMRW / @FXHMRW
+- [@FXHMRW](./FXHMRW.md) — FXHMRW
 
 ---
 

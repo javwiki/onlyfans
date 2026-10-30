@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [@2lovechuu](./2lovechuu.md) — 츄츄💋 / @2lovechuu
+- [@2lovechuu](./2lovechuu.md) — 츄츄💋
 
 ---
 

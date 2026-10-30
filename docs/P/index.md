@@ -7,31 +7,31 @@
 ## 🧑‍🎤 博主
 
 - [@Palisi](./Palisi.md) — 帕里斯
-- [@pamelaferrerr](./pamelaferrerr.md) — Pamela Ferrer / @pamelaferrerr
-- [@PamilkKh](./PamilkKh.md) — Pamilk Kh / @PamilkKh
-- [@pandalunluns](./pandalunluns.md) — Luns✧･ﾟ♡ / @pandalunluns
-- [@panid69](./panid69.md) — panid69 / @panid69
-- [@paoli_yara](./paoli_yara.md) — Yara.Paoli 🇫🇷 / @paoli_yara
-- [@PeachofScotland](./PeachofScotland.md) — Peach of Scotland / @PeachofScotland
-- [@peachygirlmomo](./peachygirlmomo.md) — Momokun 🍑 / @peachygirlmomo
-- [@420bbyk](./penelopekay.md) — Penelope Kay / @420bbyk
-- [@petiteburin](./petiteburin.md) — burin / @petiteburin
-- [@pia_wagner59](./pia_wagner59.md) — Pia Wagner / @pia_wagner59
-- [@pigmananal](./pigmananal.md) — ぶたまん＠nal♡ / @pigmananal
-- [@pimnalinn_](./pimnalinn_.md) — pimnalinn 🧸 / @pimnalinn_
-- [@pinkchyu](./Pinkchyu.md) — Pinkchyu / @pinkchyu
-- [@PiperBlushExp](./piperblushexp.md) — Piper Blush / @PiperBlushExp
-- [@pongkyubimodel](./Pongkyubi.md) — Pongkyubi / @pongkyubimodel
-- [@preciousxiaoyu](./preciousxiaoyu.md) — SissySlut小瑜 / @preciousxiaoyu
-- [@PrincessAerie](./PrincessAerie.md) — Ms Aerie Reiㅣ🇸🇬 / @PrincessAerie
-- [@princessdolly_i](./princessdolly_i.md) — 娃娃Princessdolly / @princessdolly_i
-- [@_PriscillaReiss](./_PriscillaReiss.md) — Priscilla Reiss / @_PriscillaReiss
-- [@ProudSinner6](./ProudSinner6.md) — 🖤ProudSinner🖤 / @ProudSinner6
+- [@pamelaferrerr](./pamelaferrerr.md) — Pamela Ferrer
+- [@PamilkKh](./PamilkKh.md) — Pamilk Kh
+- [@pandalunluns](./pandalunluns.md) — Luns✧･ﾟ♡
+- [@panid69](./panid69.md) — panid69
+- [@paoli_yara](./paoli_yara.md) — Yara.Paoli 🇫🇷
+- [@PeachofScotland](./PeachofScotland.md) — Peach of Scotland
+- [@peachygirlmomo](./peachygirlmomo.md) — Momokun 🍑
+- [@420bbyk](./penelopekay.md) — Penelope Kay
+- [@petiteburin](./petiteburin.md) — burin
+- [@pia_wagner59](./pia_wagner59.md) — Pia Wagner
+- [@pigmananal](./pigmananal.md) — ぶたまん＠nal♡
+- [@pimnalinn_](./pimnalinn_.md) — pimnalinn 🧸
+- [@pinkchyu](./Pinkchyu.md) — Pinkchyu
+- [@PiperBlushExp](./piperblushexp.md) — Piper Blush
+- [@pongkyubimodel](./Pongkyubi.md) — Pongkyubi
+- [@preciousxiaoyu](./preciousxiaoyu.md) — SissySlut小瑜
+- [@PrincessAerie](./PrincessAerie.md) — Ms Aerie Reiㅣ🇸🇬
+- [@princessdolly_i](./princessdolly_i.md) — 娃娃Princessdolly
+- [@_PriscillaReiss](./_PriscillaReiss.md) — Priscilla Reiss
+- [@ProudSinner6](./ProudSinner6.md) — 🖤ProudSinner🖤
 - [@punachancos](./punachancos.md) — PUNA / 元・赤目レイラン
 - [@Punima2](./Punima2.md) — 朴妮唛
-- [@punipxn](./punipxn.md) — punipxn / @punipxn
-- [@PuppyGirlX0](./PuppyGirlX0.md) — Puppy Girl / @PuppyGirlX0
-- [pupu28](./pupu28.md) — pupu28 / @pupu28
+- [@punipxn](./punipxn.md) — punipxn
+- [@PuppyGirlX0](./PuppyGirlX0.md) — Puppy Girl
+- [pupu28](./pupu28.md) — pupu28
 
 ---
 

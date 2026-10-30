@@ -6,21 +6,21 @@
 
 ## 🧑‍🎤 博主
 
-- [@waifupupu](./waifupupu.md) — ♡pupuwaifu♡ / @waifupupu
+- [@waifupupu](./waifupupu.md) — ♡pupuwaifu♡
 - [Wangdapao](./Wangdapao.md) — 王大炮
 - [@Wangdong](./Wangdong.md) — 王动
 - [@Wangwanwan](./Wangwanwan.md) — 王绾绾
 - [@Wangxinxin](./Wangxinxin.md) — 王心心
 - [@wanjucutegirl](./Wanjujiang.md) — 完具酱
-- [@webtolove](./webtolove.md) — Fragile Tempt / @webtolove
+- [@webtolove](./webtolove.md) — Fragile Tempt
 - [@Wenroumiao](./Wenroumiao.md) — 温柔苗
-- [@wetmikiwild](./wetmikiwild.md) — WetMikiWild MAIN 本人大号｜✈️📍上海-洛杉矶｜IG🆔️ wetmikiwild / @wetmikiwild
-- [@whosbonnie18](./whosbonnie18.md) — Whosbonnieandclyde / @whosbonnie18
+- [@wetmikiwild](./wetmikiwild.md) — WetMikiWild MAIN 本人大号｜✈️📍上海-洛杉矶｜IG🆔️ wetmikiwild
+- [@whosbonnie18](./whosbonnie18.md) — Whosbonnieandclyde
 - [Willow](./Willow.md) — Willow
-- [@windmaomi](./windmaomi.md) — 五彩斑斓的黑猫 / @windmaomi
+- [@windmaomi](./windmaomi.md) — 五彩斑斓的黑猫
 - [Wine](./Wine.md) — Wine
-- [wkdus222](./wkdus222.md) — wkdus222 / @wkdus222
-- [wldms4482](./wldms4482.md) — wldms4482 / @wldms4482
+- [wkdus222](./wkdus222.md) — wkdus222
+- [wldms4482](./wldms4482.md) — wldms4482
 - [Woshinikeaidexiaomao](./Woshinikeaidexiaomao.md) — 我是你可爱的小猫
 - [@Wulina](./Wulina.md) — 吴丽娜
 - [Wuqingya](./Wuqingya.md) — 吴清雅

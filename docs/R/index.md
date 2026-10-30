@@ -6,28 +6,28 @@
 
 ## 🧑‍🎤 博主
 
-- [@raissabellini](./raissabellini.md) — Raissa Bellini / @raissabellini
+- [@raissabellini](./raissabellini.md) — Raissa Bellini
 - [@rakuraku166](./rakuraku166.md) — 落落Raku_66 🐾
-- [@realassbunny43](./realassbunny43.md) — Realassbunny / @realassbunny43
-- [@realmochidoll](./realmochidoll.md) — lilmochidoll / @realmochidoll
-- [@realnaomieast](./realnaomieast.md) — Naomi East / @realnaomieast
-- [@reika_ichiba](./reika_ichiba.md) — 一場れいか / @reika_ichiba
-- [@reislin_model_](./reislin_model_.md) — Reislin / @reislin_model_
-- [retsu_dao](./retsu_dao.md) — Retsu_dao / @Retsu_dao
-- [@rimreaper247](./rimreaper247.md) — Lil Miss Eva Nyx 😋 / @rimreaper247
-- [@rin_japan518](./rin_japan518.md) — Ren Katsuki Official 🇯🇵 / @rin_japan518
-- [@rio_hcup_fantia](./rio_hcup_fantia.md) — りお / @rio_hcup_fantia
+- [@realassbunny43](./realassbunny43.md) — Realassbunny
+- [@realmochidoll](./realmochidoll.md) — lilmochidoll
+- [@realnaomieast](./realnaomieast.md) — Naomi East
+- [@reika_ichiba](./reika_ichiba.md) — 一場れいか
+- [@reislin_model_](./reislin_model_.md) — Reislin
+- [retsu_dao](./retsu_dao.md) — Retsu_dao
+- [@rimreaper247](./rimreaper247.md) — Lil Miss Eva Nyx 😋
+- [@rin_japan518](./rin_japan518.md) — Ren Katsuki Official 🇯🇵
+- [@rio_hcup_fantia](./rio_hcup_fantia.md) — りお
 - [@ririca](./ririca.md) — ririca
-- [@RirisuAmano](./RirisuAmano.md) — 天野リリス / @RirisuAmano
+- [@RirisuAmano](./RirisuAmano.md) — 天野リリス
 - [@RitaAkira](./RitaAkira.md) — Rita Akira
-- [@_littlerobin_1](./Robin_Grey.md) — Robin Grey / @_littlerobin_1
+- [@_littlerobin_1](./Robin_Grey.md) — Robin Grey
 - [@roro](./roro.md) — roro软软
 - [Ruanmeiyaoyaole](./Ruanmeiyaoyaole.md) — 軟妹搖搖樂
 - [Ruanruanpazaichuangdanshang](./Ruanruanpazaichuangdanshang.md) — 软软趴在床单上
 - [Ruanruanxiaoshimei](./Ruanruanxiaoshimei.md) — 软软小湿妹
-- [@ruruka820](./ruruka820.md) — るるたん / @ruruka820
+- [@ruruka820](./ruruka820.md) — るるたん
 - [@ruth_hotlee](./ruth_hotlee.md) — Ruthlee
-- [@ryokooo_0625](./ryokooo_0625.md) — Ryoko × 涼子 × 黎菲兒 / @ryokooo_0625
+- [@ryokooo_0625](./ryokooo_0625.md) — Ryoko × 涼子 × 黎菲兒
 
 ---
 
