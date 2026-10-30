@@ -243,7 +243,7 @@ cdnmxy:
   region: 中国
   file: docs/C/cdnmxy.md
   x: cdnmxy
-  status: 80
+  status: 85
 choco_lateP:
   name: レート
   region: 日本
@@ -480,20 +480,21 @@ xmoondreams:
 
 pupu28:
   name: pupu28
+  region: 韩国
   file: docs/P/pupu28.md
-  x: pupu28
-  status: 70
+  status: 85
 
 wldms4482:
   name: wldms4482
+  region: 韩国
   file: docs/W/wldms4482.md
-  x: wldms4482
-  status: 70
+  status: 85
 
 ad1yn2:
   name: ad1yn2
+  region: 韩国
   file: docs/A/ad1yn2.md
-  status: 80
+  status: 85
 
 angellicagood:
   name: Angellica Good
@@ -536,13 +537,15 @@ ozirim:
 
 wkdus222:
   name: wkdus222
+  region: 韩国
   file: docs/W/wkdus222.md
-  status: 70
+  status: 85
 
 imsocutesexy:
   name: imsocutesexy
+  region: 韩国
   file: docs/I/imsocutesexy.md
-  status: 80
+  status: 85
 
 itseunchae:
   name: 장은채
@@ -700,8 +703,10 @@ nigella_pty:
 
 babynookie:
   name: babynookie
+  region: 泰国
   file: docs/B/babynookie.md
-  status: 70
+  x: nparinpp
+  status: 85
 
 yumi_03:
   name: yumi_03
@@ -717,9 +722,9 @@ deerlong:
 
 bibianeruby:
   name: bibianeruby
-  region: 韩国
+  region: 未知
   file: docs/B/bibianeruby.md
-  status: 50
+  status: 85
 
 kittyyumiko:
   name: kittyyumiko
@@ -778,9 +783,9 @@ longmaocouple:
 
 kimjeewoo529:
   name: 尹敏洙
+  region: 韩国
   file: docs/K/kimjeewoo529.md
-  x: kimjeewoo529
-  status: 70
+  status: 85
 
 GirlCrush:
   name: 보미쇼
@@ -848,9 +853,10 @@ Xiaoqiao:
 
 Huinaijiang:
   name: 惠奈酱
-  x: Huinaijiang
+  region: 中国
+  x: huinaijiang
   file: docs/H/Huinaijiang.md
-  status: 80
+  status: 85
 
 Fangxiaotian:
   name: 方筱甜
@@ -896,9 +902,9 @@ Jugensihan:
 
 CDwant:
   name: CDwant
-  x: CDwant
+  region: 未知
   file: docs/C/CDwant.md
-  status: 70
+  status: 85
 
 masem:
   name: 小乐乐
@@ -1040,8 +1046,10 @@ Qingxin:
 
 Tuzixiansheng:
   name: 兔子先生
+  region: 未知
   file: docs/T/Tuzixiansheng.md
-  status: 80
+  x: mr_bunnysex
+  status: 85
 
 TubaobaoC:
   name: 兔宝宝C
@@ -1051,8 +1059,10 @@ TubaobaoC:
 
 Wanjujiang:
   name: 完具酱
+  region: 中国
   file: docs/W/Wanjujiang.md
-  status: 80
+  x: wanjucutegirl
+  status: 85
 
 Woshinikeaidexiaomao:
   name: 我是你可爱的小猫
@@ -1139,7 +1149,7 @@ carpediem110392winktv:
   name: 율이
   region: 韩国
   file: docs/C/carpediem110392winktv.md
-  status: 70
+  status: 85
 
 nier:
   name: 燕儿nier
@@ -2456,7 +2466,7 @@ shuyangbabe:
   region: 中国
   file: docs/S/shuyangbabe.md
   x: shuyangbabe
-  status: 70
+  status: 85
 
 chennianjun11:
   name: 陈念君

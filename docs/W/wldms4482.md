@@ -1,12 +1,23 @@
+---
+tags: [韩国, webcam, nsfw]
+---
+
 # wldms4482
+
+| 项目 | 内容 |
+|------|------|
+| **用户名** | wldms4482 |
+| **资料页姓名** | Bibi（비비） |
+| **地区** | 🇰🇷 韩国 |
+| **内容类型** | SOOP 直播、舞蹈 |
 
 ## 📝 简介
 
-网络搜索未找到该创作者的具体信息。
+wldms4482 是韩国 SOOP 主播。KBJDFAN 把该 ID 记为 Bibi，平台写 SOOP；其他韩文剪辑站使用昵称 ♥비비，并标注旧平台 AfreecaTV。X @wldms4482 是否为本人未核到，不写入账号字段。资料核对日期：2026-10-30。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/wldms4482)
+- [KBJDFAN](https://kbjdfan.com/bjs/wldms4482/)
 
 ---
 
