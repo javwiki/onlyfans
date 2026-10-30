@@ -590,7 +590,7 @@ TokyoDiary:
   name: TokyoDiary
   file: docs/T/TokyoDiary.md
   x: TokyoDiary
-  status: 70
+  status: 80
 
 Elisetutu:
   name: 谭晓彤（兔兔）
@@ -687,8 +687,10 @@ SweetieFox:
 
 panid69:
   name: panid69
+  region: 泰国
   file: docs/P/panid69.md
-  status: 70
+  x: panid69
+  status: 80
 
 deepeggs:
   name: deepeggs
@@ -758,7 +760,8 @@ bunnybunnylove:
 FirtsBornUnicorn:
   name: FirtsBornUnicorn
   file: docs/F/FirtsBornUnicorn.md
-  status: 70
+  x: camgirlunicorn
+  status: 80
 
 chitarlight:
   name: chitarlight
@@ -796,9 +799,10 @@ KimHyeEun:
   status: 70
 
 littlemouse_patchy:
-  name: littlemouse_patchy
+  name: Littlemouse Patchy
+  region: 泰国
   file: docs/L/littlemouse_patchy.md
-  status: 70
+  status: 80
 
 milky_hamasakiii:
   name: Milky_hamasakii
@@ -1442,8 +1446,9 @@ Ananlaoshi:
 
 OkitaMisuzu:
   name: 沖田美鈴
+  region: 日本
   file: docs/O/OkitaMisuzu.md
-  status: 70
+  status: 80
 
 cherida:
   name: cherida
@@ -1498,8 +1503,8 @@ egg:
 
 
 Bora:
-  name: Bora
-  x: Bora
+  name: bora_
+  region: 韩国
   file: docs/B/Bora.md
   status: 80
 
@@ -1554,9 +1559,10 @@ Obokozu:
   status: 80
 
 Milkyth:
-  name: Milkyth
+  name: Milky Hamasakii
+  region: 泰国
   file: docs/M/Milkyth.md
-  status: 70
+  status: 80
 
 AmiraWest:
   name: Amira West
@@ -1604,9 +1610,10 @@ Chensisi:
 
 LauraBragato:
   name: Laura Bragato
+  region: 巴西
   x: LauraBragato
   file: docs/L/LauraBragato.md
-  status: 70
+  status: 80
 
 Chenyi:
   name: 陈祎
@@ -1963,7 +1970,7 @@ RitaAkira:
   name: Rita Akira
   x: RitaAkira
   file: docs/R/RitaAkira.md
-  status: 70
+  status: 80
 
 TerriLou:
   name: Terri Lou
@@ -2362,7 +2369,8 @@ ssunbiki:
   name: 썬비키 (Ssunbiki)
   region: 韩国
   file: docs/S/ssunbiki.md
-  status: 70
+  x: ssunbiki_
+  status: 80
 
 harubaby_nya:
   name: Haru哈嚕♡
