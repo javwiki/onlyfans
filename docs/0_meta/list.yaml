@@ -838,9 +838,9 @@ LunaRodriguezMonteroLunaTrapLunaRM:
 
 kaede:
   name: 水無楓
-  x: kaede
+  region: 日本
   file: docs/K/kaede.md
-  status: 70
+  status: 85
 
 YukoMomohi:
   name: 桃姫優子
@@ -1680,9 +1680,9 @@ Succubus_86:
 
 Lingmumeixiao:
   name: 铃木美咲
-  x: Lingmumeixiao
+  region: 日本
   file: docs/L/Lingmumeixiao.md
-  status: 70
+  status: 85
 
 Ruanruanpazaichuangdanshang:
   name: 软软趴在床单上
@@ -2137,9 +2137,9 @@ mia_stark:
 
 Lienxi:
   name: 李蒽熙
-  x: Lienxi
+  region: 中国
   file: docs/L/Lienxi.md
-  status: 70
+  status: 85
 
 Jiaduobao:
   name: 佳多饱
@@ -2304,11 +2304,6 @@ Zhiyimeimei:
   file: docs/Z/Zhiyimeimei.md
   status: 70
 
-Xiaoshuixi2:
-  name: 小水熙
-  region: 中国
-  file: docs/X/Xiaoshuixi2.md
-  status: 70
 aryminh:
   name: aryminh
   file: docs/A/aryminh.md

@@ -24,7 +24,6 @@
 - [@Xiaonaiyou](./Xiaonaiyou.md) — 小奶油
 - [@Xiaoqiao](./Xiaoqiao.md) — 小乔
 - [@Xiaoshuixi](./Xiaoshuixi.md) — 小水熙
-- [@Xiaoshuixi2](./Xiaoshuixi2.md) — 小水熙
 - [@Xiaoxianyun-X](./Xiaoxianyun-X.md) — 小仙云 - X
 - [@Xiaoxianyun](./Xiaoxianyun.md) — 小仙云
 - [@Xiaoyali](./Xiaoyali.md) — 小丫狸

@@ -2,7 +2,7 @@
 
 核对日期：2026-10-30。以下条目正文不足 200 字，或简介含「网络搜索未找到」「未找到关于」「未找到其他公开信息」。补全公开身份、地区与平台链接后，从本表删除。
 
-共 198 条。
+共 194 条。
 
 ## A
 
@@ -99,7 +99,6 @@
 
 ## K
 
-- [ ] [水無楓](docs/K/kaede.md) — 过短，status 70，正文约 74 字
 - [ ] [KAKA](docs/K/KAKA.md) — 过短，status 70，正文约 143 字
 - [ ] [Kakiooi](docs/K/Kakiooi.md) — 占位，无外链，status 70，正文约 48 字
 - [ ] [可笑的单纯](docs/K/Kexiaodedanchun.md) — 占位，status 70，正文约 94 字
@@ -115,8 +114,6 @@
 - [ ] [老虎菜](docs/L/Laohucai.md) — 过短，仅搜索链接，status 70，正文约 160 字
 - [ ] [Lena Li](docs/L/LenaLi.md) — 过短，仅搜索链接，status 70，正文约 167 字
 - [ ] [连欣](docs/L/Lianxin.md) — 过短，仅搜索链接，status 70，正文约 172 字
-- [ ] [李蒽熙](docs/L/Lienxi.md) — 过短，status 70，正文约 151 字
-- [ ] [铃木美咲](docs/L/Lingmumeixiao.md) — 过短，status 70，正文约 97 字
 - [ ] [林小夏](docs/L/Linxiaoxia.md) — 过短，status 70，正文约 92 字
 - [ ] [林雨馨](docs/L/Linyuxin.md) — 过短，status 70，正文约 90 字
 - [ ] [林雅儿](docs/L/LisaOkko.md) — 占位，status 70，正文约 97 字
@@ -227,7 +224,6 @@
 - [ ] [小妹](docs/X/Xiaomei.md) — 占位，无外链，status 70，正文约 43 字
 - [ ] [小奶油](docs/X/Xiaonaiyou.md) — 占位，status 70，正文约 87 字
 - [ ] [小乔](docs/X/Xiaoqiao.md) — 占位，status 70，正文约 135 字
-- [ ] [小水熙](docs/X/Xiaoshuixi2.md) — 占位，无外链，status 70，正文约 58 字
 - [ ] [小仙云 - X](docs/X/Xiaoxianyun-X.md) — 占位，无外链，status 70，正文约 61 字
 - [ ] [小仙云](docs/X/Xiaoxianyun.md) — 占位，status 70，正文约 88 字
 - [ ] [小丫狸](docs/X/Xiaoyali.md) — 占位，status 80，正文约 85 字
