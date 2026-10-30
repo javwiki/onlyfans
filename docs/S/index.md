@@ -7,8 +7,11 @@
 ## 🧑‍🎤 博主
 
 - [@kinkykinky111](./SamanthaFlair.md) — Samantha Flair
+- [@samanthasissy98](./samanthasissy98.md) — Samantha Sissy / @samanthasissy98
 - [@sandralamppp](./sandralamppp.md) — Sandralamp / @sandralamppp
 - [@SandyCoco](./SandyCoco.md) — 可欣
+- [@SarinaValentina](./SarinaValentina.md) — Sarina Valentina / @SarinaValentina
+- [@saya_endou_](./saya_endou_.md) — さやえんどう。 / @saya_endou_
 - [@saya_mame_dayo](./saya_mame_dayo.md) — さやえんどう。 / @saya_mame_dayo
 - [@scok5](./scok5.md) — scok5 / @scok5
 - [@seeyoumm520](./seeyoumm520.md) — 天使西柚 / @seeyoumm520
@@ -22,10 +25,13 @@
 - [Shengyouxiaomeimo](./Shengyouxiaomeimo.md) — 声优小魅魔
 - [Shengyouxiaoyun](./Shengyouxiaoyun.md) — 声优小允
 - [@ShenqiaoQuella](./shenqiaoquella.md) — 沈樵 / @shenqiaoquella
+- [@shrooms_q](./shrooms_q.md) — Q / @shrooms_q
 - [@shuyangbabe](./shuyangbabe.md) — 南忘 / @shuyangbabe
 - [@Silvanalee88](./Silvanalee88.md) — Silvana Lee / @Silvanalee88
 - [@SingaporeLily](./SingaporeLily.md) — Ladyboy Lily 🏳️‍⚧️ / @SingaporeLily
 - [Sirenwanwu](./Sirenwanwu.md) — 私人玩物
+- [@Sisdon8](./Sisdon8.md) — Sisdon / @Sisdon8
+- [@siswet](./siswet.md) — 💕Siswet💕allmylinks.com/siswet / @siswet
 - [@Siwanvshen](./Siwanvshen.md) — 撕袜女神
 - [@SkyexSummers](./SkyexSummers.md) — SkyexSummers / @SkyexSummers
 - [@Sofie14175952](./Sofie14175952.md) — Sofie 🍓tran / @Sofie14175952
@@ -37,6 +43,7 @@
 - [ssaimi](./ssaimi.md) — 小艾米
 - [@ssm1004](./ssm1004.md) — 李韶姬 / @ssm1004（含 @kimtan1004、@miso1239）
 - [@ssunbiki_](./ssunbiki.md) — 썬비키 (Ssunbiki) / @Ssunbiki
+- [@stefanygrest](./stefanygrest.md) — Stefany Restrepo / @stefanygrest
 - [@stellafrancisx](./stellafrancisx.md) — Stella Francis (ON1YF4NZ🌶️) / @stellafrancisx
 - [@StephanieKolman](./StephanieKolman.md) — Steph Kolman 💄 / @StephanieKolman
 - [@StrawberyTabby](./StrawberryTabby.md) — StrawberryTabby / @StrawberyTabby

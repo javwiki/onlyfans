@@ -6,6 +6,7 @@
 
 ## 🧑‍🎤 博主
 
+- [@waifupupu](./waifupupu.md) — ♡pupuwaifu♡ / @waifupupu
 - [Wangdapao](./Wangdapao.md) — 王大炮
 - [@Wangdong](./Wangdong.md) — 王动
 - [@Wangwanwan](./Wangwanwan.md) — 王绾绾
@@ -13,6 +14,8 @@
 - [@wanjucutegirl](./Wanjujiang.md) — 完具酱
 - [@webtolove](./webtolove.md) — Fragile Tempt / @webtolove
 - [@Wenroumiao](./Wenroumiao.md) — 温柔苗
+- [@wetmikiwild](./wetmikiwild.md) — WetMikiWild MAIN 本人大号｜✈️📍上海-洛杉矶｜IG🆔️ wetmikiwild / @wetmikiwild
+- [@whosbonnie18](./whosbonnie18.md) — Whosbonnieandclyde / @whosbonnie18
 - [Willow](./Willow.md) — Willow
 - [@windmaomi](./windmaomi.md) — 五彩斑斓的黑猫 / @windmaomi
 - [Wine](./Wine.md) — Wine

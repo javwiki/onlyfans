@@ -8,6 +8,7 @@
 
 - [@Ui_Eve69](./Ui_Eve69.md) — 悠木イヴ / @Ui_Eve69
 - [@UqGto](./UqGto.md) — Photo Power / @UqGto
+- [@uri11_27](./uri11_27.md) — 𓆟uri 𓆟 / @uri11_27
 - [@UU_Bigs](./UU_Bigs.md) — UㅅU / @UU_Bigs
 
 ---

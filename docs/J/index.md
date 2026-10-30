@@ -9,6 +9,8 @@
 - [@J3ssicaStarling](./J3ssicaStarling.md) — Jessica Starling / @J3ssicaStarling
 - [@Janpet12](./Janpet12.md) — Jan兔 / @Janpet12
 - [@jared999d3dx](./jared999d3dx.md) — jared999D / @jared999d3dx
+- [@JasminFoxe](./JasminFoxe.md) — ♡ Jazzy ♡ / @JasminFoxe
+- [@Jawmorantt](./Jawmorantt.md) — JAW MORANT 💋 / @Jawmorantt
 - [@JennySuen10](./JennySuen10.md) — 孫禾頤JennySuen / @JennySuen10
 - [@jessicasuchxxx](./jessicasuchxxx.md) — TS JESS SUCH / @jessicasuchxxx
 - [@jethedeath](./jethedeath.md) — 魷魚𝔍𝔢𝔰𝔰𝔢 / @jethedeath

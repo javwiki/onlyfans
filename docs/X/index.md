@@ -33,11 +33,13 @@
 - [@_xingxiyue](./_xingxiyue.md) — 邢曦月 / @_xingxiyue
 - [@Xingyeyou](./Xingyeyou.md) — 星野优
 - [@Xinmeimei](./Xinmeimei.md) — 欣妹妹
+- [@xinyimark](./xinyimark.md) — 信義趙又廷 / @xinyimark
 - [Xirui](./Xirui.md) — 希瑞
 - [@xmoondreams](./xmoondreams.md) — Naomi Ventura（Moon） / @xmoondreams
 - [@XNJJZZ](./XNJJZZ.md) — 子子子 / @XNJJZZ
 - [@Xreindeers_of](./Xreindeers_of.md) — Xreindeers / @Xreindeers_of
 - [@Xuya](./Xuya.md) — 徐雅
+- [@XXXMARISSAMINX](./XXXMARISSAMINX.md) — Marissa Minx / @XXXMARISSAMINX
 
 ---
 

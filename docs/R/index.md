@@ -9,9 +9,13 @@
 - [@raissabellini](./raissabellini.md) — Raissa Bellini / @raissabellini
 - [@rakuraku166](./rakuraku166.md) — 落落Raku_66 🐾
 - [@realassbunny43](./realassbunny43.md) — Realassbunny / @realassbunny43
+- [@realmochidoll](./realmochidoll.md) — lilmochidoll / @realmochidoll
 - [@realnaomieast](./realnaomieast.md) — Naomi East / @realnaomieast
+- [@reika_ichiba](./reika_ichiba.md) — 一場れいか / @reika_ichiba
 - [@reislin_model_](./reislin_model_.md) — Reislin / @reislin_model_
 - [retsu_dao](./retsu_dao.md) — Retsu_dao / @Retsu_dao
+- [@rimreaper247](./rimreaper247.md) — Lil Miss Eva Nyx 😋 / @rimreaper247
+- [@rin_japan518](./rin_japan518.md) — Ren Katsuki Official 🇯🇵 / @rin_japan518
 - [@rio_hcup_fantia](./rio_hcup_fantia.md) — りお / @rio_hcup_fantia
 - [@ririca](./ririca.md) — ririca
 - [@RirisuAmano](./RirisuAmano.md) — 天野リリス / @RirisuAmano
@@ -23,6 +27,7 @@
 - [Ruanruanxiaoshimei](./Ruanruanxiaoshimei.md) — 软软小湿妹
 - [@ruruka820](./ruruka820.md) — るるたん / @ruruka820
 - [@ruth_hotlee](./ruth_hotlee.md) — Ruthlee
+- [@ryokooo_0625](./ryokooo_0625.md) — Ryoko × 涼子 × 黎菲兒 / @ryokooo_0625
 
 ---
 
