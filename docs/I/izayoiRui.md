@@ -42,7 +42,7 @@
 - [Fansly](https://fansly.com/izayoi_rui) — 11,884 粉丝
 - [Patreon Shop](https://www.patreon.com/cw/izayoiRuiShop) — 十六夜Shop
 - [Patreon month set](https://patreon.com/izayoiRuiShop) — 月度套餐
-- [Gumroad](http://izayoirui.gumroad.com) — 图包购买
+- [Gumroad](https://izayoirui.gumroad.com) — 图包购买
 - [Instagram](https://www.instagram.com/izayoi_rui/) — 113,969 粉丝
 - [Threads](https://www.threads.net/@izayoi_rui)
 - [TikTok](https://www.tiktok.com/@izayoirui_) — 官方账号

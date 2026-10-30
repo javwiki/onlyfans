@@ -1,5 +1,5 @@
 ---
-tags: [美国, 跨性别, trans, 巨乳, NSFW]
+tags: [美国, 跨性别, trans, 巨乳, nsfw]
 ---
 
 # @Angellicagood
@@ -30,7 +30,7 @@ Angellica Good（@Angellicagood），跨性别成人内容创作者和表演者�
 - [Instagram（备用）](https://www.instagram.com/tsangellica)
 - [Fansly](https://fansly.com/tsangellica)
 - [TikTok](https://www.tiktok.com/@angellicagood)
-- [Linkme](https://link.me/tsangellica)
+- Linkme：link.me/tsangellica（原链接已失效）
 
 ---
 

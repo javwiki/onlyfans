@@ -1,5 +1,5 @@
 ---
-tags: [美国, adultmodel]
+tags: [美国, adult-model]
 ---
 
 # Kitty Kum

@@ -1,5 +1,5 @@
 ---
-tags: [中国, 福利姬, cosplay, NSFW]
+tags: [中国, 福利姬, cosplay, nsfw]
 ---
 
 # @tongtong0401

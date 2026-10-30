@@ -1,5 +1,5 @@
 ---
-tags: [natural tits, milf]
+tags: [natural-tits, milf]
 ---
 
 # @Hannah_brooksuk

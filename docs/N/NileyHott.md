@@ -21,7 +21,7 @@ Niley Hott 是哥伦比亚摄像与成人模特。Boobpedia 把别名写作 Miss
 
 - [Fansly](https://fansly.com/missniley28)
 - [Chaturbate](https://chaturbate.com/missniley/)
-- [Boobpedia](https://www.boobpedia.com/wiki/Niley_Hott)
+- Boobpedia（原链接已失效）
 
 ---
 

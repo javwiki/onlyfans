@@ -1,5 +1,5 @@
 ---
-tags: [NSFW, adultmodel]
+tags: [nsfw, adult-model]
 ---
 
 # 𝑽𝒊𝒙𝒆𝒏 𝑽𝒊𝒓𝒂𝒈𝒐（@VixenViragoX）

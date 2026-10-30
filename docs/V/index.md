@@ -6,9 +6,9 @@
 
 ## 🧑‍🎤 博主
 
-- [@veenus_](./veenus_.md) — Veenus（Pamela Ferrer）
-- [@vivibabe](./vivibabe.md) — vivibabe / @vivibabe
+- [veenus_](./veenus_.md) — Veenus（Pamela Ferrer）
 - [@veritabledxzx22](./veritabledxzx22.md) — ようよう〜 / @veritabledxzx22
+- [@vivibabe](./vivibabe.md) — vivibabe / @vivibabe
 - [@VixenViragoX](./VixenViragoX.md) — Vixen Virago
 
 ---

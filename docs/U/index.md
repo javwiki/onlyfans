@@ -6,9 +6,9 @@
 
 ## 🧑‍🎤 博主
 
-- [@UU_Bigs](./UU_Bigs.md) — UㅅU / @UU_Bigs
+- [@Ui_Eve69](./Ui_Eve69.md) — 悠木イヴ / @Ui_Eve69
 - [@UqGto](./UqGto.md) — Photo Power / @UqGto
-- [@ui_eve69](./Ui_Eve69.md) — 悠木イヴ / @Ui_Eve69
+- [@UU_Bigs](./UU_Bigs.md) — UㅅU / @UU_Bigs
 
 ---
 

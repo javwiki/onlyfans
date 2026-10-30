@@ -15,4 +15,4 @@ Naomi East（@realnaomieast），日本裔成人内容创作者，X 简介自述
 
 ---
 
-[◀ 返回 N 列表](./index.md) · [🏠 首页](../index.md)
+[◀ 返回 R 列表](./index.md) · [🏠 首页](../index.md)

@@ -10,11 +10,12 @@
 
 ## 📝 简介
 
+Mila Azul 是欧洲的艺术裸模、成人模特与 cosplayer，X 主账号约 37.9 万粉丝，在 OnlyFans、Pornhub、Twitch、YouTube 等平台发布内容。
+
 ## 🔗 相关链接
 
 - [X / Twitter (主号)](https://x.com/mila_azul) — 37.9 万粉丝
 - [OnlyFans](https://onlyfans.com/mila_azul)
-- [OnlyFans (免费)](https://onlyfans.com/mila_azul)
 - [Pornhub](https://www.pornhub.com/model/mila_azul)
 - [Twitch](https://www.twitch.tv/mila_azul)
 - [YouTube](https://www.youtube.com/@mila_azul)

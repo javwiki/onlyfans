@@ -1,5 +1,5 @@
 ---
-tags: [cosplay, japanese, asian, maid, schoolgirl, big tits]
+tags: [cosplay, japanese, asian, maid, schoolgirl, big-tits]
 ---
 
 # @yunadoll117
@@ -13,6 +13,8 @@ tags: [cosplay, japanese, asian, maid, schoolgirl, big tits]
 | **风格** | 日系角色扮演、巨乳、ASIAN |
 
 ## 📝 简介
+
+Yunadoll（@yunadoll117）是日本的 cosplay / 成人内容创作者，X 主账号约 3.4K 粉丝，另运营备用账号 @yunadollyu；在 OnlyFans、Fansly、Instagram、FanHub、Pornhub 等平台发布内容。
 
 ## 🔗 相关链接
 

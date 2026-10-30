@@ -23,7 +23,7 @@ Lexi Hart（别名 Lexi Williams / Miss Lexi Hart / Miss Lexiii），牙买加�
 - [Instagram](https://www.instagram.com/_misslexiii) — 1.7M 粉丝，Verified
 - [OnlyFans](https://onlyfans.com/miss.lexiii) — 免费订阅，1663 帖
 - [TikTok](https://www.tiktok.com/@thelexiwilliams)
-- [网站 / 经纪页](http://lexi.unrulyverse.be)
+- [网站 / 经纪页](https://lexi.unrulyverse.be)
 - [Babepedia](https://www.babepedia.com/babe/Lexi_Hart) — 8.91/10
 
 ---

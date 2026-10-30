@@ -10,6 +10,8 @@
 
 ## 📝 简介
 
+OBOKOZU 是活跃于 OnlyFans 与 Pornhub 的意日情侣成人内容创作者组合，X 账号约 16.94 万粉丝，Pornhub 订阅者约 49.5 万。
+
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/Obokozu) — 169.4K 粉丝

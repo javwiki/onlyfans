@@ -6,10 +6,10 @@
 
 ## 🧑‍🎤 博主
 
+- [Qianqian180](./Qianqian180.md) — 倩倩
 - [@Qingxin](./Qingxin.md) — 清心
-- [@Qiumingshanrushen](./Qiumingshanrushen.md) — 秋名山乳神
+- [Qiumingshanrushen](./Qiumingshanrushen.md) — 秋名山乳神
 
-- [@Qianqian180](./Qianqian180.md) — 倩倩
 ---
 
 [◀ 返回首页](../index.md)

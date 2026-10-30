@@ -1,5 +1,5 @@
 ---
-tags: [cosplay, latina, adultmodel]
+tags: [cosplay, latina, adult-model]
 ---
 
 # LilMilk

@@ -21,7 +21,7 @@ tags: [中国, 模特]
 ## 🔗 相关链接
 
 - [美图海：闫盼盼](https://www.meituhai.com/models/model/4626.html)
-- [知乎专栏简介](http://zhuanlan.zhihu.com/p/28273086)
+- [知乎专栏简介](https://zhuanlan.zhihu.com/p/28273086)
 - [X / Twitter](https://x.com/Yanpanpan) — 条目原有链接，未核实是否为本人
 
 ---

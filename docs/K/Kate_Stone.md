@@ -1,5 +1,5 @@
 ---
-tags: [哥伦比亚, 成人模特, cammodel, NSFW]
+tags: [哥伦比亚, 成人模特, cam-model, nsfw]
 ---
 
 # Kate Stone

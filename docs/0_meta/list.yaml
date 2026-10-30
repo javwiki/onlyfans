@@ -251,13 +251,6 @@ choco_lateP:
   x: choco_lateP
   status: 80
 
-cocopiemommy:
-  name: 🦊CocoPie🦊
-  region: 泰国
-  file: docs/C/cocopiemommy.md
-  x: cocopiemommy
-  status: 80
-
 cookiemon18:
   name: cookiemon18
   region: 泰国
@@ -1821,10 +1814,6 @@ BagelSoo:
   file: docs/B/BagelSoo.md
   status: 85
 
-Xiaoxianyun-X:
-  name: 小仙云 - X
-  file: docs/X/Xiaoxianyun-X.md
-  status: 70
 
 Mengfeitongxiang:
   name: 梦菲桐香
@@ -2121,18 +2110,18 @@ laurine_model:
   file: docs/L/Laurine_Model.md
   status: 80
 
-solomiya_maievska:
+SolomiyaMaievska:
   name: Solomiya Maievska
   region: 乌克兰
   file: docs/S/SolomiyaMaievska.md
   status: 80
 
-giulia_wylde:
+GiuliaWylde:
   name: Giulia Wylde
   file: docs/G/GiuliaWylde.md
   status: 80
 
-mia_stark:
+MiaStark:
   name: Mia Stark
   file: docs/M/MiaStark.md
   status: 70
@@ -2253,7 +2242,7 @@ yunadoll117:
   region: 日本
   file: docs/Y/yunadoll117.md
   x: yunadoll117
-  status: 90
+  status: 80
 
 Lixiaoya:
   name: 李晓雅
@@ -3070,7 +3059,7 @@ Hotwife_Linger:
 theOliviaRobin:
   name: Olivia
   region: 英国
-  file: docs/O/theOliviaRobin.md
+  file: docs/T/theOliviaRobin.md
   x: theOliviaRobin
   status: 85
 sandralamppp:
@@ -3188,7 +3177,7 @@ Silvanalee88:
   file: docs/S/Silvanalee88.md
   x: Silvanalee88
   status: 85
-StrawberyTabby:
+StrawberryTabby:
   name: StrawberryTabby
   region: 美国
   file: docs/S/StrawberryTabby.md
@@ -3197,7 +3186,7 @@ StrawberyTabby:
 realnaomieast:
   name: Naomi East
   region: 日本
-  file: docs/N/realnaomieast.md
+  file: docs/R/realnaomieast.md
   x: realnaomieast
   status: 85
 lenfried:

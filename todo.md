@@ -2,7 +2,7 @@
 
 核对日期：2026-10-30。以下条目正文不足 200 字，或简介含「网络搜索未找到」「未找到关于」「未找到其他公开信息」。补全公开身份、地区与平台链接后，从本表删除。
 
-共 190 条。
+共 189 条。
 
 ## A
 
@@ -220,7 +220,6 @@
 - [ ] [小妹](docs/X/Xiaomei.md) — 占位，无外链，status 70，正文约 43 字
 - [ ] [小奶油](docs/X/Xiaonaiyou.md) — 占位，status 70，正文约 87 字
 - [ ] [小乔](docs/X/Xiaoqiao.md) — 占位，status 70，正文约 135 字
-- [ ] [小仙云 - X](docs/X/Xiaoxianyun-X.md) — 占位，无外链，status 70，正文约 61 字
 - [ ] [小仙云](docs/X/Xiaoxianyun.md) — 占位，status 70，正文约 88 字
 - [ ] [小丫狸](docs/X/Xiaoyali.md) — 占位，status 80，正文约 85 字
 - [ ] [小野马](docs/X/Xiaoyema.md) — 占位，status 80，正文约 96 字

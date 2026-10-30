@@ -1,5 +1,5 @@
 ---
-tags: [NSFW, adultmodel]
+tags: [nsfw, adult-model]
 ---
 
 # @reislin_model_

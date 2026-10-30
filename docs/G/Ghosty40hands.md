@@ -1,7 +1,3 @@
----
-tags: []
----
-
 # Ghost Park 👻 (@Ghosty40hands)
 
 | 项目 | 内容 |

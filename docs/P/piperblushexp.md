@@ -1,5 +1,5 @@
 ---
-tags: [加拿大, NSFW, adultmodel]
+tags: [加拿大, nsfw, adult-model]
 ---
 
 # Piper Blush（@PiperBlushExp）

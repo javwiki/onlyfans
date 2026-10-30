@@ -1,5 +1,5 @@
 ---
-tags: [美国, NSFW, adultmodel, trans]
+tags: [美国, nsfw, adult-model, trans]
 ---
 
 # LILLY BENZ（@tsprincess__）

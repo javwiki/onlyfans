@@ -1,5 +1,5 @@
 ---
-tags: [美国, 罗马尼亚, NSFW, adultmodel, trans]
+tags: [美国, 罗马尼亚, nsfw, adult-model, trans]
 ---
 
 # Desiree Markovich
@@ -34,7 +34,7 @@ Desiree Markovich（艺名 **Desiree Black**，网名 Desi❀），罗马尼亚�
 - [TikTok](https://www.tiktok.com/@desireemarkovich) — 54.1 万粉丝 / 4.7M 赞
 - [OnlyFans](https://onlyfans.com/thedesireeblack) — 主平台
 - [Instagram](https://www.instagram.com/desireemarkovichh/) — @desireemarkovichh
-- [Snapchat](https://www.snapchat.com/add/thedesireeblack) — thedesireeblack
+- Snapchat：thedesireeblack（原链接已失效）
 - [Link.me](https://link.me/desireeblack) — 聚合链接页
 - [Facebook](https://www.facebook.com/profile.php?id=61550283654171)
 

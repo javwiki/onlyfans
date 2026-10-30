@@ -1,5 +1,5 @@
 ---
-tags: [美国, NSFW, adultmodel, booty]
+tags: [美国, nsfw, adult-model, booty]
 ---
 
 # @TsIzzyWilde

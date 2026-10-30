@@ -1,5 +1,5 @@
 ---
-tags: [英国, NSFW, adultmodel]
+tags: [英国, nsfw, adult-model]
 ---
 
 # nbnabunny（@nbnabunny）

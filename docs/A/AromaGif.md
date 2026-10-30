@@ -1,5 +1,5 @@
 ---
-tags: [男娘, 伪娘, NSFW, adultmodel]
+tags: [男娘, 伪娘, nsfw, adult-model]
 ---
 
 # Aroma.gif（@AromaGif）

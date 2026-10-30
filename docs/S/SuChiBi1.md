@@ -1,5 +1,5 @@
 ---
-tags: [越南, 成人内容, NSFW]
+tags: [越南, 成人内容, nsfw]
 ---
 
 # @SuChiBi1

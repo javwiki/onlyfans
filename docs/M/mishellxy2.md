@@ -9,7 +9,7 @@ Mishell Morales（@mishellxy2），哥伦比亚🇨🇴成人内容创作者，X
 - [X / Twitter](https://x.com/mishellxy2) — 主账号
 - [OnlyFans](https://www.onlyfans.com/mishellxy)
 - [Instagram](https://www.instagram.com/mishellxy2)
-- [CamSoda](http://www.camsoda.com/mishellxy) — 免费直播
+- [CamSoda](https://www.camsoda.com/mishellxy) — 免费直播
 - [mishellxy.vip](https://mishellxy.vip/) — 自营链接页（含 Telegram 入口）
 - [Linktree](https://linktr.ee/Mishellxy) — 平台汇总
 

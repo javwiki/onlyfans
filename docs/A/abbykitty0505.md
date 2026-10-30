@@ -9,8 +9,8 @@
 - [X / Twitter](https://x.com/abbykitty0505) — 中文主账号
 - [X / Twitter 英文](https://x.com/abbykitty0606)
 - [X / Twitter 英文](https://x.com/abbykitty0707)
-- [FansOne](http://fansone.co/abbykitty0606)
-- [Telegram](http://t.me/abbykitty0606)
+- [FansOne](https://fansone.co/abbykitty0606)
+- [Telegram](https://t.me/abbykitty0606)
 - [Linktree](https://linktr.ee/abbykitty6666)
 
 ---

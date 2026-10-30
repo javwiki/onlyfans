@@ -13,7 +13,7 @@
 
 ## 🔗 相关链接
 
-- [Pornhub](https://rt.pornhub.org/shorties/642e92c741e7e) — 短视频
+- Pornhub 短视频（原链接已失效）
 - [SpankBang](https://spankbang.com/4th2u/playlist/cookiemon18/) — 播放列表
 - [OnlyFans](https://onlyfans.com/cookiemon18)
 

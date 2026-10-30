@@ -1,5 +1,5 @@
 ---
-tags: [菲律宾, 直播, cosplay, gamer, NSFW]
+tags: [菲律宾, 直播, cosplay, gamer, nsfw]
 ---
 
 # @xmoondreams

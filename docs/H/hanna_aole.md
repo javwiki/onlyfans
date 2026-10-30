@@ -1,5 +1,5 @@
 ---
-tags: [natural tits, petite, asian, latina]
+tags: [natural-tits, petite, asian, latina]
 ---
 
 # @hanna_aole

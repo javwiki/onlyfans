@@ -18,7 +18,7 @@
 - [OnlyFans](https://onlyfans.com/baimint_peppermint)
 - [Instagram](https://www.instagram.com/baimint_manitha/)
 - [Facebook](https://www.facebook.com/ใบมิ้นท์ มณิฐา Fanpage) — 137K 粉丝
-- [Line](https://line.me/ti/p/@mint.22061188)
+- Line：@mint.22061188（原链接已失效）
 
 ---
 

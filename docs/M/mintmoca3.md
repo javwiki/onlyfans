@@ -1,5 +1,5 @@
 ---
-tags: [NSFW]
+tags: [nsfw]
 ---
 
 # 抹茶🍥（mintmoca3）

@@ -15,6 +15,8 @@ tags: [巨乳, 素人, asian]
 
 ## 📝 简介
 
+Alina Mei（@alinaxmei）是日本的素人成人内容创作者，身高 157cm，自述为钢管舞者与游戏玩家；在 OnlyFans、Fansly、Pornhub 等平台发布内容，Pornhub 播放量约 2,420 万、订阅者约 12.1 万。
+
 ## 🔗 相关链接
 
 - [OnlyFans](https://onlyfans.com/alinaxmei)

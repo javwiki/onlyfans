@@ -1,5 +1,5 @@
 ---
-tags: [加拿大, 日本, 成人模特, cosplay, NSFW]
+tags: [加拿大, 日本, 成人模特, cosplay, nsfw]
 ---
 
 # Robin Grey

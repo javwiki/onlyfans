@@ -1,5 +1,5 @@
 ---
-tags: [泰国, webcam, adultmodel]
+tags: [泰国, webcam, adult-model]
 ---
 
 # Asia Fox

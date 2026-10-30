@@ -11,6 +11,8 @@
 
 ## 📝 简介
 
+レート（@choco_lateP）是日本的跨性别 / 女装（ニューハーフ）成人内容创作者，X 主账号约 11.27 万粉丝，另运营日常账号 @choco_late2nd，并在 Pornhub 设有个人页面。
+
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/choco_lateP) — 112.7K 粉丝

@@ -1,7 +1,3 @@
----
-tags: []
----
-
 # @miuzxc
 
 | 项目 | 内容 |
@@ -14,6 +10,8 @@ tags: []
 
 ## 📝 简介
 
+Miuzxc（@miuzxc）是越南的 AV 模特与成人内容创作者，X 约 22.4 万粉丝，活跃于 Fansly、Stripchat、Pornhub、Faphouse 等平台。
+
 ## 🔗 相关链接
 
 - [X / Twitter](https://x.com/miuzxc) — 22.4万粉丝
@@ -23,7 +21,7 @@ tags: []
 - [Fansly](https://fansly.com/miuzxc)
 - [Stripchat](https://www.stripchat.com/Miuzxc)
 - [Pornhub](https://www.pornhub.com/model/miuzxc_official)
-- [xHamster](https://xhamster.com/model/miuzxc_official)
+- xHamster（原链接已失效）
 - [Faphouse](https://faphouse.com/Miuzxc)
 
 ---

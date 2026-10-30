@@ -1,5 +1,5 @@
 ---
-tags: [NSFW, adultmodel]
+tags: [nsfw, adult-model]
 ---
 
 # realitsmuk🤍（@itssmuk）

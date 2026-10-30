@@ -9,7 +9,7 @@ Korina Kova（@KorinaKova），加拿大成人影片演员与内容创作者，1
 - [X / Twitter](https://x.com/KorinaKova)
 - [OnlyFans](https://onlyfans.com/korinakova)
 - [OnlyFans (免费号)](https://onlyfans.com/korinakovafree)
-- [官方网站](http://www.therealkorinakova.com)
+- [官方网站](https://www.therealkorinakova.com)
 - [Korina Kova Films](https://korinakovafilms.com)
 - [Linktree（全平台汇总）](https://linktr.ee/korinakova)
 - [Instagram](https://www.instagram.com/korinakova_productions/)

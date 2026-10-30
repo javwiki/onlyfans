@@ -1,5 +1,5 @@
 ---
-tags: [美国, NSFW, adultmodel]
+tags: [美国, nsfw, adult-model]
 ---
 
 # Penelope Kay（@420bbyk）
