@@ -120,12 +120,6 @@ yuna_sirobuta:
   file: docs/Y/yuna_sirobuta.md
   x: yuna_sirobuta
   status: 80
-minami_airi_en:
-  name: 美波あいり
-  region: 日本
-  file: docs/M/minami_airi_en.md
-  x: minami_airi_en
-  status: 80
 miratamu_07xx:
   name: みらたむ
   region: 日本
@@ -573,7 +567,7 @@ Candybaby:
   name: 夏晴子
   file: docs/C/Candybaby.md
   x: Candybaby
-  status: 70
+  status: 80
 
 Fullfive:
   name: Fullfive（小富婆）
@@ -617,9 +611,10 @@ veenus_:
 
 monlingwu:
   name: 吴梦梦
+  region: 台湾
   file: docs/M/monlingwu.md
   x: monlingwu
-  status: 70
+  status: 85
 
 Gatitayan:
   name: 朵妃
@@ -859,6 +854,7 @@ Huinaijiang:
 
 Fangxiaotian:
   name: 方筱甜
+  region: 中国
   x: Fangxiaotian
   file: docs/F/Fangxiaotian.md
   status: 80
@@ -1193,12 +1189,6 @@ lovable33AfreecaTV:
   file: docs/L/lovable33AfreecaTV.md
   status: 70
 
-XfuukaX:
-  name: XfuukaX
-  x: XfuukaX
-  file: docs/X/XfuukaX.md
-  status: 70
-
 Yumiaomiao:
   name: 芋喵喵
   x: Yumiaomiao
@@ -1359,12 +1349,14 @@ Naiyoutianxin:
 
 Gaoyinxing:
   name: 高銀星
+  region: 韩国
   x: Gaoyinxing
   file: docs/G/Gaoyinxing.md
   status: 80
 
 NAGISANagesa:
   name: NAGISA魔物喵
+  region: 中国
   x: NAGISANagesa
   file: docs/N/NAGISANagesa.md
   status: 80
@@ -1762,6 +1754,7 @@ Yazhoudiantunhuanghou:
 
 Zhouboer:
   name: 周波儿
+  region: 中国
   x: Zhouboer
   file: docs/Z/Zhouboer.md
   status: 80
@@ -2041,6 +2034,7 @@ Chengdunaimapinger:
 
 Yanpanpan:
   name: 闫盼盼
+  region: 中国
   x: Yanpanpan
   file: docs/Y/Yanpanpan.md
   status: 80
@@ -2111,8 +2105,9 @@ faiiorapun:
 
 laurine_model:
   name: Laurine
+  region: 德国
   file: docs/L/Laurine_Model.md
-  status: 70
+  status: 80
 
 solomiya_maievska:
   name: Solomiya Maievska
@@ -3149,12 +3144,6 @@ punachancos:
   region: 日本
   file: docs/P/punachancos.md
   x: punachancos
-  status: 80
-Charinkh_milk:
-  name: Charin Kh
-  region: 泰国
-  file: docs/C/Charinkh_milk.md
-  x: Charinkh_milk
   status: 80
 minami_airi_sa:
   name: 美波あいり

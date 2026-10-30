@@ -30,8 +30,7 @@
 - [@miko](./miko.md) — 豪乳miko
 - [@milky_hamasakiii](./milky_hamasakiii.md) — milky_hamasakiii / @milky_hamasakiii
 - [@mina0977](./mina0977.md) — mina0977 / @mina0977
-- [@minami_airi_en](./minami_airi_en.md) — 美波あいり / @minami_airi_en
-- [@minami_airi_sa](./minami_airi_sa.md) — 美波あいり / @minami_airi_sa（日文主账号）
+- [@minami_airi_sa](./minami_airi_sa.md) — 美波あいり / @minami_airi_sa
 - [minichu](./minichu.md) — Minichu
 - [@minidiva](./minidiva.md) — mini diva
 - [@mintmoca3](./mintmoca3.md) — mintmoca3 / @mintmoca3
@@ -50,7 +49,7 @@
 - [@MoroccanZina_](./MoroccanZina_.md) — Zina Hadid
 - [@meikouii](./meikouii.md) — Mei Kou
 - [@mila_azul](./mila_azul.md) — Mila Azul
-- [@milkcharin_kh](./milkcharin_kh.md) — Milkcharin_kh / Charin Kh
+- [@milkcharin_kh](./milkcharin_kh.md) — Charin Kh / @milkcharin_kh
 - [@mortaomaotor](./mortaomaotor.md) — Mortao Maotor
 - [@MackGFour](./MackGFour.md) — MackG4 / @MackGFour
 - [@mishellxy2](./mishellxy2.md) — Mishell Morales / @mishellxy2

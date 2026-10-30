@@ -7,7 +7,6 @@
 ## 🧑‍🎤 博主
 
 - [@XNJJZZ](./XNJJZZ.md) — 子子子 / @XNJJZZ
-- [@XfuukaX](./XfuukaX.md) — XfuukaX
 - [@Xiaanan](./Xiaanan.md) — 夏安安
 - [@Xiaaxia](./Xiaaxia.md) — 夏阿夏
 - [@Xiameijiang](./Xiameijiang.md) — 夏美酱
