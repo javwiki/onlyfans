@@ -2,7 +2,7 @@
 
 核对日期：2026-10-30。以下条目正文不足 200 字，或简介含「网络搜索未找到」「未找到关于」「未找到其他公开信息」。补全公开身份、地区与平台链接后，从本表删除。
 
-共 212 条。
+共 207 条。
 
 ## A
 
@@ -54,7 +54,6 @@
 
 ## E
 
-- [ ] [eeegon87](docs/E/eeegon87.md) — 占位，status 70，正文约 132 字
 - [ ] [eemiim](docs/E/eemiim.md) — 占位，无外链，status 70，正文约 47 字
 - [ ] [egg尤妮丝](docs/E/egg.md) — 占位，无外链，status 70，正文约 57 字
 - [ ] [谭晓彤（兔兔）](docs/E/Elisetutu.md) — 占位，无外链，status 80，正文约 60 字
@@ -80,7 +79,6 @@
 - [ ] [月亮爱神GOL](docs/G/GOL.md) — 占位，无外链，status 70，正文约 61 字
 - [ ] [狗头萝莉](docs/G/Goutouluoli.md) — 占位，仅搜索链接，status 80，正文约 117 字
 - [ ] [古阿扎](docs/G/Guazha.md) — 过短，仅搜索链接，status 70，正文约 168 字
-- [ ] [Guitar](docs/G/Guitar.md) — 占位，status 70，正文约 503 字
 
 ## H
 
@@ -133,7 +131,6 @@
 - [ ] [李智贤](docs/L/Lizhixian.md) — 占位，status 80，正文约 86 字
 - [ ] [林佳](docs/L/lj10010.md) — 占位，status 70，正文约 83 字
 - [ ] [longmaocouple](docs/L/longmaocouple.md) — 过短，status 70，正文约 161 字
-- [ ] [妲熙](docs/L/lovable33AfreecaTV.md) — 过短，无外链，status 70，正文约 113 字
 - [ ] [特莱莎](docs/L/lyainevan.md) — 过短，status 70，正文约 149 字
 
 ## M
@@ -196,7 +193,6 @@
 - [ ] [撕袜女神](docs/S/Siwanvshen.md) — 过短，status 80，正文约 171 字
 - [ ] [Sola酱](docs/S/Sola.md) — 过短，status 70，正文约 148 字
 - [ ] [宋星星 - 快手](docs/S/Songxingxing-kuaishou.md) — 占位，无外链，status 80，正文约 44 字
-- [ ] [ssaimi](docs/S/ssaimi.md) — 占位，status 70，正文约 293 字
 - [ ] [苏小美波波妹](docs/S/Suxiaomeibobomei.md) — 占位，无外链，status 70，正文约 61 字
 
 ## T
@@ -273,7 +269,6 @@
 - [ ] [月暖如梵音](docs/Y/Yuenuanrufanyin.md) — 占位，status 70，正文约 94 字
 - [ ] [月儿](docs/Y/Yuer.md) — 占位，无外链，status 70，正文约 43 字
 - [ ] [月牙](docs/Y/Yueya.md) — 占位，无外链，status 80，正文约 43 字
-- [ ] [yumi_03](docs/Y/yumi_03.md) — 占位，status 80，正文约 99 字
 - [ ] [芋喵喵](docs/Y/Yumiaomiao.md) — 过短，status 70，正文约 163 字
 - [ ] [玉兔兔](docs/Y/Yututu.md) — 占位，status 70，正文约 244 字
 - [ ] [鱼鱼子](docs/Y/Yuyuzi.md) — 占位，status 80，正文约 92 字

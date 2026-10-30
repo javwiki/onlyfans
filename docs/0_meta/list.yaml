@@ -267,7 +267,7 @@ Guitar:
   name: Guitar
   region: 泰国
   file: docs/G/Guitar.md
-  status: 70
+  status: 85
 izayoiRui:
   name: 十六夜淚
   region: 中国
@@ -334,11 +334,10 @@ Sofie14175952:
   x: Sofie14175952
   status: 80
 ssaimi:
-  name: ssaimi
-  x: ssaimi
+  name: 小艾米
   region: 中国
   file: docs/S/ssaimi.md
-  status: 70
+  status: 85
 StephanieKolman:
   name: Steph Kolman 💄
   region: 美国
@@ -709,9 +708,11 @@ babynookie:
   status: 85
 
 yumi_03:
-  name: yumi_03
+  name: 유미
+  region: 韩国
+  x: yumi_x03
   file: docs/Y/yumi_03.md
-  status: 80
+  status: 85
 
 deerlong:
   name: deerlong
@@ -883,10 +884,11 @@ Xiaweiwei:
   status: 70
 
 eeegon87:
-  name: eeegon87
+  name: 이곤
+  region: 日本
   x: eeegon87
   file: docs/E/eeegon87.md
-  status: 70
+  status: 85
 
 euna:
   name: eun-a
@@ -1197,7 +1199,7 @@ lovable33AfreecaTV:
   name: 妲熙
   region: 韩国
   file: docs/L/lovable33AfreecaTV.md
-  status: 70
+  status: 85
 
 Yumiaomiao:
   name: 芋喵喵

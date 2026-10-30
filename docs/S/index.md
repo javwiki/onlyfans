@@ -33,7 +33,7 @@
 - [@seoahn28_](./seo_ahn.md) — Ahn Seo Yeon / @seoahn28_
 - [@shuyangbabe](./shuyangbabe.md) — 南忘 / @shuyangbabe
 - [@ss0519](./ss0519.md) — 설희 / @ss0519
-- [@ssaimi](./ssaimi.md) — ssaimi
+- [@ssaimi](./ssaimi.md) — 小艾米
 - [@ssm1004](./ssm1004.md) — 李韶姬 / @ssm1004（含 @kimtan1004、@miso1239）
 - [@ssunbiki](./ssunbiki.md) — 썬비키 (Ssunbiki) / @Ssunbiki
 - [Solomiya Maievska](./SolomiyaMaievska.md) — Solomiya Maievska

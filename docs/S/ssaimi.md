@@ -1,20 +1,23 @@
+---
+tags: [中国, webcam, nsfw]
+---
+
 # ssaimi
 
 | 项目 | 内容 |
 |------|------|
-| **用户名** | `ssaimi` |
+| **用户名** | ssaimi |
+| **资料页姓名** | 小艾米 |
 | **地区** | 🇨🇳 中国 |
-| **内容类型** | 成人内容 |
+| **内容类型** | Stripchat 直播 |
 
 ## 📝 简介
 
-网络搜索未找到该创作者的具体信息。
+ssaimi 是 Stripchat 上的中文直播间。公开简介为中文，房间提示里的称呼是小艾米。目录里的 X @ssaimi 是空简介的另一个账号，不是这个直播间，已从账号字段移除。资料核对日期：2026-10-30。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/ssaimi)
-- [Stripchat](https://stripchat.com/ssaimi) — 直播主页
-- [Stripchat Videos](https://stripchat.com/ssaimi/videos) — 录制视频
+- [Stripchat](https://stripchat.com/ssaimi)
 
 ---
 

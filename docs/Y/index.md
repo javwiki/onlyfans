@@ -39,7 +39,7 @@
 - [@Yves_bunny](./Yves_bunny.md) — イヴ / @Yves_bunny
 - [@yoshi9467](./yoshi9467.md) — โยชิ ธันชนก / @yoshi9467
 - [@yui_xin_tw](./yui_xin_tw.md) — 辛尤里 / @yui_xin_tw
-- [@yumi_03](./yumi_03.md) — yumi_03 / @yumi_03
+- [@yumi_03](./yumi_03.md) — 유미 / @yumi_x03
 - [@yuna_sirobuta](./yuna_sirobuta.md) — 白豚 / @yuna_sirobuta
 - [@yunadoll117](./yunadoll117.md) — Yunadoll / @Yunadoll117
 - [@yuringomen](./yuringomen.md) — ゆりん / @yuringomen
