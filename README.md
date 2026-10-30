@@ -1,10 +1,10 @@
-# OnlyFans / Adult Model / NSFW Webcam Girl Index
+# OnlyFans Creator Index
 
 English | [简体中文](./README.zh-CN.md)
 
 A public information index built with Zensical, focused on the keywords `OnlyFans`, `adult model`, `NSFW webcam girl`, and `amateur made`.
 
-`amateur made` is used only for search and classification. Entries cover creators' public identity information, references to voluntarily published content, and official or public platform pages, including publicly accessible adult industry information sites and media reports. The index excludes non-consensual recordings and pirated copies of paid content.
+`amateur made` is used only for search and classification. Entries cover creators' public identity information, references to published content, and official or public platform pages, including publicly accessible adult industry information sites and media reports.
 
 ## Features
 

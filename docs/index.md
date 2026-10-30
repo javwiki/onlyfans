@@ -1,10 +1,8 @@
-# OnlyFans / Adult Model / NSFW Webcam Girl 索引
+# OnlyFans 创作者索引
 
 本项目收录来自 OnlyFans、成人模特与 NSFW webcam girl 领域的公开创作者资料，并按用户名首字母归类。
 
-定位关键词：`OnlyFans`、`adult model`、`NSFW webcam girl`、`amateur made`。
-
-> `amateur made` 仅用于检索与分类。条目收录公开身份资料与官方/公开平台页面；不收录非自愿偷拍影像与付费内容的盗版转载。
+定位关键词：`OnlyFans`、`adult model`、`NSFW webcam girl`、`amateur made`。`amateur made` 仅用于检索与分类。
 
 ## 如何使用
 

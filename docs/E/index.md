@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [@EdMosaic](./EdMosaic.md) — Ed Mosaic
+- [@ed_mosaic](./EdMosaic.md) — Ed Mosaic
 - [Eunsora](./Eunsora.md) — BJ Eunsora / 은소라 / Yenny / son_ye_eun / ye._eun_s2 / yeeny618 / 손예은（同一人）
 - [@Elisetutu](./Elisetutu.md) — 谭晓彤（兔兔） / @TUTUElise
 - [@Equanshaonv](./Equanshaonv.md) — 恶犬少女
@@ -18,7 +18,7 @@
 - [@euna](./euna.md) — eun-a
 
 - [@EllieLeen1](./EllieLeen1.md) — Ellie Leen
-- [Emily Bloom](./EmilyBloom.md) — Emily Bloom
+- [@TheEmilyBloom](./EmilyBloom.md) — Emily Bloom
 - [@empressellievip](./empressellievip.md) — Ellie The Empress
 - [@ero_inkyung](./ero_inkyung.md) — 강인경 卿卿 / Inkyung
 ---

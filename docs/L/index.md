@@ -10,7 +10,7 @@
 - [@LINABUBUJKF](./LINABUBUJKF.md) — 台灣藤井LINA
 - [@Ladyyuan](./Ladyyuan.md) — Ladyyuan / @Ladyyuan
 - [@Laohucai](./Laohucai.md) — 老虎菜
-- [@LarkinLove](./LarkinLove.md) — Larkin Love
+- [@larkinlovexxx](./LarkinLove.md) — Larkin Love
 - [@LauraBragato](./LauraBragato.md) — Laura Bragato
 - [@LenaLi](./LenaLi.md) — Lena Li
 - [@Lianxin](./Lianxin.md) — 连欣

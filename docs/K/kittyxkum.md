@@ -28,7 +28,7 @@ Kitty Kum（`@kittyxkum`）是美国成人模特和内容创作者，公开资�
 - [Throne](https://throne.com/kittyxkum) — OnlyFans 公开主页所链接的愿望清单
 - [Babepedia 公开资料](https://www.babepedia.com/onlyfans/kittyxkum) — 平台资料参考
 
-> 本条目仅收录合法公开的身份资料和平台主页链接，不提供或链接泄露、盗版及非自愿私密内容。平台统计数据可能随时间变化，以上数字以本次核验时的公开页面为准。
+> 平台统计数据可能随时间变化，以上数字以本次核验时的公开页面为准。
 
 ---
 

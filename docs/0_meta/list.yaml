@@ -431,8 +431,8 @@ Desireeblackkk:
 daddysgirl222:
   name: daddysgirl222
   file: docs/D/daddysgirl222.md
-  x: daddysgirl222
-  status: 70
+  region: 欧洲
+  status: 85
 
 ssm1004:
   name: 李韶姬
@@ -649,7 +649,8 @@ octokuro:
 EmilyBloom:
   name: Emily Bloom
   file: docs/E/EmilyBloom.md
-  status: 70
+  x: TheEmilyBloom
+  status: 85
 
 Pinkchyu:
   name: Pinkchyu
@@ -659,7 +660,8 @@ Pinkchyu:
 Amouranth:
   name: Amouranth
   file: docs/A/Amouranth.md
-  status: 70
+  region: 美国
+  status: 85
 
 Morgpie:
   name: Morgpie
@@ -669,7 +671,7 @@ Morgpie:
 CutieKim:
   name: Cutie Kim
   file: docs/C/CutieKim.md
-  status: 70
+  status: 85
 
 SweetieFox:
   name: Sweetie Fox
@@ -1496,9 +1498,10 @@ Bora:
 
 EdMosaic:
   name: Ed Mosaic
-  x: EdMosaic
+  x: ed_mosaic
+  region: 台湾
   file: docs/E/EdMosaic.md
-  status: 80
+  status: 85
 
 eemiim:
   name: eemiim
@@ -1907,14 +1910,16 @@ DianaDaniels:
 
 SamanthaFlair:
   name: Samantha Flair
-  x: SamanthaFlair
+  x: kinkykinky111
   file: docs/S/SamanthaFlair.md
-  status: 70
+  status: 85
 
 KatyaLetova:
   name: Katya Letova
   file: docs/K/KatyaLetova.md
-  status: 70
+  x: katya_leta
+  region: 俄罗斯
+  status: 85
 
 MarcelinAbadir:
   name: Marcelin Abadir
@@ -1924,9 +1929,9 @@ MarcelinAbadir:
 
 KatieThornton:
   name: Katie Thornton
-  x: KatieThornton
+  region: 英国
   file: docs/K/KatieThornton.md
-  status: 70
+  status: 85
 
 
 LenaLi:
@@ -1937,7 +1942,9 @@ LenaLi:
 LarkinLove:
   name: Larkin Love
   file: docs/L/LarkinLove.md
-  status: 70
+  x: larkinlovexxx
+  region: 美国
+  status: 85
 
 NileyHott:
   name: Niley Hott
@@ -2059,9 +2066,10 @@ Chenkexin:
 
 CrystalClark:
   name: Crystal Clark
-  x: CrystalClark
+  x: CrystalClarkXo
+  region: 美国
   file: docs/C/CrystalClark.md
-  status: 70
+  status: 85
 
 YeonWoo:
   name: 연우

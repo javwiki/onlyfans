@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [@SamanthaFlair](./SamanthaFlair.md) — Samantha Flair
+- [@kinkykinky111](./SamanthaFlair.md) — Samantha Flair
 - [@SandyCoco](./SandyCoco.md) — 可欣
 - [@SeoaliveDodo](./SeoaliveDodo.md) — 서아
 - [@Seulbi](./Seulbi.md) — 瑟妃
