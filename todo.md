@@ -2,6 +2,8 @@
 
 核对日期：2026-10-30。完成一项后删除对应条目。`region` 缺项已统一补为「未知」，待后续逐条核实。
 
+当前校验：`errors=0`，`warnings=1`（W2 占位页 94 个）。
+
 ## 一、资料待补充条目（179 条）
 
 正文偏短，或仍缺少可核验的身份、地区与平台链接。补全后删除；确认无公开资料的条目保留「已核查」说明。
@@ -25,7 +27,7 @@
 
 - [ ] [草帽](docs/C/Caomao.md) — 已核查，地区未知，无外链，status 70，正文约 292 字
 - [ ] [草莓熊](docs/C/Caomeixiong.md) — 已核查，地区未知，无外链，status 70，正文约 239 字
-- [ ] [香港欲女](docs/C/CarlaGrace.md) — 已核查，无外链，status 70，正文约 273 字
+- [ ] [香港欲女](docs/C/CarlaGrace.md) — 已核查，地区未知，无外链，status 70，正文约 273 字
 - [ ] [成都奶妈瓶儿](docs/C/Chengdunaimapinger.md) — 已核查，地区未知，无外链，status 70，正文约 219 字
 - [ ] [陈可心](docs/C/Chenkexin.md) — 已核查，地区未知，无外链，status 70，正文约 234 字
 - [ ] [陈若初](docs/C/Chenruochu.md) — 已核查，地区未知，无外链，status 70，正文约 244 字
@@ -109,7 +111,7 @@
 - [ ] [林雨馨](docs/L/Linyuxin.md) — 过短，status 70，正文约 11 字
 - [ ] [林雅儿](docs/L/LisaOkko.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [李晓雅](docs/L/Lixiaoya.md) — 过短，地区未知，status 70，正文约 11 字
-- [ ] [李智贤](docs/L/Lizhixian.md) — 占位，status 80，正文约 17 字
+- [ ] [李智贤](docs/L/Lizhixian.md) — 占位，地区未知，status 80，正文约 17 字
 - [ ] [林佳](docs/L/lj10010.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [longmaocouple](docs/L/longmaocouple.md) — 过短，地区未知，status 70，正文约 78 字
 - [ ] [特莱莎](docs/L/lyainevan.md) — 过短，地区未知，status 70，正文约 80 字
@@ -142,13 +144,13 @@
 - [ ] [o11na](docs/O/o11na.md) — 占位，地区未知，status 70，正文约 17 字
 ### P
 
-- [ ] [帕里斯](docs/P/Palisi.md) — 占位，status 80，正文约 17 字
+- [ ] [帕里斯](docs/P/Palisi.md) — 占位，地区未知，status 80，正文约 17 字
 - [ ] [punipxn](docs/P/punipxn.md) — 占位，地区未知，status 70，正文约 17 字
 
 ### Q
 
 - [ ] [倩倩](docs/Q/Qianqian180.md) — 占位，无外链，status 70，正文约 17 字
-- [ ] [清心](docs/Q/Qingxin.md) — 占位，status 80，正文约 17 字
+- [ ] [清心](docs/Q/Qingxin.md) — 占位，地区未知，status 80，正文约 17 字
 - [ ] [秋名山乳神](docs/Q/Qiumingshanrushen.md) — 占位，无外链，status 80，正文约 17 字
 
 ### R
@@ -191,7 +193,7 @@
 - [ ] [温柔苗](docs/W/Wenroumiao.md) — 过短，status 70，正文约 87 字
 - [ ] [Willow](docs/W/Willow.md) — 过短，地区未知，无外链，status 70，正文约 19 字
 - [ ] [我是你可爱的小猫](docs/W/Woshinikeaidexiaomao.md) — 占位，地区未知，status 80，正文约 17 字
-- [ ] [吴丽娜](docs/W/Wulina.md) — 占位，status 80，正文约 17 字
+- [ ] [吴丽娜](docs/W/Wulina.md) — 占位，地区未知，status 80，正文约 17 字
 - [ ] [吴清雅](docs/W/Wuqingya.md) — 过短，地区未知，无外链，status 80，正文约 108 字
 - [ ] [吴X晶](docs/W/WuXjing.md) — 过短，地区未知，无外链，status 80，正文约 107 字
 
@@ -245,7 +247,7 @@
 - [ ] [月牙](docs/Y/Yueya.md) — 占位，无外链，status 80，正文约 17 字
 - [ ] [芋喵喵](docs/Y/Yumiaomiao.md) — 过短，地区未知，status 70，正文约 93 字
 - [ ] [玉兔兔](docs/Y/Yututu.md) — 占位，status 70，正文约 17 字
-- [ ] [鱼鱼子](docs/Y/Yuyuzi.md) — 占位，status 80，正文约 17 字
+- [ ] [鱼鱼子](docs/Y/Yuyuzi.md) — 占位，地区未知，status 80，正文约 17 字
 
 ### Z
 
@@ -272,7 +274,8 @@
 
 ## 三、其他一致性工作
 
-- [ ] 将 `region` 仍为 `未知` 的 194 条逐条核实为实际地区。
-- [ ] tags 覆盖：530 页中 179 页有 tags，决定其余页面是否补标（含国家、平台、内容类型）。
+- [ ] 将 `region` 仍为 `未知` 的 300 条逐条核实为实际地区。
+- [ ] tags 覆盖：703 页中 352 页有 tags，决定其余页面是否补标（含国家、平台、内容类型）。
+- [ ] 复核从 X 关注名单导入的 171 个 OnlyFans 条目：21 个为 medium confidence，106 个地区未知，需逐条核对账号归属与地区。
 - [ ] 无外链页面 81 个，其中 74 个已在第一节；其余按需补充可核验链接。
 - [ ] 目标：`python3 scripts/validate.py --strict` 零警告（依赖第一节完成）。
