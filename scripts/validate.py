@@ -36,6 +36,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "docs")
 LIST_YAML = os.path.join(SRC, "0_meta", "list.yaml")
 LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+NUMBER_DIR = "0-9"
+SECTIONS = tuple(LETTERS) + (NUMBER_DIR,)
 PLACEHOLDER_MARKS = ("网络搜索未找到", "未找到关于", "未找到其他公开信息")
 
 errors: list[str] = []
@@ -172,8 +174,8 @@ def main() -> int:
         if type(status) is not int or not 0 <= status <= 100:
             err(f"E1 条目 {key}: status 必须是 0–100 的整数")
         f = v.get("file")
-        if not isinstance(f, str) or not re.fullmatch(r"docs/[A-Z]/[^/]+\.md", f) or os.path.basename(f) == "index.md":
-            err(f"E1 条目 {key}: file 必须指向 docs/A–Z 下的 Markdown 详情页")
+        if not isinstance(f, str) or not re.fullmatch(r"docs/(?:[A-Z]|0-9)/[^/]+\.md", f) or os.path.basename(f) == "index.md":
+            err(f"E1 条目 {key}: file 必须指向 docs/A–Z 或 docs/0-9 下的 Markdown 详情页")
             continue
         if not os.path.isfile(os.path.join(ROOT, f)):
             err(f"E1 条目 {key}: file 指向不存在的文件 {f}")
@@ -183,7 +185,7 @@ def main() -> int:
     # ---- E2: 无孤儿博主页 ----
     refs = set(os.path.normpath(v["file"]) for v in pages.values())
     all_pages = set()
-    for d in LETTERS:
+    for d in SECTIONS:
         for f in glob.glob(os.path.join(SRC, d, "*.md")):
             if os.path.basename(f) == "index.md":
                 continue
@@ -194,7 +196,7 @@ def main() -> int:
     # ---- E3: 字母索引页完整性 ----
     entry_by_file = {os.path.normpath(v["file"]): (key, v) for key, v in pages.items()}
     index_orders: list[tuple[str, list[str]]] = []
-    for d in LETTERS:
+    for d in SECTIONS:
         idx = os.path.join(SRC, d, "index.md")
         if not os.path.exists(idx):
             err(f"E3 缺少索引页 {idx}")

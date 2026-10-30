@@ -23,7 +23,7 @@ class ValidationTests(unittest.TestCase):
         self.root = Path(self.temp.name)
         self.docs = self.root / "docs"
         (self.docs / "0_meta").mkdir(parents=True)
-        for letter in validate.LETTERS:
+        for letter in validate.SECTIONS:
             directory = self.docs / letter
             directory.mkdir()
             (directory / "index.md").write_text("# List\n", encoding="utf-8")
@@ -51,6 +51,19 @@ class ValidationTests(unittest.TestCase):
                 contextlib.redirect_stdout(output):
             code = validate.main()
         return code, output.getvalue()
+
+    def test_numeric_start_username_uses_numeric_directory(self):
+        page = "## 简介\n介绍\n## 相关链接\n[返回](./index.md) · 首页\n"
+        (self.docs / "A" / "Alice.md").unlink()
+        (self.docs / "A" / "index.md").write_text("# List\n", encoding="utf-8")
+        (self.docs / "0-9" / "2lovechuu.md").write_text(page, encoding="utf-8")
+        (self.docs / "0-9" / "index.md").write_text("[2lovechuu](./2lovechuu.md)\n", encoding="utf-8")
+        self.data = {"2lovechuu": {
+            "name": "츄츄", "region": "韩国", "file": "docs/0-9/2lovechuu.md", "status": 80,
+        }}
+        self.save()
+        code, output = self.run_validator(strict=True)
+        self.assertEqual(code, 0, output)
 
     def test_strict_passes_without_warnings(self):
         code, output = self.run_validator(strict=True)
