@@ -1402,7 +1402,7 @@ Exiaojie:
 Zhouzhouguaizai:
   name: 周周乖崽
   region: 中国
-  x: Zhouzhouguaizai
+  x: zhouzhouguaizai
   file: docs/Z/Zhouzhouguaizai.md
   status: 80
 
@@ -1916,11 +1916,11 @@ Yazhoudiantunhuanghou:
   status: 70
 
 Zhouboer:
-  name: 周波儿
+  name: 周波儿 / 周可可
   region: 中国
   x: Zhouboer
   file: docs/Z/Zhouboer.md
-  status: 80
+  status: 85
 
 mmzhazhixia:
   name: 榨汁夏
@@ -2240,11 +2240,11 @@ YEWON:
   status: 80
 
 Zhangweiya:
-  name: 张维亚
-  region: 未知
-  x: Zhangweiya
+  name: 张维亚 / 張維亞
+  region: 台湾
+  x: picweiwei
   file: docs/Z/Zhangweiya.md
-  status: 70
+  status: 85
 
 Yuyuzi:
   name: 鱼鱼子
@@ -2356,9 +2356,9 @@ Songxingxing-kuaishou:
 Zhangyunxi:
   name: 张芸熙
   region: 未知
-  x: Zhangyunxi
+  x: lingwnsh486883
   file: docs/Z/Zhangyunxi.md
-  status: 70
+  status: 80
 
 Chentiantian:
   name: 陈甜甜
@@ -2406,8 +2406,7 @@ Shanghaixixi:
 
 Zaixiaxiaoyang:
   name: 在下小羊
-  region: 未知
-  x: Zaixiaxiaoyang
+  region: 中国
   file: docs/Z/Zaixiaxiaoyang.md
   status: 80
 
@@ -2503,10 +2502,10 @@ Xiaoshuixi:
 
 Zhiyimeimei:
   name: 知一妹妹
-  region: 中国
-  x: Zhiyimeimei
+  region: 香港
+  x: lllllllll520
   file: docs/Z/Zhiyimeimei.md
-  status: 70
+  status: 85
 
 aryminh:
   name: aryminh
