@@ -6,6 +6,7 @@
 
 ## 🧑‍🎤 博主
 
+- [@2lovechuu](./2lovechuu.md) — 츄츄💋
 - [Ladyyuan](./Ladyyuan.md) — Ladyyuan
 - [@LALADELUXXX](./LALADELUXXX.md) — Kyla
 - [@lalaxiaoqiya_](./lalaxiaoqiya_.md) — 辣辣小柒

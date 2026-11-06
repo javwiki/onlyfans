@@ -36,8 +36,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "docs")
 LIST_YAML = os.path.join(SRC, "0_meta", "list.yaml")
 LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-NUMBER_DIR = "0-9"
-SECTIONS = tuple(LETTERS) + (NUMBER_DIR,)
+SECTIONS = tuple(LETTERS)
 PLACEHOLDER_MARKS = ("网络搜索未找到", "未找到关于", "未找到其他公开信息")
 
 errors: list[str] = []
@@ -174,8 +173,8 @@ def main() -> int:
         if type(status) is not int or not 0 <= status <= 100:
             err(f"E1 条目 {key}: status 必须是 0–100 的整数")
         f = v.get("file")
-        if not isinstance(f, str) or not re.fullmatch(r"docs/(?:[A-Z]|0-9)/[^/]+\.md", f) or os.path.basename(f) == "index.md":
-            err(f"E1 条目 {key}: file 必须指向 docs/A–Z 或 docs/0-9 下的 Markdown 详情页")
+        if not isinstance(f, str) or not re.fullmatch(r"docs/[A-Z]/[^/]+\.md", f) or os.path.basename(f) == "index.md":
+            err(f"E1 条目 {key}: file 必须指向 docs/A–Z 下的 Markdown 详情页")
             continue
         if not os.path.isfile(os.path.join(ROOT, f)):
             err(f"E1 条目 {key}: file 指向不存在的文件 {f}")

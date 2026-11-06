@@ -28,4 +28,4 @@ tags: [韩国, onlyfans, nsfw]
 
 ---
 
-[◀ 返回 0–9 列表](./index.md) · [🏠 首页](../index.md)
+[◀ 返回 L 列表](./index.md) · [🏠 首页](../index.md)

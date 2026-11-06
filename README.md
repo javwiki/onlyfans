@@ -10,7 +10,7 @@ A public information index built with Zensical, focused on the keywords `OnlyFan
 
 ## Features
 
-- 📚 Creators organized by username initial: A–Z and 0–9
+- 📚 Creators organized by first letter of username: A–Z (leading digits skipped)
 - 🌍 Coverage across multiple countries and regions
 - 🔗 Social media links, content platform links, and profiles
 - 🔎 Searchable public information about adult models and NSFW webcam creators
@@ -24,11 +24,10 @@ docs/
 │   ├── list.yaml    # Creator index (YAML)
 │   └── source.md    # Information sources
 ├── A-Z/            # Creator pages grouped by initial letter
-├── 0-9/            # Creator pages for usernames starting with a digit
 └── index.md        # Home page
 ```
 
-Navigation is generated automatically from directory and file names. The numeric prefix in `0_meta` places background information before the A–Z sections, while the home page remains first. The `0-9` directory holds creators whose usernames start with a digit. Within each directory, `index.md` comes first, followed by the other pages in filename order. No explicit `nav` configuration is needed.
+Navigation is generated automatically from directory and file names. The numeric prefix in `0_meta` places background information before the A–Z sections, while the home page remains first. Usernames that start with a digit skip the leading digits and are filed under their first letter. Within each directory, `index.md` comes first, followed by the other pages in filename order. No explicit `nav` configuration is needed.
 
 ## Information sources
 
