@@ -2,9 +2,9 @@
 
 核对日期：2026-10-30。完成一项后删除对应条目。`region` 缺项已统一补为「未知」，待后续逐条核实。
 
-当前校验：`errors=0`，`warnings=1`（W2 占位页 83 个）。
+当前校验：`errors=0`，`warnings=1`（W2 占位页 80 个）。
 
-## 一、资料待补充条目（166 条）
+## 一、资料待补充条目（162 条）
 
 正文偏短，或仍缺少可核验的身份、地区与平台链接。补全后删除；确认无公开资料的条目保留「已核查」说明。
 
@@ -13,7 +13,6 @@
 - [ ] [AliceNANA](docs/A/AliceNANA.md) — 已核查，地区未知，无外链，status 70，正文约 387 字
 - [ ] [阿曼達拍拍](docs/A/Amandapaipai.md) — 已核查，地区未知，无外链，status 70，正文约 304 字
 - [ ] [安安老师](docs/A/Ananlaoshi.md) — 已核查，无外链，status 80，正文约 331 字
-- [ ] [钱宝宝](docs/A/Anna.md) — 已核查，无外链，status 70，正文约 377 字
 - [ ] [Artgroovy](docs/A/Artgroovy.md) — 已核查，地区未知，无外链，status 80，正文约 409 字
 
 ### B
@@ -229,7 +228,6 @@
 - [ ] [一唯唯](docs/Y/Yiweiwei.md) — 过短，地区未知，无外链，status 80，正文约 108 字
 - [ ] [一小只萌宠](docs/Y/Yixiaozhimengchong.md) — 占位，地区未知，无外链，status 70，正文约 17 字
 - [ ] [幼齿酱](docs/Y/Youchijiang.md) — 过短，地区未知，status 80，正文约 98 字
-- [ ] [尤秘书](docs/Y/Youmishu.md) — 占位，地区未知，无外链，status 70，正文约 17 字
 - [ ] [柚子猫](docs/Y/Youzimao.md) — 过短，地区未知，status 80，正文约 103 字
 - [ ] [原味小辣椒](docs/Y/Yuanweixiaolajiao.md) — 占位，地区未知，无外链，status 70，正文约 17 字
 - [ ] [原野小年](docs/Y/Yuanyexiaonian.md) — 过短，地区未知，status 80，正文约 107 字
@@ -238,9 +236,6 @@
 - [ ] [月儿](docs/Y/Yuer.md) — 占位，地区未知，无外链，status 70，正文约 17 字
 - [ ] [月牙](docs/Y/Yueya.md) — 占位，无外链，status 80，正文约 17 字
 - [ ] [芋喵喵](docs/Y/Yumiaomiao.md) — 过短，地区未知，status 70，正文约 93 字
-- [ ] [玉兔兔](docs/Y/Yututu.md) — 占位，status 70，正文约 17 字
-- [ ] [鱼鱼子](docs/Y/Yuyuzi.md) — 占位，地区未知，status 80，正文约 17 字
-
 ### Z
 
 - [ ] [张恩琪](docs/Z/Zhangenqi.md) — 占位，地区未知，无外链，status 70，正文约 17 字

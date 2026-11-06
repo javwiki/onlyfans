@@ -34,7 +34,7 @@
 - [@angellicagood](./angellicagood.md) — Angellica Good 💕（0.2% OF）
 - [@AnijNicole](./AnijNicole.md) — ANIJ
 - [Anji](./Anji.md) — 安吉
-- [Anna](./Anna.md) — 钱宝宝
+- [Anna](./Anna.md) — 钱宝宝 / 玉兔兔
 - [@AnnaBellPeaksXX](./AnnaBellPeaksXX.md) — Anna Bell Peaks
 - [@AnnaDelosShow](./AnnaDelosShow.md) — Anna Delos
 - [@aoki__alice](./aoki__alice.md) — Aoki Alice 🍒

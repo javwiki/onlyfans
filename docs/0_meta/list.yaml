@@ -408,12 +408,6 @@ Wine:
   file: docs/W/Wine.md
   status: 70
 
-Yututu:
-  name: 玉兔兔
-  region: 中国
-  file: docs/Y/Yututu.md
-  status: 70
-
 mina0977:
   name: mina0977
   region: 韩国
@@ -921,7 +915,7 @@ YukoMomohi:
   name: 桃姫優子
   region: 日本
   file: docs/Y/YukoMomohi.md
-  status: 80
+  status: 85
 
 Xiaoqiao:
   name: 小乔
@@ -1356,7 +1350,7 @@ Anna:
   name: 钱宝宝
   region: 中国
   file: docs/A/Anna.md
-  status: 70
+  status: 80
 
 Xiaaxia:
   name: 夏阿夏
@@ -2195,9 +2189,9 @@ abbykitty0505:
 
 Youmishu:
   name: 尤秘书
-  region: 未知
+  region: 中国
   file: docs/Y/Youmishu.md
-  status: 70
+  status: 80
 
 Shengyouxiaoyun:
   name: 声优小允
@@ -2245,13 +2239,6 @@ Zhangweiya:
   x: picweiwei
   file: docs/Z/Zhangweiya.md
   status: 85
-
-Yuyuzi:
-  name: 鱼鱼子
-  region: 未知
-  x: Yuyuzi
-  file: docs/Y/Yuyuzi.md
-  status: 80
 
 Ruanruanxiaoshimei:
   name: 软软小湿妹

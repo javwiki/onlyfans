@@ -26,7 +26,7 @@
 - [@yoshi9467](./yoshi9467.md) — โยชิ ธันชนก
 - [@yoshinobi_cos](./yoshinobi_cos.md) — Yoshinobi-chan
 - [@Youchijiang](./Youchijiang.md) — 幼齿酱
-- [Youmishu](./Youmishu.md) — 尤秘书
+- [Youmishu](./Youmishu.md) — 尤秘书 / 美宝儿
 - [@Youzimao](./Youzimao.md) — 柚子猫
 - [Yoyo_520](./Yoyo_520.md) — 少妇yoyo
 - [Yuanweixiaolajiao](./Yuanweixiaolajiao.md) — 原味小辣椒
@@ -42,7 +42,7 @@
 - [@Yuki_Onna90](./Yuki_Onna90.md) — 𝓨𝓾𝓴𝓲 𝓞𝓷𝓷𝓪
 - [@YukiAyaaa](./YukiAyaaa.md) — 方夜
 - [@yukijimiwan](./yukijimiwan.md) — YuKi_Yaifoto / Yu Sweetty
-- [YukoMomohi](./YukoMomohi.md) — 桃姫優子
+- [YukoMomohi](./YukoMomohi.md) — 桃姫優子 / 君野ここ
 - [@yum_707](./yum_707.md) — Yummy707
 - [@yumi_x03](./yumi_03.md) — 유미
 - [@Yumiaomiao](./Yumiaomiao.md) — 芋喵喵
@@ -51,9 +51,7 @@
 - [@yunablove](./yunablove.md) — Yuna
 - [@yunadoll117](./yunadoll117.md) — Yunadoll
 - [@yuringomen](./yuringomen.md) — ゆりん
-- [Yututu](./Yututu.md) — 玉兔兔
 - [@yuumeilyn](./yuumeilyn.md) — 玲兒
-- [@Yuyuzi](./Yuyuzi.md) — 鱼鱼子
 - [@yuzichucunqi](./yuzichucunqi.md) — 鱼籽储存器
 - [@Yves_bunny](./Yves_bunny.md) — イヴ
 - [@ywzzz_](./ywzzz_.md) — ywzzz
