@@ -42,13 +42,13 @@ docs/
 1. 检查 Zensical 版本：
 
 ```bash
-uvx --from zensical==0.0.62 zensical --version
+uvx --from zensical==0.1.0 zensical --version
 ```
 
 2. 本地预览：
 
 ```bash
-uvx --from zensical==0.0.62 zensical serve
+uvx --from zensical==0.1.0 zensical serve
 ```
 
 访问 http://localhost:8000
@@ -79,7 +79,7 @@ X/Twitter 账号为可选信息。只有已确认归属的账号才填写 `x` �
 
 ```bash
 uv run --with pyyaml python scripts/validate.py
-uvx --from zensical==0.0.62 zensical build --clean --strict
+uvx --from zensical==0.1.0 zensical build --clean --strict
 ```
 
 资料校验会检查 YAML 重复键、字段类型、`status` 范围、详情文件、字母索引链接与排序、索引中 `@handle` 是否与 `x` 字段一致、页面区块（含空区块）、相对链接、tags 格式与平台账号复用。地区缺失、占位页与账号复用仅在普通模式下提示警告，不阻止推送。

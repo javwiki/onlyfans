@@ -42,13 +42,13 @@ Navigation is generated automatically from directory and file names. The numeric
 1. Check the Zensical version:
 
 ```bash
-uvx --from zensical==0.0.62 zensical --version
+uvx --from zensical==0.1.0 zensical --version
 ```
 
 2. Start the local preview:
 
 ```bash
-uvx --from zensical==0.0.62 zensical serve
+uvx --from zensical==0.1.0 zensical serve
 ```
 
 Open http://localhost:8000.
@@ -79,7 +79,7 @@ Before every push, run these commands from the project root. Push only after bot
 
 ```bash
 uv run --with pyyaml python scripts/validate.py
-uvx --from zensical==0.0.62 zensical build --clean --strict
+uvx --from zensical==0.1.0 zensical build --clean --strict
 ```
 
 The data validator checks duplicate YAML keys, field types, the `status` range, profile files, alphabet index links and ordering, verified X handles in the index, page sections (including empty ones), relative links, tag formatting, and shared platform accounts. Missing regions, placeholder profiles, and reused accounts produce warnings in normal mode and do not block a push.

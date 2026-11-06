@@ -12,8 +12,8 @@ variant = "classic"
 language = "zh"
 features = [
   "navigation.instant",
+  "navigation.prune",
   "navigation.path",
-  "navigation.sections",
   "navigation.indexes",
   "navigation.top",
   "search.highlight",
