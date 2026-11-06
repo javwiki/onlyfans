@@ -10,6 +10,7 @@ use_directory_urls = true
 [project.theme]
 variant = "classic"
 language = "zh"
+font = false
 features = [
   "navigation.instant",
   "navigation.prune",
