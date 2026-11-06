@@ -1,12 +1,24 @@
+---
+tags: [韩国, webcam, nsfw]
+---
+
 # 찌옹
+
+| 项目 | 内容 |
+|------|------|
+| **用户名** | wltn9818 |
+| **资料页姓名** | 찌옹 |
+| **地区** | 🇰🇷 韩国 |
+| **内容类型** | PandaTV 直播 |
 
 ## 📝 简介
 
-찌옹（JJiong），韩国AfreecaTV（now直播）平台的主播及成人内容创作者，以性感的直播风格和火辣身材受到韩国及海外粉丝的喜爱。她在OnlyFans等平台发布独家内容。
+찌옹对应的直播 ID 为 wltn9818。PandaLive 频道标题写「ෆ찌옹ෆ」，页面文件名中的 winktv 是旧平台标注；WinkTV 已于 2025 年 6 月并入 PandaTV。X @zziongzzang 显示名同为 찌옹，公开帖用来发休播和复播通知，按内容可视为本人账号。旧简介里的 AfreecaTV / OnlyFans 说法没有核到对应主页，本条不沿用。资料核对日期：2026-11-06。
 
 ## 🔗 相关链接
 
-暂无公开社交媒体链接。
+- [PandaLive](https://www.pandalive.co.kr/channel/wltn9818)
+- [X / Twitter](https://x.com/zziongzzang)
 
 ---
 

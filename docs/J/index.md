@@ -16,11 +16,11 @@
 - [@jethedeath](./jethedeath.md) — 魷魚𝔍𝔢𝔰𝔰𝔢
 - [@jhenna_greey1](./jhenna_greey1.md) — Susana
 - [Jiaduobao](./Jiaduobao.md) — 佳多饱
-- [@Jiangkeai](./Jiangkeai.md) — 江可爱
+- [@jiangkeai520](./Jiangkeai.md) — 江可爱
 - [Jikey](./Jikey.md) — Jikey
 - [jinjinzara302](./jinjinzara302.md) — 베베앙
 - [Jjangjjanggeol](./Jjangjjanggeol.md) — 짱짱걸门把手
-- [JJiongwltn9818winktv](./JJiongwltn9818winktv.md) — 찌옹
+- [@zziongzzang](./JJiongwltn9818winktv.md) — 찌옹
 - [joycezarza](./joycezarza.md) — Joyce Zarza
 - [@Jugensihan](./Jugensihan.md) — 巨根思涵
 ---

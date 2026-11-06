@@ -8,7 +8,7 @@
 
 - [Gaotaituinvjiaoguan](./Gaotaituinvjiaoguan.md) — 高抬腿女教官
 - [@Gaoyinxing](./Gaoyinxing.md) — 高銀星
-- [@Gatitayan](./Gatitayan.md) — 朵妃
+- [@gatitayan77](./Gatitayan.md) — 朵妃
 - [@Geniuseung](./Geniuseung.md) — ❣️LollipopLady❣️🍆
 - [@gfpupu](./gfpupu.md) — pupu噗噗（同人账号：@waifupupu、@goodgirlpupu）
 - [@gggg90](./gggg90.md) — 金艺贞

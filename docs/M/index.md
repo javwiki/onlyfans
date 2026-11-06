@@ -41,7 +41,7 @@
 - [@mina0977](./mina0977.md) — mina0977
 - [@minami_airi_sa](./minami_airi_sa.md) — 美波あいり
 - [minichu](./minichu.md) — Minichu
-- [@minidiva](./minidiva.md) — mini diva
+- [@minidivaonly](./minidiva.md) — mini diva
 - [@mintmoca3](./mintmoca3.md) — mintmoca3
 - [@mio772](./miohot.md) — 米欧
 - [@Mira_EiEi](./Mira_EiEi.md) — Mira_ei

@@ -4,7 +4,7 @@
 
 当前校验：`errors=0`，`warnings=1`（W2 占位页 94 个）。
 
-## 一、资料待补充条目（179 条）
+## 一、资料待补充条目（171 条）
 
 正文偏短，或仍缺少可核验的身份、地区与平台链接。补全后删除；确认无公开资料的条目保留「已核查」说明。
 
@@ -60,7 +60,6 @@
 ### G
 
 - [ ] [高抬腿女教官](docs/G/Gaotaituinvjiaoguan.md) — 占位，地区未知，无外链，status 70，正文约 17 字
-- [ ] [朵妃](docs/G/Gatitayan.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [金艺贞](docs/G/gggg90.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [Gguesting](docs/G/Gguesting.md) — 占位，地区未知，无外链，status 70，正文约 17 字
 - [ ] [GOFLOWER](docs/G/GOFLOWER.md) — 占位，地区未知，status 70，正文约 17 字
@@ -76,7 +75,6 @@
 - [ ] [黄可](docs/H/Huangke.md) — 占位，地区未知，仅搜索链接，status 80，正文约 17 字
 - [ ] [黄檬萌](docs/H/Huangmengmeng.md) — 占位，地区未知，仅搜索链接，status 70，正文约 17 字
 - [ ] [辉夜姬](docs/H/Huiyeji.md) — 占位，地区未知，仅搜索链接，status 70，正文约 17 字
-- [ ] [hungerlan](docs/H/hungerlan.md) — 占位，地区未知，status 70，正文约 17 字
 
 ### I
 
@@ -85,9 +83,6 @@
 ### J
 
 - [ ] [佳多饱](docs/J/Jiaduobao.md) — 过短，地区未知，仅搜索链接，status 70，正文约 65 字
-- [ ] [江可爱](docs/J/Jiangkeai.md) — 占位，地区未知，status 70，正文约 17 字
-- [ ] [짱짱걸门把手](docs/J/Jjangjjanggeol.md) — 占位，仅搜索链接，status 80，正文约 17 字
-- [ ] [찌옹](docs/J/JJiongwltn9818winktv.md) — 过短，无外链，status 70，正文约 89 字
 - [ ] [巨根思涵](docs/J/Jugensihan.md) — 占位，地区未知，status 70，正文约 17 字
 
 ### K
@@ -98,7 +93,6 @@
 - [ ] [林风姬](docs/K/kim3857pandatv.md) — 占位，地区未知，无外链，status 80，正文约 17 字
 - [ ] [金荷娜](docs/K/KimHaNeulHyena.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [金慧恩](docs/K/KimHyeEun.md) — 占位，地区未知，status 70，正文约 17 字
-- [ ] [kittyyumiko](docs/K/kittyyumiko.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [Neat](docs/K/kyl1012.md) — 过短，地区未知，status 80，正文约 105 字
 
 ### L
@@ -125,7 +119,6 @@
 - [ ] [梦菲桐香](docs/M/Mengfeitongxiang.md) — 占位，地区未知，无外链，status 70，正文约 17 字
 - [ ] [美七Mia](docs/M/Mia.md) — 占位，无外链，status 70，正文约 17 字
 - [ ] [豪乳miko](docs/M/miko.md) — 占位，地区未知，无外链，status 80，正文约 17 字
-- [ ] [mini diva](docs/M/minidiva.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [MissA](docs/M/MissA.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [莫菁](docs/M/Mojing.md) — 过短，地区未知，status 70，正文约 10 字
 
@@ -141,7 +134,6 @@
 
 ### O
 
-- [ ] [o11na](docs/O/o11na.md) — 占位，地区未知，status 70，正文约 17 字
 ### P
 
 - [ ] [帕里斯](docs/P/Palisi.md) — 占位，地区未知，status 80，正文约 17 字

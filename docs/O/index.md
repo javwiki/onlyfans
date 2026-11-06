@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [@o11na](./o11na.md) — o11na
+- [o11na](./o11na.md) — 원하나
 - [@Obokozu](./Obokozu.md) — Obokozu
 - [@octokuro](./octokuro.md) — octokuro
 - [@octokuro_model](./octokuro_model.md) — Octokuro

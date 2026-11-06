@@ -30,7 +30,7 @@
 - [@kitty2002102](./kitty2002102.md) — kitty🐱💘
 - [@Kittylixo](./Kittylixo.md) — Kitty Lixo
 - [@kittyxkum](./kittyxkum.md) — Kitty Kum
-- [@kittyyumiko](./kittyyumiko.md) — kittyyumiko
+- [kittyyumiko](./kittyyumiko.md) — kittyyumiko
 - [@kimmysun_](./kkimkkimmy.md) — KimmySun☀️
 - [@_KOMACHI_1](./_KOMACHI_1.md) — こまち.小丁
 - [@KorinaKova](./KorinaKova.md) — Korina Kova
