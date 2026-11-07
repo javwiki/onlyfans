@@ -52,7 +52,7 @@
 - [Asiafox](./Asiafox.md) — 泰国 webcam 模特，身份待核验
 - [@AsianHotwife_](./AsianHotwife_.md) — Monique Mae 🌺 @Asianhotwife 🏆 0.0%
 - [@athenakamii](./athenakamii.md) — athenakami
-- [@auntmaydupe](./auntmaydupe.md) — Liesa
+- [@auntmaydupe](./auntmaydupe.md) — Liesa（zartprickelnd / @liesalovesyou）
 - [@autumnxfallsx](./autumnxfallsx.md) — Autumn Falls
 - [@averyfuta57](./averyfuta57.md) — Avery Tepes
 - [@azn_hotwife](./azn_hotwife.md) — Azn Hotwife
