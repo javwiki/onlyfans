@@ -42,7 +42,7 @@
 - [Songxingxing-kuaishou](./Songxingxing-kuaishou.md) — 宋星星 - 快手
 - [ss0519](./ss0519.md) — 설희
 - [ssaimi](./ssaimi.md) — 小艾米
-- [ssm1004](./ssm1004.md) — 李韶姬 / 이소희（E소희；含 kimtan1004、miso1239）
+- [ssm1004](./ssm1004.md) — 李韶姬 / 이소희（E소희；含 kimtan1004、miso12391）
 - [@ssunbiki_](./ssunbiki.md) — 썬비키 (Ssunbiki) / @Ssunbiki
 - [@stefanygrest](./stefanygrest.md) — Stefany Restrepo
 - [@stellafrancisx](./stellafrancisx.md) — Stella Francis (ON1YF4NZ🌶️)
