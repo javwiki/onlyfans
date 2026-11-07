@@ -13,7 +13,7 @@
 - [ad1yn2](./ad1yn2.md) — ad1yn2
 - [@AddingtonJ1](./AddingtonJ1.md) — Josie Addington
 - [@ahrarei](./ahrarei.md) — ahra ♡*･ﾟ.°
-- [@akari_danyo](./akari_danyo.md) — あかり🍑（桃果あかり）
+- [@akari_danyo](./akari_danyo.md) — 美都朱音（桃果あかり）
 - [@AkiraSkyTv](./AkiraSkyTv.md) — 🌸🌙 Akira ☁️
 - [@lust4lexi](./AlexisArias.md) — Alexis Arias / Lexi2Legit
 - [@alice12191993](./alice12191993.md) — 乙アリスの日常💓🐥⸒⸒9/26.27コスホリ
