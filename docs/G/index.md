@@ -11,7 +11,7 @@
 - [@gatitayan77](./Gatitayan.md) — 朵妃
 - [@Geniuseung](./Geniuseung.md) — ❣️LollipopLady❣️🍆
 - [@gfpupu](./gfpupu.md) — pupu噗噗（同人账号：@waifupupu、@goodgirlpupu）
-- [@gggg90](./gggg90.md) — 金艺贞
+- [gggg90](./gggg90.md) — 金艺贞（슈빈 / Subin）
 - [Gguesting](./Gguesting.md) — Gguesting
 - [@Ghosty40handdss](./Ghosty40handdss.md) — Ghosty 💖
 - [@Ghosty40hands](./Ghosty40hands.md) — Ghost Park

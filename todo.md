@@ -2,9 +2,9 @@
 
 核对日期：2026-10-30。完成一项后删除对应条目。`region` 缺项已统一补为「未知」，待后续逐条核实。
 
-当前校验：`errors=0`，`warnings=1`（W2 占位页 80 个）。
+当前校验：`errors=0`，`warnings=1`（W2 占位页 79 个）。
 
-## 一、资料待补充条目（162 条）
+## 一、资料待补充条目（161 条）
 
 正文偏短，或仍缺少可核验的身份、地区与平台链接。补全后删除；确认无公开资料的条目保留「已核查」说明。
 
@@ -59,7 +59,6 @@
 ### G
 
 - [ ] [高抬腿女教官](docs/G/Gaotaituinvjiaoguan.md) — 占位，地区未知，无外链，status 70，正文约 17 字
-- [ ] [金艺贞](docs/G/gggg90.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [Gguesting](docs/G/Gguesting.md) — 占位，地区未知，无外链，status 70，正文约 17 字
 - [ ] [GOFLOWER](docs/G/GOFLOWER.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [月亮爱神GOL](docs/G/GOL.md) — 占位，地区未知，无外链，status 70，正文约 17 字

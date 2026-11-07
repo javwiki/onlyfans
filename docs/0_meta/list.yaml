@@ -488,11 +488,10 @@ Eunsora:
   status: 80
 
 gggg90:
-  name: 金艺贞
-  region: 未知
-  x: gggg90
+  name: 金艺贞 / 슈빈
+  region: 韩国
   file: docs/G/gggg90.md
-  status: 70
+  status: 80
 
 Ghosty40hands:
   name: Ghost Park
@@ -4741,4 +4740,11 @@ lananlanan520:
   region: 中国
   x: lananlanan520
   file: docs/L/lananlanan520.md
+  status: 80
+
+akari_danyo:
+  name: あかり / 桃果あかり
+  region: 日本
+  x: akari_danyo
+  file: docs/A/akari_danyo.md
   status: 80
