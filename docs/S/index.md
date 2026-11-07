@@ -25,6 +25,7 @@
 - [Shengyouxiaomeimo](./Shengyouxiaomeimo.md) — 声优小魅魔
 - [Shengyouxiaoyun](./Shengyouxiaoyun.md) — 声优小允
 - [@ShenqiaoQuella](./shenqiaoquella.md) — 沈樵
+- [Shine](./Shine.md) — 샤인（Shine-I）
 - [@shrooms_q](./shrooms_q.md) — Q
 - [@shuyangbabe](./shuyangbabe.md) — 南忘
 - [@Silvanalee88](./Silvanalee88.md) — Silvana Lee
