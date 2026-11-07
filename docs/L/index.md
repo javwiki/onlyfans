@@ -10,6 +10,7 @@
 - [Ladyyuan](./Ladyyuan.md) — Ladyyuan
 - [@LALADELUXXX](./LALADELUXXX.md) — Kyla
 - [@lalaxiaoqiya_](./lalaxiaoqiya_.md) — 辣辣小柒
+- [@lananlanan520](./lananlanan520.md) — lananlanan（桉X）
 - [Laohucai](./Laohucai.md) — 老虎菜
 - [@larkinlovexxx](./LarkinLove.md) — Larkin Love
 - [@LauraBragato](./LauraBragato.md) — Laura Bragato
