@@ -1508,9 +1508,8 @@ LINABUBUJKF:
 Buchunxuemei:
   name: 不纯学妹
   region: 中国
-  x: Buchunxuemei
   file: docs/B/Buchunxuemei.md
-  status: 80
+  status: 85
 
 Dongbeiyanzhixuesheng:
   name: 东北颜值学生
@@ -1535,7 +1534,7 @@ BIG:
   name: 水BIG悦
   region: 中国
   file: docs/B/BIG.md
-  status: 70
+  status: 80
 
 Zhangmeiren:
   name: 张美人
@@ -1605,7 +1604,7 @@ baby:
   name: 熙熙baby
   region: 中国
   file: docs/B/baby.md
-  status: 70
+  status: 80
 
 SandyCoco:
   name: 可欣
@@ -1923,9 +1922,9 @@ mmzhazhixia:
 
 Bayueweiyang:
   name: 八月未央
-  region: 未知
+  region: 中国
   file: docs/B/Bayueweiyang.md
-  status: 70
+  status: 80
 
 Bella84429Bella:
   name: Bella 錢昱慈
@@ -2160,8 +2159,8 @@ Wulina:
   status: 80
 
 alswl100455winktvmodel:
-  name: 장미（model）
-  region: 未知
+  name: 장미
+  region: 韩国
   file: docs/A/alswl100455winktvmodel.md
   status: 80
 
@@ -2381,7 +2380,7 @@ Baolongnatasha:
   name: 暴龙娜塔莎
   region: 中国
   file: docs/B/Baolongnatasha.md
-  status: 70
+  status: 80
 
 Shanghaixixi:
   name: 上海西西

@@ -4,7 +4,7 @@
 
 当前校验：`errors=0`，`warnings=1`（W2 占位页 79 个）。
 
-## 一、资料待补充条目（161 条）
+## 一、资料待补充条目（156 条）
 
 正文偏短，或仍缺少可核验的身份、地区与平台链接。补全后删除；确认无公开资料的条目保留「已核查」说明。
 
@@ -12,15 +12,7 @@
 
 - [ ] [AliceNANA](docs/A/AliceNANA.md) — 已核查，地区未知，无外链，status 70，正文约 387 字
 - [ ] [阿曼達拍拍](docs/A/Amandapaipai.md) — 已核查，地区未知，无外链，status 70，正文约 304 字
-- [ ] [安安老师](docs/A/Ananlaoshi.md) — 已核查，无外链，status 80，正文约 331 字
 - [ ] [Artgroovy](docs/A/Artgroovy.md) — 已核查，地区未知，无外链，status 80，正文约 409 字
-
-### B
-
-- [ ] [熙熙baby](docs/B/baby.md) — 已核查，无外链，status 70，正文约 282 字
-- [ ] [暴龙娜塔莎](docs/B/Baolongnatasha.md) — 已核查，无外链，status 70，正文约 233 字
-- [ ] [八月未央](docs/B/Bayueweiyang.md) — 已核查，地区未知，无外链，status 70，正文约 328 字
-- [ ] [水BIG悦](docs/B/BIG.md) — 已核查，无外链，status 70，正文约 327 字
 
 ### C
 

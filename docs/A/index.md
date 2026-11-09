@@ -22,14 +22,14 @@
 - [alinaxmei](./alinaxmei.md) — Alina Mei
 - [AlisaAmore](./AlisaAmore.md) — Alisa Amore
 - [@allecakes](./allecakes.md) — Allecakes
-- [alswl100455winktvmodel](./alswl100455winktvmodel.md) — 장미->model
+- [alswl100455winktvmodel](./alswl100455winktvmodel.md) — 장미 / Jang Mi
 - [Amandapaipai](./Amandapaipai.md) — 阿曼達拍拍
 - [@amemiyaluna](./amemiyaluna.md) — フェチフェス(4F5)コスホリ(G45-48)🌙👼🏻雨宮留菜
 - [@amirawest_](./AmiraWest.md) — Amira West
 - [@ammy_rouse_x](./ammy_rouse_x.md) — Isabella Alvarez 🏳️‍⚧️
 - [@amoraluvx](./amoraluvx.md) — Amora Luv
 - [Amouranth](./Amouranth.md) — Amouranth
-- [Ananlaoshi](./Ananlaoshi.md) — 安安老师
+- [Ananlaoshi](./Ananlaoshi.md) — 安安老师 / anbabyovo
 - [@AndylynnPayne](./AndylynnPayne.md) — Andylynn Payne
 - [@angel_wicky_ii](./Angel_Wicky.md) — Angel Wicky
 - [@angellicagood](./angellicagood.md) — Angellica Good 💕（0.2% OF）
