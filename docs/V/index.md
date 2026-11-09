@@ -10,6 +10,7 @@
 - [veenus_](./veenus_.md) — Veenus（Pamela Ferrer）
 - [@VenusLux](./VenusLux.md) — Venus Lux
 - [@veritabledxzx22](./veritabledxzx22.md) — ようよう〜
+- [@VERONlCA0804](./veronlca0804.md) — 小猫咪 VERONICA0804
 - [@vittorialagar](./vittorialagar.md) — Vicats
 - [@vivibabe](./vivibabe.md) — vivibabe
 - [@viviennexvo](./viviennexvo.md) — vivi ✧˖°

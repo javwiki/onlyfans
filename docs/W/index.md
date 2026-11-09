@@ -7,6 +7,7 @@
 ## 🧑‍🎤 博主
 
 - [@waifupupu](./waifupupu.md) — ♡pupuwaifu♡
+- [@waifuselenaa](./waifuselenaa.md) — Selena Rose
 - [Wangdapao](./Wangdapao.md) — 王大炮
 - [@Wangdong](./Wangdong.md) — 王动
 - [@Wangwanwan](./Wangwanwan.md) — 王绾绾

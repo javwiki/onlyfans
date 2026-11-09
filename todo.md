@@ -2,9 +2,9 @@
 
 核对日期：2026-10-30。完成一项后删除对应条目。`region` 缺项已统一补为「未知」，待后续逐条核实。
 
-当前校验：`errors=0`，`warnings=1`（W2 占位页 79 个）。
+当前校验：`errors=0`，`warnings=1`（W2 占位页 77 个）。
 
-## 一、资料待补充条目（156 条）
+## 一、资料待补充条目（153 条）
 
 正文偏短，或仍缺少可核验的身份、地区与平台链接。补全后删除；确认无公开资料的条目保留「已核查」说明。
 
@@ -45,7 +45,6 @@
 
 - [ ] [F奶水蜜桃](docs/F/Fnaishuimitao.md) — 占位，无外链，status 70，正文约 17 字
 - [ ] [Forest Nymph](docs/F/ForestNymph.md) — 占位，地区未知，status 70，正文约 17 字
-- [ ] [福建兄妹](docs/F/Fujianxiongmei.md) — 占位，地区未知，无外链，status 80，正文约 17 字
 
 ### G
 
@@ -230,7 +229,6 @@
 
 - [ ] [张恩琪](docs/Z/Zhangenqi.md) — 占位，地区未知，无外链，status 70，正文约 17 字
 - [ ] [张美人](docs/Z/Zhangmeiren.md) — 占位，status 70，正文约 17 字
-- [ ] [张婉莹](docs/Z/Zhangwanying.md) — 占位，地区未知，status 70，正文约 17 字
 - [ ] [子子西](docs/Z/Zizixi.md) — 占位，地区未知，status 70，正文约 17 字
 
 ## 二、待替换的失效外链（6 条）

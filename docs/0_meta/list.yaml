@@ -1730,19 +1730,6 @@ Chenyi:
   file: docs/C/Chenyi.md
   status: 70
 
-Zhangwanying:
-  name: 张婉莹
-  region: 未知
-  x: Zhangwanying
-  file: docs/Z/Zhangwanying.md
-  status: 70
-
-Fujianxiongmei:
-  name: 福建兄妹
-  region: 未知
-  file: docs/F/Fujianxiongmei.md
-  status: 80
-
 lyainevan:
   name: 特莱莎
   region: 未知
@@ -2272,7 +2259,7 @@ laurine_model:
   name: Laurine
   region: 德国
   file: docs/L/Laurine_Model.md
-  status: 80
+  status: 85
 
 SolomiyaMaievska:
   name: Solomiya Maievska
@@ -4728,3 +4715,23 @@ akari_danyo:
   x: akari_danyo
   file: docs/A/akari_danyo.md
   status: 85
+
+waifuselenaa:
+  name: Selena Rose
+  region: 未知
+  x: waifuselenaa
+  file: docs/W/waifuselenaa.md
+  status: 80
+
+veronlca0804:
+  name: 小猫咪 VERONICA0804
+  region: 未知
+  x: VERONlCA0804
+  file: docs/V/veronlca0804.md
+  status: 80
+
+Ruirui:
+  name: 瑞瑞ruirui / 迪爱儿
+  region: 中国
+  file: docs/R/Ruirui.md
+  status: 80

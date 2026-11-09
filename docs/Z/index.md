@@ -13,7 +13,6 @@
 - [Zhangenqi](./Zhangenqi.md) — 张恩琪
 - [@zlsigg](./zhangheyu.md) — 张贺玉 / 张老师
 - [@Zhangmeiren](./Zhangmeiren.md) — 张美人
-- [@Zhangwanying](./Zhangwanying.md) — 张婉莹
 - [@picweiwei](./Zhangweiya.md) — 张维亚 / 張維亞
 - [@lingwnsh486883](./Zhangyunxi.md) — 张芸熙
 - [@lllllllll520](./Zhiyimeimei.md) — 知一妹妹
