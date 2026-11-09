@@ -16,12 +16,12 @@
 
 ### C
 
-- [ ] [草帽](docs/C/Caomao.md) — 已核查，地区未知，无外链，status 70，正文约 292 字
-- [ ] [草莓熊](docs/C/Caomeixiong.md) — 已核查，地区未知，无外链，status 70，正文约 239 字
+- [ ] [草帽](docs/C/Caomao.md) — 已核查，地区未知，无外链，status 80，正文约 394 字
+- [ ] [草莓熊](docs/C/Caomeixiong.md) — 已核查，地区未知，无外链，status 80，正文约 387 字
 - [ ] [香港欲女](docs/C/CarlaGrace.md) — 已核查，地区未知，无外链，status 70，正文约 273 字
-- [ ] [成都奶妈瓶儿](docs/C/Chengdunaimapinger.md) — 已核查，地区未知，无外链，status 70，正文约 219 字
-- [ ] [陈可心](docs/C/Chenkexin.md) — 已核查，地区未知，无外链，status 70，正文约 234 字
-- [ ] [陈若初](docs/C/Chenruochu.md) — 已核查，地区未知，无外链，status 70，正文约 244 字
+- [ ] [成都奶妈瓶儿](docs/C/Chengdunaimapinger.md) — 已核查，地区中国，微博/X 外链，status 80，正文约 383 字
+- [ ] [陈可心](docs/C/Chenkexin.md) — 已核查，地区未知，无外链，status 80，正文约 468 字
+- [ ] [陈若初](docs/C/Chenruochu.md) — 已核查，地区中国，X/Iyaofans 外链，status 80，正文约 388 字
 - [ ] [陈丝丝](docs/C/Chensisi.md) — 过短，无外链，status 70，正文约 163 字
 - [ ] [陈甜甜](docs/C/Chentiantian.md) — 过短，地区未知，无外链，status 70，正文约 166 字
 - [ ] [陈小魔](docs/C/Chenxiaomo.md) — 已核查，无外链，status 80，正文约 241 字
@@ -34,7 +34,6 @@
 - [ ] [大二学妹](docs/D/Daerxuemei.md) — 已核查，地区未知，无外链，status 70，正文约 246 字
 - [ ] [daisybaby](docs/D/daisybaby.md) — 已核查，地区未知，无外链，status 70，正文约 351 字
 - [ ] [02大胸妹](docs/D/daxiongmei.md) — 已核查，无外链，status 70，正文约 212 字
-- [ ] [DIDI](docs/D/DIDI.md) — 已核查，地区未知，无外链，status 70，正文约 274 字
 - [ ] [东北颜值学生](docs/D/Dongbeiyanzhixuesheng.md) — 已核查，无外链，status 70，正文约 231 字
 
 ### E
