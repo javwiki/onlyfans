@@ -25,7 +25,7 @@
 - [Ruanmeiyaoyaole](./Ruanmeiyaoyaole.md) — 軟妹搖搖樂
 - [Ruanruanpazaichuangdanshang](./Ruanruanpazaichuangdanshang.md) — 软软趴在床单上
 - [Ruanruanxiaoshimei](./Ruanruanxiaoshimei.md) — 软软小湿妹
-- [Ruirui](./Ruirui.md) — 瑞瑞ruirui（迪爱儿 / Aier Di）
+- [Ruirui](./Ruirui.md) — 瑞瑞ruirui（迪爱儿 / 帕丽斯 / 斯嘉丽）
 - [@ruruka820](./ruruka820.md) — るるたん
 - [@ruth_hotlee](./ruth_hotlee.md) — Ruthlee
 - [@ryokooo_0625](./ryokooo_0625.md) — Ryoko × 涼子 × 黎菲兒
