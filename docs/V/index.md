@@ -7,7 +7,7 @@
 ## 🧑‍🎤 博主
 
 - [@vamp__babi](./vamp__babi.md) — jojo ♡
-- [veenus_](./veenus_.md) — Veenus（Pamela Ferrer）
+- [@pamelaferrerr](./veenus_.md) — Veenus（Pamela Ferrer）
 - [@VenusLux](./VenusLux.md) — Venus Lux
 - [@veritabledxzx22](./veritabledxzx22.md) — ようよう〜
 - [@VERONlCA0804](./veronlca0804.md) — 小猫咪 VERONICA0804

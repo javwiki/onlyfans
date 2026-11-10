@@ -14,7 +14,7 @@ tags: [onlyfans, nsfw]
 
 ## 📝 简介
 
-Octokuro（@octokuro_model）是 X 上的成人内容创作者。其 X 简介原文为：
+Octokuro（@octokuro_model）是 X 上的成人内容创作者，另使用较早的账号 @octokuro 发布更新。其 X 简介原文为：
 
 > 2025 XBIZ Cosplay Creator of the Year 🏆 Your naughty muse 🥵 21+ | link below ⬇️
 
@@ -24,7 +24,8 @@ Octokuro（@octokuro_model）是 X 上的成人内容创作者。其 X 简介原
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/octokuro_model)
+- [X / Twitter](https://x.com/octokuro_model) — 主账号
+- [X / Twitter](https://x.com/octokuro) — 较早账号
 - [OnlyFans](https://onlyfans.com/octokuro_model)
 
 ---

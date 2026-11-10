@@ -18,7 +18,7 @@
 - [GirlCrush](./GirlCrush.md) — 보미쇼
 - [GiuliaWylde](./GiuliaWylde.md) — Giulia Wylde
 - [@Glitter_2120](./Glitter_2120.md) — Glitter620
-- [@GOFLOWER](./GOFLOWER.md) — GOFLOWER
+- [GOFLOWER](./GOFLOWER.md) — GOFLOWER
 - [GOL](./GOL.md) — 月亮爱神GOL
 - [Goutouluoli](./Goutouluoli.md) — 狗头萝莉
 - [@GRESAIDZ](./GRESAIDZ.md) — dea ayu

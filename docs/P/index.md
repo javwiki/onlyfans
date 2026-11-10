@@ -6,8 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [@Palisi](./Palisi.md) — 帕里斯
-- [@pamelaferrerr](./pamelaferrerr.md) — Pamela Ferrer
+- [Palisi](./Palisi.md) — 帕里斯
 - [@PamilkKh](./PamilkKh.md) — Pamilk Kh
 - [@pandalunluns](./pandalunluns.md) — Luns✧･ﾟ♡
 - [@panid69](./panid69.md) — panid69
@@ -29,7 +28,7 @@
 - [@ProudSinner6](./ProudSinner6.md) — 🖤ProudSinner🖤
 - [@punachancos](./punachancos.md) — PUNA / 元・赤目レイラン
 - [@Punima2](./Punima2.md) — 朴妮唛
-- [@punipxn](./punipxn.md) — punipxn
+- [punipxn](./punipxn.md) — punipxn
 - [@PuppyGirlX0](./PuppyGirlX0.md) — Puppy Girl
 - [pupu28](./pupu28.md) — pupu28
 

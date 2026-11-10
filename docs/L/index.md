@@ -31,14 +31,14 @@
 - [Lingmumeixiao](./Lingmumeixiao.md) — 铃木美咲
 - [@Linxiaoxia](./Linxiaoxia.md) — 林小夏
 - [@Linyuxin](./Linyuxin.md) — 林雨馨
-- [@LisaOkko](./LisaOkko.md) — 林雅儿
+- [LisaOkko](./LisaOkko.md) — 林雅儿
 - [@LittleAznChat](./LittleAznChat.md) — 🌸🌙LittleAznChat 🍒
 - [littlemouse_patchy](./littlemouse_patchy.md) — littlemouse_patchy
 - [@Littlesubgirlm](./Littlesubgirlm.md) — Littlesubgirl
 - [@livi_doll](./livi_doll.md) — livi doll
 - [@Lixiaoya](./Lixiaoya.md) — 李晓雅
-- [@Lizhixian](./Lizhixian.md) — 李智贤
-- [@lj10010](./lj10010.md) — 林佳
+- [Lizhixian](./Lizhixian.md) — 李智贤
+- [lj10010](./lj10010.md) — 林佳
 - [@ljthesiren](./ljthesiren.md) — LJ🍒
 - [@LolaBunnyyu](./LolaBunnyyu.md) — Lola
 - [@longmaocouple](./longmaocouple.md) — longmaocouple

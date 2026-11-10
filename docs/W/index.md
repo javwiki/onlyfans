@@ -9,9 +9,9 @@
 - [@waifupupu](./waifupupu.md) — ♡pupuwaifu♡
 - [@waifuselenaa](./waifuselenaa.md) — Selena Rose
 - [Wangdapao](./Wangdapao.md) — 王大炮
-- [@Wangdong](./Wangdong.md) — 王动
-- [@Wangwanwan](./Wangwanwan.md) — 王绾绾
-- [@Wangxinxin](./Wangxinxin.md) — 王心心
+- [@wanimal912](./Wangdong.md) — 王动
+- [Wangwanwan](./Wangwanwan.md) — 王绾绾
+- [Wangxinxin](./Wangxinxin.md) — 王心心
 - [@wanjucutegirl](./Wanjujiang.md) — 完具酱
 - [@webtolove](./webtolove.md) — Fragile Tempt
 - [@Wenroumiao](./Wenroumiao.md) — 温柔苗
@@ -23,7 +23,7 @@
 - [wkdus222](./wkdus222.md) — wkdus222
 - [wldms4482](./wldms4482.md) — wldms4482
 - [Woshinikeaidexiaomao](./Woshinikeaidexiaomao.md) — 我是你可爱的小猫
-- [@Wulina](./Wulina.md) — 吴丽娜
+- [Wulina](./Wulina.md) — 吴丽娜
 - [Wuqingya](./Wuqingya.md) — 吴清雅
 - [@wuuuuuucy](./wuuuuuucy.md) — 小舞酱
 - [WuXjing](./WuXjing.md) — 吴X晶

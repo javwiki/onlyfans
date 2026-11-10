@@ -17,7 +17,7 @@ tags: [shemale, trans, 美国]
 
 ## 📝 简介
 
-Veenus（**Pamela Ferrer**）是美国加利福尼亚州 Santa Cruz 的拉丁裔跨性别（TS/Shemale）创作者，OnlyFans 账号 **veenus_** 为个人主要平台。X 平台无已确认的主账号，主要活跃于 OnlyFans、Chaturbate（直播）与 Instagram。
+Veenus（**Pamela Ferrer**）是美国加利福尼亚州 Santa Cruz 的拉丁裔跨性别（TS/Shemale）创作者，OnlyFans 账号 **veenus_** 为个人主要平台。X 主账号为 @pamelaferrerr（约 24.9 万粉丝），简介与 OnlyFans 账号 veenus_ 的 6 英尺身高、TS 定位一致。主要活跃于 OnlyFans、Chaturbate（直播）与 Instagram。
 
 OnlyFans 简介自称「your 6'0" trans dream 🏳️‍⚧️ / Long legs, dangerous curves」，身高 **182cm（6 英尺）**，在 TS 创作者中属于高挑型。独立创作者路线（无经纪公司、无大型工作室合作记录）。内容以写真、视频为主，活跃度高（调研时「Seen 2 minutes ago」）。
 
@@ -33,6 +33,7 @@ OnlyFans 简介自称「your 6'0" trans dream 🏳️‍⚧️ / Long legs, dang
 ## 🔗 相关链接
 
 - [OnlyFans](https://onlyfans.com/veenus_) — 主账号（Pamela Ferrer）
+- [X / Twitter](https://x.com/pamelaferrerr) — 主账号，约 24.9 万粉丝
 - [Chaturbate](https://es.chaturbate.com/b/_veenuus/) — 直播房间
 - [Instagram](https://www.instagram.com/iamveenusx/) — @iamveenusx
 - [TikTok](https://www.tiktok.com/@_veenus0) — 1,924 粉丝
@@ -52,7 +53,7 @@ OnlyFans 简介自称「your 6'0" trans dream 🏳️‍⚧️ / Long legs, dang
 
 ## ⚠️ 甄别提示
 
-- X 平台未确认主账号（@veenus / @Veenus 均为其他用户，@veenus_ 为无关账号「cassi girl ♡」；@_veenus1「Rachel」疑似无关）
+- X 主账号为 @pamelaferrerr；@veenus、@Veenus、@veenus_ 等均为其他用户，不应与之混淆
 - 资料中身高存在 170cm（旧 onlypedia）与 182cm（BabeWiki / OF 简介 6'0"）两种说法，以本人简介与 BabeWiki 的 **182cm** 为准
 
 ---

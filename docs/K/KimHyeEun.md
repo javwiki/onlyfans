@@ -4,9 +4,11 @@
 
 网络搜索未找到该创作者的具体信息。
 
+X 上的同名账号 @KimHyeEun 显示名为「kim hye eun」，与条目无法对应，未采纳为本人账号。
+
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/KimHyeEun)
+暂无可归属的官方账号或公开链接。
 
 ---
 

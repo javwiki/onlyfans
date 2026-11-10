@@ -17,7 +17,7 @@
 - [@rimreaper247](./rimreaper247.md) — Lil Miss Eva Nyx 😋
 - [@rin_japan518](./rin_japan518.md) — Ren Katsuki Official 🇯🇵
 - [@rio_hcup_fantia](./rio_hcup_fantia.md) — りお
-- [@ririca](./ririca.md) — ririca
+- [ririca](./ririca.md) — ririca
 - [@RirisuAmano](./RirisuAmano.md) — 天野リリス
 - [@RitaAkira](./RitaAkira.md) — Rita Akira
 - [@_littlerobin_1](./Robin_Grey.md) — Robin Grey

@@ -22,7 +22,7 @@
 - [Equanshaonv](./Equanshaonv.md) — 恶犬少女
 - [@ECYKRSN](./Erciyuankuangreshaonv.md) — 二次元狂热少女
 - [@eri_kitami](./eri_kitami.md) — Eri Kitami (北見えり)OF&FANTIA
-- [@ero_inkyung](./ero_inkyung.md) — 강인경 卿卿 / Inkyung
+- [ero_inkyung](./ero_inkyung.md) — 강인경 卿卿 / Inkyung
 - [euna](./euna.md) — eun-a
 - [Eunsora](./Eunsora.md) — BJ Eunsora / 은소라 / Yenny / son_ye_eun / ye._eun_s2 / yeeny618 / 손예은（同一人）
 - [Exiaojie](./Exiaojie.md) — E小姐

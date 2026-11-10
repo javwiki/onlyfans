@@ -9,11 +9,10 @@
 - [@kinkykinky111](./SamanthaFlair.md) — Samantha Flair
 - [@samanthasissy98](./samanthasissy98.md) — Samantha Sissy
 - [@sandralamppp](./sandralamppp.md) — Sandralamp
-- [@SandyCoco](./SandyCoco.md) — 可欣
+- [SandyCoco](./SandyCoco.md) — 可欣
 - [@SarinaValentina](./SarinaValentina.md) — Sarina Valentina
-- [@saya_endou_](./saya_endou_.md) — さやえんどう。
-- [@saya_mame_dayo](./saya_mame_dayo.md) — さやえんどう。
-- [@scok5](./scok5.md) — scok5
+- [@endou__mame](./saya_mame_dayo.md) — さやえんどう。
+- [scok5](./scok5.md) — scok5
 - [@seeyoumm520](./seeyoumm520.md) — 天使西柚
 - [SelenS](./SelenS.md) — SelenS（Stripchat 成人主播）
 - [@senyasenyanko](./senyasenyanko.md) — 柚月せな

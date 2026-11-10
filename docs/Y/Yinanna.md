@@ -15,13 +15,12 @@ tags: [擦边, 直播, 摄影]
 
 ## 📝 简介
 
-网络搜索未找到该创作者的具体信息。
+X 上的同名账号 @Yinanna 显示名为「anna」，与条目无法对应，未采纳为本人账号。
 
 ## 🔗 相关链接
 
 - **Bilibili 伊南娜Ishtar**（[space.bilibili.com/82044006](https://space.bilibili.com/82044006) / 直播间 3237809）：关联虚拟主播账号，出道 5 周年，至今活跃
 
-- [X / Twitter @Yinanna](https://x.com/Yinanna) — 空号（0 粉丝）
 - [X / Twitter @CCyinanna](https://x.com/CCyinanna) — 粉丝档案号，3.6K 粉丝
 - [Bilibili 伊南娜Ishtar 空间](https://space.bilibili.com/82044006) — 关联虚拟主播
 - [Bilibili 直播间](https://live.bilibili.com/3237809) — 关联虚拟主播

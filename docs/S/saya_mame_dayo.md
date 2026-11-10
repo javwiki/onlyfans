@@ -10,15 +10,14 @@
 
 ## 📝 简介
 
-さやえんどう。（Endo Saya / さや），是一位日本的 NSFW 内容创作者。主要在 X（Twitter）上活跃，使用多个账号（@saya_mame_dayo、@saya_endou_、@sayaya_endou、@endou__mame、@saya_endodayo）发布内容。她在 OnlyFans 上也有活跃账号（saya_endo），订阅费 $9.9/月，并在 XFans 和 MyFans 等平台设有账号。她还在 FANME（fanme.link）上有创作者页面。
+さやえんどう。（Endo Saya / さや），是一位日本的 NSFW 内容创作者。她在 OnlyFans 上设有账号（saya_endo），订阅费 $9.9/月，并在 XFans 和 MyFans 等平台设有账号，另有 FANME（fanme.link）创作者页面。
+
+X 主账号现为 @endou__mame（显示名「さやえんどう」）。原用户名 @saya_mame_dayo、@saya_endou_、@sayaya_endou 截至 2026-11-10 访问均返回 404（已不存在或已改名），相关链接已移除；@saya_endodayo 为本人另一账号。
 
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/saya_mame_dayo) — 主账号
-- [X / Twitter (副)](https://x.com/saya_endou_) — 备用账号
-- [X / Twitter (副2)](https://x.com/sayaya_endou) — 备用账号
-- [X / Twitter (副3)](https://x.com/endou__mame) — 备用账号
-- [X / Twitter (本性)](https://x.com/saya_endodayo) — 本性アカウント
+- [X / Twitter](https://x.com/endou__mame) — 主账号
+- [X / Twitter (副)](https://x.com/saya_endodayo) — 备用账号
 - [OnlyFans](https://onlyfans.com/saya_endo) — $9.9/月
 - [XFans](https://www.xfans.tokyo/endou_saya_mame) — エロ動画配信
 - [MyFans](https://myfans.jp/endou_saya_mame) — プライベートSNS（停止予定）

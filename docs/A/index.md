@@ -11,7 +11,7 @@
 - [@AbbyOpel](./AbbyOpel.md) — Abby Opel
 - [@abecker_cos](./abecker_cos.md) — Alina Becker 🍑
 - [ad1yn2](./ad1yn2.md) — ad1yn2
-- [@AddingtonJ1](./AddingtonJ1.md) — Josie Addington
+- [AddingtonJ1](./AddingtonJ1.md) — Josie Addington
 - [@ahrarei](./ahrarei.md) — ahra ♡*･ﾟ.°
 - [@akari_danyo](./akari_danyo.md) — 美都朱音（桃果あかり）
 - [@AkiraSkyTv](./AkiraSkyTv.md) — 🌸🌙 Akira ☁️

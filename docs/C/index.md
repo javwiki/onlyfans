@@ -22,7 +22,7 @@
 - [@Charinkh_milk](./Charinkh_milk.md) — Charinkhmilk
 - [@CharlotteNiya](./CharlotteNiya.md) — CharlotteNiya
 - [@ChasinggCrystal](./ChasinggCrystal.md) — Crystal Chase 🏳️‍🌈💕 (DC)
-- [Chengdunaimapinger](./Chengdunaimapinger.md) — 成都奶妈瓶儿
+- [@AaA142179](./Chengdunaimapinger.md) — 成都奶妈瓶儿
 - [Chenkexin](./Chenkexin.md) — 陈可心
 - [@chennianjun11](./chennianjun11.md) — 陈念君
 - [@chen1996H](./Chenruochu.md) — 陈若初
@@ -36,7 +36,7 @@
 - [@ChiBB1214](./ChiBB1214.md) — 綺綺꒰⑅ᵕ༚ᵕ꒱˖♡🌸
 - [@Chinhbaby](./Chinhbaby.md) — Chinhbaby
 - [chitarlight](./chitarlight.md) — chitarlight
-- [@choco_lateP](./choco_lateP.md) — レート
+- [choco_lateP](./choco_lateP.md) — レート
 - [@chrisma285](./chrisma285.md) — hi
 - [Chuanyunyin](./Chuanyunyin.md) — 穿云音
 - [@CiNiao438](./CiNiao438.md) — 仙本娜娜

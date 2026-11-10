@@ -7,27 +7,27 @@
 ## 🧑‍🎤 博主
 
 - [Xiaanan](./Xiaanan.md) — 夏安安
-- [@Xiaaxia](./Xiaaxia.md) — 夏阿夏
+- [Xiaaxia](./Xiaaxia.md) — 夏阿夏
 - [@Xiameijiang](./Xiameijiang.md) — 夏美酱
 - [Xiamianyougenbangbangtang](./Xiamianyougenbangbangtang.md) — 下面有根棒棒糖
 - [@Xiangcaoshaonv](./Xiangcaoshaonv.md) — 香草少女
-- [@Xiaobaozi](./Xiaobaozi.md) — 小包子
+- [Xiaobaozi](./Xiaobaozi.md) — 小包子
 - [Xiaocaitoumiaomiao](./Xiaocaitoumiaomiao.md) — 小蔡头喵喵
 - [@Xiaoenya](./Xiaoenya.md) — 小恩雅
 - [@Xiaohaimei](./Xiaohaimei.md) — 小海媚
-- [@Xiaojian](./Xiaojian.md) — 小简
+- [Xiaojian](./Xiaojian.md) — 小简
 - [@xiaokuiwoainii](./xiaokuiwoainii.md) — 小葵ovo
-- [@Xiaolingtu](./Xiaolingtu.md) — 小凌兔
+- [Xiaolingtu](./Xiaolingtu.md) — 小凌兔
 - [@Xiaolujiang](./Xiaolujiang.md) — 小鹿酱
 - [Xiaoluluanzhuang](./Xiaoluluanzhuang.md) — 小鹿乱撞
 - [Xiaomei](./Xiaomei.md) — 小妹
-- [@Xiaonaiyou](./Xiaonaiyou.md) — 小奶油
-- [@Xiaoqiao](./Xiaoqiao.md) — 小乔
+- [Xiaonaiyou](./Xiaonaiyou.md) — 小奶油
+- [Xiaoqiao](./Xiaoqiao.md) — 小乔
 - [@xiaoqing64](./xiaoqing64.md) — 美乳女神 MANDY / 闵雨晴
 - [Xiaoshuixi](./Xiaoshuixi.md) — 小水熙
-- [@Xiaoxianyun](./Xiaoxianyun.md) — 小仙云
-- [@Xiaoyali](./Xiaoyali.md) — 小丫狸
-- [@Xiaoyema](./Xiaoyema.md) — 小野马
+- [Xiaoxianyun](./Xiaoxianyun.md) — 小仙云
+- [Xiaoyali](./Xiaoyali.md) — 小丫狸
+- [Xiaoyema](./Xiaoyema.md) — 小野马
 - [Xiaoyuechaonaisi](./Xiaoyuechaonaisi.md) — 小月超奶思
 - [@Xiaweiwei](./Xiaweiwei.md) — 夏唯唯
 - [@_xingxiyue](./_xingxiyue.md) — 邢曦月
@@ -38,7 +38,7 @@
 - [@xmoondreams](./xmoondreams.md) — Naomi Ventura（Moon）
 - [@XNJJZZ](./XNJJZZ.md) — 子子子
 - [@Xreindeers_of](./Xreindeers_of.md) — Xreindeers
-- [@Xuya](./Xuya.md) — 徐雅
+- [@eseoaa](./Xuya.md) — 徐雅
 - [@XXXMARISSAMINX](./XXXMARISSAMINX.md) — Marissa Minx
 
 ---

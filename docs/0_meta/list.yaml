@@ -277,7 +277,6 @@ cdnmxy:
 choco_lateP:
   name: レート
   region: 日本
-  x: choco_lateP
   file: docs/C/choco_lateP.md
   status: 80
 
@@ -496,7 +495,6 @@ Ghosty40hands:
 scok5:
   name: scok5
   region: 未知
-  x: scok5
   file: docs/S/scok5.md
   status: 80
 
@@ -548,7 +546,6 @@ aprilmaxima:
 honglis2:
   name: honglis2
   region: 未知
-  x: honglis2
   file: docs/H/honglis2.md
   status: 70
 
@@ -652,6 +649,7 @@ vivibabe:
 
 veenus_:
   name: Pamela Ferrer
+  x: pamelaferrerr
   region: 美国
   file: docs/V/veenus_.md
   status: 80
@@ -659,7 +657,6 @@ veenus_:
 monlingwu:
   name: 吴梦梦
   region: 台湾
-  x: monlingwu
   file: docs/M/monlingwu.md
   status: 85
 
@@ -683,13 +680,6 @@ Pongkyubi:
   x: pongkyubimodel
   file: docs/P/Pongkyubi.md
   status: 85
-
-octokuro:
-  name: octokuro
-  region: 未知
-  x: octokuro
-  file: docs/O/octokuro.md
-  status: 80
 
 EmilyBloom:
   name: Emily Bloom
@@ -846,7 +836,6 @@ GirlCrush:
 KimHyeEun:
   name: 金慧恩
   region: 未知
-  x: KimHyeEun
   file: docs/K/KimHyeEun.md
   status: 70
 
@@ -879,7 +868,6 @@ TS:
 NeneAizawa:
   name: Nene Aizawa
   region: 日本
-  x: NeneAizawa
   file: docs/N/NeneAizawa.md
   status: 80
 
@@ -904,7 +892,6 @@ YukoMomohi:
 Xiaoqiao:
   name: 小乔
   region: 未知
-  x: Xiaoqiao
   file: docs/X/Xiaoqiao.md
   status: 70
 
@@ -931,7 +918,6 @@ Huangmengmeng:
 Lizhixian:
   name: 李智贤
   region: 未知
-  x: Lizhixian
   file: docs/L/Lizhixian.md
   status: 80
 
@@ -958,7 +944,6 @@ euna:
 Jugensihan:
   name: 巨根思涵
   region: 未知
-  x: Jugensihan
   file: docs/J/Jugensihan.md
   status: 70
 
@@ -978,7 +963,6 @@ masem:
 ririca:
   name: ririca
   region: 未知
-  x: ririca
   file: docs/R/ririca.md
   status: 70
 
@@ -1082,7 +1066,6 @@ Jikey:
 KimHaNeulHyena:
   name: 金荷娜
   region: 未知
-  x: KimHaNeulHyena
   file: docs/K/KimHaNeulHyena.md
   status: 70
 
@@ -1096,7 +1079,6 @@ Hyena:
 Kexiaodedanchun:
   name: 可笑的单纯
   region: 中国
-  x: Kexiaodedanchun
   file: docs/K/Kexiaodedanchun.md
   status: 70
 
@@ -1116,7 +1098,6 @@ Shaonvqiangxieshi:
 Qingxin:
   name: 清心
   region: 未知
-  x: Qingxin
   file: docs/Q/Qingxin.md
   status: 80
 
@@ -1149,7 +1130,7 @@ Woshinikeaidexiaomao:
 Xuya:
   name: 徐雅
   region: 韩国
-  x: Xuya
+  x: eseoaa
   file: docs/X/Xuya.md
   status: 80
 
@@ -1247,7 +1228,6 @@ nier:
 Xiaolingtu:
   name: 小凌兔
   region: 未知
-  x: Xiaolingtu
   file: docs/X/Xiaolingtu.md
   status: 70
 
@@ -1339,14 +1319,12 @@ Anna:
 Xiaaxia:
   name: 夏阿夏
   region: 未知
-  x: Xiaaxia
   file: docs/X/Xiaaxia.md
   status: 70
 
 Naiyoumeimei:
   name: 奶油妹妹
   region: 未知
-  x: Naiyoumeimei
   file: docs/N/Naiyoumeimei.md
   status: 80
 
@@ -1467,7 +1445,6 @@ Gaoyinxing:
 NAGISANagesa:
   name: NAGISA魔物喵
   region: 中国
-  x: NAGISANagesa
   file: docs/N/NAGISANagesa.md
   status: 80
 
@@ -1481,7 +1458,6 @@ Xiameijiang:
 Majixiaotuzi:
   name: 麻吉小兔子
   region: 未知
-  x: Majixiaotuzi
   file: docs/M/Majixiaotuzi.md
   status: 70
 
@@ -1507,7 +1483,7 @@ Wangdapao:
   name: 王大炮
   region: 中国
   file: docs/W/Wangdapao.md
-  status: 70
+  status: 80
 
 maoning2333:
   name: 司雨
@@ -1525,7 +1501,6 @@ BIG:
 Zhangmeiren:
   name: 张美人
   region: 中国
-  x: Zhangmeiren
   file: docs/Z/Zhangmeiren.md
   status: 70
 
@@ -1538,7 +1513,6 @@ Fnaishuimitao:
 Nanbeibei:
   name: 南北北
   region: 中国
-  x: Nanbeibei
   file: docs/N/Nanbeibei.md
   status: 70
 
@@ -1563,14 +1537,12 @@ cherida:
 Xiaobaozi:
   name: 小包子
   region: 中国
-  x: Xiaobaozi
   file: docs/X/Xiaobaozi.md
   status: 70
 
 Tudoujie:
   name: 土豆姐
   region: 中国
-  x: Tudoujie
   file: docs/T/Tudoujie.md
   status: 80
 
@@ -1578,7 +1550,7 @@ Mia:
   name: 美七Mia
   region: 中国
   file: docs/M/Mia.md
-  status: 70
+  status: 80
 
 Xirui:
   name: 希瑞
@@ -1595,7 +1567,6 @@ baby:
 SandyCoco:
   name: 可欣
   region: 未知
-  x: SandyCoco
   file: docs/S/SandyCoco.md
   status: 70
 
@@ -1633,9 +1604,9 @@ Anji:
 
 IndianTwins:
   name: Indian Twins
-  region: 未知
+  region: 英国
   file: docs/I/IndianTwins.md
-  status: 70
+  status: 80
 
 KylieNG:
   name: Kylie-NG
@@ -1646,8 +1617,8 @@ KylieNG:
 
 mauymyb:
   name: iammyb
+  x: muaymyb1
   region: 泰国
-  x: mauymyb
   file: docs/M/mauymyb.md
   status: 80
 
@@ -1694,7 +1665,6 @@ minichu:
 MissA:
   name: MissA
   region: 未知
-  x: MissA
   file: docs/M/MissA.md
   status: 70
 
@@ -1739,7 +1709,7 @@ lyainevan:
 
 Huangke:
   name: 黄可
-  region: 未知
+  region: 中国
   file: docs/H/Huangke.md
   status: 80
 
@@ -1758,7 +1728,7 @@ Sirenwanwu:
 
 Suxiaomeibobomei:
   name: 苏小美波波妹
-  region: 未知
+  region: 中国
   file: docs/S/Suxiaomeibobomei.md
   status: 70
 
@@ -1784,9 +1754,9 @@ Lingmumeixiao:
 
 Ruanruanpazaichuangdanshang:
   name: 软软趴在床单上
-  region: 未知
+  region: 中国
   file: docs/R/Ruanruanpazaichuangdanshang.md
-  status: 70
+  status: 80
 
 WuXjing:
   name: 吴X晶
@@ -1797,14 +1767,13 @@ WuXjing:
 Wangdong:
   name: 王动
   region: 中国
-  x: Wangdong
+  x: wanimal912
   file: docs/W/Wangdong.md
   status: 70
 
 Wangwanwan:
   name: 王绾绾
   region: 未知
-  x: Wangwanwan
   file: docs/W/Wangwanwan.md
   status: 70
 
@@ -1817,7 +1786,6 @@ Wuqingya:
 Xiaonaiyou:
   name: 小奶油
   region: 未知
-  x: Xiaonaiyou
   file: docs/X/Xiaonaiyou.md
   status: 70
 
@@ -1831,7 +1799,6 @@ Xingyeyou:
 Xiaoxianyun:
   name: 小仙云
   region: 未知
-  x: Xiaoxianyun
   file: docs/X/Xiaoxianyun.md
   status: 70
 
@@ -1845,7 +1812,6 @@ Yuanyexiaonian:
 Yuenuanrufanyin:
   name: 月暖如梵音
   region: 未知
-  x: Yuenuanrufanyin
   file: docs/Y/Yuenuanrufanyin.md
   status: 70
 
@@ -1922,7 +1888,6 @@ SeoaliveDodo:
 Xiaoyali:
   name: 小丫狸
   region: 未知
-  x: Xiaoyali
   file: docs/X/Xiaoyali.md
   status: 80
 
@@ -1960,14 +1925,12 @@ Huiyeji:
 Zizixi:
   name: 子子西
   region: 未知
-  x: Zizixi
   file: docs/Z/Zizixi.md
   status: 70
 
 Wangxinxin:
   name: 王心心
   region: 未知
-  x: Wangxinxin
   file: docs/W/Wangxinxin.md
   status: 70
 
@@ -1980,14 +1943,12 @@ Gaotaituinvjiaoguan:
 Xiaojian:
   name: 小简
   region: 未知
-  x: Xiaojian
   file: docs/X/Xiaojian.md
   status: 70
 
 Yinanna:
   name: 伊南娜
   region: 中国
-  x: Yinanna
   file: docs/Y/Yinanna.md
   status: 80
 
@@ -2014,7 +1975,6 @@ ChessieRae:
 ForestNymph:
   name: Forest Nymph
   region: 未知
-  x: ForestNymph
   file: docs/F/ForestNymph.md
   status: 70
 
@@ -2120,14 +2080,12 @@ Ruanmeiyaoyaole:
 LisaOkko:
   name: 林雅儿
   region: 未知
-  x: LisaOkko
   file: docs/L/LisaOkko.md
   status: 70
 
 Wulina:
   name: 吴丽娜
   region: 未知
-  x: Wulina
   file: docs/W/Wulina.md
   status: 80
 
@@ -2172,12 +2130,12 @@ Shengyouxiaoyun:
 Yueer:
   name: 玥儿
   region: 未知
-  x: Yueer
   file: docs/Y/Yueer.md
   status: 70
 
 Chengdunaimapinger:
   name: 成都奶妈瓶儿
+  x: AaA142179
   region: 中国
   file: docs/C/Chengdunaimapinger.md
   status: 80
@@ -2232,7 +2190,6 @@ CrystalClark:
 YeonWoo:
   name: 연우
   region: 未知
-  x: YeonWoo
   file: docs/Y/YeonWoo.md
   status: 80
 
@@ -2245,7 +2202,6 @@ Chuanyunyin:
 Xiaoyema:
   name: 小野马
   region: 未知
-  x: Xiaoyema
   file: docs/X/Xiaoyema.md
   status: 80
 
@@ -2275,9 +2231,10 @@ GiuliaWylde:
 
 MiaStark:
   name: Mia Stark
+  x: MStark733
   region: 未知
   file: docs/M/MiaStark.md
-  status: 70
+  status: 80
 
 Lienxi:
   name: 李蒽熙
@@ -2339,7 +2296,6 @@ kim3857pandatv:
 Palisi:
   name: 帕里斯
   region: 未知
-  x: Palisi
   file: docs/P/Palisi.md
   status: 80
 
@@ -2550,8 +2506,8 @@ tongtong0401:
 
 saya_mame_dayo:
   name: さやえんどう。
+  x: endou__mame
   region: 日本
-  x: saya_mame_dayo
   file: docs/S/saya_mame_dayo.md
   status: 80
 
@@ -3100,7 +3056,6 @@ irllillie:
 GOFLOWER:
   name: GOFLOWER
   region: 未知
-  x: GOFLOWER
   file: docs/G/GOFLOWER.md
   status: 70
 
@@ -3113,7 +3068,6 @@ Gguesting:
 Haoleman:
   name: Haoleman
   region: 未知
-  x: Haoleman
   file: docs/H/Haoleman.md
   status: 70
 
@@ -3177,7 +3131,6 @@ MsFieFie1230:
 Naixiang:
   name: 乃香
   region: 未知
-  x: Naixiang
   file: docs/N/Naixiang.md
   status: 70
 
@@ -3202,14 +3155,12 @@ Yuer:
 lj10010:
   name: 林佳
   region: 未知
-  x: lj10010
   file: docs/L/lj10010.md
   status: 70
 
 punipxn:
   name: punipxn
   region: 未知
-  x: punipxn
   file: docs/P/punipxn.md
   status: 70
 
@@ -3306,7 +3257,6 @@ cocopie0218:
 ero_inkyung:
   name: 강인경 卿卿
   region: 韩国
-  x: ero_inkyung
   file: docs/E/ero_inkyung.md
   status: 85
 
@@ -3460,7 +3410,6 @@ itsmukkk:
 AddingtonJ1:
   name: Josie Addington
   region: 美国
-  x: AddingtonJ1
   file: docs/A/AddingtonJ1.md
   status: 80
 
@@ -3838,7 +3787,6 @@ daph_vt:
 dirtyjada:
   name: ❤️Jada Cameo Ⓜ️❤️
   region: 英国
-  x: dirtyjada
   file: docs/D/dirtyjada.md
   status: 70
 
@@ -4255,13 +4203,6 @@ Mssethii11:
   file: docs/M/Mssethii11.md
   status: 70
 
-muaymyb1:
-  name: iammyb
-  region: 未知
-  x: muaymyb1
-  file: docs/M/muaymyb1.md
-  status: 80
-
 N_FUJI_CHAN:
   name: 💋FUJI​ Chan​💋
   region: 泰国
@@ -4358,13 +4299,6 @@ Olivia20115:
   region: 未知
   x: Olivia20115
   file: docs/O/Olivia20115.md
-  status: 80
-
-pamelaferrerr:
-  name: Pamela Ferrer
-  region: 未知
-  x: pamelaferrerr
-  file: docs/P/pamelaferrerr.md
   status: 80
 
 PamilkKh:
@@ -4464,13 +4398,6 @@ SarinaValentina:
   x: SarinaValentina
   file: docs/S/SarinaValentina.md
   status: 80
-
-saya_endou_:
-  name: さやえんどう。
-  region: 未知
-  x: saya_endou_
-  file: docs/S/saya_endou_.md
-  status: 70
 
 shrooms_q:
   name: Q

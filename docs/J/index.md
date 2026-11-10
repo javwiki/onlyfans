@@ -22,7 +22,7 @@
 - [Jjangjjanggeol](./Jjangjjanggeol.md) — 짱짱걸门把手
 - [@zziongzzang](./JJiongwltn9818winktv.md) — 찌옹
 - [joycezarza](./joycezarza.md) — Joyce Zarza
-- [@Jugensihan](./Jugensihan.md) — 巨根思涵
+- [Jugensihan](./Jugensihan.md) — 巨根思涵
 ---
 
 [◀ 返回首页](../index.md)

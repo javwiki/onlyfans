@@ -24,9 +24,10 @@ tags: [onlyfans, nsfw, 英国]
 
 以上信息来自公开的 X 资料、简介链接及链接聚合页，未对订阅内容作独立核验。
 
+原 X 账号 @dirtyjada 截至 2026-11-10 访问返回 404（账号已不存在或已改名），相关链接已移除。
+
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/dirtyjada)
 - [链接页](https://link.me/jada_cameo)
 
 ---

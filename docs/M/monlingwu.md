@@ -18,12 +18,13 @@ tags: [台湾, adult-model]
 
 三立新闻网 2025 年 2 月 21 日报道她接受英国《太阳报》采访，称自己在 OnlyFans 上约四个星期赚到 10 万英镑，并说有两名家人后来也开设了账号。麻豆传媒演员页列出她的身高 165 厘米、体重 58 公斤、三围 34E / 28 / 35。条目原有的 X 账号未在本轮与上述报道交叉核实。资料核对日期：2026-10-30。
 
+原 X 账号 @monlingwu 截至 2026-11-10 访问返回 404（账号已不存在或已改名），相关链接已移除。
+
 ## 🔗 相关链接
 
 - [Taiwan News：BBC 采访报道](https://www.taiwannews.com.tw/news/4490579)
 - [镜周刊转三立：太阳报采访](https://www.mirrormedia.mg/external/setn_1612968)
 - [麻豆传媒演员页](https://www.modelmediaasia.com/en-US/models/75)
-- [X / Twitter](https://x.com/monlingwu) — 条目原有链接，未核实是否为本人
 
 ---
 

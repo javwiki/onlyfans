@@ -12,7 +12,7 @@
 - [@fembabyth](./fembabyth.md) — FEMBY 0.1%
 - [@camgirlunicorn](./FirtsBornUnicorn.md) — FirtsBornUnicorn / @FirtsBornUnicorn
 - [Fnaishuimitao](./Fnaishuimitao.md) — F奶水蜜桃
-- [@ForestNymph](./ForestNymph.md) — Forest Nymph
+- [ForestNymph](./ForestNymph.md) — Forest Nymph
 - [Fullfive](./Fullfive.md) — Fullfive / 小富婆
 - [Funnyg](./Funnyg.md) — 可可 / SWAG
 - [@FuukaDoll](./FuukaDoll.md) — Fuuka Doll 🔞🍥👽

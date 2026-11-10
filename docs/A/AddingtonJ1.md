@@ -18,9 +18,10 @@ Josie Addington（X: @AddingtonJ1）是一位美国社交媒体创作者，X 资
 
 她的公开 LinkMe 页面（@josie_addington1）已验证，并标注 OnlyFans，写有 “just me… I’m a little more myself there” 与 “I don’t post everything here…”。公开资料还关联 Instagram、TikTok 和 Snapchat 账号；OnlyFans 公开页面使用 `josie_addington` 用户名。OnlyFans 页面受 Cloudflare 限制，订阅状态和内容数量未能进一步核实。
 
+原 X 账号 @AddingtonJ1 截至 2026-11-10 访问返回 404（账号已不存在或已改名），相关链接已移除。
+
 ## 🔗 相关链接
 
-- [X / Twitter](https://x.com/AddingtonJ1) — 约 26.3K 粉丝
 - [OnlyFans](https://onlyfans.com/josie_addington) — 公开页面，用户名 `josie_addington`
 - [LinkMe](https://link.me/josie_addington1) — 已验证的公开链接页
 - [Instagram](https://www.instagram.com/josie_addington1/)

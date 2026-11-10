@@ -12,14 +12,14 @@
 - [@zeenosferatu](./zeenosferatu.md) — Amy Nosferatu 🏳️‍⚧️🏆🏆 Top 0.52%
 - [Zhangenqi](./Zhangenqi.md) — 张恩琪
 - [@zlsigg](./zhangheyu.md) — 张贺玉 / 张老师
-- [@Zhangmeiren](./Zhangmeiren.md) — 张美人
+- [Zhangmeiren](./Zhangmeiren.md) — 张美人
 - [@picweiwei](./Zhangweiya.md) — 张维亚 / 張維亞
 - [@lingwnsh486883](./Zhangyunxi.md) — 张芸熙
 - [@lllllllll520](./Zhiyimeimei.md) — 知一妹妹
 - [@Zhouboer](./Zhouboer.md) — 周波儿 / 周可可
 - [@zhouzhouguaizai](./Zhouzhouguaizai.md) — 周周乖崽
 - [zixisister](./zixisister.md) — 紫惜姐姐
-- [@Zizixi](./Zizixi.md) — 子子西
+- [Zizixi](./Zizixi.md) — 子子西
 
 ---
 
