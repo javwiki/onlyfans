@@ -32,6 +32,7 @@
 - [Ananlaoshi](./Ananlaoshi.md) — 安安老师 / anbabyovo
 - [@AndylynnPayne](./AndylynnPayne.md) — Andylynn Payne
 - [@angel_wicky_ii](./Angel_Wicky.md) — Angel Wicky
+- [@angelicfukdoll](./angelicfukdoll.md) — natalia 🌹
 - [@angellicagood](./angellicagood.md) — Angellica Good 💕（0.2% OF）
 - [@AnijNicole](./AnijNicole.md) — ANIJ
 - [Anji](./Anji.md) — 安吉
