@@ -7,6 +7,7 @@
 ## 🧑‍🎤 博主
 
 - [@J3ssicaStarling](./J3ssicaStarling.md) — Jessica Starling
+- [@Jadeelou22](./Jadeelou22.md) — Jade🌹
 - [@Janpet12](./Janpet12.md) — Jan兔
 - [@jared999d3dx](./jared999d3dx.md) — jared999D
 - [@JasminFoxe](./JasminFoxe.md) — ♡ Jazzy ♡

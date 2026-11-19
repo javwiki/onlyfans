@@ -14,6 +14,7 @@
 - [eemiim](./eemiim.md) — eemiim
 - [@eggeunice](./egg.md) — egg尤妮丝
 - [@TUTUElise](./Elisetutu.md) — 谭晓彤（兔兔）
+- [ellie_is_wet](./ellie_is_wet.md) — Ellie Kim >⩊<
 - [@EllieLeen1](./EllieLeen1.md) — Ellie Leen
 - [@emiilyemika](./emiilyemika.md) — Emily Emika
 - [@TheEmilyBloom](./EmilyBloom.md) — Emily Bloom

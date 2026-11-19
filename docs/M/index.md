@@ -52,6 +52,7 @@
 - [MissA](./MissA.md) — MissA
 - [@MissAlice](./MissAlice.md) — Miss Alice
 - [@MissRaquel4X](./MissRaquel4X.md) — Miss Raquel
+- [@MissSophieReade](./MissSophieReade.md) — Sophie Reade
 - [@MissWarmJ](./MissWarmJ.md) — MissWarmJ
 - [@Mitsarin_](./Mitsarin_.md) — Mitsarin 🤍
 - [@miuzxc](./miuzxc.md) — Miuzxc
