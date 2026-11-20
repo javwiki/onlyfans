@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [@vamp__babi](./vamp__babi.md) — jojo ♡
+- [@vamp__babi](./vamp__babi.md) — jojo / Vamp Babi
 - [@pamelaferrerr](./veenus_.md) — Veenus（Pamela Ferrer）
 - [@VenusLux](./VenusLux.md) — Venus Lux
 - [@veritabledxzx22](./veritabledxzx22.md) — ようよう〜
