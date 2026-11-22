@@ -11,7 +11,7 @@
 - [Wangdapao](./Wangdapao.md) — 王大炮
 - [@wanimal912](./Wangdong.md) — 王动
 - [Wangwanwan](./Wangwanwan.md) — 王绾绾
-- [Wangxinxin](./Wangxinxin.md) — 王心心
+- [@wxx18516026336](./Wangxinxin.md) — 王心心
 - [@wanjucutegirl](./Wanjujiang.md) — 完具酱
 - [@webtolove](./webtolove.md) — Fragile Tempt
 - [@Wenroumiao](./Wenroumiao.md) — 温柔苗
@@ -22,7 +22,7 @@
 - [Wine](./Wine.md) — Wine
 - [wkdus222](./wkdus222.md) — wkdus222
 - [wldms4482](./wldms4482.md) — wldms4482
-- [Woshinikeaidexiaomao](./Woshinikeaidexiaomao.md) — 我是你可爱的小猫
+- [@xiaomao1998](./Woshinikeaidexiaomao.md) — 我是你可爱的小猫
 - [Wulina](./Wulina.md) — 吴丽娜
 - [Wuqingya](./Wuqingya.md) — 吴清雅
 - [@wuuuuuucy](./wuuuuuucy.md) — 小舞酱

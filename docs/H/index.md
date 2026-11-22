@@ -6,7 +6,7 @@
 
 ## 🧑‍🎤 博主
 
-- [Hanlaoshi](./Hanlaoshi.md) — 韩老师
+- [@oooooooo0000eee](./Hanlaoshi.md) — 韩老师
 - [@hanna_aole](./hanna_aole.md) — Hanna Aole
 - [@Hannah_brooksuk](./Hannah_brooksuk.md) — Hannah Brooks
 - [Haoleman](./Haoleman.md) — Haoleman
@@ -25,7 +25,7 @@
 - [@Hotwife_Linger](./Hotwife_Linger.md) — Hotwife Linger 宝宝米奇-原创💯
 - [@HSugarCookie](./HSugarCookie.md) — 🍖 Harriet Sugarcookie 🍖
 - [Huangke](./Huangke.md) — 黄可
-- [Huangmengmeng](./Huangmengmeng.md) — 黄檬萌
+- [@ladyboy_hmm](./Huangmengmeng.md) — 黄檬萌
 - [@huinaijiang](./Huinaijiang.md) — 惠奈酱
 - [Huiyeji](./Huiyeji.md) — 辉夜姬
 - [@hungerlan](./hungerlan.md) — hungerlan

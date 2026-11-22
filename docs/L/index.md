@@ -37,7 +37,7 @@
 - [@Littlesubgirlm](./Littlesubgirlm.md) — Littlesubgirl
 - [@livi_doll](./livi_doll.md) — livi doll
 - [@Lixiaoya](./Lixiaoya.md) — 李晓雅
-- [Lizhixian](./Lizhixian.md) — 李智贤
+- [@ts_lzx](./Lizhixian.md) — 李智贤
 - [lj10010](./lj10010.md) — 林佳
 - [@ljthesiren](./ljthesiren.md) — LJ🍒
 - [@LolaBunnyyu](./LolaBunnyyu.md) — Lola
