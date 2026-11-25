@@ -21,6 +21,7 @@
 - [@DensTinon](./DensTinon.md) — 北京天使
 - [@Desireeblackkk](./Desireeblackkk.md) — Desiree Black
 - [@DianaDaniels](./DianaDaniels.md) — Diana Daniels
+- [@_DianaRider_](./DianaRider.md) — Diana Rider
 - [dirtyjada](./dirtyjada.md) — ❤️Jada Cameo Ⓜ️❤️
 - [@dollyinuk](./dollyinuk.md) — Dolly Orchid
 - [Dongbeiyanzhixuesheng](./Dongbeiyanzhixuesheng.md) — 东北颜值学生

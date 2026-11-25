@@ -2023,6 +2023,13 @@ DianaDaniels:
   file: docs/D/DianaDaniels.md
   status: 80
 
+DianaRider:
+  name: Diana Rider
+  region: 俄罗斯/爱沙尼亚
+  x: _DianaRider_
+  file: docs/D/DianaRider.md
+  status: 90
+
 SamanthaFlair:
   name: Samantha Flair
   region: 未知
@@ -3423,8 +3430,9 @@ itsmukkk:
 AddingtonJ1:
   name: Josie Addington
   region: 美国
+  x: JosieAddingtonn
   file: docs/A/AddingtonJ1.md
-  status: 80
+  status: 85
 
 VixenViragoX:
   name: Vixen Virago
